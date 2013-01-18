@@ -121,9 +121,25 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "You did, please, Oddna, what has gotten into you? You are a fine neighbor." said the Duke, trying to tell this powerful and somewhat crazed man what he wanted to hear. 
 
+"Yes, I am," the Wizard said, calming enough to take a healthy gulp of wine. "I am a fine neighbor, but you, and I mean the royal you, Duke Robrecht, are not."
+
+"Ugh, Robrecht as a name. Why the thought is simply ghastly."
+
+"Not you, your subjects. The little people that infest the land."
+
+"Ah, taxpayers," said the Duke, "Yes, my Uncle says I am here to farm them."
+
+"Herd them? Would herd them be the word."
+
+"Yes, I suppose it would. I am herd them until tax time. And then I sheer them and release them back into their fields."
+
+
+
+
+
 <!-- The conversation out -->
 
-"Yes, I am," he said, calming enough to take a healthy gulp of wine. 
+ 
 
 "No, I'll walk. I'm to upset to pull off the teleportation trick again. Would just imprison myself halfway through a tree."
 
@@ -135,11 +151,13 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "Torvalds' wife?"
 
-"Oh no, he had her killed long ago. Needlepoint accident He has something of a penchant for killing relatives. No Etheline is his sister. And she is downright ruthless." 
+"Oh no, he had her killed long ago. Needlepoint accident He has something of a penchant for killing relatives. No Etheline is his sister. And she is the ruthless one."
+
+"Why thank you." 
 
 "Oh and I should mention, I've dispatched a raiding party of Orcs."
 
-"Orcs? What are those."
+"Orcs? What are those?"
 
 "Oh, my latest work. Terrible, terribly, murderously bloodthirsty creatures. Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
 
