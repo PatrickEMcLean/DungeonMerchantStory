@@ -182,7 +182,31 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "Gigantic wolves."
 
-"My latest work. Terrible, terribly, murderously bloodthirsty creatures. Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
+"Yes, but what is an Orc?"
+
+"My latest work. Terrible, terribly murderously bloodthirsty creatures. Stronger and faster than a man. Some cultivars have tusks, other do not. They all have greyish-green skin, almost impervious to weapons -- if not for the constant interruptions I would have gotten that right. I do feel bad about it, but it seems the only way to get the peace in which I need to work."
+
+"Well, I understand, you were upset, it's just a raiding party. Probably do the old town some good. A little raiding. Till up the soil, attract more adventurer's. Defend good ol' Robrecht."
+
+---
+
+At first I though they would stop coming. You know, after most of the first wave fell into my traps and my pets had taken out the survivors. But they just kept coming. An endless horde of them. 
+
+Most died on the upper levels, but the few that managed to 
+
+So I have spies and turncoats, more diabolical traps to fashion. Strategems, force deployment strategies. But the problem is, it's a constant worry. A strain and a distraction from my real, important work. I tell you Weaveeston, I am close to isolating and controlling the very source of magic itself. Think of it. A deeper knowledge an understanding of the forces that shape our world than any man has ever had before."
+
+"I know what forces shape our world, and sadly, it is heredity."
+
+"And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
+
+
+
+"To make more horrible things?"
+
+"Oh know, "
+
+Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
 
 
 <!-- AFTER HE MEETS THE INNKEEPER, he thinks ___ Maybe not the entire city, thought Oddna. Perhaps there were a few things worth saving -->
