@@ -1,3 +1,6 @@
+
+# Chapter One
+
 In the middle of nowhere, there is, somewhat paradoxically, a place that on the road to everywhere. It has evolved from a crossroads to a trading post, from a trading post to a village, from a village into a town, from town into a city and from a city into something that was almost, but not quite big enough to be a kingdom.
 
 To be sure the place is not without it's charms, but we're not to discover them just yet. So let it suffice to point out that, at the center of the city there was a river running through a deep canyon. And, in the very center of the river, rising up to above the level of the canyon, there was a rock. It was a spire of unyielding, unrepentant granite that seemed as arrogant and undeniable as life it self. 
@@ -131,7 +134,7 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "Herd them? Would herd them be the word."
 
-"Yes, I suppose it would. I am herd them until tax time. And then I sheer them and release them back into their fields."
+"Yes, I suppose it would. I am herd them until tax time. And then I shear them and release them back into their fields."
 
 
 
@@ -151,18 +154,38 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "Torvalds' wife?"
 
-"Oh no, he had her killed long ago. Needlepoint accident He has something of a penchant for killing relatives. No Etheline is his sister. And she is the ruthless one."
+"Oh no, he had her killed long ago. Needlepoint accident. He has something of a penchant for killing relatives. No Etheline is his sister. And she is the ruthless one."
 
-"Why thank you." 
+"Well, that makes me feel better."
 
-"Oh and I should mention, I've dispatched a raiding party of Orcs."
+"Better?"
+
+"Yes, I would never do such a thing to my own family."
+
+"Your extended family doesn't own and fight over estates and dominions that cover nearly a third of the known world."
+
+"Perhaps you have a point. But I would draw the line at assassinating my own family."
+
+"I do too," said the Duke, "But only because I don't have the means or talent to get away with it." 
+
+"Oh and I should mention, I've dispatched a raiding party."
+
+"Raiding party, well that doesn't sound so frighting."
+
+"Of Orcs,"
 
 "Orcs? What are those?"
 
-"Oh, my latest work. Terrible, terribly, murderously bloodthirsty creatures. Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
+"Riding wolves."
+
+"Well whatever they are, they can't be very large, riding wolves."
+
+"Gigantic wolves."
+
+"My latest work. Terrible, terribly, murderously bloodthirsty creatures. Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
 
 
-
+<!-- AFTER HE MEETS THE INNKEEPER, he thinks ___ Maybe not the entire city, thought Oddna. Perhaps there were a few things worth saving -->
 
 "I have dispatched an army to raze this city to the ground."
 
