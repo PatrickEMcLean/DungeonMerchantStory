@@ -7,3 +7,4 @@ This story is about a merchant who watches wave after wave of incompetent advent
 
 This also an experiment with using github for ebook development. I call it gittenburg. The repo is here: https://github.com/PatrickEMcLean/gittenburg
 
+output/fullbook.markdown is the latest draft (a mess, a damn mess, is what it is!)
