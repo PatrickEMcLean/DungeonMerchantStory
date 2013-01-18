@@ -105,6 +105,45 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "It's what he did to my father. Hunting "accident" and when dear old Dad survived that, then sent his very own doctor to poison the man."
 
+"Damn it, man," cried Oddna, "I'm trying here. Do you realize how had I'm trying. I don't want to be the stereotypical Evil Wizard. Move in, blight the land, torment the villagers."
+
+"I never suggested that you were," said the Duke, with a look of care on his face.
+
+"I have been a good neighbor, have I not?"
+
+"You have, no one could say different."
+
+"I could have swept in from the East and just taken that mine and cavern system for myself. Killed all your minors, released horrible creatures into the countryside. Right? Could have done that, couldn't I."
+
+"Yes, you could have, but I don't feel that you are the kind of --"
+
+"Paid gold on the barrel head for it. Didn't I."
+
+"You did, please, Oddna, what has gotten into you? You are a fine neighbor." said the Duke, trying to tell this powerful and somewhat crazed man what he wanted to hear. 
+
+<!-- The conversation out -->
+
+"Yes, I am," he said, calming enough to take a healthy gulp of wine. 
+
+"No, I'll walk. I'm to upset to pull off the teleportation trick again. Would just imprison myself halfway through a tree."
+
+"Well, take my coach, at least. No need for you to walk all the way back."
+
+"No, no, I wouldn't hear of it. I've been an ass. I've barged in unannounced, I've hit your man with Wilhpson's spell of Annealing. Threatened you with ultimatums. I swear Weaveeston, on my mother's grave, the soil of which is indispensable for the making of certain potions, I never wanted to be another Evil wizard. A screeching, fire-throwing caricature of myself. But the world... the world will drive a man to it."
+
+"Ah, hmm, yes." said the Duke. "You should meet my Aunt Etheline."
+
+"Torvalds' wife?"
+
+"Oh no, he had her killed long ago. Needlepoint accident He has something of a penchant for killing relatives. No Etheline is his sister. And she is downright ruthless." 
+
+"Oh and I should mention, I've dispatched a raiding party of Orcs."
+
+"Orcs? What are those."
+
+"Oh, my latest work. Terrible, terribly, murderously bloodthirsty creatures. Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
+
+
 
 
 "I have dispatched an army to raze this city to the ground."
