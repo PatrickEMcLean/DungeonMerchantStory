@@ -1,3 +1,4 @@
+#!/bin/bash
 # Gittenburg Build 
 #
 # Grinds out ebook files by finding all .md files in the main directory.

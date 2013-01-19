@@ -188,6 +188,10 @@ And so they did. The remaining guards dragged their pretzeled comrade with them 
 
 "Well, I understand, you were upset, it's just a raiding party. Probably do the old town some good. A little raiding. Till up the soil, attract more adventurer's. Defend good ol' Robrecht."
 
+"No, no that's not the point. You see, old boy, I mean to drive you out. Work salt into the earth so nothing will ever grow here again. A few thousand Orcs."
+
+
+
 ---
 
 At first I though they would stop coming. You know, after most of the first wave fell into my traps and my pets had taken out the survivors. But they just kept coming. An endless horde of them. 
@@ -201,10 +205,44 @@ So I have spies and turncoats, more diabolical traps to fashion. Strategems, for
 "And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
 
 
+----
+
+
+Wait, how many people in the raiding party. I mean how many of these Horks 
+
+"Orcs"
+
+"Do you have?"
+
+"Oh, a few thousand, by now I should say!"
+
+"oh, well, why didn't you say so?"
+
+"what difference does it make?"
+
+"well if it two dozen our so, it would be a mere raiding party. But a thousand, perhaps two. Yes, two thousand?"
+
+"I'm a wizard," said the Wizard, "Just not with numbers."
+
+"Well, a quick look at the treasury will reveal that neither am I. But, anything over 500 is clearly an army."
+
+"So,"
+
+"Well, I wouldn't have abdicated, I would have been INVADED."
+
+"Yes"
+
+
+
+----
+
+
+
+
 
 "To make more horrible things?"
 
-"Oh know, "
+"Oh no, "
 
 Riding wolves," he added with a knowing raise of his very bushy eyebrows. 
 

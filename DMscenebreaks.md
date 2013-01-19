@@ -1,5 +1,13 @@
 # Boltac Scene Breaks 
 
+Duke in the Tower
+
+    Wizard appears
+
+    Tells him to get out of dodge, raiding party has been dispatched. 
+    Well, 
+
+
 Boltac in the Shop 
 
     Kid comes to borrow a sword -- hint at adventurer past -- he gives the kid a sword. 
