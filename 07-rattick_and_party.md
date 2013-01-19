@@ -1,4 +1,8 @@
+---
 
+For centuries, travelers and traders have trod this path until it has wound it's way through the thick forest like a handcrafted thing. 
+
+----
 Rattick really should have put that Troll on the payroll. There were only two obstacles to that line of thinking. 1. Rattick never parted with a coin he didn't have to. 2. Talking to Trolls is exceedingly hazardous to your health. And Rattick, as he was fond of saying, didn't stick his neck out for nobody. 
 
 Academically he could understand how sad it was that three brave, if naive, underprepared and very stupid adventurers had just been turned into a fine red paste by the angry troll that lurked in the back of the first level.
