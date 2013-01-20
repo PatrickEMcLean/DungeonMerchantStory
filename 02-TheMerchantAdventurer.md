@@ -16,7 +16,7 @@ But this coin never loosened in it's socket. If anything it seemed to be burrowi
 
 If it was a constant reminder of what a profit was, and underscored that Boltac had not turned one for many years. Not since things had turned bad. 
 
-He placed the point of the dirk into the grain close to the side of the coin. Of course, this would leave an unsightly tear in his otherwise prisine shop floor, but Boltac didn't care. Even though he didn't have the money it would take to fix it, he was sick of the penny's constant taunting. 
+He placed the point of the dirk into the grain close to the side of the coin. Of course, this would leave an unsightly tear in his otherwise pristine shop floor, but Boltac didn't care. Even though he didn't have the money it would take to fix it, he was sick of the penny's constant taunting. 
 
 Even rubbing it had cost him money. Three times he had his boots resoled because he had worn out the right toe rubbing that damned penny. And he needed to get them resoled again, but things had gotten so bad, even the bootmaker had left town. A sad, yet succinct commentary on the state of the town of Robrecht.
 
@@ -69,7 +69,7 @@ Boltac's smile collapse in upon itself like the poorly constructed thing it was.
 
 i've been trying to save money to buy the sword, sir. Scrounging for herbs, seeing if anyone needs rats killed. But the countryside is bare for miles around... he trailed off 
 
-And, thought Boltac, there's not a coin left among the good (or, more to the point, morally quesitionable folk of Robrect to pay for pest control -- and worse, any rat that dare show it's tail has been snatched up, cooked and eaten by any one of the horde of ill-prepared adventurers who have descended upon the land seeking fortune and glory. )
+And, thought Boltac, there's not a coin left among the good (or, more to the point, morally questionable folk of Robrect to pay for pest control -- and worse, any rat that dare show it's tail has been snatched up, cooked and eaten by any one of the horde of ill-prepared adventurers who have descended upon the land seeking fortune and glory. )
 
 They died in droves. They died in hordes. They died on the roads. Some drank themselves to death. They came back horribly wounded or touched in the brain, cluttered the thoroughfare. 
 
