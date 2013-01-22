@@ -99,11 +99,12 @@ Ugh, thought Boltac. Magic that's worse than romance
 
 Beats of Homely Inn
 
-The heroes are dicks grab her ass
-
-Oddna chimes in. 
-
 Asarah and Boltac flirt. 
+
+The heroes are jerks- grab her ass
+
+Oddna chimes in. She is a beautiful woman
+
 
 
 
@@ -111,5 +112,9 @@ Let Asarah and Boltac fight before she is kidnapped.
 
 Boltac leaves to summon the guard. 
 
-He goes to collect the Asarah, but she won't come. 
+He goes to collect Asarah, but she won't come. He curses her as a fool. She throws a knife at him. Sticks in the wall. 
+
+Fine -- be independent. 
+
+Why? Who's going to take care of me? You? Ha hahaha, Romantic Boltac? 
 
