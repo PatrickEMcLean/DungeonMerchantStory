@@ -86,5 +86,30 @@ Ugh, thought Boltac. Magic that's worse than romance
 ---
 
 
--Isn't that right, Asarah?" but when he turned back, she was gone. 
+-Isn't that right, Asarah?" but when he turned back, she was gone.
+
+---
+
+"She is a fine woman," said the man sitting two seats away at the bar. 
+
+"Hunrn," grunted Boltac, for all the sentiment that gave away. When he turned he saw that the speaker was dressed in an expensive black fabric, with a sash of red as counter point to a fancy gentleman's sword with a brilliant red jewel in the hilt. He had the look of money about him. Boltac didn't remember seeing him when he came in. 
+
+
+----
+
+Beats of Homely Inn
+
+The heroes are dicks grab her ass
+
+Oddna chimes in. 
+
+Asarah and Boltac flirt. 
+
+
+
+Let Asarah and Boltac fight before she is kidnapped. 
+
+Boltac leaves to summon the guard. 
+
+He goes to collect the Asarah, but she won't come. 
 
