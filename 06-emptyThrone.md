@@ -14,12 +14,31 @@ Perhaps it was nothing, but Boltac closed and barred the gate. Moving the heavy 
 
 Of course this was nonsense? Who would attack a poor city in the middle of nowhere? There was no profit in it. And if an army advanced on Robrecht, surely the prices of things would have gone up. There would have been spies, strangers passing through in odd rainment who... His thoughts leapt to Asarah and the man in black who sat at her bar and paid her compliments.
 
-To go directly to the keep and warn the men there, or to go first to the Inn and warn Asarah. To save her? Ah, but she didn't not want saving, at least that 
+To go directly to the keep and warn the men there, or to go first to the Inn and warn Asarah. To save her? Ah, but she did not want saving, at least that's what she said. 
 
-<!-- "Someone should do something about such adventurers," said Boltac, they are a plague on commerce and the commonwealth alike."
+He turned and trudged up the hill towards the Keep and Tower that rose from the roaring gorge that split the town in two. As he climbed the steep and winding streets, his head grew light and he couldn't breathe fast enough. He felt old. As if the spring had gone out of his legs and the pillow out of his lungs. Too much standing behind a counter had made him soft, when once he had been young and ranging. As tireless as a hound and as quick as... well he had thought he was. Life had proved him wrong, in the end. 
 
-"Perhaps someone will," ventured the stranger, somewhat cryptically." 
- -->
+He stopped at the bridge to catch his breath. The wood structure arched high over the deep gorge to the spire of rock beyond. It had been constructed by the same skilled craftsmen that chained the wooden roadways to the most precarious mountain defiles. Just wide enough for two wagons to pass, they were. Men and goods were often lost in the most difficult part of the passage. 
+
+On the road, one didn't have much of a chance to notice, but here a man who was afraid of heights had time to see the whole thing. Upriver was the gigantic waterfall where Lake Halikai poured into the gorge to start the River Swift. Below, the river was lost in the clouds of roiling fog that gave the Tower of Mists it's name. The far off thunder of a mighty river pounding against the central spire of rock upon which the Tower walls rested, sounded far off doom, as one considered the empty air under the thin boards that made up the bridge. 
+
+Perhaps these boards had been too long in the damp? Who knew which one had rotted away, and under which foot this disintegration would be revealed? Boltac would have been more reassured with a bridge of stone, but he recognized that for centuries, this jutting finger or rock in the middle of the river cut gorge had been the safety and stronghold of the the city of Robrecht. Invaders had looted and pillaged the city that lay on both the North and the South sides of the River the town, but no siege had ever been successful in crossing the gorge between. And if trouble come again, the bridges would be covered in pitch and set afire by the watch after the city had pulled back into the Tower. 
+
+Or they would, if the Duke's guards had been there.
+
+<!-- He returns to an armed camp and proclaims himself King. Does this mean we need to seed the people in the story at the beginning? They trampled my beets? There's nobody to buy my leather. How am I to fill my warehouses if the trade caravans come through? How am I to pay the Duke's tax if there is no fair this year?
+
+What if there is no market this year? -->
+
+
+
+
+
+
+
+ lost in the clammy sea of mists that rose to the base of the tower, the empty air under the thin boards -- perhaps rotted in the persistent damp that granted the Tower of Mists it's name
+
+rom the start oflake Halikai visible up 
 
 <!-- Oddna orders him spared b/c he said something funny in the Inn. 
 

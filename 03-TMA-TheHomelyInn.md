@@ -1,5 +1,18 @@
 # Chapter 2 -- The Homely Inn
 
+----
+
+Beats of Homely Inn
+
+Asarah and Boltac flirt. 
+
+The heroes are jerks- grab her ass
+
+Oddna chimes in. She is a beautiful woman
+
+
+
+
 Instead of returning to the store, he trudged into the inn.
 
 Smell of wood smoke, roasting meat and fine ale wrapped his senses in a comforting hug. On the left was a bar running the length of the building. To the left a common room with tables. Mostly empty now, given the hour of the day and the state of the town. But in the far corner, five people sat at one of the large round tables and clanked there tankards together. 
@@ -94,16 +107,11 @@ Ugh, thought Boltac. Magic that's worse than romance
 
 "Hunrn," grunted Boltac, for all the sentiment that gave away. When he turned he saw that the speaker was dressed in an expensive black fabric, with a sash of red as counter point to a fancy gentleman's sword with a brilliant red jewel in the hilt. He had the look of money about him. Boltac didn't remember seeing him when he came in. 
 
+<!-- "Someone should do something about such adventurers," said Boltac, they are a plague on commerce and the commonwealth alike."
 
-----
+"Perhaps someone will," ventured the stranger, somewhat cryptically." 
+ -->
 
-Beats of Homely Inn
-
-Asarah and Boltac flirt. 
-
-The heroes are jerks- grab her ass
-
-Oddna chimes in. She is a beautiful woman
 
 
 
