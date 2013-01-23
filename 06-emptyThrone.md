@@ -24,7 +24,10 @@ On the road, one didn't have much of a chance to notice, but here a man who was 
 
 Perhaps these boards had been too long in the damp? Who knew which one had rotted away, and under which foot this disintegration would be revealed? Boltac would have been more reassured with a bridge of stone, but he recognized that for centuries, this jutting finger or rock in the middle of the river cut gorge had been the safety and stronghold of the the city of Robrecht. Invaders had looted and pillaged the city that lay on both the North and the South sides of the River the town, but no siege had ever been successful in crossing the gorge between. And if trouble come again, the bridges would be covered in pitch and set afire by the watch after the city had pulled back into the Tower. 
 
-Or they would, if the Duke's guards had been there.
+Or they would, if the Duke's guards had been there. As he crossed the bridge, Boltac forgot his fear of heights, for a new fear tickled the hair on his neck. "Where were the guards."
+
+The Tower door stood open. Where had everyone gone? Boltac looked behind him. In the moonlight, he could see that no one was in evidence on the southeron road. If the Duke had fled the city with his household, wouldn't someone have heard, or seen them? Rumor would have had to have reached the Inn, wouldn't have it? 
+
 
 <!-- He returns to an armed camp and proclaims himself King. Does this mean we need to seed the people in the story at the beginning? They trampled my beets? There's nobody to buy my leather. How am I to fill my warehouses if the trade caravans come through? How am I to pay the Duke's tax if there is no fair this year?
 
