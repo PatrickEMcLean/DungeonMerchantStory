@@ -26,7 +26,48 @@ Perhaps these boards had been too long in the damp? Who knew which one had rotte
 
 Or they would, if the Duke's guards had been there. As he crossed the bridge, Boltac forgot his fear of heights, for a new fear tickled the hair on his neck. "Where were the guards."
 
-The Tower door stood open. Where had everyone gone? Boltac looked behind him. In the moonlight, he could see that no one was in evidence on the southeron road. If the Duke had fled the city with his household, wouldn't someone have heard, or seen them? Rumor would have had to have reached the Inn, wouldn't have it? 
+The Tower door stood open. Where had everyone gone? Boltac looked behind him. In the moonlight, he could see that no one was in evidence on the southern road. If the Duke had fled the city with his household, wouldn't someone have heard, or seen them? Rumor would have had to have reached the Inn, wouldn't it? 
+
+He climbed the wide steps, expect a challenging cry to come forth from the arrowslits at any moment. Boltact knew the door would be locked -- with no guard, how could it not be -- but it was open. The strong place at the heart of the city was left unguarded?
+
+His footsteps rang out against the stone as he walked through the great hall alone. The tapestry that hung from the wall behind th
+
+
+
+
+Boltac stood in an empty throne room. Actually, it was worse than empty, from all outward signs it had been hastily abandoned. 
+
+The cushion was missing from the large walnut chair that served as, well throne, was perhaps too generous of a term. The chair in the raised place that let everyone else in the room know that the person who sat here was someone not to be trifled with. Someone who, no matter how small the Kingdom, or Dutchy (depending on the day) of Robrecht might appear to be to the casual observer 
+
+Someone had even tried to take the ornate tapestry that covered the west wall of room. Most of it was a ripped off the wall and in hung by only a handful of attachment points. He imagined a poor servant, perhaps the last man out, scared out his his mind, the last man to flee, pulling frantically on a corner of the great tapestry. 
+
+Perhaps he thought he could sell
+
+
+Well, thought Boltac, th
+
+But no one sat in the Seat. There was no justice in Robrecht. 
+
+
+
+
+Yes, politics was always in flux in Robrecht. It was the only place Boltac had ever heard of that manage to be simultaneously at the middle of everything and a long way away from anywhere. But still, this was a bit much. 
+
+So the Duke had run away, and his entire household with him. This boded not well for the smallfolk of Robrecht. Of course the Duke
+
+"We deserve better than this," muttered Boltac. There was a whistling noise, and Boltac watched fog blow through the room and disappear into the tapestry.  
+
+Hmm, thought Boltac, not failed theft, but rather failed deception. He brushed the remnant of Robrecht's heroic and probably false past aside to reveal a secret door set in the stone. The heavy stone door swung noislessly on well-crafted hinges with the movement of the air through. Only the torn tapestry had prevented it from closing. 
+
+So that's where they went. He hadn't know that there had been a secret way out of the [misty tower.] A handy thing to to know. And an even handier thing to keep you yourself. 
+
+For a moment, Boltac thought about descending. About leaving the whole mess behind him. Sure he would lose his inventory, but it wasn't like the store was selling much. On top of which, now that the Duke was gone, Boltac's monopoly was by no means a sure thing. Whether he wanted to go out of business or not, it looked like that would happen. 
+
+But no. There might be a time to give up hope, but it was not yet. "Not yet," he said aloud to the empty room, as if trying to convince himself. 
+
+
+
+
 
 
 <!-- He returns to an armed camp and proclaims himself King. Does this mean we need to seed the people in the story at the beginning? They trampled my beets? There's nobody to buy my leather. How am I to fill my warehouses if the trade caravans come through? How am I to pay the Duke's tax if there is no fair this year?
