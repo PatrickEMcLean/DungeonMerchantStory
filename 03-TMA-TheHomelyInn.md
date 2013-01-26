@@ -1,8 +1,8 @@
 # Chapter 2 -- The Eelpout/Homely Inn
 
-*Write from Asarah's point of view*
+### *Write from Asarah's point of view*
 
-What does this chapter need to do
+What does this chapter need to do?
 
 1. set up Asarah
 2. set up the party
