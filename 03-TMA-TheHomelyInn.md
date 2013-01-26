@@ -2,8 +2,12 @@
 
 *Write from Asarah's point of view*
 
+What does this chapter need to do
 
-----
+1. set up Asarah
+2. set up the party
+3. Introduce Oddna?
+4. add to the elegiac tone of a city under siege?
 
 Beats of Homely Inn
 
