@@ -21,3 +21,4 @@ To be honest, I have this predilection for telling ordinary tough-guy tales with
 But this time was a little different. This magnificent character was lurking there all the time. And to have the fat merchant be the guy who turns out to be the hero -- well shit -- that's unexpected at every turn. 
 
 So I just had to write it. 
+

@@ -147,3 +147,4 @@ He takes the kid with him.
 In the middle of everything there is a small kingdom known as Robrecht. That it is a very small Kingdom is a fact often overlooked by the history book, as it is a place which gained much of it's importance from it's placement. It is in the middle of the continent, in the middle of a mountain range -- in fact, it even got started in the middle of a river. 
 
 But that is a story for another time, what is important right now is that Robrecht (pronounced Raw-brecht) is even the middle of a mess.  
+

@@ -1,5 +1,6 @@
 
 
+
 As soon as Boltac exited the Inn, he cried out, "Watchman! Where is the Watch?" no answer came from the darkness of the street. It should be -- oh, what was his name -- that kid from Egretia, to the West. The one who always came in to pine over some bauble that he could not afford for some girl back home who had surely abandoned him the moment he left home to seek his fortune. Lad's these days, observed Boltac, they had no idea of how the world really worked. 
 
 He started towards the gate, crying, "Watchman! Watchman," as he went. As he went, here and there curious faces poked out of windows at him. "Nothing to be concerned about, just a fight at the tavern." Most of the houses were empty, but such common folk as remained in Robrecht, nodded or closed the shutters or rolled their eyes before returning to their dinner. Good people, thought Boltac, who practicing a trade or a craft, worked to raise a family and just wanted to be left alone. 
