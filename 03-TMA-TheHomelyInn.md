@@ -1,4 +1,4 @@
-# Chapter 2 -- The Homely Inn
+# Chapter 2 -- The Eelpout/Homely Inn
 
 *Write from Asarah's point of view*
 
