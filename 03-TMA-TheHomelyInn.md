@@ -22,6 +22,16 @@ Oddna chimes in. She is a beautiful woman
 
 Asarah sighed and raked her hand through her long dark hair. From the professional side of the bar, she surveyed the Inn's common room. A fire crackled happily in the fieldstone fireplace, a gentleman nursed an ale on the far end of the bar and the assholes in the far corner laughed too loud and too long for a Inn and whole city that was slowly going out of business. 
 
+There were a few local's here for dinner, but none of the traders that had been the mainstay of her business. All it had taken was 
+
+And the the Adventurer's showed up. 
+
+Merchants and trading caravans were good business. They came through regularly, they did good for the people in town by bringing them trade goos and, most importantly, they had coin with which to pay.
+
+It was, her husband, Barovold had told her, the best place in the four Kingdoms to have an in. 
+
+Barovold had come from a long line of innkeepers  
+
 
 
 
