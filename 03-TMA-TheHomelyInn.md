@@ -16,7 +16,9 @@ Oddna chimes in. She is a beautiful woman
 ---
 
 
-Asarah sighed and raked her hand through her long dark hair. 
+Asarah sighed and raked her hand through her long dark hair. From the professional side of the bar, she surveyed the Inn's common room. A fire crackled happily in the fieldstone fireplace, a gentleman nursed an ale on the far end of the bar and the assholes in the far corner laughed too loud and too long for a Inn and whole city that was slowly going out of business. 
+
+
 
 
 ---
