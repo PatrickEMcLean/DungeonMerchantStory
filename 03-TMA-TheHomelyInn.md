@@ -1,5 +1,8 @@
 # Chapter 2 -- The Homely Inn
 
+*Write from Asarah's point of view*
+
+
 ----
 
 Beats of Homely Inn
@@ -10,7 +13,13 @@ The heroes are jerks- grab her ass
 
 Oddna chimes in. She is a beautiful woman
 
+---
 
+
+Asarah sighed and raked her hand through her long dark hair. 
+
+
+---
 
 
 Instead of returning to the store, he trudged into the inn.
