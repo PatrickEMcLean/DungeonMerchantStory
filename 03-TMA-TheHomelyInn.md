@@ -2,6 +2,18 @@
 
 ### *Write from Asarah's point of view*
 
+Who is this broad anyway?
+
+What is the conflict in this chapter?
+
+Asarah v. table -- She knows they aren't going to pay. 
+
+Boltac v Oddna for Asarah's attention. <== can we do this from Asarah's point of view?
+
+
+
+
+
 What does this chapter need to do?
 
 1. set up Asarah
@@ -16,6 +28,8 @@ Asarah and Boltac flirt.
 The heroes are jerks- grab her ass
 
 Oddna chimes in. She is a beautiful woman
+
+
 
 ---
 
