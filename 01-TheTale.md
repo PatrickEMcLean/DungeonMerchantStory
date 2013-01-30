@@ -40,7 +40,43 @@ I do not know what he would have done to me. The old days were more magical, but
 
 A pair of expensive boots, trimmed with fur, came into my limited view. "'Prentice, says I. Now move your foot." After moment, the pressure in my stomach eased. I sucked in air and rolled over clutching my side. 
 
-When I looked, I was surprised to see that the owner of the voice was short, much shorter than it's booming register led me to believe.Boltac had the voice of a hero, but was squat and broad-chested. Perhaps 5'6". But solid and strong. 
+When I looked, I was surprised to see that the owner of the voice was short, much shorter than it's booming register led me to believe.Boltac had the voice of a hero, but was squat and broad-chested. Perhaps 5'6". Alvasir, purveyor of unknown meat, glared down upon him. "He hasn't paid," he said, without outstretched palm.
+
+Boltac grabbed my arm and lifted me to my feet. As soon as I was off the ground, my better instincts took over and I tried to wriggle free. But his grip was like a vise and I was held fast. 
+
+"Prentice, pay the man," he said, pressing a coin into my hand. 
+
+I looked down and saw a piece of gold, GOLD! In my palm. Gold was something that I had heard of, that I had heard clinking together in the depths of fat purses, that I had caught glimpse of like the flashes of fish in dark streams, but to actually hold a piece of it in my hand. This was more than enough to pay for the meat I had attempted to steal, and perhaps enough to pay for the man's whole food stand.
+
+To this day, I don't know why I did what I did. Perhaps it was because I had never had much of anything before. Well, nothing except rags, a pain in my stomach and a nearly constant search for a place to sleep. But this was a gold coin. This was everything. 
+
+"How much?" I asked.
+
+"Give me the coin boy!" 
+
+"A coin of gold for your fried rat?" The crowd of onlookers. "Your price is too dear for me. My master would beat me for paying so much."
+
+"THIEF!" exploded Alvasir, "Give me the gold!" I thought I had overplayed my hand, but the chuckled from over my shoulder. 
+
+
+
+
+
+Of course, I tried to escape. Why wouldn't I run from the only good thing that had ever happened to me. And remember, the name Boltac had no greatness associated with it. He was just another strange character from some small mountain settlement. A Merchant. A Shopkeeper. A profession not held in much esteem. 
+
+
+
+I gave up trying to escape. "Why did you save me?" I asked.
+
+"I did not save you, boy. I made a purchase. I have need of a 'Prentice, and you seem a likely lad." 
+
+"What does it pay?" I asked, confidence bouye
+
+"Why did
+
+
+
+
 
 
 
