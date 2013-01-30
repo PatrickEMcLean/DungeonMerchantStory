@@ -4,7 +4,7 @@ The road creaked ominously below the wheels of Arbogast's wagons. He was a week 
 Questions:
 
 1) Why does Boltac go to defeat the wizard?
-2) 
+2) Where does this story start?
 
 The Wizard kidnaps the woman he loves. 
 
