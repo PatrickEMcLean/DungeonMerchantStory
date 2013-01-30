@@ -18,19 +18,45 @@ I knew it was a bad pull from the start. I could see a clear line to the slices 
 
 With more planning, you see. With better organization. A pack of children running through the market -- laughing and taunting each other -- would be normal. But one, rail-thin, deadly serious child, feet sped by the magic of hunger. Well, how could anyone not see that coming?
 
-The food vendor, and vile-tempered man who I remember now with a heavy brow and a broken nose, did not try to stop me.  He watched me run all the way in. He waited for me to sear my hand upon a piece of delicious meat. He let me turn, start my escape. I even think, he waited until I believed myself home free. Until I could almost taste of that piece of cow or rabbit or rat and feel it's warmth and substance filling the empty hole that was my stomach. 
+The food vendor, and vile-tempered man who I remember now with a heavy brow and a broken nose, did not try to stop me.  He watched me run all the way in. He waited for me to sear my hand upon a piece of delicious meat. He let me turn, start my escape. I even think, he waited until I believed myself home free. Until I could almost taste that piece of cow or rabbit or rat or whatever it was. 
 
 Then, he tripped me. 
 
+I hit the dirty stones of the marketplace hard. The greasy meat slid out of my hand and off into the crowd. I struggled to regain my breathe, but before I could scramble to my feet, the vendor's foot was in my stomach. "Steal from me, will you?"
+
+I do not know what he would have done to me. The old days were more magical, but less kind. Any of the old stories will show you that. Those who weren't prepared or quick or clever often met with horrible fates. Good children of loving families were always getting eaten by wolves, trapped by witches or stolen by Faeries (oh yes, they were real) So who would shed a tear at disappearance of another orphan?  
+
+"Prentice!" a voice boomed. "Why are you lazing about on the ground!" I struggled to see the source of the large voice, but could not escape the foot in my stomach. "I asked you a question!" the voice demanded. 
+
+"I tripped," I said, barely able to get enough breath in my lungs to speak. 
+
+"Alvasir, remove your foot from my boy, so he can tell me what he has done with my supper."
+
+"Lunch?" asked the man with his foot in stomach. "You mean to tell me this sneak-thief is your apprentice?"
+
+"Why of course he is. And a good boy too. Have you ever seen delivery boy so quick? I tell him to run and fetch my supper and you see how fast he moves."
+
+"A thief, says I. A starveling not smart enough to run in a pack."
+
+A pair of expensive boots, trimmed with fur, came into my limited view. "'Prentice, says I. Now move your foot." After moment, the pressure in my stomach eased. I sucked in air and rolled over clutching my side. 
+
+When I looked, I was surprised to see that the owner of the voice was short, much shorter than it's booming register led me to believe.Boltac had the voice of a hero, but was squat and broad-chested. Perhaps 5'6". But solid and strong. 
 
 
-To youth, patience is a foreign language.  
+
+ he was something of a broad chested dwarf.  
 
 
-It was a bad pull from the start. 
 
 
-"Prentice!" a voice boomed. "Why are you lazing about on the ground" I expected to see a much bigger man, but when I swiveled my head around, I saw a barrel-chested man limping towards my predictament. 
+"Or, if you prefer, I could take my custom elsewhere?"
+
+As it turned out Alvasir loved coin more than he loved Justice. 
+
+
+
+
+ I expected to see a much bigger man, but when I swiveled my head around, I saw a barrel-chested man limping towards my predictament. 
 
 ---
 
