@@ -54,45 +54,46 @@ To this day, I don't know why I did what I did. Perhaps it was because I had nev
 
 "Give me the coin boy!" 
 
-"A coin of gold for your fried rat?" The crowd of onlookers. "Your price is too dear for me. My master would beat me for paying so much."
+Having nothing to lose, I said, "A coin of gold for your fried rat?" The crowd of onlookers laughed. "Your price is too dear for me. My master would beat me for paying so much." 
 
-"THIEF!" exploded Alvasir, "Give me the gold!" I thought I had overplayed my hand, but the chuckled from over my shoulder. 
+"THIEF!" exploded Alvasir, "Give me the gold!" 
 
+"As you see, I train my 'prentices well." He flung a few pennies on the ground and said, "Sorry for the trouble Alvasir." And he turned around and walked away. 
 
+As soon as the crowd closed behind us, I tried to twist out of his grasp. I could remember nothing good ever happening to me, so why should I recognize a lucky break when it came my way? Boltac said nothing. He just left his vice like left hand clamped on my arm and made his way up the hill with his odd, limping gait. 
 
+Exhausted, I asked, "Why did you save me?"
 
+"I did not save you, boy. I made a purchase. I have need of a 'Prentice, and you seem a likely lad," he said with a laugh.  
 
-Of course, I tried to escape. Why wouldn't I run from the only good thing that had ever happened to me. And remember, the name Boltac had no greatness associated with it. He was just another strange character from some small mountain settlement. A Merchant. A Shopkeeper. A profession not held in much esteem. 
+"So I am an your slave." I asked, more than a little afraid. 
 
+Boltac stopped. "Do you still have the gold coin lad?"
 
+I nodded.
 
-I gave up trying to escape. "Why did you save me?" I asked.
+"Then let us make a deal," he said as he released my arm. "There. You are a free man, er, boy. Of some means. You may go." When I didn't run off, Boltac said, "There. Hungry, dirty you may be, but you're sure not stupid. Show that coin in the gutters lad and you'll lose it and your life in the blink of an eye. Come with me, work hard, and I will teach you a trade. Bastard boy will become a man, dealing equally with all and beholden to none."
 
-"I did not save you, boy. I made a purchase. I have need of a 'Prentice, and you seem a likely lad." 
+I looked back down the hill. Thinking of the place below the market where I had been sleeping. It was little more than a pile of sticks and damp rags. And though I thought myself lord and master of my own hovel, the rats had other thoughts on the matter.
 
-"What does it pay?" I asked, confidence bouye
+"Or, take the coin as gift of fate, and good luck to you, you prince of the streets."
 
-"Why did
+It was no choice at all. I shook my head and offered the coin. 
 
+"Enh," said Boltac as he took the coin. "That will do. What's your name, boy?"
 
+"Relan."
 
-
-
-
-
- he was something of a broad chested dwarf.  
-
-
-
-
-"Or, if you prefer, I could take my custom elsewhere?"
-
-As it turned out Alvasir loved coin more than he loved Justice. 
+"Ugh, what an awful name," he said, then turned and climbed the hill with his crab-wise, clumping right foot. Even though he was lamed I had trouble keeping up with him. 
 
 
 
 
- I expected to see a much bigger man, but when I swiveled my head around, I saw a barrel-chested man limping towards my predictament. 
+
+
+---
+
+Have to reveal his mangled leg. Like the man with the fucked up face. 
 
 ---
 
