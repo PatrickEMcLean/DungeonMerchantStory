@@ -87,8 +87,10 @@ It was no choice at all. I shook my head and offered the coin.
 "Ugh, what an awful name," he said, then turned and climbed the hill with his crab-wise, clumping right foot. Even though he was lamed I had trouble keeping up with him. 
 
 
+[[Next Scene -- jump to the place in the world]]
 
 
+Those were fat days for the city of Robrecht. 
 
 
 ---
