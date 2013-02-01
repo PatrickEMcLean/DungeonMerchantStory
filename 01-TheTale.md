@@ -4,7 +4,10 @@
 
 It's a Western in which the cowboys aren't worth a damn and the general store owner saves the day.
 
-But the general store owner is Zero Mostel.
+But the general store owner is Zero Mostel. Peter Lorre.
+
+The Wizard is... Rex Harrison? 
+
 
 This story should be read while listening to Klezmer music
 
