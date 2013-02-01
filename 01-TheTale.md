@@ -108,6 +108,56 @@ While this was going on, I was wiggling, ever so slightly, out from under 'Pustl
 
 "Never sell yourself. And MOST of all, never sell yaself short."
 
+----
+
+But I risked my life for this
+
+And for that I am sorry, but the market says, it wasn't worth it.
+
+But how is an honest adventurer supposed to make a living?
+
+"An honest living? Is that what you want?" asked Boltac so sweetly, that I knew an explosion couldn't be far off.
+
+"That's all any man asks. Especially as recompense for such selfless acts of heroism as keep this kingdom safe."
+
+"Duchy," said Boltac.
+
+"Nah, no matter who they are, they're all after my profits."
+
+"You do not sound loyal to your King."
+
+"Duke," said Boltac, "It's a Duchy. So it comes with a Duke. Perhaps I can get the boy here to hold up diagrams as we go along. And I'm not particular fond of the Duke, or any of the others. The man in charge around here changes so often it makes your head spin. But you know what never changes? The tax man."
+
+
+-----
+RATTICK
+
+"But someone else risked their life for this."
+
+You should be glad to see me. Glad of my custom in your store. Why I am one of your best customers. Without me you would have nothing to sell. 
+
+Without you, Rattick, I feel that more people would be alive for me to sell things to.
+
+"Don't be so hasty with your accusations. I am just a guide. I try to warn my charges, to provide good counsel for those who are adventure-minded, but, as we both know," Rattick said with something that sounded like sadness, "the world is a dangerous place."
+
+"What a comfort that must be to their families," said Boltac. "That's my final offer."
+
+"Some day Boltac, you are going to be in a position of weakness."
+
+"If it evah happens, I can promise you, sweetheart, I won't be negotiating. Thank you. COME AGAIN!"
+
+
+
+
+----
+
+Wait, orphan. You aren't any kind of a chosen one? You don't have any mystical destiny I should know about? Are you spoken of in prophecy? 
+
+"I don't think so. I don't think children who sleep in a pile of sticks against the lower wall are spoken of in prophecy"
+
+
+
+
 
 ---
 
