@@ -1,7 +1,16 @@
 
+
+
+
 It's a Western in which the cowboys aren't worth a damn and the general store owner saves the day.
 
+But the general store owner is Zero Mostel.
+
+This story should be read while listening to Klezmer music
+
 #Chapter One - The Tale and the Telling. 
+
+I had pushed my luck too far. 
 
 When I first saw Boltac, I was a masterless boy running riot through the kingdom of my own life. My mother, perhaps, had died in childbirth. My father, perhaps, had been killed in a war, or drowned in a well or run off. Perhaps they had been changed into deer or made to vanish in a puff of smoke. Those were the far different days, when more thing were possible and many more things were actual. 
 Yes, I speak of magic, in all it's wonder and horror. I remember a time when it was real. And, if we speak the truth here by the fire, magic was far more terrible than the stories would have you believe. It came at such a price, and that price was not paid by the powerful, but by the small, the ordinary and the orphaned. 
@@ -10,7 +19,7 @@ I cannot say that all magic is gone from the world. Perhaps it is a like the fir
 
 But enough philosophy, and on with the tale. Pointless musings are the entertainments of an old men, just as deed are the strength of young men. 
 
-Boltac found me stealing goods in the market. Ccaught is a better word. As he haggled with a man selling fabric from one of the Southern Kingdoms, I was stealing food from anywhere I could. I was perhaps, six at the time -- I do not know the date of my birth -- and as all six year olds, somewhat lacking in discipline. But then, in the time of magic, there was more hunger in the world. 
+Boltac found me stealing goods in the market. Caught is a better word. As he haggled with a man selling fabric from one of the Southern Kingdoms, I was stealing food from anywhere I could. I was perhaps, eight at the time -- I do not know the date of my birth -- and as all eight year-olds, somewhat lacking in discipline. But then, in that time of magic, there was more hunger in the world. 
 
 Hunger has a magic all it's own you know. Go even one day without eating and your sense of smell becomes so acute, your sense of hearing so attuned, that fat sizzling on charcoal can cause physical pain. Though nothing outward touch your body, the magic of hunger works it's changes. The mouth fills with juice, the eyes grow wide and the will grows weak.  
 
@@ -25,6 +34,90 @@ Then, he tripped me.
 I hit the dirty stones of the marketplace hard. The greasy meat slid out of my hand and off into the crowd. I struggled to regain my breathe, but before I could scramble to my feet, the vendor's foot was in my stomach. "Steal from me, will you?"
 
 I do not know what he would have done to me. The old days were more magical, but less kind. Any of the old stories will show you that. Those who weren't prepared or quick or clever often met with horrible fates. Good children of loving families were always getting eaten by wolves, trapped by witches or stolen by Faeries (oh yes, they were real) So who would shed a tear at disappearance of another orphan?  
+
+My fearsome imaginings were interrupted by another voice, unknown to me. "Oh Alvasir, you fierce man you! Now what are you going to do with the starving boy now that you've caught him?"
+
+"I should murder the little theiveling," said the man standing on my chest. He didn't sound like he was joking, but the other man laughed anyway. 
+
+"You? Murder! Why think of the scandal!"
+
+"What scandal? Who would miss this bastard boy."
+
+"Who's talking about the boy, ya yutz? Whattya gonna do to get rid of the body?"
+
+"The river Swift keeps all secrets," he said ominously.
+
+"Wait a minute, wait a minute, wait a minute," the voice said, in a hurry that bespoke confusions. "For the price of a piece of, we'll generously call it beef, you're going to wrench that boy's neck -- "
+
+"Stomp his guts out,"
+
+"Sweaty work, either way. Then while haul him up the hill to the canyon and throw him down into the river, right in the middle of the day, in the middle of town, in front of everyone?"
+
+"Well, I would wait until dark."
+
+"Oh, until dark. I see, that's very thoughtful, you're inner criminal mastermind is certainly coming into it's own. And what do you think that is going to do for sales of your, uh, sausage-product?"
+
+"It will damn sure cut down on losses. Word will get out, Rumpustle Alvasir is not a man to be trifled with," said sinking more of his weight into me as he stood up straight and proud.
+
+"Rumpustle. Rum-pustle," said the voice as if he was rolling the name around in his mouth to see how it tasted.
+
+"What's wrong with Rumpustle?"
+
+"With the name, nothing. With you... eeeeeh. Look, 'Pustle. Can I call you 'Pustle? Think it through. See it with me now." With this a belly surmounted by a triple-chin came into view. The man who belonged to that unusual voice, put his arm around the man who wanted to kill me. The foot came out of my stomach a little. 
+
+"You are a sausage man. A sausage Monger. A vendor of food for hungry market-goers? I am right?"
+
+"Yes, but..."
+
+"But? There is no but. You sell sausage! It's a noble calling. But, if you stomp this poor, unfortunate child's guts out, business will suffer."
+
+"Business?"
+
+"He's gonna lie here in the hot sun for hours. And anyone who wants to buy a sausage is going to have to track through his blood and guts to get lunch. And who wants to do that, nobody. Sales take a hit. And then, at the end of a long, profitless day, you still have to carry his body up the hill, and vffffp, into the river. That is, if the city watch don't get you first."
+
+While this was going on, I was wiggling, ever so slightly, out from under 'Pustle's foot. I had hope that I might yet make an escape. {He put such weight into my stomach,}
+
+"The city watch and I have an arrangement," 'Pustle said proudly. 
+
+"You force them to eat your sausages? It's a wonder they haven't arrested you already."
+
+"What do you mean?" said the man, sounding hurt. I squirmed a little more.
+
+"Any way you slice it, it's just not worth it. So let the boy go."
+
+"I will have my satisfaction!" said 'Pustle, the fury returning to his voice and his weight returning to my spleen. "That's worth more than money."
+
+"Really? More than money?" said a skeptical Boltac. 
+
+"No, no. You fat cripple, do not try your negotation magic on me. The boy has stolen. At the very least, I will give him a good beating for my troubles."
+
+
+
+
+"Lesson rule number one. Don't steal. Rule number two, if you are going to steal, make sure you grab something that's worth something."
+
+"But I was hungry," I protested.
+
+"Well, you very nearly solved that problem, didn't you. The dead don't have to eat. "
+
+
+
+
+
+
+
+"Never sell yourself. And MOST of all, never sell yaself short."
+
+
+---
+
+Marriage proposal. 
+
+Boltac, I have debts. 
+
+Now she tells me! You mean you don't have a dowry. No wait. Wait!" even though Asarah wasn't trying to say anything, "Its worse than that. You come with a negative dowry!"
+
+---
 
 "Prentice!" a voice boomed. "Why are you lazing about on the ground!" I struggled to see the source of the large voice, but could not escape the foot in my stomach. "I asked you a question!" the voice demanded. 
 
