@@ -102,15 +102,20 @@ While this was going on, I was wiggling, ever so slightly, out from under 'Pustl
 
 "Excuse me?" I said. 
 
-"Shut up," said Boltac, "You should never negotiate for yourself. Rule number one. "
+"Shut up," said Boltac, "You should never negotiate for yourself. Remember that, it's  rule number one."
+
+
+
+
+
 
 
 
 "Rule number one. Don't steal. Rule number two, if you are going to steal, make sure you grab something that's worth something."
 
-"But I was hungry," I protested.
+I was confused about rule number one. I had known the man less than five minutes and already there were two rule number ones. I decided to see if that sorted itself out and instead said, "But I was hungry."
 
-"Well, you very nearly solved that problem, didn't you. The dead don't have to eat. "
+"Well, you very nearly solved that problem, didn't you. Dead men tell no tales. And they eat no sandwiches."
 
 
 
@@ -241,6 +246,16 @@ Without you, Rattick, I feel that more people would be alive for me to sell thin
 Wait, orphan. You aren't any kind of a chosen one? You don't have any mystical destiny I should know about? Are you spoken of in prophecy? 
 
 "I don't think so. I don't think children who sleep in a pile of sticks against the lower wall are spoken of in prophecy"
+
+You didn't float here in a bassinet made of reeds did you?
+
+What's a bassinet. 
+
+"Ah, yes. That's just what I like to hear. A bassinet is a special kind of basket in which you abandon babies."
+
+"I wasn't abandoned as a baby. My parents were killed when I was five."
+
+[[ BOltac tries the chosen one gambit -- tries to fake out the Wizard with the the boy -- of course, he is just a boy.]]
 
 ---
 
