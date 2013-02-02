@@ -76,13 +76,13 @@ My fearsome imaginings were interrupted by another voice, unknown to me. "Oh Alv
 
 "Business?"
 
-"He's gonna lie here in the hot sun for hours. And anyone who wants to buy a sausage is going to have to track through his blood and guts to get lunch. And who wants to do that, nobody. Sales take a hit. And then, at the end of a long, profitless day, you still have to carry his body up the hill, and vffffp, into the river. That is, if the city watch don't get you first."
+"Whattya got, like four, five more hours of daylight. That means his rotting corpse is gonna lie here in hot sun for hours. And anyone who wants to buy a sausage is going to have to track through his intestines to get lunch. And, y'know who wants to do that? Nobody. Stomp this kid flat and ya sales are gonna take a hit. And then, at the end of a long, profitless day, you still have to carry his body up the hill, and vffffp, into the river. That is, if the city watch don't get you first."
 
 While this was going on, I was wiggling, ever so slightly, out from under 'Pustle's foot. I had hope that I might yet make an escape. {He put such weight into my stomach,}
 
 "The city watch and I have an arrangement," 'Pustle said proudly. 
 
-"You force them to eat your sausages? It's a wonder they haven't arrested you already."
+"You give them your sausages? It's a wonder they haven't arrested you already."
 
 "What do you mean?" said the man, sounding hurt. I squirmed a little more.
 
@@ -92,12 +92,21 @@ While this was going on, I was wiggling, ever so slightly, out from under 'Pustl
 
 "Really? More than money?" said a skeptical Boltac. 
 
-"No, no. You fat cripple, do not try your negotation magic on me. The boy has stolen. At the very least, I will give him a good beating for my troubles."
+"No, no. You fat cripple, do not try your negotiation magic on me. The boy has stolen from me. At the very least, I will give him a good beating for my troubles."
+
+"Ah, so there is room to negotiate!" said Boltac.
+
+"No, I just told you, I will not negotiate!"
+
+"Yes, but you just changed your position. A minute ago, you said, 'I'm going to stomp the life out of this boy,' but now, you've dropped down to a more reasonable beating."
+
+"Excuse me?" I said. 
+
+"Shut up," said Boltac, "You should never negotiate for yourself. Rule number one. "
 
 
 
-
-"Lesson rule number one. Don't steal. Rule number two, if you are going to steal, make sure you grab something that's worth something."
+"Rule number one. Don't steal. Rule number two, if you are going to steal, make sure you grab something that's worth something."
 
 "But I was hungry," I protested.
 
@@ -110,6 +119,81 @@ While this was going on, I was wiggling, ever so slightly, out from under 'Pustl
 
 
 "Never sell yourself. And MOST of all, never sell yaself short."
+
+--- 
+
+But you are just a... a... filthy merchant.
+
+"Ah-HAAA!" said Boltac, holding up a finger, "I am a merchant. But I'm merchant with an army."
+
+"Yes, but that hardly elevates your status. Do fealty to the Gods and respect there representatives on Earth."
+
+"Eeeh, Gods? I've only got one God. Simpler that way. Less overhead, easier record-keeping. And I'm not convinced that you and God are on speaking terms. Besides, what does that make you?"
+
+"Excuse me?" said Torvalds, looking confused. 
+
+"So I gotcha army. You are minus an army. Having, if we're talking about accounting here. Zero armies. I'm a merchant with a Army. We don't know what that makes me. But you are a nobleman with no army, and I know what that makes you."
+
+"Oh really," said Torvalds, dripping with contempt. What does that make me?
+
+"Outnumbered."
+
+There was an uncomfortable silence.  
+
+"Yu-heah," Boltac said, "Now it's starting to sink in. Arithmetic can be terrifying, can't it?"
+
+For perhaps the first time in his life, Torvalds looked afraid. He glanced to the left and the right. His bodyguards had disappeared. He spun around. There on the side of a brightly colored tent, one of his men was drinking with a group of the Bereft Companions. Their laughter carried through the afternoon air. His man, still in the livery of the Noble Empire of Mercia, felt his recent master's gaze upon him. He turned, and not without some sadness, raised his flagon to his old boss. 
+
+"How could he?"
+
+"They made him a deal, your eminence," said Boltac, "Join them or, well, join *them*," he pointed over Torvald's other shoulder. Torvald turned and saw his other bodyguard's corpse being thrown on a pile of corpses on the other side of the field. 
+
+"How dare you, I am here under a flag of truce."
+
+"Weakness. That particular flag," said Boltac, pointing at the white standard flapping in the wind. "Is a flag of weakness. And I will now give you a very important lesson. A lesson you should have learned long, long ago. When you were his age." Boltac jerked a thumb in my direction and said, "Tell the man rule number one."
+
+I wracked my brain. There had been so many rule number one's throughout our time together. Once I had asked Boltac how so many rules could be number one at once. He turned very serious and said, "Some rules are more number one than others. Knowing which rule is number one at any time is the trick of it." So what was the most number one rule right now? 
+
+I smiled and said, "Rule Number One, don't negotiate from weakness."
+
+Boltac waited for the penny to drop. 
+
+"Negotiate," said Torvalds, "But what do you want?"
+
+"Ah, I thought you'd never ask." Boltac snapped his fingers and a scribe came forward with a piece of paper. Torvalds what was written on it and his eyes grew wide?
+
+"That's right bubbie, I want all of it."
+
+"I can't. I, this is unheard of"
+
+"Of course it is. "
+
+
+
+
+
+
+" And you, you are a nobleman with out an army.""
+
+
+----
+
+
+Sequel -- You know, you remind me of me. And that's why I don't like you. 
+
+What?
+
+That's exactly what I would say. You want me to enforce your Writ of Sale so that no one else can have store in Robrecht. And you'd probably like me to to charge some kind of license fee for those wanted stalls in the market?
+
+"Well, in your wisdom, you have said it my King, we must protect buyers from..." his words trailed off under Boltac's withering stare, "so that all will know that Robrecht is a safe and a fair... place to... do? business?"
+
+"Enh-henh," said Boltac, "That won't protect buyers from the likes of you. All that will do is protect the likes of you from other sellers. The same rapacious wolves who are the only thing that can keep rapacious wolves like you at bay."
+
+"Such disloyalty to the Merchant's Guild. I will report this. "
+
+
+
+
 
 ----
 
@@ -158,7 +242,13 @@ Wait, orphan. You aren't any kind of a chosen one? You don't have any mystical d
 
 "I don't think so. I don't think children who sleep in a pile of sticks against the lower wall are spoken of in prophecy"
 
+---
 
+Oh my Lady, welcome to Boltac's
+
+"It's a secret of the trade, treat the serving girl's like ladies and the ladies like serving girls. They LOVE that!"
+
+I know a man in Brythria, has the finest daggers money can buy. 
 
 
 
