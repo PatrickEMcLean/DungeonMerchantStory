@@ -21,49 +21,51 @@ I cannot that all magic is gone from the world or will never return. Perhaps it 
 
 In the time of magic there was more hunger in the world. Which makes sense, Hunger is kind a magic all it's own. Go even one day without eating and your sense of smell will become so acute, your sense of hearing so attuned, that droplets of fat sizzling on a hot piece of charcoal will cause physical pain. Though nothing outward touches your body, the magic of hunger will work it's changes. Your mouth will fill with juice, your eyes will grow wide and your will will weaken.
 
-I must have been as obvious as dawn, a dirty child shuffling in circles on the stone of the marketplace. No parent or guardian. it is with horror that I reflect on what I must have looked like. So it is that I cannot pass 
+I must have been as obvious as dawn, a dirty child shuffling in circles on the stone of the marketplace. No parent or guardian to restrain him. The sunken eyes of hunger. The ground-in, animal dirt of one who slept in a pile of sticks and dirty straw against the outer wall. The mystery was not how I got caught but how I thought I would ever have gotten away with it in the first place. 
 
-I knew it was a bad pull from the start. I could see a clear line to the slices of meat over the fire. I could see my entry and my exit. But that meant that everyone else could too. 
+I sighted a line between me, the meat and the lower exit of the marketplace. I could see my entry and my exit. But that meant that everyone else could too. 
 
-With more planning, you see. With better organization. A pack of children running through the market -- laughing and taunting each other -- would be normal. But one, rail-thin, deadly serious child, feet sped by the magic of hunger. Well, how could anyone not see that coming?
+With more planning, with better organization. If I had blended in with a pack of children running through the market -- laughing and taunting each other -- then I would have stood a chance. But one, rail-thin, deadly serious child, his feet feet sped by the magic of hunger --  Well, how could anyone not see that coming?
 
-The food vendor, and vile-tempered man who I remember now with a heavy brow and a broken nose, did not try to stop me.  He watched me run all the way in. He waited for me to sear my hand upon a piece of delicious meat. He let me turn, start my escape. I even think, he waited until I believed myself home free. Until I could almost taste that piece of cow or rabbit or rat or whatever it was. 
+The man and master of the sausage cart did not try to stop me in my mad rush. While I was only aware of the sizzling food, I'm certain he watched me run all the way in. He let me to sear my hand upon a piece of delicious meat. He waited until the crowd parted and believed home free. Until I could almost taste that piece of cow or rabbit or rat or whatever it was. 
 
 Then, he tripped me. 
 
-I hit the dirty stones of the marketplace hard. The greasy meat slid out of my hand and off into the crowd. I struggled to regain my breathe, but before I could scramble to my feet, the vendor's foot was in my stomach. "Steal from me, will you?"
+My head bounced off the dirty stones of the marketplace. The  glorious, greasy hunk of stolen meat slid out of my hand and off into the crowd. I struggled to regain my my feet, but my vision was dark around the edges and I couldn't seem to stand. The Man of Sausages, put his foot on my stomach and leaned in. "Steal from me, will you?"
 
-I do not know what he would have done to me. The old days were more magical, but less kind. Any of the old stories will show you that. Those who weren't prepared or quick or clever often met with horrible fates. Good children of loving families were always getting eaten by wolves, trapped by witches or stolen by Faeries (oh yes, they were real) So who would shed a tear at disappearance of another orphan?  
+"Ennnnhguh," was my reply as all of the air was forced out of my chest. 
 
-My fearsome imaginings were interrupted by another voice, unknown to me. "Oh Alvasir, you fierce man you! Now what are you going to do with the starving boy now that you've caught him?"
+If Boltac had not intervened -- no let me say it plain -- if he hadn't saved me, I don't know what awful fate I would have met. The days of magic were far, far less kind. All of the old stories should teach you that. Good children of loving families were always getting eaten by wolves, trapped by witches or stolen by Faeries (oh yes, they were real) What chance did an orphan have? 
 
-"I should murder the little theiveling," said the man standing on my chest. He didn't sound like he was joking, but the other man laughed anyway. 
+My certain murder was interrupted by a man I could not see. He said, "Oh Alvasir, you fierce man you! Now what are you going to do with the starving boy now that you've caught him?"
+
+"I should murder the little thieveling," said the man standing on my chest. He wasn't joking, but the other man laughed anyway. 
 
 "You? Murder! Why think of the scandal!"
 
-"What scandal? Who would miss this bastard boy."
+"What scandal? Who would miss this bastard boy?"
 
 "Who's talking about the boy, ya yutz? Whattya gonna do to get rid of the body?"
 
-"The river Swift keeps all secrets," he said ominously.
+"The River Swift keeps all secrets," he said ominously.
 
-"Wait a minute, wait a minute, wait a minute," the voice said, in a hurry that bespoke confusions. "For the price of a piece of, we'll generously call it beef, you're going to wrench that boy's neck -- "
+"Wait a minute, wait a minute, wait a minute," the voice said, in a hurry that bespoke confusion, "For the price of a piece of, we'll generously call what you sell meat, you're going to wrench that boy's neck -- "
 
-"Stomp his guts out,"
+"Stomp his guts out, rather."
 
 "Sweaty work, either way. Then while haul him up the hill to the canyon and throw him down into the river, right in the middle of the day, in the middle of town, in front of everyone?"
 
-"Well, I would wait until dark."
+"I would do it under cover of night."
 
-"Oh, until dark. I see, that's very thoughtful, you're inner criminal mastermind is certainly coming into it's own. And what do you think that is going to do for sales of your, uh, sausage-product?"
+"Oh, cover of night? That's good, you're inner criminal mastermind is certainly coming into it's own. And what do you think that is going to do for sales of your, uh, simulated sausage-product?"
 
-"It will damn sure cut down on losses. Word will get out, Rumpustle Alvasir is not a man to be trifled with," said sinking more of his weight into me as he stood up straight and proud.
+"It will cut my losses. Word will get out, Rumpustle Alvasir is not a man to be trifled with," said the man as he sank more of his weight into me..
 
-"Rumpustle. Rum-pustle," said the voice as if he was rolling the name around in his mouth to see how it tasted.
+"Rumpustle. Rum-pustle," said the man as if he was rolling the name around in his mouth to see how it tasted.
 
 "What's wrong with Rumpustle?"
 
-"With the name, nothing. With you... eeeeeh. Look, 'Pustle. Can I call you 'Pustle? Think it through. See it with me now." With this a belly surmounted by a triple-chin came into view. The man who belonged to that unusual voice, put his arm around the man who wanted to kill me. The foot came out of my stomach a little. 
+"With the name, nothing. With you... eeeeeh. Look, 'Pustle. Can I call you 'Pustle? Think it through. See it with me now." With this a belly surmounted by a triple-chin came into view. My unknown savior put his arm around the man who wanted to kill me. A little of the weight came off my stomach.  
 
 "You are a sausage man. A sausage Monger. A vendor of food for hungry market-goers? I am right?"
 
@@ -73,21 +75,21 @@ My fearsome imaginings were interrupted by another voice, unknown to me. "Oh Alv
 
 "Business?"
 
-"Whattya got, like four, five more hours of daylight. That means his rotting corpse is gonna lie here in hot sun for hours. And anyone who wants to buy a sausage is going to have to track through his intestines to get lunch. And, y'know who wants to do that? Nobody. Stomp this kid flat and ya sales are gonna take a hit. And then, at the end of a long, profitless day, you still have to carry his body up the hill, and vffffp, into the river. That is, if the city watch don't get you first."
+"Whattya got, like four, five more hours of daylight. That means his rotting corpse is gonna lie here in hot sun for hours. And anyone who wants to buy a sausage is going to have to track through his intestines to get lunch. And, y'know who wants to do that? Nobody. Stomp this kid flat and ya sales are gonna take a hit. And then, at the end of a long, profitless day, you still have to carry his body up the hill, and vffffp, into the river. That is, if the city watch doesn't get you first."
 
-While this was going on, I was wiggling, ever so slightly, out from under 'Pustle's foot. I had hope that I might yet make an escape. {He put such weight into my stomach,}
+While this was going on, I managed to wiggle, ever so slightly, out from under 'Pustle's foot. I had hoped that I might make an escape and perhaps find the sausage in the dirt. If I could but get my hip bone past the ball of his foot. 
 
 "The city watch and I have an arrangement," 'Pustle said proudly. 
 
-"You give them your sausages? It's a wonder they haven't arrested you already."
+"You give them your sausages? It's a wonder they haven't arrested you for murder?"
 
 "What do you mean?" said the man, sounding hurt. I squirmed a little more.
 
-"Any way you slice it, it's just not worth it. So let the boy go."
+"Look, never mind the boy. Just like you sausages, any way you slice 'em, it's just not worth it."
 
-"I will have my satisfaction!" said 'Pustle, the fury returning to his voice and his weight returning to my spleen. "That's worth more than money."
+"I will have my satisfaction!" said 'Pustle, stomping his foot into my spleen again. "That's worth more than any money."
 
-"Really? More than money?" said a skeptical Boltac. 
+"Really? More than money?" asked a skeptical Boltac. 
 
 "No, no. You fat cripple, do not try your negotiation magic on me. The boy has stolen from me. At the very least, I will give him a good beating for my troubles."
 
@@ -99,21 +101,28 @@ While this was going on, I was wiggling, ever so slightly, out from under 'Pustl
 
 "Excuse me?" I said. 
 
-"Shut up," said Boltac, "You should never negotiate for yourself. Remember that, it's  rule number one."
+"Shut up," said Boltac, "You should never negotiate for yourself. Remember that, it's Rule Number One."
 
 
+So it was that I became apprenticed to Boltac, the shopkeeper of Robrecht. In addition to using his legendary negotiation skills to save me from being killed and dumped in the river -- or, now that I think of it, the sausage grinder -- he had managed to negotiate an exclusive Writ of Vendor. Merchants were welcome in marketplace, provided they paid the tax, but only Boltac could warehouse and showcase his goods in fixed location. 
 
-So it was that I became apprenticed to Boltac, first Merchant of Robrecht. In fact, only shopkeeper in Robrecht. 
+I don't know why it was that he saved me, and in all the years we were together, he would never tell me. But he prided himself on seeing the value in things that other people overlooked. So perhaps. Ah, but I am an old man flattering himself. He recognized that I was in no position to negotiate and that my loyalty could be bought for a few words and the price of meal. 
 
 
+He bought me, more or less, out from under the foot of 'Pustle the Sausage Monger. And then, before I even had time to say thank you, he had me by the arm and was hustling me up the hill. Not that I would have had a chance to say thank you. At most times, a river of words poured from Boltac. It was in this constant flow that the bright, darting fish of his wit and skill did it's work. From years of close observation, I came to understand one of his finest negotiation tactics. He simply washed objections away with words.  
+
+He told me, "Rule number one. Don't steal. Rule number two, if you are going to steal, make sure you grab something that's worth something."
+
+I was confused about rule number one. I had known the man less than five minutes and already there were two rule number ones. "But I was hungry," I began.
+
+"Well, you were solving that problem, weren't you? Dead men tell no tales. And they eat no sandwiches."
 
 
-"Rule number one. Don't steal. Rule number two, if you are going to steal, make sure you grab something that's worth something."
+----
 
-I was confused about rule number one. I had known the man less than five minutes and already there were two rule number ones. I decided to see if that sorted itself out and instead said, "But I was hungry."
+The boy tries to negotiate for Boltac with the Wizard
 
-"Well, you very nearly solved that problem, didn't you. Dead men tell no tales. And they eat no sandwiches."
-
+-- Ah, you broke the rule -- never negotiate with someone who has nothing to lose. 
 
 
 
