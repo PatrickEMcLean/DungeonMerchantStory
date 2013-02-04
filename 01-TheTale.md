@@ -11,6 +11,8 @@ The Wizard is... Rex Harrison?
 
 This story should be read while listening to Klezmer music -->
 
+<h1>Boltac</h1>
+
 #Chapter One - The Tale and the Telling. 
 
 When I met Boltac I was starving to death. I was a masterless boy running riot through the kingdom of my own life. My mother, perhaps, had died in childbirth. My father, perhaps, had been killed in a war, or drowned in a well or run off. Perhaps they had been changed into deer or made to vanish in a puff of smoke. Those were the far different days, when more thing were possible and many more things were actual. 
