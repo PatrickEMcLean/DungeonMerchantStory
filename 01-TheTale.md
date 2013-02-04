@@ -13,6 +13,10 @@ This story should be read while listening to Klezmer music
 
 #Chapter One - The Tale and the Telling. 
 
+
+There are things that are true. There are things that we want to be true. These things are almost never the same. I think that any man who says he has fully learned this lesson is a liar. I know I haven't. But I remember the first time I applied myself to this lesson -- or rather, the first time this lesson was applied to me.  
+
+
 I had pushed my luck too far. 
 
 When I first saw Boltac, I was a masterless boy running riot through the kingdom of my own life. My mother, perhaps, had died in childbirth. My father, perhaps, had been killed in a war, or drowned in a well or run off. Perhaps they had been changed into deer or made to vanish in a puff of smoke. Those were the far different days, when more thing were possible and many more things were actual. 
@@ -255,7 +259,7 @@ What's a bassinet.
 
 "I wasn't abandoned as a baby. My parents were killed when I was five."
 
-[[ BOltac tries the chosen one gambit -- tries to fake out the Wizard with the the boy -- of course, he is just a boy.]]
+[[ Boltac tries the chosen one gambit -- tries to fake out the Wizard with the the boy -- of course, he is just a boy.]]
 
 ---
 
