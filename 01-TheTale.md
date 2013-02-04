@@ -6,29 +6,22 @@ It's a Western in which the cowboys aren't worth a damn and the general store ow
 
 But the general store owner is Zero Mostel. Peter Lorre.
 
-The Wizard is... English gentleman Alston Wheezemont. Never wanted for money, never will. 
+The Wizard is... Rex Harrison? 
 
 
 This story should be read while listening to Klezmer music
 
 #Chapter One - The Tale and the Telling. 
 
+When I met Boltac I was starving to death. I was a masterless boy running riot through the kingdom of my own life. My mother, perhaps, had died in childbirth. My father, perhaps, had been killed in a war, or drowned in a well or run off. Perhaps they had been changed into deer or made to vanish in a puff of smoke. Those were the far different days, when more thing were possible and many more things were actual. 
 
-There are things that are true. There are things that we want to be true. These things are almost never the same. I think that any man who says he has fully learned this lesson is a liar. I know I haven't. But I remember the first time I applied myself to this lesson -- or rather, the first time this lesson was applied to me.  
+Yes, I speak of magic, in all it's wonder and horror. I remember the time when it was real. And, if we speak the truth here by the fire, magic was far more terrible than the stories would have you believe. It came at such a price, and that price was not paid by the powerful, but by the small, the ordinary and the orphaned. 
 
+I cannot that all magic is gone from the world or will never return. Perhaps it is a like the fires of summer. Years can pass without a whiff of smoke. Then, for no reason known to us, the world bursts into flame. Mayhap the fires are necessary, part of some larger cycle beyond our ken. But for ordinary people, the kind who enjoy loud stories on a quiet evening, the world is a better place without the uncontrolled fire of magic. 
 
-I had pushed my luck too far. 
+In the time of magic there was more hunger in the world. Which makes sense, Hunger is kind a magic all it's own. Go even one day without eating and your sense of smell will become so acute, your sense of hearing so attuned, that droplets of fat sizzling on a hot piece of charcoal will cause physical pain. Though nothing outward touches your body, the magic of hunger will work it's changes. Your mouth will fill with juice, your eyes will grow wide and your will will weaken.
 
-When I first saw Boltac, I was a masterless boy running riot through the kingdom of my own life. My mother, perhaps, had died in childbirth. My father, perhaps, had been killed in a war, or drowned in a well or run off. Perhaps they had been changed into deer or made to vanish in a puff of smoke. Those were the far different days, when more thing were possible and many more things were actual. 
-Yes, I speak of magic, in all it's wonder and horror. I remember a time when it was real. And, if we speak the truth here by the fire, magic was far more terrible than the stories would have you believe. It came at such a price, and that price was not paid by the powerful, but by the small, the ordinary and the orphaned. 
-
-I cannot say that all magic is gone from the world. Perhaps it is a like the fires of summer. Years can pass without a whiff of smoke. Then, for no reason known to us, the world burns. Mayhap the fires are necessary, part of some larger cycle beyond our ken. But for the small, the ordinary, the little people who enjoy loud stories on a quiet evening, the world is a better place without fire, without magic. 
-
-But enough philosophy, and on with the tale. Pointless musings are the entertainments of an old men, just as deed are the strength of young men. 
-
-Boltac found me stealing goods in the market. Caught is a better word. As he haggled with a man selling fabric from one of the Southern Kingdoms, I was stealing food from anywhere I could. I was perhaps, eight at the time -- I do not know the date of my birth -- and as all eight year-olds, somewhat lacking in discipline. But then, in that time of magic, there was more hunger in the world. 
-
-Hunger has a magic all it's own you know. Go even one day without eating and your sense of smell becomes so acute, your sense of hearing so attuned, that fat sizzling on charcoal can cause physical pain. Though nothing outward touch your body, the magic of hunger works it's changes. The mouth fills with juice, the eyes grow wide and the will grows weak.  
+I must have been as obvious as dawn, a dirty child shuffling in circles on the stone of the marketplace. No parent or guardian. it is with horror that I reflect on what I must have looked like. So it is that I cannot pass 
 
 I knew it was a bad pull from the start. I could see a clear line to the slices of meat over the fire. I could see my entry and my exit. But that meant that everyone else could too. 
 
@@ -110,7 +103,7 @@ While this was going on, I was wiggling, ever so slightly, out from under 'Pustl
 
 
 
-
+So it was that I became apprenticed to Boltac, first Merchant of Robrecht. In fact, only shopkeeper in Robrecht. 
 
 
 
@@ -130,6 +123,60 @@ I was confused about rule number one. I had known the man less than five minutes
 "Never sell yourself. And MOST of all, never sell yaself short."
 
 --- 
+
+But you are just a... a... filthy merchant.
+
+"Ah-HAAA!" said Boltac, holding up a finger, "I am a merchant. But I'm merchant with an army."
+
+"Yes, but that hardly elevates your status. Do fealty to the Gods and respect there representatives on Earth."
+
+"Eeeh, Gods? I've only got one God. Simpler that way. Less overhead, easier record-keeping. And I'm not convinced that you and God are on speaking terms. Besides, what does that make you?"
+
+"Excuse me?" said Torvalds, looking confused. 
+
+"So I gotcha army. You are minus an army. Having, if we're talking about accounting here. Zero armies. I'm a merchant with a Army. We don't know what that makes me. But you are a nobleman with no army, and I know what that makes you."
+
+"Oh really," said Torvalds, dripping with contempt. What does that make me?
+
+"Outnumbered."
+
+There was an uncomfortable silence.  
+
+"Yu-heah," Boltac said, "Now it's starting to sink in. Arithmetic can be terrifying, can't it?"
+
+For perhaps the first time in his life, Torvalds looked afraid. He glanced to the left and the right. His bodyguards had disappeared. He spun around. There on the side of a brightly colored tent, one of his men was drinking with a group of the Bereft Companions. Their laughter carried through the afternoon air. His man, still in the livery of the Noble Empire of Mercia, felt his recent master's gaze upon him. He turned, and not without some sadness, raised his flagon to his old boss. 
+
+"How could he?"
+
+"They made him a deal, your eminence," said Boltac, "Join them or, well, join *them*," he pointed over Torvald's other shoulder. Torvald turned and saw his other bodyguard's corpse being thrown on a pile of corpses on the other side of the field. 
+
+"How dare you, I am here under a flag of truce."
+
+"Weakness. That particular flag," said Boltac, pointing at the white standard flapping in the wind. "Is a flag of weakness. And I will now give you a very important lesson. A lesson you should have learned long, long ago. When you were his age." Boltac jerked a thumb in my direction and said, "Tell the man rule number one."
+
+I wracked my brain. There had been so many rule number one's throughout our time together. Once I had asked Boltac how so many rules could be number one at once. He turned very serious and said, "Some rules are more number one than others. Knowing which rule is number one at any time is the trick of it." So what was the most number one rule right now? 
+
+I smiled and said, "Rule Number One, don't negotiate from weakness."
+
+Boltac waited for the penny to drop. 
+
+"Negotiate," said Torvalds, "But what do you want?"
+
+"Ah, I thought you'd never ask." Boltac snapped his fingers and a scribe came forward with a piece of paper. Torvalds what was written on it and his eyes grew wide?
+
+"That's right bubbie, I want all of it."
+
+"I can't. I, this is unheard of"
+
+"Of course it is. "
+
+
+
+
+
+
+" And you, you are a nobleman with out an army.""
+
 
 ----
 
