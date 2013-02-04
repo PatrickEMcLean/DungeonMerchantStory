@@ -8,6 +8,20 @@
 
 "Because a war is coming?"
 
+"Eennh, I don't like it because it doesn't make sense. War is usually good for business, if you are a savvy businessman. Prices fluctuate wildly, smuggling becomes very profitable," but that only when it's a proper war. Two armies, each side, hungry for food and, ahem, entertainments. But this wizard, and his creatures, who can say what kind of war he makes."
+
+"He's pretty angry. But in a calm way."
+
+"Yes, that's the scariest thing of all. Apprentice, like as not, we'll be dead by morning. Or rich." He shrugged his shoulders in that fatalistic way with which he did everything that related to pain, loss and potential death and dismemberment. "Eh, I got no regrets. And you, you should be dead in the marketplace where I found you."
+
+I rolled my eyes and sighed. 
+
+"Oh, you want I should forget this debt?"
+
+"No, I just think I will be forever paying it back," I said, reaching in for another helping of roast turnips.
+
+"Ah!" he said, "Even as you try to eat all my profits. "   
+
 
 Asarah, "You men with your fearsome imaginings. If I had a coin for every time I'd heard some man, deep in his cups, prophesy the end of the world in this common room -- fsheee -- I'd be a rich woman."
 
