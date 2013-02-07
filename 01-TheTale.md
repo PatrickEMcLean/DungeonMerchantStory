@@ -1,7 +1,3 @@
-
-
-
-
 <!-- It's a Western in which the cowboys aren't worth a damn and the general store owner saves the day.
 
 But the general store owner is Zero Mostel. Peter Lorre.
@@ -108,8 +104,9 @@ While this was going on, I managed to wiggle, ever so slightly, out from under '
 
 So it was that I became apprenticed to Boltac, the shopkeeper of Robrecht. In addition to using his legendary negotiation skills to save me from being killed and dumped in the river -- or, now that I think of it, the sausage grinder -- he had managed to negotiate an exclusive Writ of Vendor. Merchants were welcome in marketplace, provided they paid the tax, but only Boltac could warehouse and showcase his goods in fixed location. 
 
-I don't know why it was that he saved me, and in all the years we were together, he would never tell me. But he prided himself on seeing the value in things that other people overlooked. So perhaps. Ah, but I am an old man flattering himself. He recognized that I was in no position to negotiate and that my loyalty could be bought for a few words and the price of meal. 
+<!-- And to this day I don't know why -->
 
+I don't know why it was that he saved me, and in all the years we were together, he would never tell me. But he prided himself on seeing the value in things that other people overlooked. So perhaps. Ah, but I am an old man flattering himself. He recognized that I was in no position to negotiate and that my loyalty could be bought for a few words and the price of meal. 
 
 He bought me, more or less, out from under the foot of 'Pustle the Sausage Monger. And then, before I even had time to say thank you, he had me by the arm and was hustling me up the hill. Not that I would have had a chance to say thank you. At most times, a river of words poured from Boltac. It was in this constant flow that the bright, darting fish of his wit and skill did it's work. From years of close observation, I came to understand one of his finest negotiation tactics. He simply washed objections away with words.  
 
@@ -117,7 +114,64 @@ He told me, "Rule number one. Don't steal. Rule number two, if you are going to 
 
 I was confused about rule number one. I had known the man less than five minutes and already there were two rule number ones. "But I was hungry," I began.
 
-"Well, you were solving that problem, weren't you? Dead men tell no tales. And they eat no sandwiches."
+"Well, you were certainly on your way to solving that problem, weren't you? Dead men tell no tales. And they eat no sandwiches."
+
+# Something to Eat
+
+"Ah, there she is, my flagship store," said Boltac with pride as he indicated his shop. It was a two story, mud and timber-framed building with narrow, intricately paned-glass windows. The door was large enough that it had it's own smaller door in the center of it. At first I though that Boltac would be too large to fit through it, but when he turned his broad shoulders sideways, his gut fit the curve of the arched mini-doorway perfectly. 
+
+The rest of the store fit him just as well. He bustled around, stirred the fire in the fireplace, lit the heavy, hanging oil lamps  brushed some dust off the counter, then, having set his domain to right, turned his gaze to me. 
+
+"Wait there, I have just the thing." He disappeared into the back. Leaving me to take it all in. At the time, the store seemed limitless. I was smaller then, and this was surely the greatest display of wealth I had ever seen in one place. The small room was filled with tables and shelves and hanging racks. Every inch was packed with something. There were potions of every color and size imaginable on one wall. A barrel of torches next to a barrel of pitch. There were an assortment of battered helmets and swords and knives and maces and instruments of mayhem of almost every size and shape imaginable. 
+
+My eye was held by a gigantic curved sword that hung behind the counter. 
+
+Boltac returned to the from the back with a chair. He set it down on the side of the counter. "There you go. Everything needs a place, you see."
+
+He followed my gaze to the blade behind the counter. "Ah yes, the Balabomo. An adventurer from the far, far south sold that to me, on his way back from a unsuccessful conquest. Told me it was a priceless sword, a legendary enchanted blade of his ancestors. I told him I couldn't buy anything that didn't have a price. Do you like it?"
+
+I nodded, both attracted and repulsed the wicked blade. 
+
+"It's utter garbage. Balabomo -- eh, a load of cheap tin if ever there was one. It would shatter on the first swing. I'm surprised it doesn't shatter when you look at it. But when he sung his sad tale of woe, I got sucked in. I overpaid for that. I hang it there as a reminder. Never again have I let myself get took."
+
+My eyes scanned the rest of the store. Boltac said, "What? You don't like my store? It's not good enough for you or something?"
+
+"No," I said, mortified, "It's just. I thought you said we were going to get something to eat." I suppose it was a little rude to talk to my recent savior like this, but I couldn't help it. I wanted to forget the sausage in the marketplace, but my stomach wouldn't let me. It was all I could do to keep from eating my hand.
+
+"Ah, and so I did. I can't have an apprentice starving to death. That would be bad for business. C'mon, I'll take you to the best place in town."
+
+I followed him outside and waited while he locked up the store again.
+
+"If we're not there, isn't it bad for business?" I asked, trying to make up for rude comment about food. 
+
+"Ehhh, you're eager. I like that. Remember, you've got to take care you your health. If you don't have your health, you've got nothing. That's Rule Number One."
+
+I walked after Boltac has he hobbled towards the inn across the street. For all his fame, most people don't realize that the man walked with a terrible limp. The statues showed him standing straight and tall, with a full head of hair and a much flatter belly than he had in real life. When you become a hero, I guess you're not allowed to walk with a limp anymore. 
+
+
+The Inn looked worse on the inside. It was dark and run down, and filled with desperate characters. Up until that point, I had never liked Inns. Places where travelers gathers and drank were not safe for unfortunate children such as I.
+
+
+"She doesn't seem nice on the outside, but she is. She really, really is," he said ending with a gravelly sigh. At the time I was too young and too hungry to know what a sigh like that meant.  
+
+
+"Ah, Asarah, you give a discount for widows and orphans, don't you?"
+
+"Why," asked the woman, "Which one are you pretending to be?" she asked with a wicked gleam in her eye.
+
+"Why me? Ah no. I, ask, because, all of the other Inns in town, y'know, they do"
+
+"Is he with you, then?"
+
+
+He came back with a child-sized stool 
+
+
+"Let's get you something to eat," said Boltac
+
+With Boltac, the lessons never seemed to stop. A 
+
+Rule #1 - 
 
 
 ----
@@ -222,7 +276,7 @@ I know a man in Brythria, has the finest daggers money can buy.
 
 ---
 
-Marriage proposal. 
+# Marriage proposal. 
 
 Boltac, I have debts. 
 
@@ -330,6 +384,5 @@ Endless hours
 
 Let me slow down and tell you something of the place that I live. 
 
-
-Now I am first Knight of Boltac, granted the landholdings of the North. The most dangerous-- I am accounted a brave man by many deeds and more tales, but I will tell you. In all my days, I have never seen anything more brave than a fat shopkeeper with a limp, setting out to rescue the woman he loved. 
+Now I am first Knight of Robrecht, granted the landholdings of the North. The most dangerous-- I am accounted a brave man by many deeds and more tales, but I will tell you. In all my days, I have never seen anything more brave than a fat shopkeeper with a limp, setting out to rescue the woman he loved. 
 
