@@ -146,8 +146,35 @@ I followed him outside and waited while he locked up the store again.
 
 "Ehhh, you're eager. I like that. Remember, you've got to take care you your health. If you don't have your health, you've got nothing. That's Rule Number One."
 
-I walked after Boltac has he hobbled towards the inn across the street. For all his fame, most people don't realize that the man walked with a terrible limp. The statues showed him standing straight and tall, with a full head of hair and a much flatter belly than he had in real life. When you become a hero, I guess you're not allowed to walk with a limp anymore. 
+I walked after Boltac has he hobbled towards the inn across the street. The statues you see around Robrecht these days show him standing straight and tall, with a full head of hair and a much flatter belly than he had. And they betray no sign at all of his crippled leg. I guess when you become a hero, you're not allowed to walk with a limp anymore. 
 
+He entered a dubious-looking building which a sign proclaimed as "The Inn of the Bent Eelpout." Have you ever seen an Eelpout? I mean up close and personal. It is perhaps the ugliest fish known to man. And the painting of the fish on the Inn's sign was distressingly faithful to nature. An Eelpout, rampant against a field of dingy brown, jutted it's lower jaw out in away that dared (rather than invited) people to patronize this Inn. 
+
+Much to the curses and distress of fisherman, Eelpout were plentiful in Lake Halikai. Mostly scales and bad tasting meat, they survived on seemingly anything, so that they crowded out the fish that were worth catching. Only the poorest sort ate Eelpout. In the poor, unfortunate state of my youth, I had looked up to those with Eelpout. They had all manner of things I lacked. Roofs, blankets, shoes -- but that didn't mean I thought that damn fish tasted good. Even when starving, it always tasted awful to me. 
+
+As I pushed though the door, I saw that the Inn looked even worse on the inside. The common room was dark and smokey. A fire was sputtering and dying in the hearth. A silence fell across the room as I stood in the doorway. The room was filled with people that even I could see were the shoddiest sort of adventurers and neer-do-wells.
+
+Eyes peered at me over tankards and from dark corners. Fingers danced with daggers and I heard the muttering of flawed spells and the clanking of mismatched armor as the room sized me up. From the bar, Boltac cried, "Boy! Over here."
+
+The sounds of muttering and chatter returned. As I made my way to Boltac, I could hear the language of desperation and failure spoken from every corner. 
+
+"If I could have defeated that lock spell, I'd be a wealthy man."
+
+"A Dragon? Who'd have thought ye'd find a Dragon in East Reach? And at this time of year?"
+
+"Lucky to have escaped with our lives."
+
+In my later years, I have come to understand something of working an honest trade. While it can be a drudgery at times, it is not without it's compensations. And I, perhaps owning to great insecurity in my youth, do not understand why anyone would not prefer a quiet, orderly, productive life. 
+
+<!-- 
+
+Perhaps I should explain something of the unique place that Robrecht occupied in the world. [[ insert here ]]
+
+So it was a place that attracted people who wanted to get away from it all. Deep in the mountain fastness of Robrecht you could find Wizards and necromancers and creatures of all manner of fantasy.  -->
+
+"Boy! Over here," cried Boltac. The room went back to what it was doing. 
+
+Inside a group of adventurers had congealed around a table. At first, it had not been clear that they were, in fact, adventurers. They was always the outside chance that they were pilgrims, or merchants who had some how made it through the trouble and chaos on the roads. Even these dark days, such things were not unheard of. 
 
 The Inn looked worse on the inside. It was dark and run down, and filled with desperate characters. Up until that point, I had never liked Inns. Places where travelers gathers and drank were not safe for unfortunate children such as I.
 
