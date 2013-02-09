@@ -16,7 +16,6 @@ system("git push origin master")
 
 # It will push your username and password to the repo. 
 
-
 # Use git config credential.helper store instead
 # http://kernel.org/pub/software/scm/git/docs/git-credential-store.html
 # ===========================================================
