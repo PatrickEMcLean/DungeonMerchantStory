@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-
+`bash /build/build.sh`
 wordcount=`wc 01-Draft.md`
 wordcount=wordcount.split(" ")
 system("git add -A")
