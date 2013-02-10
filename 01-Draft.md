@@ -251,6 +251,12 @@ Boltac stared at me. I looked back and forth between Boltac and Asarah.
 "Aren't you going to tell the woman your name?" said Boltac. Covering up for the fact that he didn't actually know my name.
 
 
+
+#END
+
+---
+
+
  
 "Let's get you something to eat," said Boltac
 
