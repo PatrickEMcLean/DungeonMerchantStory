@@ -192,7 +192,19 @@ Boltac leaned in and said quietly, "Mostly nothing. They sit around and drink an
 
 "Well, no, that was just the brand-name. When you get right down to it, there's nuttin' and nobody that can stop a Dragon. Huge beast, weighs as much as 20 bulls, yet it can FLY. And it breathes searing fire on command. A dragon isn't a creature as much as it is a civilization wrecking force of nature.
 
-"But everybody had to have a run at that damn Dragon. "
+"But everybody wanted a run at the Dragon."
+
+"They wanted to be heroes." I said.
+
+"No. They wanted the treasure. The horde. You see Dragons gather together lots and lots of treasure, shiny valuable things -- they're like crows. Really big, incredibly dangerous, limitlessly greedy crows. What usually happens is, somebody finds the Dragons horde, steals something from it. Then the Dragon gets angry and razes the countryside.
+
+"But this time was a little different. Sure the Dragon was marauding through the country side -- eating travelers, burning the occasional farm of village, but there was no horde. At least, no horde that the Dragon knew about. He was so old, he had gone senile, you see. He went out one day, and couldn't remember where his lair was."
+
+"But..." I said in a vain attempt to get a word in edgewise.
+
+"I know, I know. It's unbelievably sad. I think people just harassed the poor Dragon until " 
+
+ to have a run at that damn Dragon. "
 
 
 "  or two and the wizards"
@@ -431,7 +443,11 @@ Rattick tells him -- you have something of the thief about you -- mostly the eye
 But there is something of the thief and the coward and the hero that dances in the eyes of all men. What we choose to practice makes the difference.  
 
 
+---
 
+Trade caravan doesn't come through. B/C it's been wiped out by orcs. Terrible savage orcs.
+
+---
 
 
 
