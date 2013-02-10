@@ -7,14 +7,14 @@
 # 
 
 
-if [ -f ../output/fullbook.markdown ];
+if [ -f ./output/fullbook.markdown ];
 then
-   rm ../output/fullbook.markdown
+   rm ./output/fullbook.markdown
 fi
 
 cd ..
 
-cat `find *md` >> ../output/fullbook.markdown
+cat `find *md` >> ./output/fullbook.markdown
 
 # To Build additional kinds of ebooks, uncomment these lines and name your book.
 
