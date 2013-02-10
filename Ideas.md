@@ -6,6 +6,13 @@ The basilisk con -- guy brings a basilisk in a box in -- tries to sell it -- but
 
 Ladenbesitzer -- Ladenbitzer. (Boltac's last name -- means shopkeeper in German.)
 
+
+{ Our narrator, Relan, sees the wizard go into disguise. Tries to tell Boltac, but Boltac wouldn't listen. 
+
+Asarah dealing with the chosen two. Chapter The Chosen Two. 
+
+
+
 It's a Western in which the cowboys aren't worth a damn and the general store owner saves the day.
 
 But the general store owner is Zero Mostel/Gilbert Godtfried 
@@ -16,3 +23,6 @@ The Wizard is... A feckless Peter O'Toole.
 
 
 This story should be read while listening to Klezmer music
+
+
+
