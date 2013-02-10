@@ -204,7 +204,22 @@ Boltac leaned in close and whispered, "But the fact that they didn't have a chan
 
 "I know, I know. It's unbelievably sad. I think people just harassed the poor Dragon so much he died just so he could get some peace and quiet.
 
-"But that's not my point. See, Dragon or no, the elements of story is always the same. Dragon, Wizard, Noble Clan of Industrious Dwarves, what have you -- minding their own business, and you don't  "
+"But that's not my point. See, Dragon or no, the story is always the same. It could be a Wizard, a Noble Clan of Industrious Dwarves, pack of Werepeople, what have you. They're minding their own business. Along comes some party of adventurers -- pack of thieves -- who decides that whatever the Wizard, Dwarves or Werepeople have should belong to them.
+
+"So they take it. And naturally, feelings are hurt, redress of wrongs is sought and then the Werewolves come down out of the high valleys and eat an innocent village."
+
+"What happens to the adventurers? They get away with it?"
+
+"Not exactly. They come back here and they have to sell their ill-gotten gains. So they come to good old Boltac, who always eager to buy. You know to help out a brave hero (or thief) as the case may be.Then they spend the coin I give them on drinking and wenching and gaming, until they are broke again. And the whole cycle starts over.
+
+"They never seem to settle down, buy a farm, raise a family. They're just head right back at it until they die, usually alone, outnumbered and their mutliated corpse is eaten by slime molds deep in some hole in the ground."
+
+"That's sad," I said.  
+
+"Eh, there are worse ways to go. Besides, it provides me with a comfortable living."
+
+
+whatever they have should belong is they're always minding his/her/it's own business and some adventurer -- code for thief -- comes along, decides that what  "
 
 
 
