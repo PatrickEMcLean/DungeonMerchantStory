@@ -188,28 +188,23 @@ Boltac leaned in and said quietly, "Mostly nothing. They sit around and drink an
 
 "Nah, the Dragon died of old age. But a lotta people wanted to be Dragonslayers. I sold a lotta burn ointment. And the Blacksmith and I made a fortune off Dragon-proof shields."
 
-"There are shields that can stop a Dragon's Breath?"
+"There are shields that can stop a DragonsFire?"
 
-"Well, no, that was just the brand-name. When you get right down to it, there's nuttin' and nobody that can stop a Dragon. Huge beast, weighs as much as 20 bulls, yet it can FLY. And it breathes searing fire on command. A dragon isn't a creature as much as it is a civilization wrecking force of nature.
+"Well, no, that was just the brand-name. When you get right down to it, there's nuttin' and nobody that can stop a Dragon. Huge beast, weighs as much as 20 bulls, yet it can FLY. And it breathes searing fire on command. A dragon isn't a creature as much as it is a civilization wrecking force of nature."
 
-"But everybody wanted a run at the Dragon."
+Boltac leaned in close and whispered, "But the fact that they didn't have a chance just seemed to make hopeless fools like these want to take run at the Dragon."
 
 "They wanted to be heroes." I said.
 
-"No. They wanted the treasure. The horde. You see Dragons gather together lots and lots of treasure, shiny valuable things -- they're like crows. Really big, incredibly dangerous, limitlessly greedy crows. What usually happens is, somebody finds the Dragons horde, steals something from it. Then the Dragon gets angry and razes the countryside.
+"Nah. They wanted the treasure. The horde. You see Dragons gather together lots and lots of treasure, shiny valuable things -- they're like crows. Really big, incredibly dangerous, limitlessly greedy crows. What usually happens is, somebody finds the Dragons horde, steals something from it. Then the Dragon gets angry and razes the countryside.
 
 "But this time was a little different. Sure the Dragon was marauding through the country side -- eating travelers, burning the occasional farm of village, but there was no horde. At least, no horde that the Dragon knew about. He was so old, he had gone senile, you see. He went out one day, and couldn't remember where his lair was."
 
 "But..." I said in a vain attempt to get a word in edgewise.
 
-"I know, I know. It's unbelievably sad. I think people just harassed the poor Dragon until " 
+"I know, I know. It's unbelievably sad. I think people just harassed the poor Dragon so much he died just so he could get some peace and quiet.
 
- to have a run at that damn Dragon. "
-
-
-"  or two and the wizards"
-
-The mistress of the Inn was a beautiful dark-haired woman. 
+"But that's not my point. See, Dragon or no, the elements of story is always the same. Dragon, Wizard, Noble Clan of Industrious Dwarves, what have you -- minding their own business, and you don't  "
 
 
 
@@ -267,7 +262,9 @@ The boy tries to negotiate for Boltac with the Wizard
 ----
 
 
-Sequel -- You know, you remind me of me. And that's why I don't like you. 
+Sequel -- Talking with a merchant.
+
+Boltac -- You know, you remind me of me. And that's why I don't like you. 
 
 What?
 
