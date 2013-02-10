@@ -268,17 +268,21 @@ With that Asarah's mock smile turned into a real smile and her eyes grew wide. "
 
 "I am no such thing," Boltac protested, "I acquired an apprentice on the cheap. And if he's not hardworking, it's off to the sausage grinder with him."
 
-I looked up to see if he was kidding about the sausage grinder. He looked serious, but Asarah just laughed as she filled tankard with ale. She set it in front of Boltac and said. "On the house. You're a hard man, Messer Boltac." Then she put her her hand on his cheek, and kissed the side of his face.
+I looked up to see if he was kidding about the sausage grinder. He looked serious, but Asarah just laughed as she filled a tankard with ale. She set it in front of Boltac and said. "On the house. You're a hard man, Messer Boltac." Then she put her her hand on his cheek, and kissed the side of his face. "But underneath it all, you're a sweetheart."
+
+As she walked away, she said, "Two of the usual then."
+
+Boltac grunted strangely. Asarah didn't look back to see that he was blushing uncomfortably, but I'm pretty sure she knew the effect that she had on him. 
+
+When she returned, the sandwich she brought me was the finest thing I had ever eaten. And as I look back on it, it still may be. 
+
+
+it was one of the best thing I had ever put in my mouth. 
 
 
 
-She bustled off towards the kegs.
 
-
-
-"I'm sorry," I said, "But I am very hungry. "
-
-
+# The Chosen Two. 
 
 
 
