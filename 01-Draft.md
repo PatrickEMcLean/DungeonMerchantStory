@@ -216,43 +216,42 @@ Boltac leaned in close and whispered, "But the fact that they didn't have a chan
 
 "That's sad," I said.  
 
-"Eh, there are worse ways to go. Besides, it provides me with a comfortable living."
+"Eh, there are worse ways to go. Besides, it provides me with a comfortable living." Boltac grabbed an empty tankard from where it sat on the bar, raised it and said, "To ADVENTURING!" The room responded with a variety of drunken cheers and huzzahs! He sat back down and said, "See? They're happy. I'm happy. Everybody is happy."
 
+"Why Boltac, I didn't see you come in!" I turned to see a beautiful woman with long, dark hair emerging from the back of the inn. Boltac tucked his chin and whispered, "Just play along." The he turned to the woman and said, "Ah, Asarah, you look as radiant as ever." 
 
-whatever they have should belong is they're always minding his/her/it's own business and some adventurer -- code for thief -- comes along, decides that what  "
+She looked at me and winked conspiratorially. "That's very sweet my fat merchant, by compliments don't pay your bar tab."
 
+"Tab? Tab? Why I am shocked? This is the first I've heard of it -- Boltac pays his way."
 
+"It's four coppers an ale, Boltac."
 
-In my later years, I have come to understand something of working an honest trade. While it can be a drudgery at times, it is not without it's compensations. And I, perhaps owning to great insecurity in my youth, do not understand why anyone would not prefer a quiet, orderly, productive life. 
+"But I had a half."
 
-<!-- 
+"We pour wholes."
 
-Perhaps I should explain something of the unique place that Robrecht occupied in the world. [[ insert here ]]
+"Well, you can't fault me for irregularities in your pricing scheme," said Boltac. 
 
-So it was a place that attracted people who wanted to get away from it all. Deep in the mountain fastness of Robrecht you could find Wizards and necromancers and creatures of all manner of fantasy.  -->
+Although they sounded like they were arguing with each other, I could see that they both enjoyed this exchange very much. 
 
-"Boy! Over here," cried Boltac. The room went back to what it was doing. 
-
-Inside a group of adventurers had congealed around a table. At first, it had not been clear that they were, in fact, adventurers. They was always the outside chance that they were pilgrims, or merchants who had some how made it through the trouble and chaos on the roads. Even these dark days, such things were not unheard of. 
-
-The Inn looked worse on the inside. It was dark and run down, and filled with desperate characters. Up until that point, I had never liked Inns. Places where travelers gathers and drank were not safe for unfortunate children such as I. 
-
-
-"She doesn't seem nice on the outside, but she is. She really, really is," he said ending with a gravelly sigh. At the time I was too young and too hungry to know what a sigh like that meant.  
-
-
-"Ah, Asarah, you give a discount for widows and orphans, don't you?"
+"You give a discount for widows and orphans, don't you?"
 
 "Why," asked the woman, "Which one are you pretending to be?" she asked with a wicked gleam in her eye.
 
-"Why me? Ah no. I, ask, because, all of the other Inns in town, y'know, they do"
+"Why me? Ah no. I, ask, because, all of the other Inns in town, y'know, they do..."
 
-"Is he with you, then?"
+"Is he with you, then?" she asked, flipping the rag she was using to wipe down the bar in my direction. 
+
+"He is. Meet my new apprentice..."
+
+Boltac stared at me. I looked back and forth between Boltac and Asarah. 
+
+"Aren't you going to tell me his name?" asked Asarah. 
+
+"Aren't you going to tell the woman your name?" said Boltac. Covering up for the fact that he didn't actually know my name.
 
 
-He came back with a child-sized stool 
-
-
+ 
 "Let's get you something to eat," said Boltac
 
 With Boltac, the lessons never seemed to stop. A 
