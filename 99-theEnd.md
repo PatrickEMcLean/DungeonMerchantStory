@@ -5,7 +5,7 @@
 
 But you are just a... a... filthy merchant.
 
-"Ah-HAAA!" said Boltac, holding up a finger, "I am a merchant. But I'm merchant with an army."
+"Ah-HAAA!" said Boltac, holding up a finger, "I may be a merchant. But I'm merchant with an army."
 
 "Yes, but that hardly elevates your status. Do fealty to the Gods and respect there representatives on Earth."
 
