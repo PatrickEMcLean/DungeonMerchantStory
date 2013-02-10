@@ -1,15 +1,7 @@
-<!-- It's a Western in which the cowboys aren't worth a damn and the general store owner saves the day.
 
-But the general store owner is Zero Mostel. Peter Lorre.
+<div align=center> <h1>Boltac</h1></div>
 
-The Wizard is... Rex Harrison? 
-
-
-This story should be read while listening to Klezmer music -->
-
-<h1>Boltac</h1>
-
-#Chapter One - The Tale and the Telling. 
+# Chapter One - The Apprentice
 
 When I met Boltac I was starving to death. I was a masterless boy running riot through the kingdom of my own life. My mother, perhaps, had died in childbirth. My father, perhaps, had been killed in a war, or drowned in a well or run off. Perhaps they had been changed into deer or made to vanish in a puff of smoke. Those were the far different days, when more thing were possible and many more things were actual. 
 
@@ -249,6 +241,45 @@ Boltac stared at me. I looked back and forth between Boltac and Asarah.
 "Aren't you going to tell me his name?" asked Asarah. 
 
 "Aren't you going to tell the woman your name?" said Boltac. Covering up for the fact that he didn't actually know my name.
+
+"Relan," I said.
+
+"There you go," said Boltac, "Relan. A likely boy for the finest merchant in all of Robrecht."
+
+"You pick an apprentice and you don't even know his name? Where did you get him, then? Are you bringing home strays then. And why doesn't the poor thing dressed in rags?"
+
+"Well, he was stealing food in the marketplace."
+
+"Stealing food, the poor dear are you that hungry?"
+
+I nodded. 
+
+"Stealing from Rumpustle,"
+
+"Well, that might be stealing," she said with a very serious look, "But that's hardly stealing food."
+
+"I bought him, so to speak, out from under Rumpustle's foot."
+
+"You did what?" she asked.
+
+"He was threating to make him into sausages."
+
+With that Asarah's mock smile turned into a real smile and her eyes grew wide. "Why Boltac. Crusty old Boltac, for all your hard bargaining, I'd never have thought it. You're an old softy."
+
+"I am no such thing," Boltac protested, "I acquired an apprentice on the cheap. And if he's not hardworking, it's off to the sausage grinder with him."
+
+I looked up to see if he was kidding about the sausage grinder. He looked serious, but Asarah just laughed as she filled tankard with ale. She set it in front of Boltac and said. "On the house. You're a hard man, Messer Boltac." Then she put her her hand on his cheek, and kissed the side of his face.
+
+
+
+She bustled off towards the kegs.
+
+
+
+"I'm sorry," I said, "But I am very hungry. "
+
+
+
 
 
 

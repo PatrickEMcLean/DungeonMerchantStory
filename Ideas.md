@@ -5,3 +5,14 @@ Counting coins -- Boltac has him count the coins. This is a thankless job becaus
 The basilisk con -- guy brings a basilisk in a box in -- tries to sell it -- but won't open the box (it will turn you to stone)
 
 Ladenbesitzer -- Ladenbitzer. (Boltac's last name -- means shopkeeper in German.)
+
+It's a Western in which the cowboys aren't worth a damn and the general store owner saves the day.
+
+But the general store owner is Zero Mostel/Gilbert Godtfried 
+
+Peter Lorre is Rattick
+
+The Wizard is... A feckless Peter O'Toole. 
+
+
+This story should be read while listening to Klezmer music
