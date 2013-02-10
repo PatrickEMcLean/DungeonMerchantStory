@@ -277,15 +277,32 @@ Boltac grunted strangely. Asarah didn't look back to see that he was blushing un
 When she returned, the sandwich she brought me was the finest thing I had ever eaten. And as I look back on it, it still may be. 
 
 
-it was one of the best thing I had ever put in my mouth. 
-
-
-
 
 # The Chosen Two. 
 
+I soon fell into the routine of a merchant's life. Every morning I swept the front of the store. Every evening I swept the front of the store. In between, I did what Boltac asked of me. Usually running errands and making deliveries.
+
+The worst of it was not the running about town or the sweeping up. It was counting coins. And not even the counting of coins. I had never seen so much money in my life, so it took quite a while for the excitement of handling it to wear off. No, it was the testing of coins. 
+
+All coins, as it happens are not the same. And I learned about it like this. 
+
+One afternoon, as the heat of the summer dragged on, Boltac and I sat in the shade of the store with the windows open and the full door open. The only thing that moved in the air was the heat. And I confess, I eyed the scrolls of Frostbite more than once. 
+
+When I had suggested that we might use one to cool the store and render our present situation more bearable, Boltac shook his head. "No, I don't like magic. No good ever comes of it."
+
+"But I'm dying in this heat!" I protested. 
+
+"Well go on and die already. Life is expensive enough as it is." And he went back to straightening the daggers that sat in a glass case.
+
+Just then a shadow came across the late afternoon light coming through the door. I looked up and there was a woman in a fine dress. As she entered the store I could see that she wore expensive jewelry and cooled herself with a hand-painted fan from the East. 
+
+"Then at least you'll be quiet," he countered. 
 
 
+First among my duties was counting coins. It seemed that the entirely of my life was to be counting  
+
+
+-- have him fail negotiating here and succeed negotiating at the end. 
 
 #END
 
