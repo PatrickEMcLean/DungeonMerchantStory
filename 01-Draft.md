@@ -152,17 +152,54 @@ He entered a dubious-looking building which a sign proclaimed as "The Inn of the
 
 Much to the curses and distress of fisherman, Eelpout were plentiful in Lake Halikai. Mostly scales and bad tasting meat, they survived on seemingly anything, so that they crowded out the fish that were worth catching. Only the poorest sort ate Eelpout. In the poor, unfortunate state of my youth, I had looked up to those with Eelpout. They had all manner of things I lacked. Roofs, blankets, shoes -- but that didn't mean I thought that damn fish tasted good. Even when starving, it always tasted awful to me. 
 
-As I pushed though the door, I saw that the Inn looked even worse on the inside. The common room was dark and smokey. A fire was sputtering and dying in the hearth. A silence fell across the room as I stood in the doorway. The room was filled with people that even I could see were the shoddiest sort of adventurers and neer-do-wells.
+As I pushed though the door, I saw that the Inn looked even worse on the inside. There room was lit by smoking, sputtering oil lamps. In the shadows created by the lamps feeble lights, people huddled around low tables. In the corner a minstrel played a sad tune on a sad lute. His voice was low and gravelly and the song he sang was about loss and despair. 
 
 Eyes peered at me over tankards and from dark corners. Fingers danced with daggers and I heard the muttering of flawed spells and the clanking of mismatched armor as the room sized me up. From the bar, Boltac cried, "Boy! Over here."
 
-The sounds of muttering and chatter returned. As I made my way to Boltac, I could hear the language of desperation and failure spoken from every corner. 
+fire was sputtering and dying in the hearth. A silence fell across the room as I stood in the doorway. The room was filled with people that even I could see were the shoddiest sort of adventurers and neer-do-wells.
+
+Eyes peered at me over tankards and from dark corners. Fingers danced with daggers and I heard the muttering of flawed spells and the clanking of mismatched armor as the room sized me up. Was I something to fear or something to frighten?
+
+The horrible spell was broken when, Boltac cried, "Boy! Over here."
+
+As I joined him at the bar, the in returned to normal. As I made my way to Boltac, I could hear the language of desperation and failure spoken from every corner. 
 
 "If I could have defeated that lock spell, I'd be a wealthy man."
 
 "A Dragon? Who'd have thought ye'd find a Dragon in East Reach? And at this time of year?"
 
 "Lucky to have escaped with our lives."
+
+Boltac clapped a hand on my shoulder and said, "Here you will find the finest Mutton Lettuce and Tomato sandwich in all of Robrecht. Sit and we will eat."
+
+As I climbed on to the high stool I asked Boltac, "Who are all these people."
+
+"Adventurers," said Boltac, "Heroes! CUSTOMERS!"
+
+"Adventurers? What do they do?"
+
+Boltac leaned in and said quietly, "Mostly nothing. They sit around and drink and plan and tell tales. And every once and a while, usually when the money runs out for drink, they they set out in search of loot."
+
+"They're bandits?"
+
+"No, no, no," said Boltac with a look of horror on his face. "Well, yes. You see in the mountains of Robrecht there are many many places and people that a normal person should leave alone. There are ancient tombs, abandoned castles, a lost city -- two that I know of -- a tribe of secretive elves in the south, dungeons filled with treasure, we even had a Dragon, but he died awhile back."
+
+"Someone killed a Dragon? There is a Dragonslayer among us?"
+
+"Nah, the Dragon died of old age. But a lotta people wanted to be Dragonslayers. I sold a lotta burn ointment. And the Blacksmith and I made a fortune off Dragon-proof shields."
+
+"There are shields that can stop a Dragon's Breath?"
+
+"Well, no, that was just the brand-name. When you get right down to it, there's nuttin' and nobody that can stop a Dragon. Huge beast, weighs as much as 20 bulls, yet it can FLY. And it breathes searing fire on command. A dragon isn't a creature as much as it is a civilization wrecking force of nature.
+
+"But everybody had to have a run at that damn Dragon. "
+
+
+"  or two and the wizards"
+
+The mistress of the Inn was a beautiful dark-haired woman. 
+
+
 
 In my later years, I have come to understand something of working an honest trade. While it can be a drudgery at times, it is not without it's compensations. And I, perhaps owning to great insecurity in my youth, do not understand why anyone would not prefer a quiet, orderly, productive life. 
 
@@ -176,7 +213,7 @@ So it was a place that attracted people who wanted to get away from it all. Deep
 
 Inside a group of adventurers had congealed around a table. At first, it had not been clear that they were, in fact, adventurers. They was always the outside chance that they were pilgrims, or merchants who had some how made it through the trouble and chaos on the roads. Even these dark days, such things were not unheard of. 
 
-The Inn looked worse on the inside. It was dark and run down, and filled with desperate characters. Up until that point, I had never liked Inns. Places where travelers gathers and drank were not safe for unfortunate children such as I.
+The Inn looked worse on the inside. It was dark and run down, and filled with desperate characters. Up until that point, I had never liked Inns. Places where travelers gathers and drank were not safe for unfortunate children such as I. 
 
 
 "She doesn't seem nice on the outside, but she is. She really, really is," he said ending with a gravelly sigh. At the time I was too young and too hungry to know what a sigh like that meant.  
