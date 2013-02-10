@@ -14,7 +14,7 @@ fi
 
 cd ..
 
-cat `find *md` >> output/fullbook.markdown
+cat `find *md` >> ../output/fullbook.markdown
 
 # To Build additional kinds of ebooks, uncomment these lines and name your book.
 
