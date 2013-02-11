@@ -318,30 +318,35 @@ The lady looked at the assortment of spiked and curved and distinctly manly piec
 
 "Oooh, they're so... pretty," exclaimed the Lady.
 
-
 Each of the sheathes were attached to a strip of silk. I could not imagine who would have a waist small enough to tie such a ribbon around. 
 
+"I don't wish to offend my lady, but you do know how they are worn."
+
+"I am not sure."
 
 
-"I don't wish to offend my lady, but you do "
+* not defense, the ability save the dutchess and elevate her station
+* price 50 g
+* but he'll offer a discount if she can assuage his concern
+* learns that the Dutchess is leaving
+* She left with a dagger strapped to her thigh
 
 
-
-It's name in the language of the Harakeet means, "Protector of Virtue."
-
-He lifted the main display board to reveal 
 
 
 "Was that the queen?"
 
 Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment, we aren't a kingdom. We're a protectorate of the Mercian Empire. And that means we rate a Duke, instead of a King."
 
-"Then why did you bow and scrape."
+"Then why did you bow and scrape?"
 
 "Well, Lady-in-Waiting in a fancy term that mean serving girl. A noble kind of serving girl to be sure, but a serving girl all the same. The trick is you treat the serving girls like Queens and treat the Queens like serving girls. Novelty. Rule Number One, everybody likes novelty."
 
 It has been a lifetime since I was rescued and apprenticed to Boltac, but I can honestly say, I have encountered no better summary of the true rules of etiquette than that. 
 
+
+
+But something was strange. He winced a little as he put the coins in his coin purse.
 
 
 "Why didn't we check her coin while she was here."
@@ -370,7 +375,28 @@ As soon as I said, it I regretted it. Boltac had been kidding around with me bef
 
 First among my duties was counting coins. It seemed that the entirely of my life was to be counting  
 
+## Shipment is lost
 
+* boltac goes to investigate
+* Road blown off the side of the mountain
+* he is sued for payment. 
+* appears before the king
+
+## When He Goes to Court
+
+* They argue both sides.
+* Boltac loses.
+* He doesn't take it well. We'll hang back and petition him. 
+* The goat farmers
+* The Wizard appears. 
+* Hide under the bench and report what they say. (a shove and it was done.)
+* Wizard hides himself. 
+
+## The Conversation between them
+
+That night at the inn. They talk. The Wizard comes in for dinner
+Boltac and the Wizard vie for Asarah affections
+Nobody listens to the boy.  
  
 
 #END
