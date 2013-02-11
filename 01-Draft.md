@@ -312,7 +312,11 @@ Of course, I had no idea what they were talking about. But Boltac hobbled back o
 
 The lady looked at the assortment of spiked and curved and distinctly manly pieces of cutlery. Her smile drooped. Boltac did not miss his cue. 
 
-"Of course, for a lady like yourself, none of these seem appropriate. "
+"Of course, for a lady like yourself, none of these crude implements are appropriate. But perhaps you would care to persue..." Boltac nodded to me and shut the door and shot the bolt. 
+
+"...something from our special inventory." He reached down and lifted the velvet board upon which the daggers rested.
+
+
 
 It's name in the language of the Harakeet means, "Protector of Virtue."
 
