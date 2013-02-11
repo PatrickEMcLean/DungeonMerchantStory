@@ -314,7 +314,16 @@ The lady looked at the assortment of spiked and curved and distinctly manly piec
 
 "Of course, for a lady like yourself, none of these crude implements are appropriate. But perhaps you would care to persue..." Boltac nodded to me and shut the door and shot the bolt. 
 
-"...something from our special inventory." He reached down and lifted the velvet board upon which the daggers rested.
+"...something from our special inventory." He reached down and lifted the velvet board upon which the daggers rested. He lifted them out of the display case and revealed the merchandise below. A collection of jewel encrusted blades, none any longer than my hand, all accompanied by sheathes of velvet. 
+
+"Oooh, they're so... pretty," exclaimed the Lady.
+
+
+Each of the sheathes were attached to a strip of silk. I could not imagine who would have a waist small enough to tie such a ribbon around. 
+
+
+
+"I don't wish to offend my lady, but you do "
 
 
 
@@ -323,6 +332,19 @@ It's name in the language of the Harakeet means, "Protector of Virtue."
 He lifted the main display board to reveal 
 
 
+"Was that the queen?"
+
+Boltac laughed. "No. She was a lady in waiting for the Dutchess."
+
+
+
+"Why didn't we check her coin while she was here."
+
+"Ah, you're a clever boy, but half clever. There are those who's credit you question, and those you don't."
+
+"What, she gets to cheat, just because she's noble?"
+
+"From the mouth of babes -- yes, that's politics in a nutshell. "
 
 
 First among my duties was counting coins. It seemed that the entirely of my life was to be counting  
