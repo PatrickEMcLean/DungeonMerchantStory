@@ -338,7 +338,9 @@ Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment,
 
 "Then why did you bow and scrape."
 
-"Well, Lady-in-Waiting in a fancy term that mean serving girl. A noble kind of serving girl to be sure, but a serving girl all the same."
+"Well, Lady-in-Waiting in a fancy term that mean serving girl. A noble kind of serving girl to be sure, but a serving girl all the same. The trick is you treat the serving girls like Queens and treat the Queens like serving girls. Novelty. Rule Number One, everybody likes novelty."
+
+It has been a lifetime since I was rescued and apprenticed to Boltac, but I can honestly say, I have encountered no better summary of the true rules of etiquette than that. 
 
 
 
