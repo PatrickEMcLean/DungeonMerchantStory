@@ -334,7 +334,7 @@ He lifted the main display board to reveal
 
 "Was that the queen?"
 
-Boltac laughed. "No. She was a lady in waiting for the Dutchess."
+Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment, we aren't a kingdom"
 
 
 
@@ -344,7 +344,22 @@ Boltac laughed. "No. She was a lady in waiting for the Dutchess."
 
 "What, she gets to cheat, just because she's noble?"
 
-"From the mouth of babes -- yes, that's politics in a nutshell. "
+"From the mouth of babes -- yes, that's politics in a nutshell."
+
+"But that's not fair."
+
+"I'm glad your understanding of equity is so keen, apprentice."
+
+"Somebody should do something. It's not right."
+
+"Somebody? Well, perhaps somebody should," he said, handing me the broom, "But what you should do is sweep up. I'll be across the street."
+
+"Visiting your girlfriend?"
+
+As soon as I said, it I regretted it. Boltac had been kidding around with me before, but now he was freighted with sadness. "No," he shook his head, "Not my... I don't have a..." the silence drew out for an uncomfortably long time. With the last light of day behind him, I couldn't see his face clearly. Finally he threw me the key to the store and said, "You're dinner will be waiting 'prentice." Then he hunched his shoulders and dragged his leg out of the store. 
+
+ 
+
 
 
 First among my duties was counting coins. It seemed that the entirely of my life was to be counting  
