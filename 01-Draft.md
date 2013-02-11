@@ -296,11 +296,11 @@ When I had suggested that we might use one to cool the store and render our pres
 
 The light changed, and I looked up and there was a woman in a fine dress. As she entered the store I could see that she wore expensive jewelry and cooled herself with a hand-painted fan from the East. 
 
-Boltac wiped the sweat from his face with a handkerchief and said, "My lady! welcome to Boltac's General's Store" Then came out from behind the counter and made a deep, formal bow. I just stood there with my mouth hanging open. Boltac, still bowed, saw me and snapped his finger. "Bow," he hissed. I imitated him as best I could and managed not to fall down. 
+Boltac wiped the sweat from his face with a handkerchief and said, "My lady! welcome to Boltac's General's Store" Then came out from behind the counter and made a deep, formal bow. I just stood there with my mouth hanging open. Boltac, still bent over, saw me and snapped his finger. "Bow," he hissed. I imitated him as best I could and managed not to fall down. 
 
-"Please gentle merchant, arise," said the lady, now fanning a smile. 
-,
-"How may be we be of service, milady?"
+"Please gentle merchant, arise," said the lady, now fanning her smiling face. 
+
+"How might be we be of service, milady?"
 
 "I am going on a trip, the end of which is, uncertain, and I should like to buy a little... oh, something which..." she waved her fan in the air as she waited for Boltac to fill in the blank.
 
@@ -308,7 +308,17 @@ Boltac wiped the sweat from his face with a handkerchief and said, "My lady! wel
 
 "Yes!" she said clapping her hands together quickly in front of her face. "Oh, yes! Insurance, that is exactly what I seek."
 
-Of course, I had no idea what they were talking about.
+Of course, I had no idea what they were talking about. But Boltac hobbled back over to the daggers. "Here is our selection of daggers, all guaranteed to strike true."
+
+The lady looked at the assortment of spiked and curved and distinctly manly pieces of cutlery. Her smile drooped. Boltac did not miss his cue. 
+
+"Of course, for a lady like yourself, none of these seem appropriate. "
+
+It's name in the language of the Harakeet means, "Protector of Virtue."
+
+He lifted the main display board to reveal 
+
+
 
 
 First among my duties was counting coins. It seemed that the entirely of my life was to be counting  
