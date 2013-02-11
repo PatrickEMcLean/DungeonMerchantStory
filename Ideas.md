@@ -11,6 +11,7 @@ Ladenbesitzer -- Ladenbitzer. (Boltac's last name -- means shopkeeper in German.
 
 Asarah dealing with the chosen two. Chapter The Chosen Two. 
 
+Boltac riding out to inspect the ambush of a Caravan.
 
 Have him fail negotiating in the store and succeed negotiating at the end. 
 
