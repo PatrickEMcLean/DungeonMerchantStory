@@ -334,7 +334,11 @@ He lifted the main display board to reveal
 
 "Was that the queen?"
 
-Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment, we aren't a kingdom"
+Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment, we aren't a kingdom. We're a protectorate of the Mercian Empire. And that means we rate a Duke, instead of a King."
+
+"Then why did you bow and scrape."
+
+"Well, Lady-in-Waiting in a fancy term that mean serving girl. A noble kind of serving girl to be sure, but a serving girl all the same."
 
 
 
@@ -358,7 +362,7 @@ Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment,
 
 As soon as I said, it I regretted it. Boltac had been kidding around with me before, but now he was freighted with sadness. "No," he shook his head, "Not my... I don't have a..." the silence drew out for an uncomfortably long time. With the last light of day behind him, I couldn't see his face clearly. Finally he threw me the key to the store and said, "You're dinner will be waiting 'prentice." Then he hunched his shoulders and dragged his leg out of the store. 
 
- 
+
 
 
 
