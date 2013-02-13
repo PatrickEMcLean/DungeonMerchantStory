@@ -314,15 +314,36 @@ The lady looked at the assortment of spiked and curved and distinctly manly piec
 
 "Of course, for a lady like yourself, none of these crude implements are appropriate. But perhaps you would care to persue..." Boltac nodded to me and shut the door and shot the bolt. 
 
-"...something from our special inventory." He reached down and lifted the velvet board upon which the daggers rested. He lifted them out of the display case and revealed the merchandise below. A collection of jewel encrusted blades, none any longer than my hand, all accompanied by sheathes of velvet. 
+"...something from our special inventory." He reached down and lifted the velvet board upon which the daggers rested. He lifted them out of the display case and revealed the merchandise below. A collection of jewel encrusted blades, none any longer than my hand, all accompanied by sheathes of wrapped in velvet.  
 
-"Oooh, they're so... pretty," exclaimed the Lady.
+"Oooh, they're so... pretty," exclaimed the Lady, "I didn't expect that."
 
 Each of the sheathes were attached to a strip of silk. I could not imagine who would have a waist small enough to tie such a ribbon around. 
 
-"I don't wish to offend my lady, but you do know how they are worn."
+"I don't wish to offend my lady, but you do know how they are worn?"
 
-"I am not sure."
+"I, well, I, I'm not sure."
+
+"Of course not," Boltac said, "You are far to gentle of a lady for such matters." He clumped out from behind the counter and tied one of the daggers to the inside of his thigh. "Like this, you see. In the Southern Kingdoms they have a special name for these dainties. They call them Harakeet, a name that means Protector of Virtue."
+
+The Lady blushed and turned away.
+
+"My Lady, I didn't mean to offend you. It's just that the road can be a dangerous place. And a woman of your great beauty and virtue is right to take precautions."
+
+"I, I'm sorry. You are right of course."
+
+Boltac removed the dagger from his leg and placed it with the others in the display case. He stepped back and let the woman examine them. She examined one and then another, finally settling on one with bright blue stone in the hilt. "How much for this one?"
+
+"Ah such taste, milady. The most exquisite workmanship in the case. A fine weapon worked from Dwarvish steel. You could trust a blade like that in any situation."
+
+"I certainly hope I never have to."
+
+"As do I Milady, but such beautiful and durable insurance is yours for the mere pittance of 50, no 45 gold."
+
+"Forty-five gold," she said, a look of disappointment crossing her face. "I had no idea it would be so much for a..."
+
+"A blade that will never fail you, even in your darkest hour."
+
 
 
 * not defense, the ability save the dutchess and elevate her station
