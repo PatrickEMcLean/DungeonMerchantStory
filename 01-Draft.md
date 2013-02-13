@@ -342,9 +342,47 @@ Boltac removed the dagger from his leg and placed it with the others in the disp
 
 "Forty-five gold," she said, a look of disappointment crossing her face. "I had no idea it would be so much for a..."
 
-"A blade that will never fail you, even in your darkest hour."
+"A blade that will never fail you, even in your darkest hour," Boltac said with a smile as smooth as ice.
+
+With reluctance, the woman placed the beautiful dagger back in it's secret case. "I'm afraid, Mr. Boltac, that your price is too dear for me."
+
+"Wait, wait, wait." Boltac rushed to put the dagger back in her hand. "Milady, I would hate to have it said that a noble woman set out on the road without proper protection because of of me. Let us talk for a moment and see if we can come to some kind of negotiation."
+
+The woman ripped her eyes off the dagger and looked up in anger at Boltac, " Sir! Are you suggesting..." she pulled the dagger from it's sheathe with an ease that belied her earlier reluctance to touch it.
+
+Boltac held his hands up and waggled them back and forth. "I surrender! I surrender! Milady, I would never... and you should be ashamed of yourself to suggest such a thing in front of my young apprentice."
+
+She looked to me and when she saw the blank look on my face, she blushed. 
+
+"Milady," Boltac continued, "If I may. I was only suggesting that you might offer part of the price in trade, in information," Boltac added hastily. "A humble merchant like myself profits or starves on the whims of his betters, like yourself, so when I hear of a an unexpected journey, it raises my fear and concern."
+
+"What, exactly are you asking of me, merchant?" She spit the word merchant out as if it was an insult. 
+
+The insult didn't seem to phase Boltac. He just smiled, pushed up his sleeves and said, "All right, down to business. The dagger is yours for 25 gold, if you answer three questions. Where you going? With who? And, most importantly, why?"
+
+"Twenty."
+
+"Done, sheathe your new dagger and come across with the info."
+
+"*My* lady, the Dutchess Purncettia Estrellita Von Harbenstrop, has tired of the dismal weather and dull company of Robrecht. She is returning with her train to the court of her father, King of [[Domrecia,]] "
+
+"Her subjects will be grieved to see her go. Her presence has been a reprieve from our otherwise mundane existence of growing crops, having children, running stores, etc. and so forth," said Boltac with just the hint of a smile on the right corner of his mouth. 
 
 
+
+
+When she was out of the store and well down the street, Boltac muttered, "Yeah, bye-bye now. Don't sheathe that thing in too many caravan guards."
+
+"She was pretty," I said. 
+
+"Pretty like a snake," said Boltac. 
+
+"Why'd she get so upset?"
+
+"Ahh, that was just negotiation. Don't worry about that. Now, let's see to these coins."
+
+
+# HERE
 
 * not defense, the ability save the dutchess and elevate her station
 * price 50 g
