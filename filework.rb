@@ -1,9 +1,9 @@
 #!/usr/bin/env ruby
 
-`bash ./build/build.sh`
+#`bash ./build/build.sh`
 wordcount=`wc 01-Draft.md`
 wordcount=wordcount.split(" ")
-system("git add -A")
+system("git add . -A")
 system("git commit -m \"words in draft= \ #{wordcount[1]}\"")
 system("git push origin master")
 
