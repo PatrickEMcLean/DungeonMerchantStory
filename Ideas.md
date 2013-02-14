@@ -1,5 +1,16 @@
 # Ideas
 
+
+Whenever he was nervous, he would count his coins. -- use this to get him to put a creeping coin into his bag of holding. 
+
+have Asarah tell the boy about Boltac's early days. He might be the richest man in Robrecht. And the lonliest. She sighed. So sad. 
+
+
+[[shoplifter?]]
+
+
+
+
 Counting coins -- Boltac has him count the coins. This is a thankless job because it involves checking for creeping coins, which, they bit the kid and try to bite other coins. 
 
 The basilisk con -- guy brings a basilisk in a box in -- tries to sell it -- but won't open the box (it will turn you to stone)
