@@ -366,9 +366,11 @@ The insult didn't seem to phase Boltac. He just smiled, pushed up his sleeves an
 
 "*My* lady, the Dutchess Purncettia Estrellita Von Harbenstrop, has tired of the dismal weather and dull company of Robrecht. She is returning with her train to the court of her father, King of [[Domrecia,]] "
 
-"Her subjects will be grieved to see her go. Her presence has been a reprieve from our otherwise mundane existence of growing crops, having children, running stores, etc. and so forth," said Boltac with just the hint of a smile on the right corner of his mouth. 
+"Her subjects will be grieved to see her go. Her presence has been a reprieve from our otherwise mundane existence of growing crops, having children, running stores, etc. and so forth. A scintillating reminder of the more brilliant, glittering world outside of our terribly provincial borders." said Boltac with just the hint of a smile on the right corner of his mouth. 
 
+"Well, yes," she said, somewhat confused, "Exactly. I'm so glad you understand."
 
+Boltac clicked his heels together in a smart little bow. "I live to serve. Shall I wrap that for you?" Boltac slid a coin tray across the counter and looked away. He counted with his ears while the Lady placed twenty gold pieces into the tray. I counted with my eyes. People, I had learned from my time with Boltac, were notorious cheats. 
 
 
 When she was out of the store and well down the street, Boltac muttered, "Yeah, bye-bye now. Don't sheathe that thing in too many caravan guards."
@@ -379,7 +381,66 @@ When she was out of the store and well down the street, Boltac muttered, "Yeah, 
 
 "Why'd she get so upset?"
 
-"Ahh, that was just negotiation. Don't worry about that. Now, let's see to these coins."
+"Ahh, that was just negotiation. Don't worry about that. Now, let's see to these coins. She what the nobility has passed us. Bar the door."
+
+I did as I was told and by the time I returned to the counter, Boltac had lined the twenty gold pieces up in a row. He stared at them accusingly. 
+
+"I can smell it. There's one here."
+
+"What are you talking about?"
+
+"Bad money, drives out good," he muttered.
+
+"What?"
+
+Boltac's eyes flashed up at me, deadly serious. "Creeping coins."
+
+I wore a perfectly blank look. 
+
+"Magic, my boy, the dark, business end of magic." He reached under the table and produced a wand of 
+
+"Is that a magic wand?" I asked, in what must have been considerable awe.
+
+"No. It is a magic *detecting* wand. Hold this end near a magical object or creature and the other end gets hot. Usually burning the wearer."
+
+"Ouch."
+
+"Eh, that's the way it is with magic. It's a blessing and a curse." He held the tip of the want over the first coin and waited. "So years ago there was Wizard named Numismator. And in the way of Wizards, he had a lot of money in a dark, secret dungeon. Either from robbing caravans or from buying and selling potions." He looked up at me with a shrug, "Probably robbing." The tip of the wand moved to the next coin.
+
+
+
+"So, word gets out, Numismator is a coin collector. Next thing you know, every ne'er-do-well and layabout in the known Kingdoms came to take a run at Numismator's horde. Ennh, I know there's one here," Boltac muttered as he moved to the next coin.
+
+"Well, he got sick of it, see. I mean he was a wizard. And with all these people barging into his business all the time, he couldn't get any wizarding done. So, the story goes. "
+
+"So, most people never notice creeping coins. "
+
+
+
+
+"Ah, I should have seen if from the beginning. You see how this one is darker than the rest? Yes, they start off silver and get darker as they get older. Camouflage, helps them blend in. Little bastards.
+
+"So what's the harm? If it blends and it spends?" I asked.
+
+"What's the harm? They eat coins. Real coins. Then they multiply, leaving more coins. Leave a purse sitting around with one of these in it for a few years. And then don't have a nest egg anymore. You've got a horde of little monsters leaping up at you to strip the flesh off your bones and gnaw the metal out of your teeth."
+
+"Oh."
+
+"Enn-hunh," he said, taking some perverse pleasure in my new understanding. "That's exactly what happened to Numismator. He created these little bastards, and started leaving piles of these false coins around to ward off the plague of meddlesome adventurers that came to trouble him. But pretty soon -- all his coins were creeping. And one night," he paused for dramatic effect, "They got 'im." He thrust the tongs with the still screaming coin into 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # HERE
