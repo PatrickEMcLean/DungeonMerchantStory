@@ -437,12 +437,6 @@ I wore a perfectly blank look.
 
 
 
-
-
-
-
-
-
 # HERE
 
 * not defense, the ability save the dutchess and elevate her station
