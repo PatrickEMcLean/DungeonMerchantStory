@@ -370,8 +370,7 @@ The insult didn't seem to phase Boltac. He just smiled, pushed up his sleeves an
 
 "Well, yes," she said, somewhat confused, "Exactly. I'm so glad you understand."
 
-Boltac clicked his heels together in a smart little bow. "I live to serve. Shall I wrap that for you?" Boltac slid a coin tray across the counter and looked away. He counted with his ears while the Lady placed twenty gold pieces into the tray. I counted with my eyes. People, I had learned from my time with Boltac, were notorious cheats. 
-
+Boltac clicked his heels together in a smart little bow. "I live to serve. Shall I wrap that for you?" Boltac slid a coin tray across the counter and looked away. He counted with his ears while the Lady placed twenty gold pieces into the tray. I counted with my eyes. People, I had learned from my time with Boltac, were notorious cheats.""
 
 When she was out of the store and well down the street, Boltac muttered, "Yeah, bye-bye now. Don't sheathe that thing in too many caravan guards."
 
@@ -379,9 +378,19 @@ When she was out of the store and well down the street, Boltac muttered, "Yeah, 
 
 "Pretty like a snake," said Boltac. 
 
+"Was that the queen?"
+
+Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment, we aren't a kingdom. We're a protectorate of the Mercian Empire. And that means we rate a Duke, instead of a King."
+
+"Then why did you bow and scrape?"
+
+"Well, Lady-in-Waiting in a fancy term that mean serving girl. A noble kind of serving girl to be sure, but a serving girl all the same. The trick is you treat the serving girls like Queens and treat the Queens like serving girls. Novelty. Rule Number One, everybody likes novelty."
+
+It has been a lifetime since I was rescued and apprenticed to Boltac, but I can honestly say, I have encountered no better summary of the true rules of etiquette than that. 
+
 "Why'd she get so upset?"
 
-"Ahh, that was just negotiation. Don't worry about that. Now, let's see to these coins. She what the nobility has passed us. Bar the door."
+"Y'know, if I had know you were going to ask so many questions I would have left you to become sausages. But that's a good question. That was Negotiation. A complex and powerful art that I will teach you by and by. But right now, let's see how badly she got us. Bar the door."
 
 I did as I was told and by the time I returned to the counter, Boltac had lined the twenty gold pieces up in a row. He stared at them accusingly. 
 
@@ -407,13 +416,11 @@ I wore a perfectly blank look.
 
 "Eh, that's the way it is with magic. It's a blessing and a curse." He held the tip of the want over the first coin and waited. "So years ago there was Wizard named Numismator. And in the way of Wizards, he had a lot of money in a dark, secret dungeon. Either from robbing caravans or from buying and selling potions." He looked up at me with a shrug, "Probably robbing." The tip of the wand moved to the next coin.
 
-
-
 "So, word gets out, Numismator is a coin collector. Next thing you know, every ne'er-do-well and layabout in the known Kingdoms came to take a run at Numismator's horde. Ennh, I know there's one here," Boltac muttered as he moved to the next coin.
 
 "Well, he got sick of it, see. I mean he was a wizard. And with all these people barging into his business all the time, he couldn't get any wizarding done. So, the story goes. "
 
-"So, most people never notice creeping coins. "
+"So, most people never notice creeping coins."
 
 
 
@@ -426,62 +433,140 @@ I wore a perfectly blank look.
 
 "Oh."
 
-"Enn-hunh," he said, taking some perverse pleasure in my new understanding. "That's exactly what happened to Numismator. He created these little bastards, and started leaving piles of these false coins around to ward off the plague of meddlesome adventurers that came to trouble him. But pretty soon -- all his coins were creeping. And one night," he paused for dramatic effect, "They got 'im." He thrust the tongs with the still screaming coin into 
+"Enn-hunh," he said, taking some perverse pleasure in my new understanding. "That's exactly what happened to Numismator. He created these little bastards, and started leaving piles of these false coins around to ward off the plague of meddlesome adventurers that came to trouble him. But pretty soon -- all his coins were creeping. And one night," he paused for dramatic effect, "They turned on *him*." He held the screeching, pecuniary thing in the iron tongs and thrust it towards me. 
 
+"You see? You see? Imagine hundreds of those things turning on you in the night in some dark alley! Enh, we're all so afraid of being robbed of our money, nobody realizes that getting robbed *by* your money could be worse!"
 
+I shied away and asked, "So what do we do with it?"
 
+"Eh, well, what can you do?" He said with a shrug. "I mean, it's still money. I throw them down here with the rest of them." He clunked over to the far end of the counter and lifted a panel in the floor. Beneath was a stone with piece of rope in it. Beneath that was a well filled with coins. I couldn't tell how deep it was. For a moment I greed swept over me. With that many coins... But, as he lowered the spindly-legged coin-creature towards the surface of the coins, it's high pitched screeching clicks began to wake them. The top layer of coins began to wiggle, and split and grow legs in the most absurd, yet frightening fashion. To this day, I still cannot sit  in the same room with an open coin purse without feeling uncomfortable. 
 
+After that I was eager to test any coins that came in the shop. And I pestered Boltac with questions.Why had he kept them? Did everybody know? If they did know, why didn't anybody do anything about it? 
 
+"More people know that you think? But what's to do? Who wants to admit they've got a gold piece that isn't worth anything? So I just use the merchant's defense. Mark up the price, and get on with my life. I've been taking them out of circulation for years, but... "
 
+In the eager way that all young boys have I asked, "How many of them do you have?" 
 
-
-
-
-# HERE
-
-* not defense, the ability save the dutchess and elevate her station
-* price 50 g
-* but he'll offer a discount if she can assuage his concern
-* learns that the Dutchess is leaving
-* She left with a dagger strapped to her thigh
-
-
-
-
-"Was that the queen?"
-
-Boltac laughed. "No. She is a Lady-in-Waiting for the *Dutchess*. At the moment, we aren't a kingdom. We're a protectorate of the Mercian Empire. And that means we rate a Duke, instead of a King."
-
-"Then why did you bow and scrape?"
-
-"Well, Lady-in-Waiting in a fancy term that mean serving girl. A noble kind of serving girl to be sure, but a serving girl all the same. The trick is you treat the serving girls like Queens and treat the Queens like serving girls. Novelty. Rule Number One, everybody likes novelty."
-
-It has been a lifetime since I was rescued and apprenticed to Boltac, but I can honestly say, I have encountered no better summary of the true rules of etiquette than that. 
-
-
-
-But something was strange. He winced a little as he put the coins in his coin purse.
-
-
-"Why didn't we check her coin while she was here."
-
-"Ah, you're a clever boy, but half clever. There are those who's credit you question, and those you don't."
-
-"What, she gets to cheat, just because she's noble?"
-
-"From the mouth of babes -- yes, that's politics in a nutshell."
-
-"But that's not fair."
-
-"I'm glad your understanding of equity is so keen, apprentice."
-
-"Somebody should do something. It's not right."
-
-"Somebody? Well, perhaps somebody should," he said, handing me the broom, "But what you should do is sweep up. I'll be across the street."
+"More than you want to carry," was all he would say, " then he said, "Sweep the front. Lock up. I'll be across the street when you're done." 
 
 "Visiting your girlfriend?"
 
 As soon as I said, it I regretted it. Boltac had been kidding around with me before, but now he was freighted with sadness. "No," he shook his head, "Not my... I don't have a..." the silence drew out for an uncomfortably long time. With the last light of day behind him, I couldn't see his face clearly. Finally he threw me the key to the store and said, "You're dinner will be waiting 'prentice." Then he hunched his shoulders and dragged his leg out of the store. 
+
+
+# Jump
+
+The next day, Boltac closed the store early and took me to court. We walked up the hill, to the river. Of course, this sounds strange to any who are not familiar with our strange 
+
+
+Seed: "If only a man from Robrecht sat on the throne of Robrecht," muttered Boltac.
+
+## When He Goes to Court
+
+* They argue both sides.
+* Boltac loses.
+* He doesn't take it well. We'll hang back and petition him. 
+* The goat farmers
+* The Wizard appears. 
+* Hide under the bench and report what they say. (a shove and it was done.)
+* Wizard hides himself. 
+
+
+
+# Reaction to the news.
+
+By the time I closed the shop, Boltac and Asarah were deep in conversation over a joint of beef. As I joined them at the table in the back Asarah greeted me warmly, "There he is, the young Merchant-in-Training!" Boltac  grunted and pushed the plate of roast beef towards me. I wondered how far wrong I had gone with my joke. I still didn't understand why he had helped me. What kind of spot would I be in if he stopped? I didn't want to go back to the streets, that was for certain.
+
+"It bodes not well," muttered Boltac into his Ale.
+
+"You always say that," said Asarah, "But change has always been good for your business."
+
+"A change in power is never good for business. New tax collectors to bribe, I might have to obtain my Warrant of Retail again."
+
+"It's good for my business," said Asarah with a smile, all those new officials need a place to stay and beer to drink while you are corrupting them.
+
+"Arnngh," said Boltac with a wave of his hand.
+
+"If you please, good merchant, I have something I would like to sell," I looked up and saw a thin, well-dressed man clad all in soft black. His eyes were large and watery and a little too sincere. They glowed like great moons of reassurance. Making it was difficult to notice the pale, dead face that never smiled around them. 
+
+Asarah looked at him and made an unpleasant face. "If you will excuse me, I have customers to tend to."
+
+"Ah Rattick," said Boltac, "Have you taken those poor fools last coin before they could drink it." He indicated the table or particularly shoddy-looking adventurers which Rattick had just left. 
+
+"No," Rattick sighed with great sincerity, "but if I had, just *if* mind you, would that be so terrible? So parasitic? After all, we are all suffering from an economic downturn of such proportion, such magnitude, that bringing coin here to Robrecht and keeping it here, why it is a matter of our very survival. 
+
+"Economic? That's a very large word for you Rattick," Boltac said. 
+
+"You should not be so unkind to me, stout merchant. Besides, it would be a sin to let them take their coin with them on their planned outing. A sin to let them wander off into the hills and die, leaving their remaining coin festering at the bottom of some dark fen, troll pit or bottomless chasm." 
+
+At this, Boltac raised his glass and clinked it against Ratticks. "Take note, 'Prentice. This man is a thief, and insult to some, but at least he is one of the best."
+
+Rattick bowed his head in my direction, "With pleasure. Such delicate hands he has Boltac. Just the thing for getting into coin purses and closed pockets without being detected. If ever you wish to change masters..." He let the thought hang in the thick air of the inn. 
+
+"He has a contract with me," Boltac said, closing the subject. But the look Rattick gave me told me that it was still open as far as he was concerned. 
+
+
+
+nd waited in Robrecht -- Rattick was actually good at what he did. 
+
+"Yes, you see that one there," Rattick continued, "The one with the pan for a helmet. Yes, he is the *chosen one*."
+
+"Ah, of course, sent to to free us from the awful shadow of the wizard who has occupied the nearby tower."
+
+"Cavern, actually. Rumor has it the old Matteschitz mine collapsed into a gigantic, secret cavern in the earth."
+
+"Oh, ah, of course. Cavern. How silly of me," said Boltac.
+
+"And even know, the great wizard Oddna searches beneath the earth for relics and powers of which man was not meant to know." 
+
+"Which, will inevitably bring about the destruction of all of the Duchy of Robrecht," said Boltac, filling in the next verse. And recognizing it for the lie it was. He had never met the Wizard Oddna, and hoped he never would -- he hated magic in a way that only a trader with a lust for certain, right and ordinary commerce can. -- but if a man wanted to dig for objects in the earth, why shouldn't he? As for the tales of horrible things happening and monsters roaming the land, Boltac couldn't help but notice that these stories, and the twisted corpses and wrecked adventurers who had retunred, had only started turning up after adventurers had gone out in search of Oddna's loot. Boltac knew what he would do to anyone he caught robbing his store...
+
+"Yes, but of course. But thankfully, the chosen one is here to save us."
+
+"Hmm, thankfully."
+
+"Only, there is one, unexpected problem for this auspicious young man on his world-healing hero quest."
+
+"Yes,"
+
+"You see the tall one, in the Mage's robe."
+
+"Yes, the one covered in silly mystical symbols as only a true mage can be?"
+
+"Yes. Turns out, he's the chosen one. Too."
+
+"Ahh, so the chosen two."
+
+"Yes, I fear it will not end well for their party, but enough of the misfortunes of others. I have a certain item that I have come into possession of a certain item which I am certain you will be interested."
+
+"Step into my office," said Boltac, as he slid off the stool and made his way to the door. But not before casting a longing look towards the kitchen. What would 
+
+CH 3 -- the problem with magic items
+
+---
+
+Asarah -- but you see that's how she knows he loves her. He comes for her, risks everything against all odds for the love of his life. 
+
+Boltac -- that's how she knows he's an idiot. 
+
+Asarah -- You're a bitter, bitter man. 
+
+Boltac -- What because I make good sense?
+
+Asarah -- Because there's no romance in your life. No passion. No magic. 
+
+Ugh, thought Boltac. Magic that's worse than romance
+
+---
+
+
+-Isn't that right, Asarah?" but when he turned back, she was gone. 
+
+
+
+
+
+
 
 
 
@@ -496,15 +581,7 @@ First among my duties was counting coins. It seemed that the entirely of my life
 * he is sued for payment. 
 * appears before the king
 
-## When He Goes to Court
 
-* They argue both sides.
-* Boltac loses.
-* He doesn't take it well. We'll hang back and petition him. 
-* The goat farmers
-* The Wizard appears. 
-* Hide under the bench and report what they say. (a shove and it was done.)
-* Wizard hides himself. 
 
 ## The Conversation between them
 
