@@ -8,7 +8,7 @@ have Asarah tell the boy about Boltac's early days. He might be the richest man 
 
 [[shoplifter?]]
 
-
+Overwhelmed by coins, a la sorcerer's apprentice?
 
 
 Counting coins -- Boltac has him count the coins. This is a thankless job because it involves checking for creeping coins, which, they bit the kid and try to bite other coins. 
