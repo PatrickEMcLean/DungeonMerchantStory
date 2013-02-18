@@ -95,17 +95,155 @@ Boltac never knew whether the boy had been curious, or planning to steal some of
 
 [^things]: Sorry about this unfortunate use of the word "things" here. If you know you know and if you don't, there's no point in rushing it. Enjoy growing up. 
 
+# CHAPTER 2: Roads to Robrecht
+
+I must tell you about the roads that lead to Robrecht.
+
+You may think that your modern roads are better constructed or more advanced but I assure you, they are not. They are more regular. They are wider. But no roads in the history of the world have ever been or will ever be more daring than the roads that lead through the Harsburgian Mountains. More than feats of engineering, they are feats of human daring that may never be repeated. 
+
+To understand them, ask yourself, how would your turn a footpath chiseled into the side of a sheer cliff into a road big enough for a wagon. If you are like Boltac, your answer should be, "I'd hire it done!" But, if you are like an engineer, consider the problem. And now consider that the only steel there is in the world is reserved for making implements suitable for sticking in fearsome creatures and fearsome people. In fact, the manufacture of steel is a closely guarded secret[^riddle] and regarded as a wizardry all it's own. 
+
+So you use iron, rope, wood and courage. You employ brave men to climb out on the rock face and drive bars of iron into the mountain. To these bars you attach ropes. And to the ropes you attach the edge of the wooden roadway. Yes, that is correct. The wooden planks of the road hang out in space, over impossible drops and defiles. Mule and wagon trains must inch their way across boards (rotten?) held by ropes (rotten?) over perilous defiles (lethal).
+
+Travel is dangerous and difficult, but commerce (like it's more painful and expensive cousin, love) always finds a way. But just like love, commerce also ends in disaster. 
+
+"Well," said Boltac as he looked down at wreckage of three wagons scattered along the banks of the river Swift[^Swift] thundering far, far below, "I'm not paying for that shipment." He inspected what was left of the East/South road. Men with fresh ropes and planks were already reconstructing the section of roadway that had given way. Even though he weighed much, much less than the wagons that had broken the roadway, he was uneasy standing on anything that shifted with the breeze.
+
+The freight agent standing next to him said, "I brought you out here so you could understand. It's nobody's fault. An accident you see." He smiled at Boltac, but his smile faded when he saw that Boltac's expression seemed less likely to change than the granite face next to which they stood. "So you'll have to make good on your portion of the shipment."
+
+"Sorry, that's not in the contract," said Boltac. 
+
+"Contract?" said the freight agent. "But we don't have a contract! You just said you'd pay."
+
+"Exactly," said Boltac, "I said I'd pay for goods delivered to my store. I didn't say I would pay for the stupidity of your teamsters." 
+
+"But, but, they weren't. I mean to say, you assumed the risk."
+
+"Oh no," said Boltac, waving a finger, "You assumed I assumed the risk. And you assumed wrong. Very risky to assume." 
+
+"You can't do this!"
+
+"That's right," said Boltac smiling into the cold, damp wind. "I can't pay for your error. If I paid every time someone make a mistake, I'd be out of business."
+
+"This is outrageous. I will take you before the Duke! Let us see how you fare before his justice."
+
+"Fine," said Boltac, "Take me anywhere you like solid on solid ground," and then Boltac waddled around the bend and back to his carriage as quickly as his flat feet would carry him. 
+
+# CHAPTER THREE: In the Company of Heroes
+
+When he got back to town, Boltac headed for the nearest inn. It happened to be across the street from his shop. It was a dismal looking placed named the Bent Eelpout. It was far from the nicest accommodations in town, but Boltac liked it there. Primarily because he was in love with the owner, a woman named Asarah.  
+
+The inn took it's name from a spectacularly ugly fish that lived in the depths of Lake Robrecht. 
+
+The view meant the owner and proprietoress, Asarah. She was beautiful woman with
+
+He walked up the to bar and cried, "Help, I am gravely wounded!" The entire room turned their heads. Could this be the ADVENTURE they had been waiting for.Boltac sneered at the ill-equipped rabble spread out in varying states of sobriety throughout the inn. "They got me right in the wallet. And only ale can dull the pain of so grave a wound."
+
+
+
+
+"Sir, it is not wise to joke when there be such mighty heroes --"
+
+"and Heroines!" screeched a voice from the back.
+
+"and Heroines present."
+
+"Oh, well, I am sorry." Boltac said with exaggerated politeness, "I was not aware I was in the presence of, uh greatness. I will be certain to make a full apology as soon as I see one of them."
+
+"You have offended the honor of one of the line of Castogere. For generations we brave few have been the protectors of power and secret so deep,"
+
+Boltac sighed. He should have left well enough alone. Now he wasn't going to get a minute's peace. As the dark-haired idiot droned on he mouthed to Asarah,"help me." She smiled and somehow managed to shrug at him from under a heavy tray of ale. 
+
+"Brave men, worth men who have laid down their lives in the name of the sacred T'pahhh," the man continued, his chest filling with pride, or perhaps bullshit.
+
+Boltac considered the man's battered and abused breastplate. It had been hammered back into shape and polished to a high shine, but it was low-quality item if ever there was one. No matter how pretty you made it, it wouldn't hold up to the thrust of even the cheapest sword. And there, look at the ties holding it together on the right side. They were nearly worn through.  
+
+"You, sir, will do honor to a knight, or an order of knights so bold," he droned on until he finally got the punchline, "or I will have my satisfaction."  
+
+"Oh, it's satisfaction you're after?" asked Boltac. "Well, why didn't you just say so." He took at tiny, dull butter knife from the counter and brandished it at the "Knight of Dubious Accouterments." 
+
+The Knight threw back his head and laughed? "You mean to assault one so mighty as me with a butter knife?"
+
+Boltac slid the tiny knife into the seam of the breastplate and jerked downward sharply. All of the worn leather ties snapped and the brestplate fell off and clattered on the floor. Underneath the breastplate the knight wore a ragged shirt of torn linen. A few barks of laughter rang out in the inn. When Boltac saw the man's shoulders fall in defeat, he almost felt sorry for him. Almost. 
+
+"Come across the street and I'll give you a deal on a new tunic," said Boltac but what he meant was -- come into my parlor, little fly, so I can sell you some schmatta on markup."  
+
+For a moment, he thought he had gone too far. That he large, earnest lad from the country 
+
+
+"Easy 'Liam
+
+# CHAPTER -- Asarah and the Chosen Ones
+
+Asarah wiped a table clean. Well, as clean as she could. The pile of tallow candles in the center of the table had melted and congealed into a mass of light-giving wax. The best she could manage was to push some of the dirt further into the top layer of wax. Her rag stopped as she paused to dig a copper piece out from the wax. The tips that came at the Bent Eelpout didn't come often, and when they did, they were like as not to be stolen before she reached them. So to find the penny in it's fossilized state was something of an unexpected gift. Either she rushed to the ringing of coins as they hit the table, or she didn't get them at all. It was one of the many reasons, good help was hard for Asarah to come by. 
+
+That, and people were conniving thieving bastards.
+
+
+
+
+
+"If I could have defeated that lock spell, I'd be a wealthy man."
+
+"A Dragon? Who'd have thought ye'd find a Dragon in East Reach? And at this time of year?"
+
+"Lucky to have escaped with our lives."
 
 
 ---
- 
+
+# CHAPTER 
 
 
- 
+"If you please, good merchant, I have something I would like to sell," Boltac looked up from behind the counter.
 
-Boltac caught the coins in flagrant vescorii.
+"Ah, Rattick," said Boltac,  
 
-But he had happened upon it.
+He turned to his right and beheld Rattick, too large and too watery eyes trying to fool him with their great sincerity. The glowed like great moons of reassurance. So dazzling they were that it was difficult to notice the pale, dead face that never smiled around them. Or, Boltac assumed, the knife that was coming to slit the strings on your coinpurse. 
+
+"Ah Rattick," he said, "Have you taken those poor fools last coin before they could drink it." 
+
+"No," Rattick sighed with great sincerity, "but if I had, just if mind you, would that be so terrible? So parasitic? After all, we are all suffering from an economic downturn of such proportion, such magnitude, that bringing coin here to Robrecht and keeping it here, why it is a matter of our very survival. 
+
+"Economic? That's a very large word for you Rattick," Boltac said. 
+
+"You should not be so unkind to me, stout merchant. Besides, it would be a sin to let them take their coin with them on their planned outing 
+
+"It seems a sin to let them wander off into the hills and die, leaving their remaining coin festering at the bottom of some dark fen, troll pit or bottomless chasm." At this, Boltac clinked glasses with the weasel of a man sitting next to him. He might have been shady, disreputable, but he wasn't wrong. Besides, the man was thief. It was his job. And unlike all of the other adventurers who festered and waited in Robrecht -- Rattick was actually good at what he did. 
+
+"Yes, you see that one there," Rattick continued, "The one with the pan for a helmet. Yes, he is the *chosen one*."
+
+"Ah, of course, sent to to free us from the awful shadow of the wizard who has occupied the nearby tower."
+
+"Cavern, actually. Rumor has it the old Matteschitz mine collapsed into a gigantic, secret cavern in the earth."
+
+"Oh, ah, of course. Cavern. How silly of me," said Boltac.
+
+"And even know, the great wizard Oddna searches beneath the earth for relics and powers of which man was not meant to know." 
+
+"Which, will inevitably bring about the destruction of all of the Duchy of Robrecht," said Boltac, filling in the next verse. And recognizing it for the lie it was. He had never met the Wizard Oddna, and hoped he never would -- he hated magic in a way that only a trader with a lust for certain, right and ordinary commerce can. -- but if a man wanted to dig for objects in the earth, why shouldn't he? As for the tales of horrible things happening and monsters roaming the land, Boltac couldn't help but notice that these stories, and the twisted corpses and wrecked adventurers who had retunred, had only started turning up after adventurers had gone out in search of Oddna's loot. Boltac knew what he would do to anyone he caught robbing his store...
+
+"Yes, but of course. But thankfully, the chosen one is here to save us."
+
+"Hmm, thankfully."
+
+"Only, there is one, unexpected problem for this auspicious young man on his world-healing hero quest."
+
+"Yes,"
+
+"You see the tall one, in the Mage's robe."
+
+"Yes, the one covered in silly mystical symbols as only a true mage can be?"
+
+"Yes. Turns out, he's the chosen one. Too."
+
+"Ahh, so the chosen two."
+
+"Yes, I fear it will not end well for their party, but enough of the misfortunes of others. I have a certain item that I have come into possession of a certain item which I am certain you will be interested."
+
+"Step into my office," said Boltac, as he slid off the stool and made his way to the door. But not before casting a longing look towards the kitchen. What would  
+
+
 
 
 I have here a geeeeeenuine wand of fireball. 
