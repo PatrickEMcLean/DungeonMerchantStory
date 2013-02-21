@@ -1,6 +1,37 @@
 # Ideas
 
 
+Boltac ranting about I'm just a guy, working a job here! And you and all the other Wizards and Monsters and Kings and what have you. Ya just in the way. A guy trying to go to work and raise a family and ya swoop down and raze his caravan? Steal his product?
+
+You know what kind of problems that makes?
+
+"But I am the aggrieved party. My property has been molested."
+
+"Y'hunh. So what do you do to restore balance to the Universe? Ehnh? you go out and raid my town."
+
+"Your town?" said ________ with an air of perfect contempt.
+
+"Yeah, you raid into my town."
+
+"Your town. But my heavens, you are just a grubby shop keeper."
+
+"I been there as long as anybody can remember. Back when we had a king (for about 20 minutes) then when the Hacians took over. After that, Herowelft from the far North tried to take over the join. And finally the Mercian's rolled in with your buddy there the Duke."
+
+"You should not speak of your betters in that tone..."
+
+"My betters? My betters? I didn't run away ya stuffed shirt. He ran away, I ran toward."
+
+"Hobbled rather," said the Wizard looking down at his leg with derision.
+
+"Yeah, but it was the right direction, because you stole," he looked at Asarah and the words got caught in his throat. It took her a second to piece it all together, but when she did, tears welled up in her eyes. He wiped his own away and found the strength to continue, "You stole the woman I loved."
+
+"What? The woman?" said the Wizard fighting off the laughter. "Love? You love the cook?"
+
+Boltac's face grew hard in a way that suggested he didn't care how much this was going to cost him. 
+
+
+---
+
 Whenever he was nervous, he would count his coins. -- use this to get him to put a creeping coin into his bag of holding. 
 
 have Asarah tell the boy about Boltac's early days. He might be the richest man in Robrecht. And the lonliest. She sighed. So sad. 
