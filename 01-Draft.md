@@ -129,9 +129,58 @@ The freight agent standing next to him said, "I brought you out here so you coul
 
 "Fine," said Boltac, "Take me anywhere you like solid on solid ground," and then Boltac waddled around the bend and back to his carriage as quickly as his flat feet would carry him. 
 
+
+# CHAPTER -- The Inn of The Bent Eelpout
+
+
+They had tried to change the name. But Robrecht was a funny, stubborn town filled with funny stubborn people. No matter what sign they hung over the door, they all called it the Bent Eelpout. In brighter days, a bunch of regulars had pooled their money and bought a new sign. Brightly painted and beautiful it was. The same sign that hung over the door even now. Faded and cracked, fallen on hard times.
+
+There had been a decent trade here one. A good living. But as the Inn had fallen on hard times, the money for upkeep went away. Shoddy, smelly adventurers had driven all the locals away. And now. Well, she didn't like to think about the way things were now. 
+
+
+Asarah wiped a table. It seemed that the cleaning was never done.  The pile of tallow candles in the center of the table had melted and congealed into a mass of light-giving wax. The best she could manage was to push some of the dirt further into the top layer of wax. Her rag stopped as she paused to dig a copper piece out from the wax. The tips that came at the Bent Eelpout didn't come often, and when they did, they were like as not to be stolen before she reached them. So to find the penny in it's fossilized state was something of an unexpected gift. Either she rushed to the ringing of coins as they hit the table, or she didn't get them at all. It was one of the many reasons, good help was hard for Asarah to come by. 
+
+That, and people were conniving, thieving bastards. Oh they didn't start out that way. The young one's were nice enough. She'd hoped to have some, but when her husband died, leaving her with an Inn full of dirty dishes and endless work, she gave up on that dream. Beautiful she might have been, but she was realist enough to know that she was no princess. If Asarah was going to have a happy ending, she'd have to make it herself. 
+
+So the knuckled down and started to make what she could of the Bent Eelpout. There were days, oh there were days when she was convinced the place was cursed. As if the accumulated sweat and smoke and spilled beer that the creaky old building breathed out formed a vapor, a black cloud that soured the luck of all who passed through the doors. 
+
+In her defense, the talk of her 'patrons' such as they were, didn't help. They set out with grand plans of saving the world/stealing a fortune, but it never quite worked out for them. And it was never their fault. 
+
+"If I could have defeated that lock spell, I'd be a wealthy man."
+
+"A Dragon? Who'd have thought ye'd find a Dragon in East Reach? And at this time of year?"
+
+"Lucky to have escaped with our lives. If only that Boltac hadn't sold me those warped arrows."
+
+Sooner or later, Boltac was the name on everyone's lips. There wasn't a thing she could do to get away from that name. Either his prices were too high, or his goods too cheap. Boltac didn't pay enough for precious treasures claimed form vanquished foes in far off, dangerous locales. The she could believe. Coming between Boltac and a coin required a prybar. 
+
+When it got right down to it she didn't know who she hated worse. The false, cheap braggarts who infested her Inn, or that skinflint Boltac who insisted on treating the Eelpout as if it was the only Inn in Robrecht. Or his private dining room, one. 
+
+She scanned the room. Everyone was pleasantly full or pleasantly drunk or both. She was ahead of the game. She took this lull to piled her tray with dirty dishes and make a trip to the kitchen. 144 steps. At the beginning of the day it was 145. By the end of the night it would be a 143 or maybe even 142. The more tired she got, the shorter her stride became. If she never made this trip again, it would be too soon. 
+
+Maybe that's why she hated Boltac so much. For all his talk about how the business was killing him, she knew he was a successful merchant. She had stared across the street at his store for years. He paid copper for goods and charged gold. She didn't know why he came into The Bent Eelpout. He could afford to go anywhere in Robrecht. He could afford to go anywhere. If Asarah could go anywhere, she would leave before another drunken adventurer could call out, "Wench!"
+
+Asarah was certain that if she was going to have a happily ever after, it would be far, far away from here. Why didn't Boltac leave? And specifically, why did he plague her so. When she went to bed at night, sometimes she heard his high, scratchy voice as she fell asleep. And in her sleep, her nightmares were not of foul creatures and unspeakable beasties. It was always of waiting tables. Being late on food. Overwhelmed by a room full of rude patrons. The food woudln't come. The ale wouldn't pour. 
+
+And in the middle of all these nightmares, would be his voice. Rising in a high lift above the noise of the common room. Clamoring for attention. Trying to be clever but failing. 
+
+As she came back out of the kitchen, she saw Boltac entering. She closed her eyes, wished for him to go away, but still she heard him. His voice cut through the smoke and gloom of the Bent Eelpout like a bolt from a crossbow and she heard him say, "Help, I am gravely wounded!"
+
+The entire room turned their heads. Could this be the ADVENTURE they had been waiting for.Boltac sneered at the ill-equipped rabble spread out in varying states of sobriety throughout the inn. "They got me right in the wallet. And only ale can dull the pain of so grave a wound."
+
+Rather than face him, Asarah turned and walked back into the kitchen. Let him wait. Hell, let them all wait. 
+
+
+
+
+
+
+
 # CHAPTER THREE: In the Company of Heroes
 
-When he got back to town, Boltac headed for the nearest inn. It happened to be across the street from his shop. It was a dismal looking placed named the Bent Eelpout. It was far from the nicest accommodations in town, but Boltac liked it there. Primarily because he was in love with the owner, a woman named Asarah.  
+
+
+When he got back to town, Boltac headed for the nearest inn. It happened to be across the street from his shop. It was a dismal looking place named the Bent Eelpout. It was far from the nicest accommodations in town, but Boltac liked it there. Primarily because he was in love with the owner, a woman named Asarah.  
 
 The inn took it's name from a spectacularly ugly fish that lived in the depths of Lake Robrecht. 
 
@@ -158,7 +207,7 @@ Boltac sighed. He should have left well enough alone. Now he wasn't going to get
 
 Boltac considered the man's battered and abused breastplate. It had been hammered back into shape and polished to a high shine, but it was low-quality item if ever there was one. No matter how pretty you made it, it wouldn't hold up to the thrust of even the cheapest sword. And there, look at the ties holding it together on the right side. They were nearly worn through.  
 
-"You, sir, will do honor to a knight, or an order of knights so bold," he droned on until he finally got the punchline, "or I will have my satisfaction."  
+"You, sir, will do honor to a knight, or an order of knights so bold," he droned on in this fashion until he finally got the punchline, "or I will have my satisfaction."  
 
 "Oh, it's satisfaction you're after?" asked Boltac. "Well, why didn't you just say so." He took at tiny, dull butter knife from the counter and brandished it at the "Knight of Dubious Accouterments." 
 
@@ -170,24 +219,24 @@ Boltac slid the tiny knife into the seam of the breastplate and jerked downward 
 
 For a moment, he thought he had gone too far. That he large, earnest lad from the country 
 
-
-"Easy 'Liam
-
-# CHAPTER -- Asarah and the Chosen Ones
-
-Asarah wiped a table clean. Well, as clean as she could. The pile of tallow candles in the center of the table had melted and congealed into a mass of light-giving wax. The best she could manage was to push some of the dirt further into the top layer of wax. Her rag stopped as she paused to dig a copper piece out from the wax. The tips that came at the Bent Eelpout didn't come often, and when they did, they were like as not to be stolen before she reached them. So to find the penny in it's fossilized state was something of an unexpected gift. Either she rushed to the ringing of coins as they hit the table, or she didn't get them at all. It was one of the many reasons, good help was hard for Asarah to come by. 
-
-That, and people were conniving thieving bastards.
+"Easy 'Liam" 
 
 
 
 
 
-"If I could have defeated that lock spell, I'd be a wealthy man."
+[[ 
 
-"A Dragon? Who'd have thought ye'd find a Dragon in East Reach? And at this time of year?"
+"Who are you?" screamed Asarah. As vaporous tendrils crushed her arms to her side and lifted her from the floor. 
 
-"Lucky to have escaped with our lives."
+"Oh, don't be like that," said $wizard, "It is I. Your prince, come to take you away."
+
+]]
+
+
+For this and other reasons, Asarah had a strict policy of making her guests pay in advance. 
+
+
 
 
 ---

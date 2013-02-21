@@ -156,11 +156,6 @@ The horrible spell was broken when, Boltac cried, "Boy! Over here."
 
 As I joined him at the bar, the in returned to normal. As I made my way to Boltac, I could hear the language of desperation and failure spoken from every corner. 
 
-"If I could have defeated that lock spell, I'd be a wealthy man."
-
-"A Dragon? Who'd have thought ye'd find a Dragon in East Reach? And at this time of year?"
-
-"Lucky to have escaped with our lives."
 
 Boltac clapped a hand on my shoulder and said, "Here you will find the finest Mutton Lettuce and Tomato sandwich in all of Robrecht. Sit and we will eat."
 
