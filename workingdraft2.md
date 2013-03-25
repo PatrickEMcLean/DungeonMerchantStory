@@ -3,7 +3,7 @@
 
 # **The Merchant Adventurer**
 
- # Chapter One: the Chosen Two 
+# Chapter One: the Chosen Two 
 
 "I'm the chosen one. Only I can bring peace and restore balance to the land," said the blonde Knight in Shining™ Armor.
 
@@ -166,6 +166,8 @@ When he heard the bell on the front door ring, he concealed the want in his slee
 
 
 # Hitting the Kid With the Stick (Covered in Glory) #
+
+>add Boltac stubbornly refusing to use the kid's name as a funny bit. 
 
 Boltac found a strapping young farm boy staring at a rack of swords with an open mouth. The boy was so entranced by the cold and lethal steel on the wall that he didn't even look at Boltac when he entered the room. He replaced the magic detecting wand in it's hiding place then asked, "Can I help you?"
 
@@ -330,7 +332,7 @@ The pause stretched to a such a length that the Chamberlain gently prompted, "Si
 
 "He had knowledge of my best NannyGoat."
 
-"Knowledge? I don't understand, of course he has knowledge of your animal," he said, glancing at the dull-eyed, leather-helmeted man who was being accuse of bestiality, "he is a fellow-goatherd, is he not."
+"Knowledge? I don't understand, of course he has knowledge of your animal," he said, glancing at the dull-eyed, leather-helmeted man who was being accused of bestiality, "he is a fellow-goatherd, is he not?."
 
 "No my lord," said the cross-eyed man, blushing with the weight of what he must now make painfully obvious. "He..." and he thrust his pelvis forward and backwards in an unmistakeable, rhythmic motion. 
 
@@ -588,6 +590,8 @@ Look, I feel terrible about all of this old boy, really I do. but it seems the o
 # Propping the Kid Up
 
 
+
+
 From Wizard's point of view -- walking to the Inn -- knowing that that they have good Lamb -- Later, after a fine repast he would remove himself to a high hilltop and watch the city burn. A pleasant break from his usual toil. 
 
 Boltac -- good city for business. 
@@ -703,6 +707,16 @@ Maybe not. Maybe the only difference was, Boltac was just cunning enough to have
 
 
 ]]
+
+
+## Asarah asserts her independence ##
+
+
+>She really stands on the fact that she doesn't need a husband and can take care of herself. Maybe she stands down a drunk patron. 
+>This in opposition to the kidnapping
+
+
+
 ---
 
 Asarah -- but you see that's how she knows he loves her. He comes for her, risks everything against all odds for the love of his life. 
@@ -730,6 +744,9 @@ Ugh, thought Boltac. Magic that's worse than romance
 
 
 # Boltac v. Wizard
+
+
+"Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on the Duke's mutton? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgement.
 
 "She is a fine woman," said the man sitting two seats away at the bar. 
 
@@ -833,6 +850,30 @@ Rattick oozes his way in.
 
 
 # Giving the kid the sword #
+
+---
+
+He looked across the street to the boy he had rendered unconscious. He was unmoved and Boltac would have feared him dead, if he did not see the gentle rise and fall of the young lad's chest. He remembered when he had been his age. Young and strong and fresh off a farm of his own. A farm for to the North in a particularly hard and frozen region of Mercia, but all farms are the same -- no matter what they may grow, all farms produce a surplus of hard, boring work suitable for the endless torture of young men who crave adventure. 
+
+He did not feel guilty to braining the lad. If it was Adventure the boy was after, he would have to withstand far worse. And if his younger self had appeared by magic before him in his own store Boltac would have done far worse. He would have tried to beat some sense into his former self. Even though he doubted it could be done. 
+
+But how could he tell a young man of the hazards that awaited him. Of the costs to life and limb and family -- all the ways of hurt and all the ways those hurts could radiate beyond himself. It was a terrible thing to be a hero. And Boltac wished the pain of it on no one. Certainly on no one's family. 
+
+He couldn't talk him out of it. There was simply no way to frame the words, no order to put them in that could make it through his testosterone addled brain and overcome the lust for glory. Yes, if not this priestess, he would find some other cause, or scrape or trouble. At least he wasn't off in search of that Dred Wizard that all of the other 'Adventurers' were always harassing. So few of them came back. 
+
+But, realized Boltac, there was no stopping him. So why had he tried? Maybe because he saw himself in the lad. And would have given anything and risked everything to take back the poor choices of his own youth. 
+
+He cursed the Bards. It was surely there fault. Putting all these ideas in young men's heads. Sending them off to war or in search of gold. But even as he did, he cursed himself. 
+
+Damn it all. Time enough for a pint. He opened the door of the store, stepped outside, stopped and then turned around. He walked back in the store, and grabbed a sword from the sword barrel. He drew the blade and tested it's balance. Awful. He sighted down the blade? As curved as a whore's back. What an awful piece of workmanship. It was the kind of item he would willingly sell to a fool, but not the kind of weapon he would wish on his worst enemy. 
+
+A man needed a sword he could trust. Boltac saw the shape of a terrible memory rising from the dark waters of his memory. Before the thought could full take hold of him,  slammed the sword back in the barrel. 
+
+He went to the rack behind the counter. He removed the blade from the bottom. It was the one he would of chosen, if he were spending his own money. It was a stout, Mercian sword. At one end, it's straight blade came to a broad triangular point and the other ending with a heavy round pommel that, in the hands of someone who knew what they were doing, qualified as a weapon on it's own. It sang as he unsheathed it and begged to dance in his hand. He sighted along the blade and it's hard edge was as crisp, final unforgiving as the border between this life and the next. 
+
+It was the kind of sword Boltac would want in his hand if he was fighting for his life. And if he had had one... No. He turned away from the mugging of guilt he knew awaited him in the alley of memory. He exited, locked the shop and walked across the slop of the muddy street.
+
+---
 
 
 # The Orcs Attack #
