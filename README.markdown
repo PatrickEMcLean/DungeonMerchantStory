@@ -12,7 +12,7 @@ Making a book from a story idea is gigantic, sloppy mess that doesn't fit into n
 
 But here are some other things that I use. 
 
-* 01-Draft.md is the continuous draft
+* WorkingDraft.md is the continuous draft
 * The files in Templates is a bunch of conceptual tools I find useful when thinking about the construction of stories. 
 * The files in structure are various outlines and notes on my plan for the work. 
 * output/fullbook.markdown is a collection of of all the md files in the main directory, allowing me to have a complete, tracked picture of the whole messy process of a book as it evolves. 
