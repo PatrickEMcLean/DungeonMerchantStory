@@ -1686,21 +1686,11 @@ The Troll, not being smart enough to fear a shrewd merchant's smile -- and gener
 
 "There," said Boltac, and he released the mace. No sooner had he let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if it had been smashed there by the hand of an angry God. 
 
-# here
-
-Food was talking. This confused the Troll. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood it's ground and talked. Since the Troll couldn't understand *what* any of the funny, squeaky words that were coming out of it's mouth, it tried to understand *why* food wasn't doing any of the things that it usually did. 
-
-Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. And, for reasons he couldn't understand, he had been eating quite well lately. Food had been easier a lot easier to come by since he had come to this cave. He didn't even have to go out and terrorize the countryside. And how had he gotten to this cave? He couldn't quite remember that part. 
-
-Trolls weren't very good at thinking. 
-
-
-
 
 
 # Aftermath of Troll #
 
-The troll lay pinned to the ground as if held there by a giant boulder. The creature looked less fierce now, eyes wide, shifting from side to side and whimpering a little. His foul claw remained tightly wrapped around the silver mace. 
+Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the silver mace. 
 
 "What is that?" asked Rattick.
 
@@ -1716,21 +1706,23 @@ The troll lay pinned to the ground as if held there by a giant boulder. The crea
 
 "But the Troll didn't know…" said Relan.
 
-"That's there's no such thing as a free mace? Yeah, that's how the get you. And that's how it usually is with magic. "
+"That's there's no such thing as a free mace? Yeah, that's how they get you. Everybody knows this. And that's especially how they get you with magic."
 
 "But what about Wizards? They use magic," countered Rattick. 
 
-"They manage to do themselves in in the end. Just 'cause you get away with something for a while doesn't make it safe."
+"They always manage to do themselves in in the end. Just 'cause you get away with something for a while doesn't make it safe."
 
-"Marveled as I am by your cunning, good merchant, one question remains: How did you learn about the mace?" Rattick asked.
+Rattick said, "Marveled as I am by your cunning, good merchant, one question remains: How did you learn about the mace?"
 
-"Guy brought it in a case and he wouldn't take it out. I thought maybe I could get the jewels off, but the enchantment was too powerful. My last apprentice was pinned to the floor in my shop for a week before we figured out how to get him out from the grip of that foul thing."
+"A guy brought it in a carrying case and refused to take it out.   I thought maybe I could get the jewels off, but the enchantment was too powerful. My last apprentice was pinned to the floor in my shop for a week before we figured out how to get him out from the grip of that foul thing."
 
 ""How did you manage it?" asked Rattick
 
 "Ahhhh," said Boltac, raising a finger to the side of his nose. "That would be telling." The smile faded from his face as he added, "My advice to both of you? Stay outta the magic bag."
 
 "No problem," said Relan. 
+
+"Problem," thought Rattick. He didn't know what could possibly be in Boltac's magic bag, but he thought that the bag itself could be worth more than he could imagine. And Rattick had quite an imagination.  
 
 >Kid worried that the magic lantern comes with a catch. 
 
@@ -1756,6 +1748,11 @@ Sliced leg of man,
 # Wizard vs. Asarah #
 
 
+She thinks he wants her. He tells her she is the wrong class -- almost sub human. He tells her too cook lamb. 
+
+She talks to the Orcs
+
+Wizard finds out about dead troll.
 
 Tries to force her to cook. She refuses. Asserts her independence. 
 
@@ -1887,6 +1884,9 @@ Relan remained dead on the floor, not quite a hero.
 
 # Boltac in the Land of Misfit Toys #
 
+
+>After all the talk of these things not having feelings. (Wizard to Asarah) we see them really having feelings here. 
+
 He awoke on the floor and everything was in pain. 
 
 Mishappen creatures come out of the dark, but they help him rather than hurt him. 
@@ -1942,7 +1942,89 @@ Finally he returned to the pool of darkness within the darkness.
 
 "Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
+# Asarah gives Boltac confidence to be king #
 
+"You might not be able to be a King Mr. Boltac, but I could definitely be a Queen."
+
+"But," said Boltac, "It's so much work,"
+
+"Pfahh "
+
+"But I wouldn't want have servants or slaves."
+
+"Who said you have to have servant? And servants and slaves are two very different things."
+
+"I know, dear," said Boltac.
+
+"Aw, you called me dear."
+
+"You don't like it?"
+
+"No, I do. I really do." There was another kiss and then she continued. "But you don't need, servants. You don't have to force anyone to do anything. But can't you just hire people to help you."
+
+"Hire, but servants are bound to the families…"
+
+"You know while you are daydreaming, dear, you don't have to stick to the rules of reality. And are all servants bound to "
+
+"Wait, wait, did you say hire," Boltac said, lapsing out of the sweet trance of cuteness for the first time since they had escaped.
+
+He leaned out of the carriage window and shouted to Relan, "Turn this thing around, we're going the wrong way!"
+
+"But Robrecht is south!" said Relan, "If there's anything left of it."
+
+"Yeah, I know, but to save the city we gotta go North before we go South."
+
+"I don't understand?"
+
+"I know. That's not your job. It's my job. And speaking of which, do you want a job? I am hiring?"
+
+"Wait, what? But I'm an adventurer."
+
+"And can you possibly imagine anyone else who could have taken you on a bigger adventure?"
+
+"No," said Relan, "But you had the adventure."
+
+"Whattya mean, you were there? You were there the whole time!"
+
+"But you got the girl at the end. That's the way an adventure works. You get the girl at the end and live happily ever after."
+
+"I have two things to say to that. Eh, but never mind. We don't have time. Just trust me, the adventure ain't over yet."
+
+"But we're out of danger," said Relan.
+
+"Trust me, what I have in mind, kid. Probably get us all killed."
+
+"Oh," said Relan, with a smile, "then I'm in!" And he urged the horse into a gallop. 
+
+"Okay," Boltac shouted over the rushing of the air and the thudding of the horse's hooves. "You're hired. Now don't disturb me until we get there. I've got important business back here."
+
+"Get where?" Relan shouted. 
+
+"Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
+
+
+
+
+# The Free Companions #
+
+The free companions, I don't know why they call them that, because they sure don't come cheap. 
+
+Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage. 
+
+"That is a ducal carriage?"
+
+"Yeah, and I drove the Duke out and took his carriage and his castle and his town."
+
+"It is our town," sputtered Torvalds. 
+
+"And you didn't drive me out. I was driven out by Orcs."
+
+"En-henh," said Boltac. "Prove it."
+
+"Prove it?" said the ex-Duke, "Why I am a descendant of a noble line. My word is my bond."
+
+"Not with me it ain't. I've known too many nobles.
+Yeah, that and six coppers will get you a foul tasting ale in Robrecht."
 
 
 # Boltac Catches Rattick and Makes Him His Minister #
