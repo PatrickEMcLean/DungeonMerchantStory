@@ -1,8 +1,6 @@
 *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
-
-
 # **The Merchant Adventurer** #
 
 ## Punchlist ##
@@ -1836,7 +1834,9 @@ Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. T
 
 "It's not wise for me to ask, my Lady. We must go."
 
-"Wait," said Asarah. ""I must look a fright. Your master will be unhappy if 
+"Wait," said Asarah. ""I must look a fright. Your master will be unhappy if I do not have time to compose himself." 
+
+"Master is usually unhappy," Samga said with a sad look that looked decidedly out of place on what was obviously a monster.  
 
 Asarah knew what the flying man wanted with her she wasn't about to give it to him without a fight. But there were many ways to fight. And where a man had desire, a woman had an opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly out of control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
 
