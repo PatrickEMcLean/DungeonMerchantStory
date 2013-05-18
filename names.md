@@ -8,7 +8,7 @@ Boltac
 Relan
 Asarah
 Rattick
-Almont Dimsbury
+Alston Dimsbury
 Weaveston Prestidigitous RampartLion Toroble the 15th,
 Uncle Torvalds
 Samga -- the faithful Orc overseer. 
@@ -46,3 +46,7 @@ Stealing Liberty -- guy steals the statue of Liberty and deposits it on their en
 
 
 
+## continuation stories ##
+
+
+All the orcs aren't dead. Samga survives. So do the things in the pit. So there are Orcs in Robrecht -- and are for the entire period of the story. They don't want to be called orcs, though. After a while they shrink and grow stout. Become miners, workers of metal -- Dworcs. Dwarves. 
