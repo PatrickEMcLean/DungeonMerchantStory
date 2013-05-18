@@ -26,7 +26,9 @@ This whole thing is an experiment with using github for ebook development. There
 2. Tracking the evolution in github allows me to share the process as well as the final product. 
 3. I'm working towards a faster, better way to produce ebooks
 4. I'm working towards a faster, better, distributed way to do proofing (bugfixes for print)
-5. I ain't no programmer. I is a writer. But I can still appreciate how cool github and open source tools are.  
+5. I ain't no programmer. I is a writer. But I can still appreciate how cool github and open source tools are.
+
+
 ## License
 
 This text is being made available under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
