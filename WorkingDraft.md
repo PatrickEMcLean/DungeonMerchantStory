@@ -1,7 +1,14 @@
 *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
-# **The Merchant Adventurer**
+
+
+# **The Merchant Adventurer** #
+
+## Punchlist ##
+
+* have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
+* 
 
 # Chapter One: the Chosen Two 
 
@@ -1805,18 +1812,33 @@ There, in the terrible darkness, she heard a sob and realized how afraid she tru
 
 After an eternity, the thing grunted, and walked back down the hallway. Asarah did not cry out again. 
 
-She felt her way back to the straw and curled up in a ball. This was awful. This was worse than anything she ever could have imagined. To be in a cell was one thing. But to be trapped in a cell because you felt it was the safest place to be. That was terrible. 
+She felt her way back to the straw and curled up in a ball. This was awful. This was worse than anything she ever could have imagined. To be in a cell was one thing. But to be trapped in a cell because you were afraid to even escape…
 
+After what felt like an eternity of terror in the darkness, she heard steps coming down the hallway. And this time light came with them. In spite of herself, her hopes rose. Perhaps this would be a person --  A human being -- rather than that awful thing she had just been subjected to. She looked to the faint glimmer of light that came through the doorway, but she did not rush to the window. 
 
+Another of those strange, monstrous faces thrust itself into the window, but instead of grunting or snarling, this one spoke a soft, strangely accented English. 
 
+"Pardon, my lady, but the master would like to see you know."
 
+"The Master?" asked Asarah, reassured by the creatures manners and seemingly kindly demeanor. "Who is the master? For that matter, who are you? And what manner of hospitality is this?"
 
-> build to Wizard lusting after her
-> snap it off when he doesn't care. 
+"I am Samga, my Lady. And the Master is, well, the Master, Maker of us all." Ah yes, now it made sense to Asarah. The man who took her into the air had abducted her for a reason, the oldest reason of all. Men, thought Asarah, no matter how rich or powerful they might be, they were all the same. 
 
-She knew what he wanted and she wasn't about to give it to him.
+"And what are you Samga?" Asarah asked as she rose to her feet. 
 
-But that didn't mean she wasn't going to torture him with it. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly out of control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
+"I am an Orc?"
+
+"An Orc? And what is that."
+
+"I know not. None of us do. We are made not born, in the bowels of the Earth, to serve the Master."
+
+Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. The door to the cell creaked open and Samga entered. As she saw him in the full light of the lantern, he was less terrifying than she thought. It helped that he wasn't riding a wolf or sacking the town in which she lived. "So what does your master want with me," Asarah asked with a false pout. 
+
+"It's not wise for me to ask, my Lady. We must go."
+
+"Wait," said Asarah. ""I must look a fright. Your master will be unhappy if 
+
+Asarah knew what the flying man wanted with her she wasn't about to give it to him without a fight. But there were many ways to fight. And where a man had desire, a woman had an opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly out of control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
 
 After her first few tears, her left sleeve and blouse was in tatters, revealing the hollow of her clavicle, most of her left breast and all of her left arm. Then he grabbed a hold of the skirt below the knees. A few sharp jerks and she was showing a lot more leg. Then she rolled her lips inward and bit down on them hard to bring a bright redness to them. 
 
@@ -1840,6 +1862,8 @@ It was the loose sack
 She rips her already ripped dress, exposing 
 
 
+> build to Wizard lusting after her
+> snap it off when he doesn't care. 
 
 # Wizard vs. Asarah #
 
