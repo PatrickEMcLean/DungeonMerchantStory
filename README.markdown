@@ -20,7 +20,7 @@ But here are some other things that I use.
 
 ## Why the hell aren't you using Word, or Scrivner? 
 
-This whole thing is an experiment with using github for ebook development. I call it gittenburg. There are few reasons I'm writing this way.
+This whole thing is an experiment with using github for ebook development. There are few reasons I'm writing this way.
 
 1. Markdown is awesome.
 2. Tracking the evolution in github allows me to share the process as well as the final product. 
@@ -28,5 +28,5 @@ This whole thing is an experiment with using github for ebook development. I cal
 4. I'm working towards a faster, better, distributed way to do proofing (bugfixes for print)
 5. I ain't no programmer. I is a writer. But I can still appreciate how cool github and open source tools are.  
 
-The repo is here: https://github.com/PatrickEMcLean/gittenburg
+
 
