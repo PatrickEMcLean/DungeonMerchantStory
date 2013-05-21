@@ -50,3 +50,12 @@ Stealing Liberty -- guy steals the statue of Liberty and deposits it on their en
 
 
 All the orcs aren't dead. Samga survives. So do the things in the pit. So there are Orcs in Robrecht -- and are for the entire period of the story. They don't want to be called orcs, though. After a while they shrink and grow stout. Become miners, workers of metal -- Dworcs. Dwarves. 
+
+
+If it ties into the Mall story, he is cast into this dimension (when magic is pushed here) and, seeking opponents, he calls forth adventurers 
+
+Making the characters and their sacrifices mere plot devices -- which he taunts them with, but they rebel against this meta trap. 
+
+He changes himself into a dragon. 
+
+Alston labors underground for a century making creatures -- he has to change his form to survive (man is mortal after all -- and that's how he becomes a dragon. )

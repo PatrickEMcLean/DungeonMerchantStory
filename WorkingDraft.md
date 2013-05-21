@@ -1297,8 +1297,31 @@ When out from the carriage stepped, Boltac?
 # Kid Hears the Wagon. #
 
 
-For Relan, Adventure was pretty much the same as sore feet. He had been following wolf tracks North for the btter part of a jaywalking North for the better part of a day. 
+For Relan, Adventure was turning out to be the same as sore feet. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
 
+As the day wore on, his pace grew slower and slower as he spent more time resting than limping. Finally, he pulled the boots off and tossed them in the heavy sack he carried/dragged behind him. Even with raw blisters on his feet, it hurt less to walk barefoot. 
+
+And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had even known were animal hides wrapped around his legs with leather strips to protect his legs from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned out husks and buildings, the common folk nursing their hurt and wrapping their dead in shrouds, but the memory of how that thing had felt, dying on the other end of his sword. 
+
+He had wanted a sword so badly. Now that he had one, it hung heavy on his hip, pulling him around to the left. After a day of walking, he could feel a pain starting in his left knee and his left hip. Every time his hand brushed the cold steel of the hilt he shuddered.
+
+But he had saved a man's life! And the thing he had killed hadn't even been human. Then why did he still feel awful when he remembered how the Orc's last breath rattling out of it's body felt when transmitted through the hold of that sword. Didn't that make him a hero? Is this the way that heroes were supposed to feel? 
+
+He felt so good and fine, the cobbles of Robrecht ringing from where his bootheels struck them, his sword, swinging at his hip. A hero, that was what he had felt. At least at the beginning of the day. Now, here he was, barefoot, tired and remorseful. 
+
+But Relan was still determined. If there was one thing he thought he knew about the business of heroism, it was that heroes didn't get up. Even when things got hard. No, heroes, pressed on. Saw it through to the bitter end. And sometimes, yes, died heroic deaths. But a traitorous thought suggested itself to Relan. What about the other adventurers? The ones who didn't make it. The ones who took their boots off. No one wrote songs about them. 
+
+So he hung his head and trudged forward, putting one bare, calloused foot after another. He didn't raise his head. Not even when he heard the rattle of a carriage and the heavy footfalls of draft horses on the road behind him. 
+
+
+
+>being a hero is not what he though
+>Boltac has to justify why he's going after the girl 
+>(it's not too late to turn back)
+>It never turns out like you think. 
+
+
+  
 
 Boltac rides up and says, "Climb on, idiot."
 
@@ -1668,7 +1691,6 @@ Rattick asked, "Stout Merchant, have you ever seen a troll?"
 # From Troll's perspective #
 
 
-
 The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, and it hated sunlight, but the presence of sleight illumination allowed the stroll to see the terror on his meals faces more clearly. As the old troll proverb goes (it doesn't translate well) food better frightened, or scared is good eaten' or terror is the best sauce. 
 
 But when the troll woke up, because something was kicking him in the foot. This was a decidedly strange sensation for the Troll. There really isn't anything in a Troll's native habitat that has the temerity to kick a troll. In the dim light of the dungeon he saw food, holding a bag and looking at him. 
@@ -1847,11 +1869,55 @@ There, she thought, that ought to put him in a twist. Not all men are wizards, b
 
 She turned and tried it out on the creature. When she didn't even get the hint of a reaction, she asked, "What manner of man are you?"
 
-"No man. Orc. The master is waiting."
+"Samga, is no man. Samga Orc! Now come. The master is waiting."
 
 Hunh, she thought, Orcs must be gay. 
 
-She followed the creature's gray-green mottled skin out into the hallway. 
+
+* * * 
+
+As put together as she could manage, she followed Samga out of her dark cell. The passageway outside was just tall enough that Samga could walk with the tips of his pointy ears barely brushing the roof of it, but Asarah had to duck to follow. After a few minutes, the passageways opened up into a larger cavern. This larger cavern had several tunnels leading from it and Asarah began to see many, many Orc's walking to and fro. 
+
+Some carried picks and shovels, the others crates and barrels, and one pair of the creatures carried a third that had obviously been wounded. They seemed, after you looked at them for a while, perfectly natural. How strange it should be that such creatures,  
+
+
+
+
+>Set the scene here for how the Orcs are going to grab Boltac and co. See the next scene. 
+
+"What's going on?" Asarah asked?
+
+Samga answered without looking back. The more grey than green of his back hunched a little as he shuffled his way through the tunnels, "Adventurers. Trespassers. Killed master's favorite troll. Now he insists that they be roasted on spits."
+
+"Roasted?" Asarah asked, trying not to wince. 
+
+"Master doesn't like raw meat."
+
+"He is a cannibal?"
+
+"What means this cannibal?"
+
+"He eat's people."
+
+"No, master is a *good* master. He gives the people to us. 'Course, we like them raw, but the Master must have his fun.""
+
+Asarah asked no more questions. Soon they came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and waited for Asarah to walk through first. 
+
+As she crossed the threshold, Samga said, "Master, I have brought the girl." 
+
+
+"You owe me for two sandwiches."
+
+The Wizard looked up from his work, "What?" he asked. "Oh, the MLT's. Sadly, I forgot them, but I remembered the most important thing. You."
+
+"I know what you want," she said.
+
+The Wizard rolled his eyes and pushed paper"
+
+
+
+(Asarah was worried) 
+jump to her confronting the Wizard
 
 
 
@@ -1867,7 +1933,13 @@ She rips her already ripped dress, exposing
 
 # Wizard vs. Asarah #
 
+## Origin of Orcs ##
 
+"Ah, do you like them," the Wizard asked her.
+
+"Uh, what are they?"
+
+"An alchemy of fungi, mineral and pure magic. Things made, not born. And surprisingly faithful servants."
 
 
 She thinks he wants her. He tells her she is the wrong class -- almost sub human. He tells her too cook lamb. 
@@ -2093,6 +2165,39 @@ Silence.
 And then the shadow told him something about how death worked that Boltac didn't know. Boltac saw an angle in it, but not for himself. 
 
 "Okay, look, I love the girl. I do. And I figured it out too late and I didn't seize the opportunity and so now I'm hear and she's gone and I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's the bidness."
+
+> Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
+
+
+# Mignola Scene#
+
+> Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
+
+
+
+In the lighter darkness Samga spoke with the elder one in the broken, hissing tongue of Orc's. (between them they try to make the language who)
+
+
+For in the darker darkness he could not speak for the weight of the blackness pressing in on him from all sides. And in the darkest darkness, he feared that the blackness would fill his lungs and he would drown in night. 
+
+
+
+And now we die. 
+
+No, many of the husks will falter, but we will go on?
+
+How can you be sure, I feel the beat of my heart slowing as we speak, the magic is 
+
+The magic of man is draining out of you, but the deeper magic. The magic of life… can you feel that starting?
+
+No. 
+
+You have spent too much time around the human's Samga. Retreat with me into the darkness a while and I will tell you what I have learned from listening deep inside my self. 
+
+Samga followed the older one into the darkest darkness under the ground. 
+
+
+
 
 # BOLTAC"S TURNing Moment #
 
