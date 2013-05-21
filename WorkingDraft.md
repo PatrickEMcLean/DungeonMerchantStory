@@ -1906,9 +1906,28 @@ Asarah asked no more questions. Soon they came to a large arch in a formation of
 As she crossed the threshold, Samga said, "Master, I have brought the girl." 
 
 
-"You owe me for two sandwiches."
+## Set the scene here. ##
 
-The Wizard looked up from his work, "What?" he asked. "Oh, the MLT's. Sadly, I forgot them, but I remembered the most important thing. You."
+* the room
+* the instrument for capturing and harnessing the force of magic
+* The Thamauge!
+* The hole in the center of the room
+* Heads of a progression of crude creatures that lead up to the Orc.
+
+
+What's the empty one for?
+Oh, that's for Samga. He is my finest work, almost like a son to me. And when he dies, his head will go there. 
+
+"Yeah, son, I can see the resemblance."
+
+"Really? How strange, we look nothing alike. You are a curious creature."
+
+
+
+
+"You owe me for two sandwiches. And an inn."
+
+The Wizard looked up from his work, "What?" he asked. "Oh, the MLT's. Sadly, I forgot them, but at least I remembered the most important thing. You."
 
 "I know what you want," she said.
 
@@ -1948,7 +1967,46 @@ She thinks he wants her. He tells her she is the wrong class -- almost sub human
 -- Couldn't mate with you you are simply of an inferior class. An eagle trying to beget with a sparrow -- simply won't do. 
  Who are you trying to convince, she asked with a roll of her hips.
 
+## Samaga is tricky ##
 
+In point of fact, Samga had not delivered the news to his master. For he knew that Alston Dimsbury was a violent and tempestuous man when not pleased. And at this, he would not be pleased. Samga did not want to be the one to bring the news. So as soon as he exited the chamber, he motion to the the first Orc he saw, and, in the crude, grinding, barking imperfect tongue of the Orcs said, "You, come."
+
+In return, the other Orc barked, "Obey."
+
+All Orcs could talk after a fashion, but Samga was the only one who could talk that Master had not vented his fury upon. This was because Samga was very careful about what he said. 
+
+## I am no serving girl
+
+
+"No, no, no, don't be silly. That is not why
+
+
+
+
+
+She refuses
+
+"I am glad you said that," said the Wizard.
+
+"Because now you see that I am no servant or serf?"
+
+"No, you are most assuredly that. The stench of the lower classes is upon you, especially your impudence."
+
+"Impudence!" Asarah snapped, knowing it was a dangerous and stupid thing to do, but so angry at this arrogant man that she couldn't bring herself to care. 
+
+"No I am glad you refused because now you have absolved my guilt."
+
+"Guilt? What are you talking about? You should already feel guilty, you kidnapped me!"
+
+"Oh, dear, no. I rescued you from a city under siege. Very sensitive and noble of me."
+
+"You burned down my Inn!"
+
+"Yes, well, there was that. Fit of temper. Besides, I burned up two of my sandwiches. Two sandwiches that I --"
+
+"Didn't even pay for!"
+
+"ENOUGH!" Dimsbury thundered, so loud that bits of rock and dust tumbled down from the vaulted ceiling of the chamber. "You were a pleasant diversion, but no more. "
 
 
 She talks to the Orcs
