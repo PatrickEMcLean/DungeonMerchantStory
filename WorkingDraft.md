@@ -6,7 +6,7 @@
 ## Punchlist ##
 
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
-* 
+* Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 
 # Chapter One: the Chosen Two 
 
@@ -1561,7 +1561,7 @@ He looked up sharply. "BOLTAC?!?"
 
 "Yadda, yadda, yadda. See kid, what he did, nevermind kid, what he did was despicable. But the important thing is that we're not going to fall for it."
 
-"No we're not," said the FarmBoy, not knowing what he wasn't going to fall for, but scaring Rattick a little anyway."
+"No we're not," said the Relan, not knowing what he wasn't going to fall for, but scaring Rattick a little anyway."
 
 "What are you going to do with me?" asked Rattick. 
 
@@ -1846,9 +1846,9 @@ Another of those strange, monstrous faces thrust itself into the window, but ins
 
 "And what are you Samga?" Asarah asked as she rose to her feet. 
 
-"I am an Orc?"
+"I am an Orc."
 
-"An Orc? And what is that."
+"An Orc. And what is that?"
 
 "I know not. None of us do. We are made not born, in the bowels of the Earth, to serve the Master."
 
@@ -2071,8 +2071,74 @@ Samga is no fool. He knows to bring a scapegoat with him.
 >They might get a bit killed the catching my Lud.
 >Well, whatever's left, you must bring it to me. 
 
+# Boltac and Relan and Rattick #
 
 
+In the distance, there were the sound of scraping footfalls, and strange hissing grunts. Relan grew wide-eyed and crouched down, grabbing his sword. Boltac looked to Rattick.
+
+"Orcs my merchant friend. Hungry for the fatty flesh of shop keepers no doubt."
+
+"Enh-henh, let's keep moving." He looked at Relan. "Quietly. And if possible, don't do anything too stupid." He slapped his kid's hand away from his sword. 
+
+fork in the tunnel. Sounds like Orc's are coming from both directions. 
+
+No wait, I think they are coming from behind. 
+
+Which way do we go, asked Boltac.
+
+Relan put his hand on his sword hilt. "I say we go right, stout companions."
+
+"Left," hissed Rattick in an immediate and automatic contradiction.
+
+Boltac rolled his eyes.
+
+"We should go right," Relan said, nodding to himself as if he was just figuring this out for the first time, "because the right and good is the "
+
+The strange, hissing grunts grew closer.  
+
+"We are sneaking into a powerful wizard's dungeon to steal his treasure, what is good about that," demanded Rattick? "You'll be no thief at all if you try to be polite about it," Rattick said to Relan.
+
+As the young boy's face grew red with anger, Boltac stepped between him and asked, "Why do you want to go left?"
+
+Rattick smiled, "I just like the left."
+
+Another guttural utterance echoed through the system of tunnels.
+"We can't stay here," hissed Rattick. Boltac shoved both of them aside and walked to the left tunnel.
+
+Relan rushed after the merchant, "But you can't trust him."
+
+"I don't," said Boltac, "This tunnel leads down and we needed to make a decision. Wait a minute, where is Rattick?" They both turned to see two shadows with pointy ears grabbing the cowled shadow of Rattick.
+
+From around the corner, Rattick's cry echoed, "Save yourselves, I will hold them off!"
+
+As Boltac ran, he wondered, "Why would Rattick allow himself to get caught."
+
+
+
+> should Rattick know that Boltac is after the girl?
+
+
+ 
+# Bit with Relan #
+
+
+He can't kill the Troll that chases them. 
+
+Boltac knocks him out. Saps him down with a coin purse.
+
+What gives?
+
+Relan tells his story. parents, small town, left because it was boring, but being a hero is not all he thought it was going to be. 
+
+Boltac tells his story. (But it wasn't the whole story. In fact, it almost never is.)
+
+Relan proves himself in the end. 
+
+
+
+
+
+# +++++++ Right Here +++++++++
 
 # Rattick Betrays Him #
 
@@ -2144,6 +2210,124 @@ Colbac nodded his head deeply in recognition. I understand Great Wizard. I under
 
 "Unh?" grunted the Orcs
  
+# Wizard pops the trap -- boltac doesn't care. #
+
+Yeah, yeah, yeah. That's great and all. I figured he was probably working with you. 
+
+"You did?" said Relan. "Does this mean that you're in on it?"
+
+"Shattup, kid. It means I'm just not a gullible idiot. I'm not in on anything."
+
+"So if you knew that Rattick would betray you to me, then what was your plan to defeat me?" Dimsbury asked.
+
+"Defeat you?" Boltac asked with genuine confusion.
+
+"You mean you are not here for revenge?" asked Dimsbury.
+
+"Revenge? I have a chance of revenge?" asked Boltac. 
+
+"No, there is no chance of someone like you defeating someone like me."
+
+"Oh, thank goodness," said Boltac
+
+"Thank goodness?" asked Dimsbury, genuinely intrigued.
+
+"I thought I had missed something. A shrewd merchant can't afford to miss things. I mean, you don't have some terrible weakness thatyou are not telling me about, do you?"
+
+"Ho, ho, ho," cackled Alston, "If I did, I certainly would't tell you about it, would I."
+
+"Ha, ha, ha," laughed Boltac. Then he cut his laugh abruptly short by saying, "Okay, enough yuks. Down to the negotiation."
+
+"Negotation? This is not a negotiation."
+
+"Sure it is chief. Everything is a negotiation. How much you want for her."
+
+"Excuse me?"
+
+"You want a serving girl. I want my lady friend back. How much for your serving girl, my lady friend."
+
+"You can't buy her from me? I am of noble descent. You are merely a serf."
+
+"Ennnnh, not so much. I am a free man. A merchant, with assets and capital of my own."
+
+"Pfah, you have no standing. You are not even a real person. You are merely a piece of livestock that can have no owner."
+
+"En-henh, but when you milk this cow, he leaks gold," Boltac said, "C'mon Mr. Wizard, there's no need to be unreasonable. Everybody needs gold, right?" Boltac threw a purse of gold at the feet of the Wizard. It landed with a reassuringly substantial clank.
+
+Alston did not look down. He held Boltac's gaze and said, "Only peasants need gold. The Noble need other things."
+
+"Not to offend you, your honor, but that's not exactly how it works. Even Kings run short of coin. And there's plenty more where that came from, in case Wizard's run short of coin as well."
+
+"I will not be bought and sold like so much meat!" Asarah protested.
+
+"This is worse than being stolen," asked Boltac
+
+"My, ahem, Lord," said Rattick. Everyone turned to look at Rattick half obscured in the shadows. Boltac wondered, how did Rattick manage to slink into the corner of a round room? "Yes, there is more where that came from. That unseemly sack draped over his shoulder? Yes, that is something called Themistres Bag of Holding."
+
+"Really," said Alston. "That is incredible. You know, I met him once. When I was young. Do you have any idea how rare his creations are?
+
+"I have some idea of how expensive it was," said Boltac, "and, if you think about it, that's really the same thing. But, if it will help sweeten the deal, I'll throw it in." When he saw the Wizard wasn't looking, he gave Asarah a look that begged her to be quiet. 
+
+
+"You know," Alston said with a strange half-smile, "I must admit, you are a civilized man."
+
+Boltac made a little bow, "Thank you."
+
+"Do you have any idea how many people have tried to raid my dungeon, laboratory, whatever, trying to steal my property."
+
+"I am not raiding you, I am a customer."
+
+"Yes, here for trade. Vile trade it is, but I admit, it is more civilized than treachery, deception and thieves."
+
+"Deception also has it's uses for the mighty," whispered Rattick from the shadows. This time from the other corner of a round room. He was such a hard figure to pin down.  
+
+
+"Yes, civilized…" Alston said, staring off into the smokey air, of his spherical chamber. "I have spend so much time arguing for unreasonable people to take the civilized path."
+
+"It's always the best way," Boltac said hopefully, "Reasonable people, getting along in a reasonable world. Able to do business together?" he asked hopefully. 
+
+"It is surprising," said Alston.
+
+"Funny old world, isn't it." said Boltac. 
+
+"Seize him!" commanded Alston. Samga snapped his fingers and three Orc's leapt from the ranks and grabbed Boltac. Samga barked, "Take him to the cells," in the harsh tongue of the Orc's. 
+
+"No!" cried Asarah.
+
+"Wait, wait!" cried Boltac. 
+
+"And bring the bag to me," said Alston.
+
+"Believe me, Mr. Wizard, you don't want to mess around in that bag," said Boltac as the Orc's dragged him away.
+
+"STOP!" cried Alston. "What did you say?"
+
+"I said, for your own good, you should leave that bag alone."
+
+"WHAT!"
+
+"Okay, this is just ridiculous. Stay outta the bag, or you'll regret it."
+
+"DO YOU KNOW WHO I AM!"
+
+"Johnny Hubris?" asked Boltac, "A guy I usedta know. Nevermind."
+
+Alston clapped his hands together and lightning bolts shot forth and ricocheted around the stone ceiling. Everything human in the room, hid their faces against the sudden and terrible noise and wind created by the superheated air. "I command the forces of nature itself. I harness the element power that turns the world. I am to be afraid of your sack of goodies?"
+
+"Only if ya not a jackass," Boltac said out of the side of his mouth. 
+
+"WHAT!" demanded Alston.
+
+"Oh, uh, No, of course not!"
+
+"Throw him in the pit!"
+
+"NOOOOOOOO!" screamed Asarah.
+
+Samga lifted the cover of the bottomless pit of failed creations. The Orc's gave a push, and Boltac was gone. 
+
+
+
 
 # Wizard shows Boltac his Treasure Horde #
 

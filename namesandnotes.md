@@ -11,7 +11,18 @@ Rattick
 Alston Dimsbury
 Weaveston Prestidigitous RampartLion Toroble the 15th,
 Uncle Torvalds
+Aunt Etheline
 Samga -- the faithful Orc overseer. 
+Various Orcs
+An unfortunate Troll
+Some wolves
+Townspeople of Robrecht
+
+## Things ##
+
+
+MaGrief's Gauntlet's of Self-Abuse
+Themistres Bag of Holding. 
 
 
 ## Places ##
