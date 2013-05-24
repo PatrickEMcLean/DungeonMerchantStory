@@ -2242,7 +2242,7 @@ They came to a split in the tunnel and Boltac went to the left. "Ahh, the left,"
 
 "Then we shouldn't make it easy to catch us," said Boltac, striding off resolutely. But he quickly came to another branch in the passageway. This time a passage lead off to the right and several paces on, the main passage split again. 
 
-Boltac kept walking and went to the left, just to piss Relan off. 
+Boltac kept walking and went to the left, just to piss Relan off. The tunnel rose steeply and twisted to the right, then dropped into another junction that looked suspiciously like that the one that they had just come from, but that wasn't possible. Was it? 
 
 
 
