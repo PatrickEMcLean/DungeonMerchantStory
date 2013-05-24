@@ -9,7 +9,7 @@
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 * Add a bit about the importance of lighting to adventurers
 
-# The importance of lighting #
+## The importance of lighting ##
 
 
 *this could go in the store, or it could be Wagon conversation* 
@@ -2214,24 +2214,60 @@ Relan's face went pale and he swallowed.
 
 "C'mon, cheer up. You might get another chance to be a hero again." 
 
-Boltac shuttered his lantern
+Boltac shuttered his lantern and turned back. "Quietly now," he said. 
 
 As they made their way back down the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
 
 
+There was a shuffling, hissing noise in front of them. Boltac didn't think twice. He headed for the small passage. "C'mon, this way."
 
-"C'mon, this way."
-
-"What if they are tracking us by scent?" said Relan. 
-
-"Ah, c'mon, those things have to have a horrible sense of smell. Did you see their crazy noses."
-
-"Oh, good," said Relan and followed him into the little passage, feeling a false sense of security in the smaller, lesser traveled portion of the dungeon.
+For once, Relan didn't argue. 
 
 
+* * * 
+
+Off the main passageway, the tunnel sloped sharply up, then down. As they followed it, it twisted to the right, and then back to the left as if the thing that had made it was having trouble making up it's mind which way it really wanted to go. 
+
+They came to a split in the tunnel and Boltac went to the left. "Ahh, the left," said Relan. 
+
+"Shattup," said Boltac. Three steps in to the tunnel it bent sharply to the left, dropped three feet and split again. This time Boltac went to the right. 
+
+"Are you happy now?" asked Boltac.
+
+"Shh," said Relan. 
+
+"Nevermind the melodrama, let's keep moving," said Boltac.
+
+"But what if it is following us?"
+
+"Then we shouldn't make it easy to catch us," said Boltac, striding off resolutely. But he quickly came to another branch in the passageway. This time a passage lead off to the right and several paces on, the main passage split again. 
+
+Boltac kept walking and went to the left, just to piss Relan off. 
 
 
-Of course, Orc's
+
+
+They were in a maze of twisty passages all alike
+
+
+Little maze of twisting passages
+Little maze of twisty passages
+Little twisty maze of passages
+Maze of little twisting passages
+Maze of little twisty passages
+Maze of twisting little passages
+Maze of twisty little passages
+Twisting little maze of passages
+Twisting maze of little passages
+Twisty little maze of passages
+Twisty maze of little passages
+
+
+
+
+
+
+
 
 
 
