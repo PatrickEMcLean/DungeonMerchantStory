@@ -9,6 +9,10 @@
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 * Add a bit about the importance of lighting to adventurers
 
+"That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
+
+
+
 ## The importance of lighting ##
 
 
@@ -2244,7 +2248,36 @@ They came to a split in the tunnel and Boltac went to the left. "Ahh, the left,"
 
 Boltac kept walking and went to the left, just to piss Relan off. The tunnel rose steeply and twisted to the right, then dropped into another junction that looked suspiciously like that the one that they had just come from, but that wasn't possible. Was it? 
 
+"Ennh," said Boltac.
 
+"We're in a maze," said Relan. 
+
+"No we're not, we're just fine, I know right where we are," said Boltac, not managing to convince himself or his young companion. The Merchant turned around and waddled back the way he came, but after three more turns, they found themselves back in the exact same room. Or one that looked exactly like it. 
+
+"We're in a maze of twisty passages," said Relan.
+
+"Each alike," finished Boltac. He unslung the sack from his shoulder. 
+
+"What are you doing?" said Relan. "We've got to keep moving."
+
+"I'm checking something," said Boltac, digging around in his sack. "Besides, if all these passages are alike, then it doesn't matter where we are."
+
+"Unless we're being stalked."
+
+"Ah ha!" Boltac lifted the magic detecting wand from the bag. He waved it up and down in the air and held it in each of the four exits. The wand was unchanged. 
+
+
+
+
+
+
+
+
+
+
+Drive to, unless it tracks us by smell. 
+
+Which of course it did. 
 
 
 They were in a maze of twisty passages all alike
@@ -2643,6 +2676,15 @@ Finally he returned to the pool of darkness within the darkness.
 "Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
 # Boltac unleashes the coins #
+
+# Boltac throws the magic detecting wand into the fount of all magic. #
+
+
+It explodes and shuts the portal. 
+
+"My magic! You fool, you may have destroyed magic for this entire plane of existence." Alston cried.
+
+"GOOD!" thundered Boltac.
 
 
 # Asarah gives Boltac confidence to be king #
