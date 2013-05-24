@@ -7,6 +7,55 @@
 
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
+* Add a bit about the importance of lighting to adventurers
+
+# The importance of lighting #
+
+
+*this could go in the store, or it could be Wagon conversation* 
+
+And, of course, lighting. A question of prominent importance to any adventurer. 
+
+The Farm Boy looked a longingly back at the swords.
+
+"I know, I know," continued Boltac. You think the thing with the pointy end is the most important bit of gear you can buy."
+
+"A hero's life depends on the strength of his blade." 
+
+"Sometimes. But there are two things, I can guarantee you are going to need. 1) Water. 2) Light."
+
+"What about food?"
+
+"Eh, you can live for days without food, but without water… not so much. And the dark. You are comfortable in the dark."
+
+"I have walked this land at night since I was a small child."
+
+"And now that you're a big child… I'm sorry, I'm sorry, I'm just having fun. My point here is, you know what lives far, far underground, in the darkness?"
+
+"I do not, but I am ready to boldly face the unknown."
+
+"Ennn-henh. You got no idea. For that matter, neither do I. But whatever horrible underground thing you mean to bash to a pulp in the name of your personal fame or fortune, you can bet that, at the very least, it can see in the dark."
+
+The Farm Boy stood there with a brave, yet stupid look on his face.
+
+"And you know what can't see in the dark?"
+
+"Uh…"
+
+"You. You can't see in the dark. Can you?"
+
+"No."
+
+"Then trust me, you pain-in-the-ass, take a lantern. In fact, take two and some torches, just in case."
+
+
+"To say nothing about the importance of boots. To make sure you are properly fitted for boots, rather than those ragged sandals you are wearing."
+
+>Relan cuts him off, and doesn't finish the boot-fitting advice, so that Relan winds up with ill-fitting boots. 
+>Does Relan complain that the Orc's all have such cool boots.
+>For every Orc he kills, he tries on his boots -- but none of them fit, through the entire story. 
+
+Does Relan get killed and brought back?
 
 # Chapter One: the Chosen Two 
 
@@ -2073,18 +2122,7 @@ Samga is no fool. He knows to bring a scapegoat with him.
 
 # Boltac and Relan and Rattick #
 
-
-In the distance, there were the sound of scraping footfalls, and strange hissing grunts. Relan grew wide-eyed and crouched down, grabbing his sword. Boltac looked to Rattick.
-
-"Orcs my merchant friend. Hungry for the fatty flesh of shop keepers no doubt."
-
-"Enh-henh, let's keep moving." He looked at Relan. "Quietly. And if possible, don't do anything too stupid." He slapped his kid's hand away from his sword. 
-
-fork in the tunnel. Sounds like Orc's are coming from both directions. 
-
-No wait, I think they are coming from behind. 
-
-Which way do we go, asked Boltac.
+They came to a fork in the tunnel."Which way do we go?" asked Boltac.
 
 Relan put his hand on his sword hilt. "I say we go right, stout companions."
 
@@ -2092,24 +2130,127 @@ Relan put his hand on his sword hilt. "I say we go right, stout companions."
 
 Boltac rolled his eyes.
 
-"We should go right," Relan said, nodding to himself as if he was just figuring this out for the first time, "because the right and good is the "
+"We should go right," Relan said, nodding to himself as if he was just figuring this out for the first time, "because the right and good is the... "
 
-The strange, hissing grunts grew closer.  
+In the distance came the sound of strangely scraping footfalls and hissing grunts. The noises echoed wildly in the depths of the dungeon, so it was impossible to know where they came from. Left, right, behind. But one thing was certain, the sounds were growing closer. 
 
-"We are sneaking into a powerful wizard's dungeon to steal his treasure, what is good about that," demanded Rattick? "You'll be no thief at all if you try to be polite about it," Rattick said to Relan.
+Relan grew wide-eyed and crouched down, hand on sword hilt. His gaze shifted quickly from passageway to passageway to passageway, but as spastic as he was, he could not look at all three avenues at once. Boltac shook his head and looked to Rattick.
 
-As the young boy's face grew red with anger, Boltac stepped between him and asked, "Why do you want to go left?"
+"Orcs my merchant friend. Hungry for the fatty flesh of shop keepers no doubt."
+
+"Enh-henh, let's keep moving." He said to Relan, "Quietly. And if possible, don't do anything too stupid." He slapped his kid's hand away from his sword. 
+
+"To the right then, because we are for good," said Relan, nodding as if the matter was settled. 
+
+"For good," snorted Rattick, "We are sneaking into a powerful wizard's dungeon to steal his treasure, what is good about that? You'll be no kind of thief at all if you try to be polite about it," Rattick said.
+
+As the young boy's face grew red with anger, Boltac stepped between the two of them and asked, "Why do you want to go left?"
 
 Rattick smiled, "I just like the left."
 
-Another guttural utterance echoed through the system of tunnels.
-"We can't stay here," hissed Rattick. Boltac shoved both of them aside and walked to the left tunnel.
+More guttural utterances echoed through the system of tunnels.
+"We can't stay here," hissed Rattick, "too dangerous." Boltac made his decision by shoving through both of them and walking into the left tunnel.
 
 Relan rushed after the merchant, "But you can't trust him."
 
-"I don't," said Boltac, "This tunnel leads down and we needed to make a decision. Wait a minute, where is Rattick?" They both turned to see two shadows with pointy ears grabbing the cowled shadow of Rattick.
+"I don't," said Boltac, "This tunnel leads down and we needed to make a decision."
 
-From around the corner, Rattick's cry echoed, "Save yourselves, I will hold them off!"
+"He is not a man of honor," protested Relan.
+
+"Kid, you don't know this yet, but Men of Honor? Not all that useful."
+
+"He means to lead us into a trap and steal the contents of your precious bag," he said.
+
+"The bag is more precious than the contents, hey, wait a minute? Where is that weasely son-of-a-bitch?" Before they could even turn, they heard the sounds of a scuffle behind them. 
+
+"Ah, Gah, ah-Hah!" they heard Rattick say from around the corner. On the wall, grotesque statues cast by torches revealed two shadows with strange pointed ears grabbing at the cowled shadow of Rattick. The froze at the spectacle before them. There were hisses and grunts, muffled curses and the sound of thudding blows. Then Rattick drew a sharp intake of breath and cried, "Save yourselves, I will hold them as long as I can!"
+
+"We should help him," said Relan.
+
+"En-henh, you think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment he was trapped there. Torn between the desire to do the right thing, and the bald fact that he knew Rattick to be an evil man. He watched the shadows tear at each other for a moment. Then he turn and ran. 
+
+In an instant he caught up with the wheezing, slow moving merchant. Straining under the weight of his brown sack, Boltac looked over at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
+
+Relan ran ahead. Thinking that he was drawn to danger as the moth is drawn to the candle flame. 
+
+Where the corridor made a right angle bend, Relan came to a stop. The stone work had become more finished in this part of the cave system. The rough edges had been broken off, and here and there, there was evidence of polishing and brickwork in places. Evidently, they were getting some place.
+From around the corner, Relan heard noise. 
+
+He held up a hand so Boltac wouldn't run up behind him. But when he looked back he realized how silly that was. Boltac was limping down the corridor, panting heavily and dragging his sack behind him. When he saw that Relan was looking at him he nodded weakly and raised a hand. 
+
+Relan drew his blade carefully, not making a sound. Then he peeked around the corner very carefully. His jaw dropped. And he moved backwards very slowly for fear that he might be seen. 
+
+"Pssst," Relan said as he waved frantically to Boltac, "Hurry!" 
+
+"Ennnnnn-heh," said Boltac as he put on all the hurry of which he was capable. By the time he reached where Relan was standing he was panting so heavily, Relan was afraid they would be heard. "Shhhhhh!"
+
+"Kid. I. ain't. made… for running," Boltac said between gasps. 
+
+"Look!" Relan demanded. Boltac raised his weary head and they both peered around the corner. It was Boltac's turn to drop his jaw. 
+
+He had thought they were in a large corridor before, but when he saw the massive tunnel through which hundreds of Orcs passed them, his sense of scale was quickly and forcibly recalibrated. The most disconcerting thing was that they did not march in ranks, but hurried to and fro as busy townspeople might. This was not merely an army, but an underground civilization. 
+
+The tunnel they were in continued across the large cavern -- it seemed inappropriate to call it a tunnel, it was wide enough across for four, maybe five wagons! As Boltac watched, two Orc's exited the stream of traffic, and entered the tunnel across the way. 
+
+"We can't stay here," said Boltac. 
+
+"We should go home," said Relan. 
+
+"Enn-henh," said Boltac, "What happened to the brave adventurer."
+
+"I can't kill so many. I, I, I, I…"
+
+"C'mere for a minute. "
+
+"Go back? But what if we run into some of those things?"
+
+"Orcs?"
+
+"Yeah, Orcs."
+
+"Well, I'll tell you what we're not going to do. Run."
+
+Relan's face went pale and he swallowed. 
+
+"C'mon, cheer up. You might get another chance to be a hero again." 
+
+Boltac shuttered his lantern
+
+As they made their way back down the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
+
+
+
+"C'mon, this way."
+
+"What if they are tracking us by scent?" said Relan. 
+
+"Ah, c'mon, those things have to have a horrible sense of smell. Did you see their crazy noses."
+
+"Oh, good," said Relan and followed him into the little passage, feeling a false sense of security in the smaller, lesser traveled portion of the dungeon.
+
+
+
+
+Of course, Orc's
+
+
+
+
+
+"I'd say we should wait until nightfall, but I have no idea what time it is now," said Relan. 
+
+
+ 
+
+torn for a moment between helping Rattick and In a moment he caught up with Boltac. 
+
+
+
+
+
+
+-- Orc in Rattick's cowl 
+
 
 As Boltac ran, he wondered, "Why would Rattick allow himself to get caught."
 
@@ -2122,7 +2263,11 @@ As Boltac ran, he wondered, "Why would Rattick allow himself to get caught."
 # Bit with Relan #
 
 
-He can't kill the Troll that chases them. 
+They get lost and find themselves in a maze of twisty passages each alike. 
+
+	You are in a maze of twisty little passages, all alike.
+
+He can't kill the Orc that chases them. 
 
 Boltac knocks him out. Saps him down with a coin purse.
 
@@ -2465,6 +2610,11 @@ Finally he returned to the pool of darkness within the darkness.
 
 
 # Asarah gives Boltac confidence to be king #
+
+>I can't be a king, I'm not noble. 
+
+>We'll, if you can't be a king, then we are doomed, simply doomed to have men like him rule over us -- YOu are cheap, I will give you that Mr. Boltac. 
+
 
 "You might not be able to be a King Mr. Boltac, but I could definitely be a Queen."
 
