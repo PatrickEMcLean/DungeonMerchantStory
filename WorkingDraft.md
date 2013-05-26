@@ -2343,7 +2343,32 @@ Relan sat down roughly and half said, half sobbed, "It's no use, we're lost."
 
 "Shhhh!" said Boltac. "We don't know where we are. But more importantly, we don't know where they are." He sat down next to the young man and said, "We'll rest here for a minute, get our spirits back."
 
-He reached into his Bag of Holding and produced a skin of water.  
+He reached into his Bag of Holding and produced a skin of water. He drank from it and passed it to Relan. He swallowed greedily and wiped his chin off with his tunic. 
+
+They sat in silence for a while. Then Boltac said, "Okay, kid, I get that I'm an idiot for doing this, but not for nothing, what are you doing here."
+
+"I want to be a hero."
+
+"Yeah, but why? I mean, before, I'd sooner die than listen to this story, but since we're probably going to die down here anyway," Boltac said with a smile.
+
+"Why are you so cheery about it."
+
+"You don't know nutting, kid. This is an adventure. Of course, my favorite adventures are trading expeditions, but same thing. And the first rule of adventures, they're always miserable. You expect that. You expect the worst, and you have a much better time."
+
+"You mean like my feet."
+
+"Ah, that's nothing. We got enveloped in a dust storm coming out of Shatnapur. The winds blew for three days. We had no idea where we were going. Even the camels got lost. We were out of water for three days before we found the oasis. Hell, oasis, that's begin generous, it was a puddle of muddy water. Some of the camels wouldn't even drink from it. But I did. Felt fine for about an hour. Then I shit myself all the way to the next well. Eh, it was awful. My camel went from sand colored, to Boltac's bowels brown. Terrible."
+
+"That's awful."
+
+"That's adventure. Whyddya think I own a store?"
+
+"Because you're old and fat and mean."
+
+"I wasn't always old and fat, y'know. And someday, if you're very, very lucky, you'll be old and fat and you might not mind so much."
+
+"Not me," said Relan, "I'm out to make a name for myself."
+
 
 
 
