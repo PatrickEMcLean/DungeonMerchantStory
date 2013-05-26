@@ -2492,6 +2492,18 @@ Relan proves himself in the end.
 
 # Rattick Betrays Him #
 
+Rattick complains that the Orc's roughed him up unnecessarily. Didn't heed the safe word.
+
+"I am terribly sorry, but I didn't breed them for intelligence." turns to Samga, "Except for you of course, no offense meant."
+
+His alien face betraying no emotion, Samga said, "I am content to bask in the radiance of you wisdom and intellect."
+
+"See," Alston said to Rattick, "Flattery. It's a sign of cunning and intelligence."
+
+"Well, your most your most savage and powerfulness, your intelligence and potency is common knowledge," said Rattick.
+
+"Yes, yes. You are cunning as well, Rattick. And far less trustworthy than Samga here."
+
 # He Tries to Buy the Girl #
 
 >Asarah doesn't want to admit weakness -- Boltac struggles with this -- "It's not weakness let someone love you", he said. 
