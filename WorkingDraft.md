@@ -2417,33 +2417,19 @@ It wasn't the whole truth, but it was all of the truth that Boltac was going to 
 
 Relan thought on this a while and said, "With such a powerful sword, you could have been a King."
 
-"Nah, kid. They don't let guys like me be King. Not even in fairy tales do they let guys like me be King."
+"Nah, kid. They don't let guys like me be King. Not even in fairy tales do guys like me be King."
 
+"Why? Can't anybody be a King?"
 
+"You gotta better shot of being King than I do. Farm Boy, turns out to be a prince, that's a great story. Merchant, nah, that…"
 
+Boltac put a finger to his lips and looked up sharply. Relan heard it as well. Something moving through the passageway. Scraping footfalls and hissing. In the passageway they had come from they could see the flickering orange glow of torchlight. It grew brighter and brighter. Something was tracking him. 
 
-Boltac whispered, "Draw your sword. This is where you get to be a hero. "
+Boltac whispered, "Draw your sword. This is where you get to be a hero."
 
+"What?" whispered Relan. 
 
-Drive to, unless it tracks us by smell. 
-
-Which of course it did. 
-
-
-They were in a maze of twisty passages all alike
-
-
-Little maze of twisting passages
-Little maze of twisty passages
-Little twisty maze of passages
-Maze of little twisting passages
-Maze of little twisty passages
-Maze of twisting little passages
-Maze of twisty little passages
-Twisting little maze of passages
-Twisting maze of little passages
-Twisty little maze of passages
-Twisty maze of little passages
+"Listen," said Boltac, "Here's what we're going to do."
 
 
 
