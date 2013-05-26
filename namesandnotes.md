@@ -4,7 +4,7 @@
 ## Characters ##
 
 
-Boltac
+Boltac 
 Relan
 Asarah
 Rattick
@@ -17,6 +17,13 @@ Various Orcs
 An unfortunate Troll
 Some wolves
 Townspeople of Robrecht
+
+
+### Boltac's old Mercian companions
+
+Athos
+Rickelous
+
 
 ## Things ##
 

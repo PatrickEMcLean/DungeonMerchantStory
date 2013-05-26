@@ -2385,7 +2385,15 @@ Boltac stretched his legs out in front of him, and lowered the shutter on the la
 
 "I told him I was going to be soldier and make him proud. His eyes filled with tears when he told me that killing would never make him proud. That I should be a merchant, keep a store, raise a family, know something of life before I died.  Add something to the ledger of the world, rather than take, take, take.
 
-"I don't remember exactly, but I suppose I said something much like you did. Called him old and fat, perhaps a coward… ehhh," Boltac shook his head and looked away for a long time. "Anyway, I never saw my father again. I came south. I think I imagined we would conquer the Southern Kingdoms single-handedly. There were four of us in the 7th Reprebites. We were thick as thieves and just as greedy."
+"I don't remember exactly, but I suppose I said something much like you did. Called him old and fat, probably a coward… ehhh. He was a lotta things my old man, but not a coward." Boltac shook his head and looked away for a long time. "Anyway, I never saw my father again. I came south. I think I imagined we would conquer the Southern Kingdoms single-handedly. There were four of us in the 7th Repreitors. We were thick as thieves and twice as greedy."
+
+"Athos, he was a scout. And far south of here, just coming out of the mountains, he was scouting wide on the left flank of the army. And he came across an ancient city, crumbling on the edge of the jungle. Of course, there was no one there. But the promise of riches, boy, untold riches of an ancient civilization."
+
+"We bribed the lieutenant, I was a supply sergeant, so I got us what we needed. And off we rode, bold as heroes."
+
+"I have since discovered the identity of that lost city. 
+
+"
 
 
 
