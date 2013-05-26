@@ -40,6 +40,7 @@ Very carefully, Boltac selected the finest and most powerful items from his stor
 
 And to it, he added *all* the gold. Every last piece he had. 
 
+He slung the bag over his shoulder, light and carefree. And headed with a door with a spring in his step and dread in his heart. The last thing he grabbed on his way out was the brass and Turquoise lantern. 
 
 Bag of Holding. 
 
@@ -89,6 +90,24 @@ The Farm Boy stood there with a brave, yet stupid look on his face.
 "Then trust me, you pain-in-the-ass, take a lantern. In fact, take two and some torches, just in case."
 
 
+### The lantern ###
+
+Cannot be broken and never goes out. The magic lantern of laptopolis
+
+"Lantopolis?"
+
+"Okay, you caught me, I made it up. But it's a lantern and it's clearly magic."
+
+"It's beautiful. How does it work?"
+
+"It's magic. That's how it works. Some kinda glowing crystal in the center there. But trust me, it can't be broken."
+
+"How do you know that."
+
+"Ennh, you've never had apprentices have you? Third rule of shopkeeping: If a thing can't be broken by an apprentice, it can't broken."
+
+
+
 "To say nothing about the importance of boots. To make sure you are properly fitted for boots, rather than those ragged sandals you are wearing."
 
 >Relan cuts him off, and doesn't finish the boot-fitting advice, so that Relan winds up with ill-fitting boots. 
@@ -96,6 +115,8 @@ The Farm Boy stood there with a brave, yet stupid look on his face.
 >For every Orc he kills, he tries on his boots -- but none of them fit, through the entire story. 
 
 Does Relan get killed and brought back?
+
+
 
 # Chapter One: the Chosen Two 
 
@@ -2312,9 +2333,17 @@ Boltac kept walking and went to the left, just to piss Relan off. The tunnel ros
 
 "And that is?"
 
-"Let's try always taking the right-most passage." Relan agreed to this readily enough and they set off. 
+"Let's try always taking the right-most passage." Relan agreed to this readily enough and they set off. They walked for what seemed an eternity, but every junction they came to looked the same as the one they had come from. After an unknowable number of intersections, Boltac muttered, "Twisting maze of little passages," like the curse that it was. 
 
-Relan agree
+Relan sat down roughly and half said, half sobbed, "It's no use, we're lost."
+
+"Easy kid," said Boltac, "It's an adventure. It never goes according to plan."
+
+"PLAN!" exploded Relan. "WHAT PLAN?"
+
+"Shhhh!" said Boltac. "We don't know where we are. But more importantly, we don't know where they are." He sat down next to the young man and said, "We'll rest here for a minute, get our spirits back."
+
+He reached into his Bag of Holding and produced a skin of water.  
 
 
 
