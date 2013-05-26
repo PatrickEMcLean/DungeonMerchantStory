@@ -2373,10 +2373,24 @@ They sat in silence for a while. Then Boltac said, "Okay, kid, I get that I'm an
 
 
 
+> Possibilities -- The Wizard killed Relan's father, but through consumption, like the pox or something like that. 
+
+Boltac stretched his legs out in front of him, and lowered the shutter on the lantern so that it was almost all the way closed. A faint red glow filled the room. The Merchant stared into the gloom for a long time. Then he said, "Once, long before you were born, I carried a sword for a living. From far to the North. I first came to Robrecht from Mercia. To conquer the wilds and make a name for myself."
+
+"But you don't look Mercian?"
+
+"I'm not. Not exactly. You see my tribe is, well, we're scattered. And my family traded in the Mercian empire, but weren't exactly citizens, you see. So my dream was to… well it was your dream. I was going to go out in the world and prove myself to be strong and brave. Make a name for my self. Earn the token of citizenship. And then… and then I don't know what. 
+
+"My father thought I was an idiot. And it too me years to realize he was right. The day I mustered out for the long march south, he said, 'Boltac, you're a trader, a merchant, it is in your blood.' 
+
+"I told him I was going to be soldier and make him proud. His eyes filled with tears when he told me that killing would never make him proud. That I should be a merchant, keep a store, raise a family, know something of life before I died.  Add something to the ledger of the world, rather than take, take, take.
+
+"I don't remember exactly, but I suppose I said something much like you did. Called him old and fat, perhaps a coward… ehhh," Boltac shook his head and looked away for a long time. "Anyway, I never saw my father again. I came south. I think I imagined we would conquer the Southern Kingdoms single-handedly. There were four of us in the 7th Reprebites. We were thick as thieves and just as greedy."
 
 
 
 
+Boltac whispered, "Draw your sword. This is where you get to be a hero. "
 
 
 Drive to, unless it tracks us by smell. 
