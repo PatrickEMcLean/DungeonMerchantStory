@@ -2432,6 +2432,25 @@ Boltac whispered, "Draw your sword. This is where you get to be a hero."
 "Listen," said Boltac, "Here's what we're going to do."
 
 
+# Orc's POV #
+
+
+Hissglarg smelled human. And orders was very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They was to be saved for identification, of course. But all the rest were free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
+
+It was a silly trait, one that evolution would never would have put up with. All Orc's really needed to survive was a constant diet of the deep minerals they had been grown from. But when Alston Dimsbury set out to do a job of evil wizarding, he didn't leave it half done. No matter what they needed to grow, Alston had decided that his Orcs would have a proper lust for the flesh of mankind, with not so much as a by your leave to the delicate processes that formed the natural world. 
+
+This was all well and good (especially for Alston's vanity) but human meat played all hell on an Orc's digestion. In fact, nothing about an Orc's digestion was very good. Left to their own devices, they could extract so little nutrition from the soil of the warrens they dug, that they could literally eat dirt and rock all day and starve to death. So they dug and quarried and filtered and smelted and refined -- not for pretty jewels or shiny metals, but for dinner. 
+
+The Orc held the barely sputtering torch close the ceiling and sniffed the air. Yes, this time to the left. He sucked the air and scuttled forward. Strictly speaking, Hissglarg didn't need light. Born and raise underground, the feeling of the rock under his claws and the scent of minerals, warren-mates and intruders were all he needed to navigate his way through the most tortuous of underground passages. He could never get lost. He would just follow his own smell back the way he had come.
+
+Hissglarg had carried the torch because of something the-one-who-spoke-the-human-tongue had told him. He couldn't remember the exact words right now, especially with the intoxicating smell of meat so close, but it was something about human's liking light. And if they were lost in the dark that they would come right towards a source of light. It was close enough, what Samga had told him was, "Keep a light in their eyes," they are easier to catch that way." 
+
+…
+
+A light flared in the passageway before him. So brilliant, he thought it was that strangest of things, the sun. But what would the sun being doing underground? He covered his eyes and hissed in pain. Then he threw the sputtering torch at the source of light. It faded somewhat and in the encroaching darkness, he could see a fat sack of human meat, crawling along the ground after a lantern. Ah, dinner, thought Hissglarg.
+
+The entree on the ground turned and looked behind Hissglarg. It's eyes went wide and it shouted something in the meat-tongue. Hissglarg did not understand it, but he looked behind him anyway. And there, to his surprise, was more meat. This one held a sword in it's shaking hand. It was younger and thinner than the one on the ground. In fact, it looked kind of stringy. But Hissglarg would eat the sword. Metal was tasty and good for you, too!
+
 
 
 

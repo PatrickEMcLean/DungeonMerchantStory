@@ -13,6 +13,8 @@ Weaveston Prestidigitous RampartLion Toroble the 15th,
 Uncle Torvalds
 Aunt Etheline
 Samga -- the faithful Orc overseer. 
+Hissglarg -- the orc in the tunnel
+
 Various Orcs
 An unfortunate Troll
 Some wolves
