@@ -2391,9 +2391,33 @@ Boltac stretched his legs out in front of him, and lowered the shutter on the la
 
 "We bribed the lieutenant, I was a supply sergeant, so I got us what we needed. And off we rode, bold as heroes."
 
-"I have since discovered the identity of that lost city. 
+"I have since discovered the identity of that lost city. That cursed place."  
 
-"
+"Did you find jewels."
+
+"What we found was jewel encrusted death. I was the only one who made it out alive. I lifted a terrible sword from funeral beir, and as soon as I drew it, the sword attacked. The cursed thing welded itself to my hand and went after my companions. Within minutes they were all dead, and I was alive."
+
+"It wasn't my fault, but I never forgave myself. Of course, I couldn't go back, so I deserted. Six months later I heard that army was destroyed. So I went to r "
+
+It wasn't the whole truth, but it was all of the truth that Boltac was going to tell.  
+
+"What happened to the sword?"
+
+"I carried the awful thing with me in my travels. Thinking that the power and the skill of the sword would make me a mighty robber. It saved my life with some bandits, but in the end, the screams, the memories of the faces of the men I had killed, who I had loved as brothers -- who had become my family after I had abandoned my family -- I couldn't bear the touch of the thing.
+
+"I threw it in the deepest part of the River Swift, and I had not drawn a sword all the way out of a sheath since that day. Well, since the Orc's. And, to tell you the truth, I don't care if I never draw one again."
+
+"After you kill the Wizard you mean."
+
+"I don't want to kill anybody."
+
+"But he is a terrible man."
+
+"Fine, you kill him."
+
+Relan thought on this a while and said, "With such a powerful sword, you could have been a King."
+
+"Nah, kid. They don't let guys like me be King. Not even in fairy tales do they let guys like me be King."
 
 
 
