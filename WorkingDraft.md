@@ -2946,6 +2946,12 @@ It explodes and shuts the portal.
 ## Boltac brings Relan back with a magic potion ##
 
 
+# And a bunch of confused wolves #
+
+
+And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
+
+
 # Revisting the Troll #
 
 Melted into slag and the mace is there. Boltac picks up the mace and it doesn't pin him to the floor. 
@@ -2956,7 +2962,11 @@ Asarah looked at him with a crooked sort of grin.
 
 "What? what's that look for?" Boltac asked.
 
-"You're a strange sort of hero," said Asarah. Then she grabbed Boltac and planted a kiss on him good and hard. That kiss stayed planted all the way back to Robrecht. But as Relan drove the coach, and they rode in the comfort of the plush interior, she planted more, just to make sure they stuck. 
+"You're a strange sort of hero, Boltac." said Asarah. Boltac started to deny it, but Asara grabbed him and shut him up with a kiss she planted good and hard. It was the kind of kiss that stuck deep. The kind of kiss that would stay planted for years. The kind of kiss that for years to come, on cold lonely nights, Boltac would still be able to feel that kiss vibrating in his toes. 
+
+Relan drove the coach
+
+ But as Relan drove the coach, and they rode in the comfort of the plush interior, she planted more, just to make sure they stuck. 
 
 
 # Asarah gives Boltac confidence to be king #
