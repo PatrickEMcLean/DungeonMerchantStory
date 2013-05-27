@@ -2543,6 +2543,17 @@ His alien face betraying no emotion, Samga said, "I am content to bask in the ra
 
 "Yes, yes. You are cunning as well, Rattick. And far less trustworthy than Samga here."
 
+
+> The Wizard says, oh, so they are coming to me. Not warriors you say? Well then what? 
+> Let them come. Gives orders that they are not to be disturbed on their way in. We will spring a trap a the bottom of the pit. 
+
+"Are you sure that is wise?" asked Rattick. Wouldn't it be better for me to take a squad of your magnificent Orc's and relieve these intruders of their lives right now?"
+
+"And I should trust you, Rattick, with a squad in the heart of my sanctum. I think not my greedy friend. I trust you, as long as you have no power. I could do such a thing and control my creatures, but that would take valuable time from my research. As is this tiring conversation. Samga, let them through. Rattick, leave me to work in peace. Interrupt me only when they have reached the lowest level."
+
+Now everyone get out. 
+
+
 # He Tries to Buy the Girl #
 
 >Asarah doesn't want to admit weakness -- Boltac struggles with this -- "It's not weakness let someone love you", he said. 
@@ -2793,9 +2804,11 @@ no, to be fed to foul creatures of the under dark and destroyed. Or converted in
 
 At a loss for words, she said, "love?"
 
-"Eh, the most expensive con of all, c'mon, let's get out of here. I'm not much of a prince, this ain't much of a rescue, "
+"Eh, the most expensive con of all, c'mon, let's get out of here. I'm not much of a prince, this ain't much of a rescue, but at least we're clear of it." The Merchant put his arm around Asarah and they turned to go. 
 
-And the Merchan
+"Oh? You're not leaving are you? So soon?"
+
+Boltac didn't look back as he said, " "
 
 
 >Strikes down the boy
