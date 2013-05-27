@@ -2901,7 +2901,7 @@ You have spent too much time around the human's Samga. Retreat with me into the 
 
 Samga followed the older one into the darkest darkness under the ground. 
 
-
+We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
 
 
 # BOLTAC"S TURNing Moment #
@@ -2926,7 +2926,52 @@ Finally he returned to the pool of darkness within the darkness.
 
 # Boltac unleashes the coins #
 
+I've come back to do you in. 
 
+"Oh have you now."
+
+"That's a fact."
+
+"Well, oh my heavens. Let us ignore the fact that I can strike you down at my leisure. Perhaps with bolt of lightning, or a spell of transmogrify, have you forgotten about the horde or Orc's I have at my disposal."
+
+"You know, I don't think those Orc's are going to be much help to you? But you can call them."
+
+* Bolt after bolt lancing into Boltac. 
+
+Relan comes up at the end, and stabs the Wizard, giving Boltac time
+
+I die a hero. 
+
+"En-henh," said Boltac. "Maybe we should hold out for a better offer."
+
+
+
+# ORCS GORGING THEMSELVES ON GOLD #
+
+
+I don't need the gold. Power can 
+
+Orc's all sleeping in the great hall, gorged, Boltac sneaks in and gets his gloves. And his wand. Samga helps him. 
+
+Samga, "all of your gold is gone. Such a shame."
+
+"It's not gone," said Boltac, "It's in your friends' stomachs, here. Important distinction."
+
+Samga did not understand much of anything humans said. The gold was eaten. And that other word, he had never heard it before, "Please, what does this word 'friend' mean."
+
+"Ya kidding me, right?" said Boltac.
+
+Samga gave him a flat Orcish look that admitted of no humor. 
+
+"Okay. You Samga, you're my friend. You're helping me. You are my friend," said Boltac.
+
+"But I am just hurting the Master," said Samga.
+
+"Yeah, it's a trade. You help me by getting me out. I help you by hurting the master, and we both benefit. Trade, makes friends, Samga."
+
+"But you can't be friends with such as I. I am beneath you."
+
+"What? Don't be ridiculous. Beneath me. I know good people, and you Samga, you are good, uh, Orcle? Whatever, c'mon. I still got a lady to rescue."
 
 
 
@@ -2945,6 +2990,12 @@ It explodes and shuts the portal.
 
 ## Boltac brings Relan back with a magic potion ##
 
+
+At the very end, he's been dead and dying the whole time. He rallies 
+
+-- Leave him where he has fallen as a warning. 
+
+As if they needed more warning, thought Samga.
 
 # And a bunch of confused wolves #
 
