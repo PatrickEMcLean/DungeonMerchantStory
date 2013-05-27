@@ -8,6 +8,13 @@
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 * Add a bit about the importance of lighting to adventurers
+* 
+
+* What happens to the Troll? Is he still stuck there at the end. 
+* BOltac picks up the mace, signifying that magic is done for. 
+
+
+
 
 "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
 
@@ -2461,14 +2468,15 @@ A light flared in the passageway before him. So brilliant, he thought it was tha
 
 The entree on the ground turned and looked behind Hissglarg. It's eyes went wide and it shouted something in the meat-tongue. Hissglarg did not understand it, but he looked behind him anyway. And there, to his surprise, was more meat. This one held a sword in it's shaking hand. It was younger and thinner than the one on the ground. In fact, it looked kind of stringy. But Hissglarg would eat the sword. Metal was tasty and good for you, too! The Orc grabbed the shaking metal blade in one of his taloned hands. Tears streamed down the boy's face, but he did not run.
 
-There was a thud, and blackness closed in from around the edges of Hissglarg's vision. 
+There was a thud/clank, and blackness closed in from around the edges of Hissglarg's vision. The orc collapsed to the floor unconscious. 
 
+Relan blinked the tears back from his eyes and saw Boltac standing over the collapsed Orc.
 
 "Why didn't you stab him?" Boltac demanded.
 
 Relan opened his eyes to see Boltac standing over an unconscious Orc with a heavy coin purse in his right hand. 
 
-"What did you hit him with," Relan asked, still shaking and trying to change the subject.
+"What did you hit him with?" Relan asked, still shaking and trying to change the subject.
 
 "Money. About 150 gold pieces. Mightier than the sword, you know."
 
@@ -2556,6 +2564,8 @@ His alien face betraying no emotion, Samga said, "I am content to bask in the ra
 "Now everyone get out!"
 
 Rattick bowed. Samga bowed lower, and everyone left the angry Wizard to his work. 
+
+# Boltac and Relan sneak into #
 
 
 # He Tries to Buy the Girl #
@@ -2923,6 +2933,9 @@ Finally he returned to the pool of darkness within the darkness.
 # Boltac throws the magic detecting wand into the fount of all magic. #
 
 
+That's the problem with a bottomless sack 
+
+
 It explodes and shuts the portal. 
 
 "My magic! You fool, you may have destroyed magic for this entire plane of existence." Alston cried.
@@ -2931,6 +2944,19 @@ It explodes and shuts the portal.
 
 
 ## Boltac brings Relan back with a magic potion ##
+
+
+# Revisting the Troll #
+
+Melted into slag and the mace is there. Boltac picks up the mace and it doesn't pin him to the floor. 
+
+There you go, magic is neatly dispensed with. World is a safer place. 
+
+Asarah looked at him with a crooked sort of grin. 
+
+"What? what's that look for?" Boltac asked.
+
+"You're a strange sort of hero," said Asarah. Then she grabbed Boltac and planted a kiss on him good and hard. That kiss stayed planted all the way back to Robrecht. But as Relan drove the coach, and they rode in the comfort of the plush interior, she planted more, just to make sure they stuck. 
 
 
 # Asarah gives Boltac confidence to be king #
