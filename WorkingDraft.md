@@ -2017,7 +2017,11 @@ As she crossed the threshold, Samga said, "Master, I have brought the girl."
 
 In spite of her dire straights, Asarah smiled. She was far from her girlish days. Her hands were worn from the endless toil of keeping an Inn, and there were lines on her face. More from laugher than from frowns, but they were not the kind of lines a girl had.  But still, the heat of her womanhood had not cooled. Perhaps that would be enough. 
 
-The room she entered opened up into a high, arching ceiling. There were several braziers file with hot, smokelesss coal. Rugs divided the large room into various areas. On the left there was a collection of bookshelves, on the far side of the room there was a raised dias, and on it a table. On the table there was a large glass jar, perhaps half the height of man. In the jar a flame danced, seemingly just out of focus. It's light through strange shadows and shapes on the ceiling of the room. As a Asarah stared at it it seemed just about to come into focus, but it never quite did. She rubbed her eyes, but still it remained out of phase with the rest of the room. 
+The room she entered opened up into a high, arching ceiling. There were several braziers filled with burning coal that sent streams of greasy smoke rising in to the darkness at the top of the chamber. Rugs served to divide the large room into several areas. On the left there was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. On the far side of the room there was a raised dias, and on it a table. On the table there was a large glass jar, perhaps half the height of man. In the jar a flame danced, seemingly just out of focus. It's light through strange shadows and shapes on the ceiling of the room. As a Asarah stared at it it seemed just about to come into focus, but it never quite did. She rubbed her eyes, but still it remained out of phase with the rest of the room. 
+
+In the center of the room a large, disc of wood was set into the floor. Bands of iron held the staves together and it was fitted to an exquisite masonry circle set into the floor. Since it stayed in focus as she looked at it, she felt more comfortable
+
+> when the cover is removed, the smoke from the braziers will be drawn into the negative pressure of the hole. The "rather bottomless pit" sucks.
 
 "Ah yes," said a voice to her right, "the serving girl!" Asarah turned her head and there the Wizard sat at a desk in front of a number of papres. 
 
@@ -2765,6 +2769,41 @@ Asarah put her head down and sobbed in the corner.
 
 Relan remained dead on the floor, not quite a hero. 
 
+## Orc's eat the coins ##
+
+I will accept your gold. 
+
+Ah gold. My Orc's are hungry for gold. Not greedy, you understand, but literally *hungry* for gold. They eat it. I am afraid I have created an armory that marches on the treasury. Upkeep is murderous, but then, so are they. 
+
+Take these to the Great Hall. CALL THE FEAST!
+
+Boltac's shoulders sagged. A lifetime's work of accumulation gone in an instant. Not to be used to build a great house or a fleet of ships, not to be used to speculate in
+
+no, to be fed to foul creatures of the under dark and destroyed. Or converted into whatever slime Orc shit.
+
+"Well," said Boltac with no heart in it at all, "It was a pleasure doing business with you. Good deal. Now if you'll excuse us."
+
+"You bought me," Asarah said, stunned.
+
+"I gave all I had,"
+
+"But you are so tight with money. Always trying to grift me for a pint of ale… that you would give up all of it. All of it?"
+
+"Every last dime, now stop talking about"
+
+At a loss for words, she said, "love?"
+
+"Eh, the most expensive con of all, c'mon, let's get out of here. I'm not much of a prince, this ain't much of a rescue, "
+
+And the Merchan
+
+
+>Strikes down the boy
+
+>Asarah goes to aid.
+
+
+
 # Boltac in the Land of Misfit Toys #
 
 
@@ -2860,6 +2899,10 @@ Finally he returned to the pool of darkness within the darkness.
 
 # Boltac unleashes the coins #
 
+
+
+
+
 # Boltac throws the magic detecting wand into the fount of all magic. #
 
 
@@ -2868,6 +2911,9 @@ It explodes and shuts the portal.
 "My magic! You fool, you may have destroyed magic for this entire plane of existence." Alston cried.
 
 "GOOD!" thundered Boltac.
+
+
+## Boltac brings Relan back with a magic potion ##
 
 
 # Asarah gives Boltac confidence to be king #
