@@ -2468,7 +2468,9 @@ There was a thud, and blackness closed in from around the edges of Hissglarg's v
 
 Relan opened his eyes to see Boltac standing over an unconscious Orc with a heavy coin purse in his right hand. 
 
+"What did you hit him with," Relan asked, still shaking and trying to change the subject.
 
+"Money. About 150 gold pieces. Mightier than the sword, you know."
 
 
 
@@ -2551,7 +2553,9 @@ His alien face betraying no emotion, Samga said, "I am content to bask in the ra
 
 "And I should trust you, Rattick, with a squad in the heart of my sanctum. I think not my greedy friend. I trust you, as long as you have no power. I could do such a thing and control my creatures, but that would take valuable time from my research. As is this tiring conversation. Samga, let them through. Rattick, leave me to work in peace. Interrupt me only when they have reached the lowest level."
 
-Now everyone get out. 
+"Now everyone get out!"
+
+Rattick bowed. Samga bowed lower, and everyone left the angry Wizard to his work. 
 
 
 # He Tries to Buy the Girl #
