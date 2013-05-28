@@ -2060,7 +2060,35 @@ The Wizard looked up from his work, "What?" he asked. "Oh, the MLT's. Sadly, I f
 
 "I know what you want," she said.
 
-The Wizard rolled his eyes and pushed paper"
+The Wizard rolled his eyes and pushed paper "and what is that?"
+
+"Me," said Asarah, "You have taken me because you want a beautiful woman to bring comfort and pleasure to your life," she said with a roll of her hips. "And you think I will be attracted to you because you are a powerful man."
+
+"Yes," said the Wizard, "I am a powerful man. And intelligent as well, some may even say charming."
+
+Asarah snorted. 
+
+"But you, ho, ho, ho, you cannot be serious."
+
+"I am as serious as I am beautiful," Asarah said, almost choking on her own disgust for the words. But she had turned it over and over in her mind. Seducing this man was her only chance of getting out of this alive. 
+
+"I mean, the thought! Really it is too much."
+
+"Isn't it?" she said, flashing a great deal of leg through her torn dress and hating herself for it. 
+
+"No, no, the very idea I mean. You are serving girl. A totally different species. The idea," he barked a laugh and then regained control of himself, "That I? I? A son of a noble house could take as a consort someone like you? It is laughable really. You are to me as," he indicated the parade of heads that adorned the wall behind his desk, "A creation, or another species. We could no more mate than a snail and a, a, an Eagle!"
+
+Confused and not a little offended, Asarah asked, "Well, if you don't *ravish* me then why have you brought me here?"
+
+"You are to be my cook," said the Wizard.
+
+Asarah stood with her mouth hanging open so long that the Wizard felt that he must clarify things for the simpler mind in the room. "Sandwiches, dear lady, I have brought you here to make me a sandwiches."
+
+"Well, I'm certainly not making your supper now," said Asarah with the fury of a woman who thought she wanted to be scorned, but then decided -- ain't nobody scorning' me bitch!
+
+The Wizard's eyes narrowed to evil slits when he said, "Yes, you will."
+
+
 
 
 
@@ -2924,27 +2952,6 @@ Finally he returned to the pool of darkness within the darkness.
 
 "Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
-# Boltac unleashes the coins #
-
-I've come back to do you in. 
-
-"Oh have you now."
-
-"That's a fact."
-
-"Well, oh my heavens. Let us ignore the fact that I can strike you down at my leisure. Perhaps with bolt of lightning, or a spell of transmogrify, have you forgotten about the horde or Orc's I have at my disposal."
-
-"You know, I don't think those Orc's are going to be much help to you? But you can call them."
-
-* Bolt after bolt lancing into Boltac. 
-
-Relan comes up at the end, and stabs the Wizard, giving Boltac time
-
-I die a hero. 
-
-"En-henh," said Boltac. "Maybe we should hold out for a better offer."
-
-
 
 # ORCS GORGING THEMSELVES ON GOLD #
 
@@ -2972,6 +2979,27 @@ Samga gave him a flat Orcish look that admitted of no humor.
 "But you can't be friends with such as I. I am beneath you."
 
 "What? Don't be ridiculous. Beneath me. I know good people, and you Samga, you are good, uh, Orcle? Whatever, c'mon. I still got a lady to rescue."
+
+
+# Boltac unleashes the coins #
+
+I've come back to do you in. 
+
+"Oh have you now."
+
+"That's a fact."
+
+"Well, oh my heavens. Let us ignore the fact that I can strike you down at my leisure. Perhaps with bolt of lightning, or a spell of transmogrify, have you forgotten about the horde or Orc's I have at my disposal."
+
+"You know, I don't think those Orc's are going to be much help to you? But you can call them."
+
+* Bolt after bolt lancing into Boltac. 
+
+Relan comes up at the end, and stabs the Wizard, giving Boltac time
+
+I die a hero. 
+
+"En-henh," said Boltac. "Maybe we should hold out for a better offer."
 
 
 
