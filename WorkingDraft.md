@@ -98,9 +98,9 @@ The Farm Boy stood there with a brave, yet stupid look on his face.
 
 ### The lantern ###
 
-Cannot be broken and never goes out. The magic lantern of laptopolis
+Cannot be broken and never goes out. The magic lantern of lamptopolis
 
-"Lantopolis?"
+"Lamptopolis?"
 
 "Okay, you caught me, I made it up. But it's a lantern and it's clearly magic."
 
@@ -123,49 +123,45 @@ Cannot be broken and never goes out. The magic lantern of laptopolis
 Does Relan get killed and brought back?
 
 
-# Chapter One: the Chosen Two 
+# 1
 
 "I'm the chosen one. Only I can bring peace and restore balance to the land," said the blonde Knight in Shining™ Armor.
 
 "You still don't understand," said the Ranger, clad-in-mail. He hiked up his sleeve and showed a mark that was burned into his arm. "This symbol of the Cruel God Azaz, signifies,"
 
-"Azaz my Az-ass! that your whore of a mother spilled bacon fat on you when you were a child. "
+"Azaz my Az-ass! that your whore of a mother spilled bacon fat on you when you were a child."
 
-The two men drew swords and leapt to either side of the trail. But before either of them had a chance to swing, a thin man, dressed in faded black, stepped between them. Rattick said,  "Please my Lords, please, we mustn't fight among ourselves."
+The two men drew swords and faced off on either side to the trail. But before either of them swung, a thin man, dressed in faded black, stepped between them. He said, "Please my Lords, please, we mustn't fight among ourselves."
 
-"Out of my way servant!" cried the Ranger, "It is my destiny to run him through."
+"Out of my way Rattick! You are but a hireling!" cried the Ranger, "It is my destiny to run him through."
 
-"You don't have a destiny. I am the CHOSEN ONE!" shrieked the Knight.
+"Your destiny? Don't be absurd. I am the CHOSEN ONE!" shrieked the Knight.
 
-"Perhaps," said Rattick, "You have both chosen." They stopped, swords frozen in space, to consider this possibility. "We go to face a mighty foe. A powerful wizard in a deep dungeon. Perhaps all the others have failed not because they didn't have a chosen one, but because they didn't have enough chosen ones."
+"Perhaps," said Rattick, "You have both been chosen." They stopped, swords frozen in the murderous air that hung between them, to consider this possibility. Rattick continued, "We go to face a mighty foe. A powerful wizard in a deep dungeon. Perhaps all the others have failed not because they didn't have *a* chosen one, but because they didn't have *enough* chosen ones."
 
 "I AM THE CHOSEN ONE!" they both shouted.
 
-Okay, thought Rattick, that was a mistake. Best to let the idiots fight it out. But before he could step off the field of idiocy so the battle could commence, the Enchantress chimed in, "Don't talk to him like that," she, "He is a member of this party. Moreover, the sacred vows I have taken at the Shrine of Lauranda, means that I must treat all beings with courtesy and respect. All things with respect, and eat nothing with a face," she intoned with an air of reverence.
+Okay, thought Rattick, that was a mistake. Best to let the morons fight it out. But before he could step off the field of battle(idiocy) the Enchantress chimed in, "Don't talk to him like that," she said, "He is a member of this party. Moreover, the sacred vows I have taken at the Shrine of Lauranda, means that I must treat all beings with courtesy and respect, and eat nothing that has a face," she intoned with reverence.
 
-Surprisingly, it worked. The men lowered their swords and apologized (apologized!) to each other. Rattick stared longingly at the Enchantress and the belt of gold rings that encircled her hips through the robe of white she wore. She was beautiful, perhaps there was a way... No. Better not to think of it. 
+Surprisingly, this worked. The men lowered their swords and apologized (apologized!) to each other. Rattick stared longingly at the Enchantress and the belt of gold rings that encircled her hips over the robe of white she wore. She was beautiful, perhaps there was a way... No. Better not to think of it. 
 
-"Forgive me good Rattick," said the Knight, his head bowed slightly, "Though it is true that we have paid you to guide us to the lair of foul Oddna the Wizard, you have served us true and are a member of this party."
+"Forgive me good Rattick," said the Knight, his head bowed slightly, "Though it is true that we have hired you to guide us to the lair of foul  Wizard Dimsbury, you have served us true and are a member of this party."
 
 "We brave companions," said the Ranger, "we happy few, each, in our own way, fulfilling a mystical and wondrous destiny. Yes, we are all sorry to have used you so badly faithful Rattick."
 
-Rattick stood there with his mouth hanging open. Could they be serious? Were they conning him rather than the other way around? With an effort of will, he snapped his mouth shut and pasted a smile across it. 
-
-"Not at all, good sirs," said Rattick. "We are adventurers! Spirits run high with ones so bold as we." 
+Rattick stood there with his mouth hanging open. Could they be serious? Were they conning him rather than the other way around? With an effort of will, he snapped his mouth shut and pasted a smile across it. "Not at all, good sirs," said Rattick. "We are adventurers! Spirits run high with ones so bold as we." 
 
 "Huzzah!" cried the Knight, as he lifted his heavy blade in the air. 
 
-"Huzzah," cried the Ranger, clanging his blade against the man he was very recently going to fight to the death. 
+"Huzzah," cried the Ranger, clanging his blade against sword of the man he was very recently going to run through. 
 
 "Huzzah," giggled the Enchantress, clapping her hands together and sending a tiny fireball up to dance against the blades.
 
 "Christ Almighty," thought Rattick as he lifted his dagger in half-hearted salute.
- 
-                       *  *  *
 
-"This is it," said Rattick.
+A few hours later, they emerged from the forest and Rattick announced, "This is it."
 
-"What do you mean?" said the Ranger, "You mean this? It's just a door in the side of a hill."
+"What do you mean?" asked the Ranger, "You mean this? It's just a door in the side of a hill."
 
 "You expected a sign?" asked Rattick. 
 
@@ -173,59 +169,56 @@ Rattick stood there with his mouth hanging open. Could they be serious? Were the
 
 "Yes, that's why you hired me to guide you here."
 
-"No good fellow," protested the Ranger, "Don't wound me like that. You are not hireling, but companion, member of our brave band."
+"No good fellow," protested the Ranger, "Don't wound me like that. You are no longer hireling, but companion, member of our brave band."
 
-"Yeah, yeah," said Rattick, "Let's get to it." He reached of the handle of the door, but before he could reach it the Enchantress interrupted. 
+"Yeah, yeah," said Rattick, "Let's get to it." He reached for the handle of the door, but before his hand could touch it the Enchantress interrupted. 
 
-"A supplication. We must seek the supplication of Lauranda. Her blessing will keep us save during our time of trial." The Knight and the Ranger both drew their swords and knelt. Rattick rolled his eyes. Just get it over with. He didn't know how much more amateur hour he could take. But he consoled himself with the knowledge that it would all be over soon. 
+"Stop! We must first seek the supplication of Lauranda. Her blessing will keep us save during our time of trial." The Knight and the Ranger both drew their swords and knelt. Rattick rolled his eyes. Just get it over with. He didn't know how much more amateur hour he could take. But he consoled himself with the knowledge that it would all be over soon. 
 
-                                    * * *
+The Enchantress completed her babbling, and they ventured into the Wizard's lair. It did not take long before Rattick could hear  rumblings and gnashing of teeth from the darkness ahead of them. The Troll was still there and he sounded hungry. "Stay here, faithful companions," he said, playing it for all it is worth, "I will use my mastery of stealth and shadow to scout the way."
 
-Rattick smiled when he heard the rumblings and gnashing of teeth from the darkness ahead of them. The Troll was still there and he sounded hungry. "Stay here, faithful companions," he said, playing it for all it is worth, "I will use my mastery of stealth and shadow to scout the way."
+He handed his torch to the Ranger and disappeared into the darkness. As soon as he rounded the corner he stopped and squatted down in the passageway. Scout ahead? Faithful companions? What nonsense. Rattick wasn't sticking his neck out any farther than he had to. He waited. 
 
-He handed his torch to the Ranger and disappeared into the darkness. As soon as he rounded the corner he stopped and squatted down in the passageway. Scout ahead. Faithful companions. What nonsense. Rattick wasn't sticking his neck out any farther than he had to. He waited a suitable amount of time. 
-
-He returned the pool of torchlight. He donned an expression of fear and, with a skill long practiced, managed to tremble as he spoke. "It is a *Troll* my companions. A creature most large and fearsome. I fear it is more than we can defeat. We should turn back."
+When Rattick returned to the pool of torchlight, he donned an expression of fear and, with a skill long practiced, trembled as he spoke. "It is a *Troll* my companions. A creature most large and fearsome. I fear it is more than we can defeat. We should turn back."
 
 "Ha ha ha ha!" laughed the Knight, falling for it. "A Troll! That is nothing to a Knight of the Yarven Dawn."
 
-"And it is even less to the blessed and Chosen of Azaz," said the Ranger, reaching for his sleeve. 
+"And it is even less to the blessed and Chosen of Azaz," said the Ranger, reaching for his sleeve to reveal the strange mark on his arm 
 
-Rattick felt like he was going to throw up when he said, "You are so much braver and stronger than I?"
+Rattick swallowed his disgust and said, "You are so much braver and stronger than I."
 
 As he drew his sword, the Knight said, "Stay behind me and learn how it is done. Fear not Rattick, for you are in the company of heroes."
 
 "I shall not let you steal the glory!" cried the Ranger as he shouldered the Knight aside. 
 
-Rattick couldn't believe it. The idiots charged. A frontal assault on a Troll? They were so stupid he wondered how they had remembered to breathe on the trek in. 
+Rattick couldn't believe it. The idiots charged! A frontal assault on a Troll? They were so stupid he wondered how they had remembered to breathe on the trek in. 
 
 The Enchantress edged passed him, smelling of exotic perfume. "I will see if I can bind the creature with The Mother's Embrace. Stay behind me and you will be safe."
 
-They advanced through the corridor. There was a roar and the stench of something awful. Rattick new this to be Troll's breath. Nothing smells worse than rotting flesh trapped between teeth.
+He followed her through through the corridor. There was a roar and the stench of something awful. Rattick knew this to be Troll's breath. Nothing smells worse than rotting flesh trapped between teeth.
 
-When she saw the troll the Enchantress raised her hands to cast a spell. As her hands began to weave an intricate the pattern,  Rattick slid his knife across her perfect, alabaster white throat. She gasped in horror as her life's blood ran down her neck and over the exquisite Ruby necklace she wore. Before she could make another sound, Rattick caught her gently and dragged her back into the darkness, away from the sounds of a Troll at play and two men at hazard. 
+When she saw the Troll the Enchantress raised her hands and began casting a spell. As her hands began to weave an intricate the pattern,  Rattick slid his knife across her perfect, alabaster white throat. She gasped as her life's blood poured down her neck and over her the exquisite Ruby necklace. Before she could make another sound, Rattick caught her gently and dragged her into the darkness. 
 
-She looked up at Rattick and mouthed,  "Why?" Rattick tore necklace from her throat. Then he wiped the blood from it with a black silk handkerchief. In the distance, the screams of onto of the chosen one's ended in a terrible, squishy, bone-crunching noise.
+She looked up at Rattick and mouthed the word, "Why?" Rattick tore the necklace from her throat. Then he wiped the blood from it with a black silk handkerchief. In the distance, the screams of one the chosen one's ended in a terrible, squishy, bone-crunching noise.
 
-"Why? Because it was a kindness? Because there are worse things in the depths of this dungeon than you can imagine? Because you chose to play a dangerous game? All of those are close enough, but if you really want the truth..."
+Staring into the glittering facets of the Ruby, Rattick said, "Why? Because it was a kindness. Because there are worse things in the depths of this dungeon than you can imagine. Because this is what happens when you chose to play a dangerous game. All of those are close enough, but if you really want the truth..."
 
-He looked down from his glittering Ruby prize and saw that life had left her body. He knelt, and not without tenderness, closed her eyes with his finger tips. "Because I can."
-
-
-# Fencing the Stone #
-
-The Ruby Necklace danced across the oak counter like a living thing. Rattick nodded at it and asked, "Have you ever seen such exquisite workmanship?"
+He looked down from his prize and saw that life had left her body. He knelt, and not without tenderness, closed her eyes with his finger tips. "Because I can."
 
 
-Boltac, the merchant on the other side of the counter, picked up the Ruby Necklace and looked at it closely. He gave Rattick a hard look as he licked his thumb, then he rubbed at the setting and muttered, "you missed a spot."
+# 2
 
-"Missed a spot?" asked Rattick as smooth as water over river rock. 
+Rattick threw the necklace on the oak counter and watched the light dance in it like a living thing. He nodded at it and asked, "Have you ever seen such exquisite workmanship?"
+
+Boltac, the merchant on the other side of the counter, picked up the Ruby Necklace and looked at it closely. He gave Rattick a hard look. Then he licked his thumb, rubbed the setting and muttered, "you missed a spot."
+
+"Missed a spot?" asked Rattick, as smooth as water over river rock. 
 
 "Blood, Rattick. There's some blood left on this necklace."
 
 Rattick shrugged. "Probably mine. I try to use stealth, but the Orc I took it from put up quite a fight."
 
-"En-henh," Boltac said as rubbed a hand across his shaved head, "Not that I want to know, but what is an Orc?"
+"En-henh," Boltac said as ran his hand across his shaven pate, "Not that I want to know, but what is an Orc?"
 
 "A fearsome new creature wreaking havoc on the good people of Robrecht."
 
@@ -235,7 +228,7 @@ Rattick shrugged. "Probably mine. I try to use stealth, but the Orc I took it fr
 
 "Okay, Rattick, I'm gonna make you an offer on your necklace here. The setting is crap, but the stone is very nice. But before I do, not for nuttin' but Orcs? You're shittin' me right?"
 
-"Oh no, stout merchant, I assure you, Orc's are very real."
+"Oh no, stout merchant, I assure you, Orcs are very real."
 
 "Really? Kobolds, I heard of. Trolls, I heard of. Dragons, sure, but Orcs? C'mon. What does an Orc look like?"
 
@@ -243,7 +236,7 @@ Rattick shrugged. "Probably mine. I try to use stealth, but the Orc I took it fr
 
 "En-henh,"
 
-"Let me tell you the fearsome tale of how I came to acquire this necklace and then perhaps you will understand the fearsome Orc--"
+"Let me tell you the fearsome tale of how I came to acquire this necklace and then perhaps you will better understand the threat that the fearsome Orc--"
 
 "You can spare me the story, Rattick," said Boltac.
 
@@ -253,38 +246,38 @@ Rattick shrugged. "Probably mine. I try to use stealth, but the Orc I took it fr
 
 "I don't know any sagas that involve tales of profit," said Rattick, "But tales of valor, of great daring... The bards sing many songs of those."
 
-"Yeah, I don't really care for singing either. In fact, let's just cut all the bullshit. I'm pretty sure I know the true story how you got this."
+"Yeah, I don't really care for singing either. In fact, let's just cut all the bullshit. I'm pretty sure I know how you got this."
 
 "Yessssss," purred Rattick, running his finger over the Ruby, "but do you care?"
 
 "Not if you'll take 15 gold for it I don't."
 
-"15 gold, why I risked my neck for this!""
+"15 gold? I risked my neck for this!""
 
-"You? I'm pretty sure you risked somebody else's neck for this particular bauble. Fine, 17 for the gem, and 2 gold for the rest of it." Boltac said, indicating the pile of equipment on the floor. 
+"You? I'm pretty sure *you* risked somebody else's neck for this particular bauble. Fine, 17 for the gem, and 2 gold for the rest of it." Boltac said, indicating the pile of equipment on the floor. 
 
 "But this sword almost defeated a troll!"
 
 "Yeah, and it almost doesn't have that huge nick in it. And why does everything in that pile smell like Troll shit?"
 
-They haggled like this for a while, finally settling on 22 gold for the lot. When Rattick left the store, Boltac muttered a curse and refrained from spitting on his own floor. 
+They haggled for a while, and settled on 22 gold for the lot. When Rattick left, Boltac muttered a curse and refrained from spitting on his own floor. 
 
-He placed the Ruby in one of three lockboxes behind the counter and then dragged the bundle of equipment into the back to see how bad he had been taken. The sword was higher quality than he had hoped for, and there were a number of items that, while they wouldn't fetch top price, would provide good use. The odd piece of armor, some leather goods. He threw out a badly damaged boot was debating opening a nondescript fabric sack. Sacks could be trouble. For that matter so could gems. 
+He placed the Ruby in one of three lockboxes behind the counter and then dragged the bundle of equipment into the back to see how badly he had been taken. The sword was higher quality than he had hoped for, and there were a number of items that, while they wouldn't fetch top price, would provide good use. The odd piece of armor, some leather goods. He threw out a badly damaged boot and was debating opening a nondescript fabric sack. Sacks could be trouble. For that matter so could gems. 
 
-He walked back to the front of the store. He reached under the counter and, after some effort, removed a heavy, brass-tipped magic wand from it's mounting. He took the wand to the back and guided it carefully over all the items. 
+He grunted as he stood up and trudged back to the front of the store. He reached under the counter and, after some effort, removed a heavy, brass-tipped wand from it's mounting. He took the wand to the back and guided it carefully over all the items. 
 
-The wand did not grow warm or shriek or vibrate or any one many colorful and destructive things the wand did in the presence of magic. Strictly speaking it was not a magic wand, it was a magic *detecting* wand. Very rare, very expensive. But, for a man in dealing in items of unknown origins delivered by questionable characters, it was indispensable. 
+It did not grow warm or shriek or vibrate or any of the many colorful and destructive things it did in the presence of magic. Strictly speaking it was not a magic wand, it was a magic *detecting* wand. Very rare, very expensive. But, for a man in dealing in items of unknown origins delivered by questionable characters, it was indispensable. 
 
 "Ennh," grunted Boltac, more relieved than disappointed. Boltac hated magic. It wasn't just dangerous, it was also bad for business. When a customer can't try on a pair of gloves for fear that they would turn out to be MaGrief's Gauntlets of Self-Abuse, business suffered. 
 
-That's why he kept the wand underneath the counter. Pick up a cursed Ruby Necklace and there was no telling what might happen. Before he had procured his wand, he had spend six months with a cursed Goblet of Thirst stuck to his hand. As annoying as that was, that wasn't the worst part of the curse. When liquid --  any liquid -- was poured into the the Goblet, it heated and burned the hand that held it.
+That's why he kept the wand secreted under his the counter. Pick up a cursed Ruby Necklace and there was no telling what might happen. Before he had procured his wand, Boltac had spend six months with a cursed Goblet of Thirst stuck to his hand. As annoying as that was, that wasn't the worst part of the curse. When liquid -- any liquid -- was poured into the the Goblet, it heated and burned the hand that held it.
 
-He rubbed the scarred flesh of his left hand. Magic, ugh. It seemed like it should be useful, but it's power always went awry. Maybe it was fate. Maybe it was karma. Maybe it was that Wizards enjoyed a particularly cruel and ironic sense of humor. Whatever it the reason was, Boltac was certain that the world would be better off without magic. But there was nothing to be done about it. People may revile a merchant, but in the end, he can only sell what the buyers want. 
+He rubbed the scarred flesh of his left hand. Ugh, magic. It seemed like it should be useful, but it's power always went awry. Maybe it was fate. Maybe it was karma. Maybe it was that Wizards enjoyed a particularly cruel and ironic sense of humor. Whatever it the reason, Boltac was certain that the world would be better off without magic. But there was nothing to be done about it. People may revile a merchant, but in the end, he could only sell what the buyers want. 
 
-The copper bell clattered against the front door. Boltac concealed the wand in his sleeve and hurried to see what profit Fortune had seen fit to bring him this time. 
+The copper bell clattered against the front door. Boltac tucked the wand inside his sleeve and hurried to see what profit Fortune had seen fit to bring him this time. 
 
 
-# Hitting the Kid With the Stick (Covered in Glory) #
+# 3
 
 >add Boltac stubbornly refusing to use the kid's name as a funny bit. 
 
@@ -1023,12 +1016,6 @@ You know which end to hold on to?
 Across the street, he could still see the boy, Relan? Yes, he thought it was Relan, asleep on the bench in front of the inn. How peaceful he looked. Boltac hoped that he wasn't dead. He hadn't hit him that hard, had he? And if the lad couldn't survive a tap like that, than his adventures would be short and predictable indeed. Gah, the stupidity of youth.
 
 
-----
-
-
-# Headlights Outline #
-
-*The idea is that this outline is like a view of the journey at high speed from the headlights of a car. Sure, you get the gist -- it gets you from point a to point b, but to really understand the path you take, you have to drive slowly in the daytime. Or drive it many times.*
 
 
 # Counting the Coins #
