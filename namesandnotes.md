@@ -69,6 +69,12 @@ Stealing Liberty -- guy steals the statue of Liberty and deposits it on their en
 ## continuation stories ##
 
 
+The entire arc (maybe first three books) ends when Rattick is punished for his initial, heinous crimes. In the second book, Boltac stays a step a head of him, thwarting him with intelligence, but at the end, when Rattick has taken over the kingdom (as a bad minister) Rattick must die. 
+
+
+
+
+
 All the orcs aren't dead. Samga survives. So do the things in the pit. So there are Orcs in Robrecht -- and are for the entire period of the story. They don't want to be called orcs, though. After a while they shrink and grow stout. Become miners, workers of metal -- Dworcs. Dwarves. 
 
 
