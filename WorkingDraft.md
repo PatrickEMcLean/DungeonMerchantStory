@@ -2782,8 +2782,29 @@ Boltac rolled his eyes.
 
 "Have you ever put that to the test?" Boltac asked, with a scrappiness he faked for the purposes of negotiation. Of course the Wizard was right, thought Boltac, but he'd be damned if he'd give this twisted, effete noble the satisfaction of telling him that. 
 
-To Boltac's surprise, the Wizard laughed. "Very good. Skepticism. The basis of all knowledge. Are you a seeker too, friend Boltac. Let me show you something." Alston stepped down from the dais and crossed to a door on the far side of the room. 
+To Boltac's surprise, the Wizard laughed. "Very good. Skepticism. The basis of all knowledge. Are you a seeker too, friend Boltac. Let me show you something." Alston stepped down from the dais and crossed to a small door on the far side of the room. 
 
+"Come, merchant! I will show you what I think of money." The Wizard gestured at the door and the heavy, interlocking iron bars opened on their own. He threw open the door. 
+
+"Look fella, that's all very impressive -- and it is, that is a lot of jingle jangle you've got"
+
+
+> The Orc's bring in Relan, beat to hell.
+
+C'mon, kid, keep you're head up, you're the hero of this story. 
+
+Boltac's facade cracks a little. It's one thing to play hard and fast with someone who has some power -- who knows the game and takes the risk. But Relan, -- that brave idiot, gah -- the Wizard should pick on somebody in his own IQ bracket. 
+
+"no, I let you down."
+
+"Don't talk silly, you saved my life. At least once. You just rest easy, just bleed quietly into the floor, I'll get you out of here soon enough."
+
+
+Wizard brings in Asarah. 
+
+"So you wish to buy my cook."
+
+"Buy me! BUY ME!" Asarah said, the coals of her earlier rage leaping up into flame at the suggestion that she would be owned by anyone or anything. 
  
 
 
