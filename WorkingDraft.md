@@ -3,12 +3,13 @@
 
 # **The Merchant Adventurer** #
 
+
 ## Punchlist ##
 
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 * Add a bit about the importance of lighting to adventurers
-* 
+* link Boltac's lack of faith -- when he speaks to Asarah -- to him saying -- the crazy wizard was right. A merchant can't have power. To which Asarah says. The crazy wizard is dead. Defeated by a merchant. That is power Boltac. Have faith in yourself. In you I see more than a drink-thief. And you should too. 
 
 * What happens to the Troll? Is he still stuck there at the end. 
 * BOltac picks up the mace, signifying that magic is done for. 
@@ -17,6 +18,7 @@
 
 
 "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
+
 
 ## The Bag ##
 
@@ -52,9 +54,6 @@ He slung the bag over his shoulder, light and carefree. And headed with a door w
 Bag of Holding. 
 
  
-
-
-
 
 
 ## The importance of lighting ##
@@ -122,7 +121,6 @@ Cannot be broken and never goes out. The magic lantern of laptopolis
 >For every Orc he kills, he tries on his boots -- but none of them fit, through the entire story. 
 
 Does Relan get killed and brought back?
-
 
 
 # Chapter One: the Chosen Two 
@@ -433,6 +431,7 @@ Boltac lifted the mace up from behind the counter. As he raised the weapon high 
 
 Boltac hit him right between the eyes, and knocked him out cold.
 
+
 # WIZARD v DUKE #
 
 [^give the wizard some kind of tag so we know him when he talks to Boltac]:
@@ -706,6 +705,7 @@ But the Wizard was on a roll. "And the power! The limitless power. It should be 
 "And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
 
 --> 
+
 
 # Propping the Kid Up
 
@@ -1026,12 +1026,9 @@ Across the street, he could still see the boy, Relan? Yes, he thought it was Rel
 ----
 
 
-
-
 # Headlights Outline #
 
 *The idea is that this outline is like a view of the journey at high speed from the headlights of a car. Sure, you get the gist -- it gets you from point a to point b, but to really understand the path you take, you have to drive slowly in the daytime. Or drive it many times.*
-
 
 
 # Counting the Coins #
@@ -1079,9 +1076,6 @@ But that's the way it was with any enterprise. People feared the big things, but
 It was a terrible business, adventuring, that's why Boltac preferred to keep a shop. Oh, sure, he had heard the same songs as all the others. He had dreamed dreams of glory. But then he had grown up, settled down and learned to enjoy a warm fire and a crisp profit. He had done that lad a favor by knocking him on the head, but only if he had managed to knock some sense into him. Or not kill him. 
 
 With a pang of guilt, he looked across the square and saw the the boy was still sleeping there. Grumbling and rubbing his hand, Boltac went in search of some salve. 
-
-
-
 
 
 # Wizard Hears the Howl. #
@@ -1266,7 +1260,6 @@ Boltac tried his recently mangled leg. It felt good. In fact, it felt better tha
 "What am I going to do?" Boltac thought hard. Set his jaw, narrowed his eyes and then fell dead asleep. 
 
 
-
 # Goes to Duke #
 
 When Boltac awoke, he was in his bed. Bright light streamed in through the window and he came back to consciousness slowly and from a great distance. At first he couldn't remember how he had gotten here, or what had happened. Then, as the memory of it flooded back, he became fearful. Unable to tell what might be fantastic dream from terrible reality, he flung back the covers. His leg was straight. His shirt was ripped, but the skin underneath was perfect and unscarred. That potion was magic. 
@@ -1379,6 +1372,7 @@ Yes, it was stupid. But there was nothing else to do. In the end, he had no more
 > "I'll protect you!"
 > "That's not what you're here for. You're here to carry the lantern"
 
+
 # Rattick, back at the Dungeon #
 
 Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then into the sewers. And then, by means of one of the secret ways that well-known to the darker and more desperate sort, made his way out into the wilderness again. 
@@ -1408,7 +1402,6 @@ The carriage rolled to a halt in front of what was left of the mine entrance.
 He had his speech all ready. Please, brave companions, let me join you. I come seeking revenge for the death of my father, two villages over. I will carry your equipage, fight like a cornered wolverine, do anything that you ask of me -- but I must defeat the scourge that is on this land. 
 
 When out from the carriage stepped, Boltac?
-
 
 
 # Kid Hears the Wagon. #
@@ -1742,6 +1735,7 @@ Now it was Rattick's turn to say, "En-henh," Boltac didn't like the sound of his
 
 "Henh, he's worried about the horses."  
 
+
 # Boltac Versus the Troll #
 
 "Shhh," said Rattick. "It's right up ahead. Now, if you're going to stand any kind of a chance at all, you need to take your dagger. Wait, where's your dagger?"
@@ -1759,6 +1753,7 @@ Now it was Rattick's turn to say, "En-henh," Boltac didn't like the sound of his
 "Enh-henh. Ye of little faith."
 
 Then he turned and lifted his lantern high. He strode out of the darkness into the chamber, right up to the foot of the sleeping troll and said, "Oh Mister Trooooooo-ll. Wakey, wakey! You're Uncle Boltac has got a deal for you."
+
 
 # Boltac v troll other #
 
@@ -1839,7 +1834,6 @@ The Troll, not being smart enough to fear a shrewd merchant's smile -- and gener
 "There," said Boltac, and he released the mace. No sooner had he let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if it had been smashed there by the hand of an angry God. 
 
 
-
 # Aftermath of Troll #
 
 Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the silver mace. 
@@ -1881,6 +1875,7 @@ Rattick said, "Marveled as I am by your cunning, good merchant, one question rem
 All the way to the bottom, though rat tick
 
 >Kid worried that the magic lantern comes with a catch. 
+
 
 # The Wizard Hated Administration
 
@@ -2078,66 +2073,21 @@ Asarah snorted.
 
 "No, no, the very idea I mean. You are serving girl. A totally different species. The idea," he barked a laugh and then regained control of himself, "That I? I? A son of a noble house could take as a consort someone like you? It is laughable really. You are to me as," he indicated the parade of heads that adorned the wall behind his desk, "A creation, or another species. We could no more mate than a snail and a, a, an Eagle!"
 
-Confused and not a little offended, Asarah asked, "Well, if you don't *ravish* me then why have you brought me here?"
+Confused and not a little offended, Asarah asked, "Well, if you don't want to *ravish* me then why have you brought me here?"
 
 "You are to be my cook," said the Wizard.
 
 Asarah stood with her mouth hanging open so long that the Wizard felt that he must clarify things for the simpler mind in the room. "Sandwiches, dear lady, I have brought you here to make me a sandwiches."
 
-"Well, I'm certainly not making your supper now," said Asarah with the fury of a woman who thought she wanted to be scorned, but then decided -- ain't nobody scorning' me bitch!
+"Supper? You think I'm making you dinner. I am NOT!" said Asarah with the fury of a woman who thought she wanted to be scorned, but then decided -- when primal fury reared it's formidable head -- hell hath no fury. 
 
 The Wizard's eyes narrowed to evil slits when he said, "Yes, you will."
 
-
-
-
-
-(Asarah was worried) 
-jump to her confronting the Wizard
-
-
-
-It was the loose sack
-
-
-
-She rips her already ripped dress, exposing 
-
-
-> build to Wizard lusting after her
-> snap it off when he doesn't care. 
-
-# Wizard vs. Asarah #
-
-## Origin of Orcs ##
-
-"Ah, do you like them," the Wizard asked her.
-
-"Uh, what are they?"
-
-"An alchemy of fungi, mineral and pure magic. Things made, not born. And surprisingly faithful servants."
-
-
-She thinks he wants her. He tells her she is the wrong class -- almost sub human. He tells her too cook lamb. 
-
-
--- Couldn't mate with you you are simply of an inferior class. An eagle trying to beget with a sparrow -- simply won't do. 
- Who are you trying to convince, she asked with a roll of her hips.
-
-## Samaga is tricky ##
-
-In point of fact, Samga had not delivered the news to his master. For he knew that Alston Dimsbury was a violent and tempestuous man when not pleased. And at this, he would not be pleased. Samga did not want to be the one to bring the news. So as soon as he exited the chamber, he motion to the the first Orc he saw, and, in the crude, grinding, barking imperfect tongue of the Orcs said, "You, come."
-
-In return, the other Orc barked, "Obey."
-
-All Orcs could talk after a fashion, but Samga was the only one who could talk that Master had not vented his fury upon. This was because Samga was very careful about what he said. 
 
 ## I am no serving girl
 
 
 "No, no, no, don't be silly. That is not why
-
-
 
 
 
@@ -2189,6 +2139,32 @@ He kills one of his own creatures for talking back.
 >
 
 
+# Wizard vs. Asarah #
+
+
+## Origin of Orcs ##
+
+"Ah, do you like them," the Wizard asked her.
+
+"Uh, what are they?"
+
+"An alchemy of fungi, mineral and pure magic. Things made, not born. And surprisingly faithful servants."
+
+
+She thinks he wants her. He tells her she is the wrong class -- almost sub human. He tells her too cook lamb. 
+
+
+-- Couldn't mate with you you are simply of an inferior class. An eagle trying to beget with a sparrow -- simply won't do. 
+ Who are you trying to convince, she asked with a roll of her hips.
+
+
+## Samaga is tricky ##
+
+In point of fact, Samga had not delivered the news to his master. For he knew that Alston Dimsbury was a violent and tempestuous man when not pleased. And at this, he would not be pleased. Samga did not want to be the one to bring the news. So as soon as he exited the chamber, he motion to the the first Orc he saw, and, in the crude, grinding, barking imperfect tongue of the Orcs said, "You, come."
+
+In return, the other Orc barked, "Obey."
+
+All Orcs could talk after a fashion, but Samga was the only one who could talk that Master had not vented his fury upon. This was because Samga was very careful about what he said. 
 
 
 # Orc Brings bad news about Troll Being Dead.
@@ -2227,6 +2203,7 @@ Samga is no fool. He knows to bring a scapegoat with him.
 >well send out patrols, catch them.
 >They might get a bit killed the catching my Lud.
 >Well, whatever's left, you must bring it to me. 
+
 
 # Boltac and Relan and Rattick #
 
@@ -2484,7 +2461,7 @@ Boltac whispered, "Draw your sword. This is where you get to be a hero."
 
 Hissglarg smelled human. And orders was very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They was to be saved for identification, of course. But all the rest were free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
 
-It was a silly trait, one that evolution would never would have put up with. All Orc's really needed to survive was a constant diet of the deep minerals they had been grown from. But when Alston Dimsbury set out to do a job of evil wizarding, he didn't leave it half done. No matter what they needed to grow, Alston had decided that his Orcs would have a proper lust for the flesh of mankind, with not so much as a by your leave to the delicate processes that formed the natural world. 
+It was a silly trait, one that evolution would never would have put up with. All Orc's really needed to survive was a constant diet of the deep minerals they had been grown from. But whispereden Alston Dimsbury set out to do a job of evil wizarding, he didn't leave it half done. No matter what they needed to grow, Alston had decided that his Orcs would have a proper lust for the flesh of mankind, with not so much as a by your leave to the delicate processes that formed the natural world. 
 
 This was all well and good (especially for Alston's vanity) but human meat played all hell on an Orc's digestion. In fact, nothing about an Orc's digestion was very good. A single orc, left to its own devices, could eat rock and soil all day, yet fail to extract enough nutrition to survive. So as an odd, created species, they dug and quarried and filtered and smelted and refined -- excavating vast underground complexes -- not for pretty jewels or shiny metals, but for dinner. 
 
@@ -2542,6 +2519,8 @@ As Boltac ran, he wondered, "Why would Rattick allow himself to get caught."
 
 
  
+
+
 # Bit with Relan #
 
 
@@ -2561,11 +2540,6 @@ Boltac tells his story. (But it wasn't the whole story. In fact, it almost never
 
 Relan proves himself in the end. 
 
-
-
-
-
-# +++++++ Right Here +++++++++
 
 # Rattick Betrays Him #
 
@@ -2592,6 +2566,7 @@ His alien face betraying no emotion, Samga said, "I am content to bask in the ra
 "Now everyone get out!"
 
 Rattick bowed. Samga bowed lower, and everyone left the angry Wizard to his work. 
+
 
 # Boltac and Relan sneak into #
 
@@ -2664,6 +2639,8 @@ Colbac nodded his head deeply in recognition. I understand Great Wizard. I under
 
 "Unh?" grunted the Orcs
  
+
+
 # Wizard pops the trap -- boltac doesn't care. #
 
 Yeah, yeah, yeah. That's great and all. I figured he was probably working with you. 
@@ -2781,6 +2758,41 @@ Alston clapped his hands together and lightning bolts shot forth and ricocheted 
 Samga lifted the cover of the bottomless pit of failed creations. The Orc's gave a push, and Boltac was gone. 
 
 
+# The Wizard Shows Boltac the Fount of All Magic #
+
+"Well, *Merchant*, before we *bargain*, let me show you a few things, so that you might know what manner of man you are bargain with."
+
+"En-henh," said Boltac. Even though the Orc's did not speak English, they could hear the contempt in his voice. Several of them snarled. Alston raised his hand.
+
+"Samga, silence them or end them, I care not which."
+
+"I hear and obey," said Samga. He whispered something in the crude, unfinished language of the Orcs. Whatever it was, the rabble at the far side of the room snapped to attention and stayed there.
+
+"Ah, dear Samga, with a thousand such men as you, you would still be Orcs. At any rate. My dear Merchant, do you know what this is," Alston indicated the in-focus, out of focus flame that flickered at one end of the chamber. 
+
+"Eh," Boltac began, intent on speaking some kind of witticism designed to take the wind out of Alston's pretentious sails. But the Wizard would have none of it. 
+
+"SILENCE! I will have none of your mockery and crude calculation!" With a nimbleness that one would not expect from looking at him, the Wizard leapt up on the dais. He caressed the heavy glass vessel within which the flame danced. "This is beyond money. Beyond your crude buying and selling. This is the essence of the source, the headwaters of magic itself.
+
+"See how it flickers imperfectly, blurred, to pure to be fully realized on this plane of existence."
+
+Boltac rolled his eyes.
+
+"No. NO!" Thundered the Wizard. This is not to be mocked. Not even slightly. This is power. POWER do you understand! With power you can get money. But no Merchant," he spat the title like a curse, "can ever buy power." 
+
+"Have you ever put that to the test?" Boltac asked, with a scrappiness he faked for the purposes of negotiation. Of course the Wizard was right, thought Boltac, but he'd be damned if he'd give this twisted, effete noble the satisfaction of telling him that. 
+
+To Boltac's surprise, the Wizard laughed. "Very good. Skepticism. The basis of all knowledge. Are you a seeker too, friend Boltac. Let me show you something." Alston stepped down from the dais and crossed to a door on the far side of the room. 
+
+ 
+
+
+Do you know what this 
+
+
+# +++++++ Right Here +++++++++ #
+
+
 
 
 # Wizard shows Boltac his Treasure Horde #
@@ -2822,6 +2834,7 @@ Asarah put her head down and sobbed in the corner.
 
 Relan remained dead on the floor, not quite a hero. 
 
+
 ## Orc's eat the coins ##
 
 I will accept your gold. 
@@ -2856,7 +2869,6 @@ Boltac didn't look back as he said, " "
 >Strikes down the boy
 
 >Asarah goes to aid.
-
 
 
 # Boltac in the Land of Misfit Toys #
@@ -2955,6 +2967,7 @@ Finally he returned to the pool of darkness within the darkness.
 
 # ORCS GORGING THEMSELVES ON GOLD #
 
+> And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
 
 I don't need the gold. Power can 
 
@@ -3002,7 +3015,6 @@ I die a hero.
 "En-henh," said Boltac. "Maybe we should hold out for a better offer."
 
 
-
 # Boltac throws the magic detecting wand into the fount of all magic. #
 
 
@@ -3024,6 +3036,7 @@ At the very end, he's been dead and dying the whole time. He rallies
 -- Leave him where he has fallen as a warning. 
 
 As if they needed more warning, thought Samga.
+
 
 # And a bunch of confused wolves #
 
@@ -3114,8 +3127,6 @@ He leaned out of the carriage window and shouted to Relan, "Turn this thing arou
 "Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
 
 
-
-
 # The Free Companions #
 
 The free companions, I don't know why they call them that, because they sure don't come cheap. 
@@ -3139,6 +3150,7 @@ Yeah, that and six coppers will get you a foul tasting ale in Robrecht."
 
 
 # Boltac Catches Rattick and Makes Him His Minister #
+
 
 ## Rattick escaping, time to head to the South -- to warmer climes
 
@@ -3200,6 +3212,7 @@ Rattick is stopped at the border. He is dragged before the King -- turns out to 
 
 The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
 
+
 ## Rattick at the end. 
 
     At the end he asks the guard why he serves a merchant, oh, well me, when there's no fighting to be done, I serve gold. But when edge meet edge, I follow courage. 
@@ -3207,7 +3220,6 @@ The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
     Courage, but he's a merchant, a particularly cunning and greedy one, who drives a hard bargain. 
 
     He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
-
 
 
 # Boltac Confronts the Old Duke and Torvalds #
@@ -3245,6 +3257,7 @@ Because you have the army.
 "And, as it turns out, I got there first. And I had a chest fulla gold, so, uh, boys, take him a way. "
 
 "we've got mountain passes, asshole. We're on the trade road to everywhere. And now, we've got a kingdom. And we're in business for ourselves."
+
 
 # Not So Nice Ending #
 
