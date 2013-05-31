@@ -3,16 +3,41 @@
 
 # **The Merchant Adventurer** #
 
+## POV TRICK ##
+
+Jump point of view to loser of combat
+
+to Boltac
+to Troll
+to Orc
+to Relan when he gets whacked
+
+Except to Relan at end when he takes out wizard. (The one win.)
+
+
 
 ## Punchlist ##
+
+
+* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
+
+>But you broke your vows for me.
+>I was never a real priestess.
+
+
+
+
 
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 * Add a bit about the importance of lighting to adventurers
 * link Boltac's lack of faith -- when he speaks to Asarah -- to him saying -- the crazy wizard was right. A merchant can't have power. To which Asarah says. The crazy wizard is dead. Defeated by a merchant. That is power Boltac. Have faith in yourself. In you I see more than a drink-thief. And you should too. 
 
-* What happens to the Troll? Is he still stuck there at the end. 
+* BOltac uses magic nullifying gloves at the end.
+
+* What happens to the Troll? Is he still stuck there at the end? 
 * BOltac picks up the mace, signifying that magic is done for. 
+* All my magic items are worthless, Huzzah.
 
 
 
@@ -281,7 +306,7 @@ The copper bell clattered against the front door. Boltac tucked the wand inside 
 
 >add Boltac stubbornly refusing to use the kid's name as a funny bit. 
 
-Boltac found a strapping young farm boy staring at a rack of swords with an open mouth. The boy was so entranced by the cold and lethal steel on the wall that he didn't even look at Boltac when he entered the room. Boltac replaced the magic detecting wand in it's hiding place then asked, "Can I help you?"
+At the front of the store, Boltac found a strapping young farm boy staring at a rack of swords with an open mouth. The boy was so entranced by the cold and lethal steel on the wall that he didn't even turn when  Boltac entered the room. Boltac slid behind the counter, replaced the magic detecting wand and then asked, "Can I help you?"
 
 "I need a sword," said the farm boy, his eyes not leaving the weaponry. 
 
@@ -295,29 +320,29 @@ Boltac found a strapping young farm boy staring at a rack of swords with an open
 
 "Yes, but I am so eager to help you, I will work as hard as two men. Now, what's the story? Who you gotta stab? Who you gonna loot?"
 
-"No," said the FarmBoy hanging his head in embarrassment, "It's  not like that. I don't want to loot anybody. I. I just have to rescue-- I mean, I am about to embark on an adventure of high purpose and consequence." With this last phrase, Boltac's hopes rose. Maybe the kid was a little slow, but those fancy words sounded like money.
+"No," said the FarmBoy hanging his head in embarrassment, "It's  not like that. I don't want to loot anybody. I… I just have to… I mean, I am about to embark on an adventure of high purpose and consequence." With this last phrase, Boltac's hopes rose. Maybe the kid was a little slow, but those fancy words sounded like money. He smiled like a fleshy shark.
 
 "My friend, you have come to the right place. High purpose and consequence is what we are all about at Boltac's. Why the Duke of Robrecht himself has granted me my license to purvey. He has an eye to quality, his Dukeship does, and his warrant of commerce personally guarantees that this," he indicated his dark, dusty store with an expansive gesture of his hands, "Is the finest merchandise you can buy in town of Robrecht."
 
 "But, it's the only merchandise I can buy in the town of Robrecht."
 
-"Yes, I see that you are a quick study," said Boltac, directing the young man through the shelves. "I invite you to direct your keen wit towards my wares. Here we have an assortment of torches and oil bearing devices. If you notice this one, with the curved blade on the handle -- particularly good if you are surprised coming around a corner.
+"Yes, I see that you are a quick study," said Boltac, directing the young man through the shelves. "I invite you to direct your keen wit towards my wares. Here we have an assortment of torches and oil-bearing devices. If you notice this one, with the curved blade on the handle -- particularly good if you are surprised coming around a corner.
 
-"Here, of course, we have our major and minor healing potions. A must for any prudent adventurer. These potions are brewed by the finest Mercian apothecaries and brought in by mule train once a moon. "
+Boltac turned sharply and indicated a floor-to-ceiling rack of glass bottles, "Here, of course, we have our major and minor healing potions. A must for any prudent adventurer. These potions are brewed by the finest Mercian apothecaries and brought in by mule train once a moon."
 
-"And here is the Armor. a must for all but barbarians and the most self-confident magic workers. You aren't a magic worker are you?"
+Moving right along, Boltac directed his young shopper towards the racks in the back, "And here is the Armor. a must for all but barbarians and the most self-confident magic workers. You aren't a magic worker are you?"
 
 "I don't think so," said the lad, a little overwhelmed by how fast this was all coming at him. 
 
 "Perfect, then you have your choice of chain mail, splint mail, ring mail, plate mail, plate armor and  -- far less protection but the girls love it -- leather armor. Feel that? Very supple."
 
-"But what I need is a sword."
+"But what I need is a sword," protested the young man.
 
 "Maybe you do and maybe you don't. Keep an open mind for me. We've got Pikes, Bows, Warhammers, Battle Axes, Halberds, Flails, Morningstars, Maces and the largest selection of Fine Daggers this side of the mountains."
 
 "I don't want a mace. I want a sword."
 
-"Of course you do. And once again, Boltac's has you covered! We've got short swords, long swords, broadswords,  rapiers, cutlasses, sabers, scimitars, shishkas, and slabas -- and I did I mention the finest selection of Daggers of quality, this side of the mountains. While it's true that most of our blades have never been tested in battle, this is in keeping with our philosophy of passing the savings and the glory on to you."
+"Of course you do. And once again, Boltac's has you covered! We've got short swords, long swords, broadswords, rapiers, cutlasses, sabers, scimitars, shishkas, and slabas -- and I did I mention the finest selection of daggers of quality, this side of the mountains. While it's true that most of our blades have never been tested in battle, this is in keeping with our philosophy of passing the savings and the glory on to you."
 
 "Well, uh, I'm afraid..."
 
@@ -327,7 +352,7 @@ Boltac found a strapping young farm boy staring at a rack of swords with an open
 
 The smile drained from Boltac's face, but he continued as if he hadn't just been kicked in the wallet. "Don't be silly. At Boltac's we have equipment to fit every budget." He kicked a bucket of swords next the counter. "Have a look at our discount bucket."
 
-"This sword still has blood on it!"
+The lad pulled a sword from the bucket and then dropped it back in quickly. "This sword still has blood on it!"
 
 "That's how you know that it works! A gold piece gets you the pick of the barrel."
 
@@ -347,7 +372,7 @@ Boltac nodded understandingly. The only vermin that plagued Robrecht was an infe
 
 "Oh, of course not."
 
-"Please sir, it's so I can rescue the love of my life. She was taken, you see. By the evil wizard Oddna."
+"Please sir, it's so I can rescue the love of my life. She was taken, you see. Abducted by soundrels."
 
 "Oh well, that changes everything," said Colbac, as his face grew hard. "Tell me more," he asked, as if it was a dare.
 
@@ -2530,6 +2555,18 @@ Relan proves himself in the end.
 
 # Rattick Betrays Him #
 
+> Alston give Rattick coin for his trouble, but the purse bursts open, one of the Orc's 
+
+"But my gold!"
+
+Well, the good news is that Orc's digestion system is quite terrible, they take a few flecks of gold off the coins. So you can wait can follow him around and wait for him to shit it out.
+
+"Sort through Orc shit?"
+
+"Or you can decide that that you can live with one less gold coin my greedy fellow."
+
+Greedy I am, thought Rattick, but I'm scarcely *your fellow*. 
+
 Rattick complains that the Orc's roughed him up unnecessarily. Didn't heed the safe word.
 
 "I am terribly sorry, but I didn't breed them for intelligence." turns to Samga, "Except for you of course, no offense meant."
@@ -2804,6 +2841,10 @@ Do you know what this
 
 
 # Wizard shows Boltac his Treasure Horde #
+
+
+Show Orc's eating gold. (maybe seed this even further in the beginning.)
+
 
 
 Deprecates how much money it is -- a lot perhaps for adventurers, but he is a noble. Besides, he cares 
@@ -3282,3 +3323,33 @@ He just kisses her.
 
 Asarah and Boltac eating, she is sad. He presents her with the sign he took from the ruins of the Inn. 
 ****
+
+
+# End With Relan #
+
+
+Boltac makes him a knight.
+
+"A knight? How can I be a knight? Don't I have to be a squire first?""
+
+Boltac smiled at the young man, so innocent in the ways of the world, and oblivious to what had just happened, "I'm a King, and I didn't have to be a prince first. 
+
+"But I don't know anything about being a knight!"
+
+"I don't know anything about being a King, so we'll figure it out as we go along."
+
+"I don't think this is a very good idea. I'm really not comfortable--"
+
+"En-henh," said Boltac, "So you know what the first rule of being a knight is?"
+
+"No, see, I don't even know what the first rule is!"
+
+"The first rule is you obey the King."
+
+"Right," Relan nodded, "obey the King."
+
+"Now kneel and hold still so I can knight you without cutting your ear off."
+
+"But…"
+
+"Obey!" 
