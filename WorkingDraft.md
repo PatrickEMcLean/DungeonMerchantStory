@@ -456,7 +456,6 @@ Boltac lifted the mace up from behind the counter. As he raised the weapon high 
 Boltac hit him right between the eyes, and knocked him out cold.
 
 
-
 # 4
 
 > give the wizard some kind of tag or visual cue so we know him when he talks to Boltac
@@ -663,11 +662,11 @@ But the Wizard was on a roll. "And the power! The limitless power. It should be 
 
 "Yes, but what is a Horc?"
 
-"No, no, good fellow, an Orc. No 'h'. They are my latest work. Terrible, terribly murderously bloodthirsty creatures. Stronger and faster than a man. Some cultivars have tusks, other do not. They all have greyish-green skin, almost impervious to weapons -- if not for the constant interruptions I would have perfected that.
+"No, no, good fellow, an Orc. No 'h'. They are my latest work. Terrible, terribly murderously bloodthirsty creatures. Stronger and faster than a man. Some cultivars have tusks, other do not. They all have greyish-green skin, almost impervious to weapons -- if not for the constant interruptions I would have gotten that bit right.
 
 "Look, it's important that you know how badly I feel about this. Wiping out your entire Kingdom--" at the sound of the world Kingdom, the Duke flinched. "Oh, sorry, sorry, Duchy. Very sorry about that, didn't mean to rub it in.
 
-"Anyway, I feel terrible about all of this old boy, really I do. but it seems the only way to get the peace in which I need to work."
+"Anyway, I feel terrible about all of this old boy, really I do, but it seems the only way to get the peace in which I need to work."
 
 "Well, I understand, you were upset, but it's just a raiding party. Probably do the old town some good. A little raiding. Till up the soil, attract more adventurers. Rallying to the cry of defend good ol' Robrecht!"
 
@@ -701,9 +700,9 @@ But the Wizard was on a roll. "And the power! The limitless power. It should be 
 
 "Weeveston, you got married?"
 
-"Oh, yes, for ages now. Arranged, but she is pleasant enough, as wives go. But she took one look at this damp tower left me. She repaired to her father's estates in the south. Something about mold growing in her hair.
+"Oh, yes, for ages now. Arranged, but she is pleasant enough, as wives go. But she took one look at this damp tower and left me. She repaired to her father's estates in the south. Something about mold growing in her hair.
 
-"But never mind that now. You have released me old friend. You have released me! I will instruct my household to pack at once. "
+"But never mind that now. You have released me old friend. You have released me! I will instruct my household to pack at once."
 
 "Probably for the best. The Orcs should descend on the town shortly after midnight."
 
@@ -717,40 +716,18 @@ But the Wizard was on a roll. "And the power! The limitless power. It should be 
 
 "I wish you would."
 
-"As a favor to you, I am happy to do it," said the Wizard. The he said, "Bon Voyage!" gave a half-bow, and, in the way of Wizards, he disappeared in puff of smoke. 
+"As a favor to you, I am happy to do it," said the Wizard. The he said, "Bon Voyage!" gave a half-bow, and, in the way of Wizards, disappeared in puff of smoke. 
 
 
+# 5
 
-# Propping the Kid Up
+Boltac dragged the unconscious Farm Boy out of his shop. As soon as the boy's feet were clear, he dropped him on the ground, and locked the front door. Boltac looked around, for a place to ditch the kid. Across the street, he saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. He'll be just another drunk on a bench, sleeping it off.  
 
+As he dragged the lad across the street, Boltac muttered, "What were you thinking? Loan you a sword? Are you crazy? Well, of course you're crazy. Forget I asked" With much grunting, Boltac propped the lad up on the bench. He looked up at the hideous, twisted fish on the Tavern's faded sign and a longing for ale filled him. 
 
+"Look kid," he said to the gently snoring Farm Boy on the bench, "It's for your own good. I mean, if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Adventures are tricky." Boltac sighed heavily. "Believe me, go back to the farm."
 
-From Wizard's point of view -- walking to the Inn -- knowing that that they have good Lamb -- Later, after a fine repast he would remove himself to a high hilltop and watch the city burn. A pleasant break from his usual toil. 
-
-Boltac -- good city for business. 
-Wizard -- hmm, yes, so far. 
-Boltac -- Lots of trade
-
-Wizard -- but what happens when all the adventurers are killed?
-
-Botlac raised an eyebrow, "What do you mean, when all of the adventurers are killed? There's always more adventurers. Each fresh crop of children brings new fools willing to risk their life. Trust me, I've made fortune off of this.""
-
-"But what if everyone was defeated? So badly, so horribly, that it set an example? Lots of heads on pikes, that kind of thing."
-
-"Ennnhh," Boltac said, holding up one finger. "That sounds like reason. I mean it makes fine sense to me, but here's the thing -- you can't reason with fools. At least not without becoming a fool yourself."
-
-"Yes," said the Wizard, sighing into his ale, "That is most certainly *the thing*."
-
-
---- 
-
-Boltac dragged the unconscious Farm Boy out the front door by the shoulders. He placed him on the ground, then locked the shop door. Across the street, Boltac saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. 
-
-As he dragged lad across the street, Boltac muttered, "What were you thinking? Loan you a sword? Are you crazy? Well, of course your crazy." With much grunting, Boltac struggled to prop the lad up on a bench in front of the Bent Eelpout Tavern. He looked up at the hideous, twisted fish on the Tavern's faded sign and a longing for ale filled him. 
-
-"Look kid," he said to the gently snoring boy on the bench, "It's for you own good. I mean, if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Wizards are tricky."
-
-Boltac watched the boy breathing in his sleep. He seemed even younger now that he was unconscious. After a moment he said, "Okay, no charge for the concussion. And you're  welcome." and went inside the tavern.  
+Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome, Boltac said." Then he went inside.  
 
 
 # Borrow a Cup of Ale #
@@ -889,6 +866,28 @@ Ugh, thought Boltac. Magic that's worse than romance
 # Boltac v. Wizard
 
 
+
+From Wizard's point of view -- walking to the Inn -- knowing that that they have good Lamb -- Later, after a fine repast he would remove himself to a high hilltop and watch the city burn. A pleasant break from his usual toil. 
+
+Boltac -- good city for business. 
+Wizard -- hmm, yes, so far. 
+Boltac -- Lots of trade
+
+Wizard -- but what happens when all the adventurers are killed?
+
+Botlac raised an eyebrow, "What do you mean, when all of the adventurers are killed? There's always more adventurers. Each fresh crop of children brings new fools willing to risk their life. Trust me, I've made fortune off of this.""
+
+"But what if everyone was defeated? So badly, so horribly, that it set an example? Lots of heads on pikes, that kind of thing."
+
+"Ennnhh," Boltac said, holding up one finger. "That sounds like reason. I mean it makes fine sense to me, but here's the thing -- you can't reason with fools. At least not without becoming a fool yourself."
+
+"Yes," said the Wizard, sighing into his ale, "That is most certainly *the thing*."
+
+
+--- 
+
+
+
 <!--
 
 [^and, as two men will, sitting both alone at the same bar, they struck up a conversation]:
@@ -904,9 +903,9 @@ Ugh, thought Boltac. Magic that's worse than romance
 
 > What's with the dismal garb, friend. If you are in the market for some more impressive threads, I have a fine store a few steps away. 
 > Dismal? I prefer the term humble. I am a, uh, wandering scholar, in search of knowledge. 
-> Knowledge, here's something you can always count on. Don't take any wooden nickels.
-> What's a nickel. 
-> Not much of scholar are you. 
+> Knowledge, here's something you can always count on -- Don't take any wooden nickels.
+> What's a nickel?
+> Not much of scholar are you?
 > I'm not concerned with insignificant matters like trade and commerce. 
 
 "Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on the Duke's mutton? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgement.
