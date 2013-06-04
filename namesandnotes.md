@@ -9,7 +9,7 @@ Relan
 Asarah
 Rattick
 Alston Dimsbury
-Weaveston Prestidigitous RampartLion Toroble the 15th,
+Weeveston Prestidigitous RampartLion Toroble the 15th,
 Uncle Torvalds
 Aunt Etheline
 Samga -- the faithful Orc overseer. 
