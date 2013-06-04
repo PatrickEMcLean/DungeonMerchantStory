@@ -24,6 +24,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 >But you broke your vows for me.
 >I was never a real priestess.
 
+>add Boltac stubbornly refusing to use the kid's name as a funny bit. 
 
 
 
@@ -299,14 +300,12 @@ That's why he kept the wand secreted under his the counter. Pick up a cursed Rub
 
 He rubbed the scarred flesh of his left hand. Ugh, magic. It seemed like it should be useful, but it's power always went awry. Maybe it was fate. Maybe it was karma. Maybe it was that Wizards enjoyed a particularly cruel and ironic sense of humor. Whatever it the reason, Boltac was certain that the world would be better off without magic. But there was nothing to be done about it. People may revile a merchant, but in the end, he could only sell what the buyers want. 
 
-The copper bell clattered against the front door. Boltac tucked the wand inside his sleeve and hurried to see what profit Fortune had seen fit to bring him this time. 
+The copper bell clattered against the front door. Boltac tucked the wand inside his sleeve and hurried to see what profit that Bitch Goddess Fortune had seen fit to bring him this time. 
 
 
 # 3
 
->add Boltac stubbornly refusing to use the kid's name as a funny bit. 
-
-At the front of the store, Boltac found a strapping young farm boy staring at a rack of swords with an open mouth. The boy was so entranced by the cold and lethal steel on the wall that he didn't even turn when  Boltac entered the room. Boltac slid behind the counter, replaced the magic detecting wand and then asked, "Can I help you?"
+At the front of the store, Boltac found a strapping young lad, farm boy no doubt, staring at a rack of swords with an open mouth. The boy was so entranced by the cold and lethal steel on the wall that he didn't even turn when  Boltac entered the room. Boltac slid behind the counter, replaced the magic detecting wand and then asked, "Can I help you?"
 
 "I need a sword," said the farm boy, his eyes not leaving the weaponry. 
 
@@ -372,7 +371,7 @@ Boltac nodded understandingly. The only vermin that plagued Robrecht was an infe
 
 "Oh, of course not."
 
-"Please sir, it's so I can rescue the love of my life. She was taken, you see. Abducted by soundrels."
+"Please sir, it's so I can rescue the love of my life. She was taken, you see. Abducted by scoundrels."
 
 "Oh well, that changes everything," said Colbac, as his face grew hard. "Tell me more," he asked, as if it was a dare.
 
@@ -384,13 +383,21 @@ The young man blushed and said, "It's more of a suggestion, than a rule, sir. If
 
 "Help? How would that help?"
 
-"She's gone and got herself into trouble. I've gotten word from a friend that she's being held in a tower by an Evil Wizard."
+"She's gone and got herself into trouble. I've gotten word from a friend that she's being held in a tower and requires a hero to rescue her."
 
-"Yes, yes, yes. And they are always *evil* wizards aren't they?"
+"So what's keeping this broad from walking outta this tower herself?"
 
-"I knew you would understand. So, if I had a sword, I could go and rescue her. And there would probably be treasure after I defeated the Wizard. And I would give it all to you," 
+"Broad? Sir, you speak of the love of my life--"
 
-Boltac winced a little under the onslaught of the boy's sincerity. "But just a sword? I mean, armor would help too?"
+"You're life hasn't been that long yet."
+
+"--and she's been placed at the top of the tower and sleeps a deathless sleep under an evil spell."
+
+"En-henh. That's a Sleeping Beauty," Boltac said. He was about to explain  that the Sleeping Beauty was the name of con game, popular among some of Robrecht's less-than-upstanding citizens, whereby a young man was seduced, lured into a trap and relieved of any valuable items he might have. Like, for instance, a borrowed sword. But the Farm Boy had bolted from the barn and there was no catching him now. 
+
+"Yes, she is a *real* beauty, sir. Asleep or awake. I knew you would understand. So, if I had a sword, I could go and rescue her. And there would certainly be treasure after I defeated the the monsters that have been set to protect her from all the but the bravest and most faithful hero. Understand, I have no care for this treasure. Only my lady love. So all the valuables would be yours. All that for loaning me a sword." 
+
+Boltac winced under the onslaught of the boy's sincerity. "But just a sword? I mean, would armor would help too?"
 
 "Yes, it would, but…"
 
@@ -406,8 +413,7 @@ Boltac winced a little under the onslaught of the boy's sincerity. "But just a s
 
 "But, we're talking about a loan."
 
-"No, *you're* talking about a loan. You're gonna have to find yourself another Priestess of Eternally Questionable Virtue, kid."
-
+"No, *you're* talking about a loan. I'm sorry, you're just gonna have to find yourself another Priestess of Eternally Questionable Virtue, kid."
 
 "Look, I'm not asking for armor or a flying horse, I'm just asking to borrow a sword."
 
@@ -415,11 +421,11 @@ Boltac looked the boy dead in the eyes and said, "I'm not giving you any discoun
 
 "It's not a discount. It's a loan."
 
-"It's the worst kind of discount of all. It's a 100% discount."
+"It's the worst kind of discount. It's a 100% discount."
 
 "But I'd bring it back. Maybe with a few nicks, but definitely covered in glory."
 
-"Oh Glory is it? That would enhance the retail value?"
+"Oh Glory is it? Would that enhance the retail value?"
 
 "Yes, yes," he said eagerly, unaware of the trap he was falling into.
 
@@ -427,7 +433,7 @@ Boltac looked the boy dead in the eyes and said, "I'm not giving you any discoun
 
 "Yes, that's it."
 
-"Powerful, strong," Colbac prompted.
+"Powerful, strong," Boltac prompted.
 
 "Yes."
 
@@ -441,7 +447,7 @@ Boltac looked the boy dead in the eyes and said, "I'm not giving you any discoun
 
 Boltac's face soured. "I was never young.
 
-"Look, kid, I'm not going to loan you a sword. But I do have an old mace I keep behind the counter, you know, in case of trouble. It's not much to look at, but it's always been lucky for me. I like to think it would be good luck ofr you. Would you like to see it?"
+"Look, kid, I'm not going to loan you a sword. But I do have an old mace I keep behind the counter, you know, in case of trouble. It's not much to look at, but it's always been lucky for me. I like to think it would be good luck for you. Would you like to see it?"
 
 "Very much."
 
@@ -450,13 +456,14 @@ Boltac lifted the mace up from behind the counter. As he raised the weapon high 
 Boltac hit him right between the eyes, and knocked him out cold.
 
 
-# WIZARD v DUKE #
 
-[^give the wizard some kind of tag so we know him when he talks to Boltac]:
+# 4
 
-In the center of Robrecht, there was a river. In the center of the river was an island occupied by a very damp castle. And in the very damp center of this very damp castle was a Duke on a throne. 
+> give the wizard some kind of tag or visual cue so we know him when he talks to Boltac
 
-The Duke yawned mightily, then thought the better of it. He was holding court, such as court was in the remote and unimpressive Dutchy of Robrech. There were no glittering courtiers, there were no ladies-in-waiting, there was just the Duke, an uncomfortable wooden chair and a long line of disputes that the Duke was supposed to settle before he would be allowed to go to his supper. 
+In the center of Robrecht, there was a river. In the center of this river was an island occupied by a very damp castle. And in the very damp center of this very damp castle was a Duke on a throne. Both of which were also damp. And one of them was terribly bored.
+
+The Duke yawned mightily, then thought the better of it. He was holding court. Well, such as court as could be held in the remote and unimpressive Dutchy of Robrecht. There were no glittering courtiers, there were no ladies-in-waiting, there was just the Duke, an uncomfortable wooden chair and a long line of disputes that the Duke was supposed to settle before he would be allowed to go to his supper. 
 
 "Messers Rudolph and Fuad, herders of goats!" the Chamberlain announced. The Duke waved his hand in acknowledgement and the men were brought before him.  
 
@@ -544,7 +551,7 @@ And so they did. And when the oaken door slammed behind them, the Wizard and the
 
 "Can't say I have had the pleasure," said Dimsbury, fighting back an urge to engulf the Duke in flames with a clap of his hands. 
 
-"I have the burden of carrying a great name. Weaveston Prestidigitous RampartLion Toroble the 15th, in fact. And this name means that I am not free do what I would like. I am not free to marry who I like. I am not free to live where I like. I have been sent here. And if I abdicate, Torvald Toroble will have me killed. Either by assassin or generalship of an army on it's way to a glorious lost cause or perhaps just with a good old-fashioned hunting accident."
+"I have the burden of carrying a great name. Weeveston Prestidigitous RampartLion Toroble the 15th, in fact. And this name means that I am not free do what I would like. I am not free to marry who I like. I am not free to live where I like. I have been sent here. And if I abdicate, Torvald Toroble will have me killed. Either by assassin or generalship of an army on it's way to a glorious lost cause or perhaps just with a good old-fashioned hunting accident."
 
 "How do you know?" asked Wizard, still trying to reason with him. 
 
@@ -712,17 +719,6 @@ But the Wizard was on a roll. "And the power! The limitless power. It should be 
 
 "As a favor to you, I am happy to do it," said the Wizard. The he said, "Bon Voyage!" gave a half-bow, and, in the way of Wizards, he disappeared in puff of smoke. 
 
-<!--
-
-[^and, as two men will, sitting both alone at the same bar, they struck up a conversation]:
-
-
-> AFTER HE MEETS THE INNKEEPER, he thinks ___ Maybe not the entire city, thought Oddna. Perhaps there were a few things worth saving 
-
-
-"And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
-
---> 
 
 
 # Propping the Kid Up
@@ -892,6 +888,26 @@ Ugh, thought Boltac. Magic that's worse than romance
 
 # Boltac v. Wizard
 
+
+<!--
+
+[^and, as two men will, sitting both alone at the same bar, they struck up a conversation]:
+
+
+> AFTER HE MEETS THE INNKEEPER, he thinks ___ Maybe not the entire city, thought Dimsbury. Perhaps there were a few things worth saving 
+
+
+
+
+--> 
+
+
+> What's with the dismal garb, friend. If you are in the market for some more impressive threads, I have a fine store a few steps away. 
+> Dismal? I prefer the term humble. I am a, uh, wandering scholar, in search of knowledge. 
+> Knowledge, here's something you can always count on. Don't take any wooden nickels.
+> What's a nickel. 
+> Not much of scholar are you. 
+> I'm not concerned with insignificant matters like trade and commerce. 
 
 "Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on the Duke's mutton? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgement.
 
@@ -1272,7 +1288,7 @@ Boltac tried his recently mangled leg. It felt good. In fact, it felt better tha
 "What am I going to do?" Boltac thought hard. Set his jaw, narrowed his eyes and then fell dead asleep. 
 
 
-# Goes to Duke #
+# Aftermath, Boltac lives#
 
 When Boltac awoke, he was in his bed. Bright light streamed in through the window and he came back to consciousness slowly and from a great distance. At first he couldn't remember how he had gotten here, or what had happened. Then, as the memory of it flooded back, he became fearful. Unable to tell what might be fantastic dream from terrible reality, he flung back the covers. His leg was straight. His shirt was ripped, but the skin underneath was perfect and unscarred. That potion was magic. 
 
@@ -1338,6 +1354,8 @@ Relan just shook his head and took another bite of bread.
 
 * * * 
 
+# Boltac Goes to Duke
+
 
 Outside, smoke hung thick in the air. Everywhere there were signs of carnage, The Bent Eelpout and most of the other side of the street had burnt to the ground. Boltac saw the dead wolf and orcs, but did not linger over them. 
 
@@ -1381,9 +1399,12 @@ Boltac began to gather the finest items, from the most secret places in his stor
 
 Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King. But he wasn't powerless. He could use the skills and tools he had rather than go off half-cocked. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death. 
 
-> "I'll protect you!"
-> "That's not what you're here for. You're here to carry the lantern"
 
+# Relan Outfits Himself and Leaves the City. #
+
+>runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
+
+>Confronts the con. But you told me she was trapped in a tower! 
 
 # Rattick, back at the Dungeon #
 
@@ -1418,6 +1439,8 @@ When out from the carriage stepped, Boltac?
 
 # Kid Hears the Wagon. #
 
+> "I'll protect you!"
+> "That's not what you're here for. You're here to carry the lantern"
 
 For Relan, Adventure was turning out to be the same as sore feet. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
 
@@ -3353,3 +3376,12 @@ Boltac smiled at the young man, so innocent in the ways of the world, and oblivi
 "But…"
 
 "Obey!" 
+
+
+
+
+----------
+
+
+
+"And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
