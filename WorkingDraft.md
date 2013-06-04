@@ -732,6 +732,8 @@ Boltac watched the sleep. Now that the boy was he was unconscious he seemed even
 
 # Borrow a Cup of Ale #
 
+> what's the next thing? Like, logically?
+	
 With a slurping noise, Boltac sucked the marrow from a leg of lamb. Then he wiped his chin with a trencher of bread, sucked a mighty gulp of ale and said, "Asarah, I will wager that you make the finest lamb of any wench in any tavern in any land."
 
 "You're a bold man, to call the mistress of the house a wench in her own establishment," answered the dark-haired woman behind the bar, pretending to be upset. 
