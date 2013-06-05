@@ -718,6 +718,15 @@ But the Wizard was on a roll. "And the power! The limitless power. It should be 
 
 "As a favor to you, I am happy to do it," said the Wizard. The he said, "Bon Voyage!" gave a half-bow, and, in the way of Wizards, disappeared in puff of smoke. 
 
+He appeared, quietly, with no smoke or fanfare, in the shadows of a warehouse building along the River Swift. That had gone surprisingly well, thought Dimsbury. It would have pained him to have killed his old grammar school mate Weeveston. Not much, but it is worth something to avoid even a momentary pang. To attack the city without resistance, well, that would mean his magnificent Orcs would not have their numbers greatly reduced by tonight's adventure. Pleased with himself, Dimsbury thought of turning his sights on the wider world. 
+
+Ah, but ambition would wait until he had isolated the very source of magic. And this attack would grant him the peace and quiet in which he needed to work. One good long push at the end, and he felt confident he would have it within his grasp. Everything, really. For who could resist a man with limitless power in his grasp?
+
+But tonight. A respite from his labors. His feed carried him south. He knew a of a place --  not the finest establishment, or even reputable by the standards of a privileged Mercian upbringing, it is true -- but he had been living on things grown in a cave. Slimy things prepared by clumsy creatures who did not possess a human palate. So it didn't take much to impress Dimsbury these days. 
+
+Yes, a fine roast leg of lamb. Then a pleasant walk to a hilltop from which to watch the city burn. The only thing to regret was that would not have good company to enjoy such a delightful evening with. The sacrifices he made for his work were many. 
+
+
 
 # 5
 
@@ -729,11 +738,28 @@ As he dragged the lad across the street, Boltac muttered, "What were you thinkin
 
 Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome, Boltac said." Then he went inside.  
 
+# Inside the Inn #
+
+
+
+
+
+
+
+
 
 # Borrow a Cup of Ale #
 
+
+
 > what's the next thing? Like, logically?
-	
+
+Introducing Asarah.
+
+Wizard sitting in Boltac's seat. 
+
+We need to introduce Asarah -- Asarah's POV?
+
 With a slurping noise, Boltac sucked the marrow from a leg of lamb. Then he wiped his chin with a trencher of bread, sucked a mighty gulp of ale and said, "Asarah, I will wager that you make the finest lamb of any wench in any tavern in any land."
 
 "You're a bold man, to call the mistress of the house a wench in her own establishment," answered the dark-haired woman behind the bar, pretending to be upset. 
@@ -821,14 +847,14 @@ Asarah slammed a full ale down in front of him and said. "There's no romance in 
 "Safer that way," Boltac muttered into the foam of his first sip. 
 
 
-[[ and then, thinking better of it, he took a sword off the rack -- not his best sword and not his worst -- walked across the street and hung the sword belt around the neck of the unconscious boy. 
+> and then, thinking better of it, he took a sword off the rack -- not his best sword and not his worst -- walked across the street and hung the sword belt around the neck of the unconscious boy. 
 
-As he looked at him. Boltac wondered, was he all that different. At that age? The madness of youth? The kind that drives a young man to abandon his family, travel, see the world. Fall in love? Seek adventures? 
+> As he looked at him. Boltac wondered, was he all that different. At that age? The madness of youth? The kind that drives a young man to abandon his family, travel, see the world. Fall in love? Seek adventures? 
 
-Maybe not. Maybe the only difference was, Boltac was just cunning enough to have survived. And that kid? Ehhh, that kid didn't stand a chance. 
+> Maybe not. Maybe the only difference was, Boltac was just cunning or lucky enough to have survived. And that kid? Ehhh, that kid didn't stand a chance. 
 
 
-]]
+
 
 
 ## Asarah asserts her independence ##
@@ -867,7 +893,7 @@ Ugh, thought Boltac. Magic that's worse than romance
 
 # Boltac v. Wizard
 
-
+> add, "I have stopped here several times, but I do not know why they call it the Bent Eelpout. "
 
 From Wizard's point of view -- walking to the Inn -- knowing that that they have good Lamb -- Later, after a fine repast he would remove himself to a high hilltop and watch the city burn. A pleasant break from his usual toil. 
 
