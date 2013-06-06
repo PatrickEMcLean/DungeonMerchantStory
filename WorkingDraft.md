@@ -24,18 +24,14 @@ Except to Relan at end when he takes out wizard. (The one win.)
 >But you broke your vows for me.
 >I was never a real priestess.
 
->add Boltac stubbornly refusing to use the kid's name as a funny bit. 
-
-
-
-
+* add Boltac stubbornly refusing to use the kid's name as a funny bit. 
+*  Boltac opening up the empty treasury. 
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
 * Conform names: make sure that Farm boy becomes Relan -- wizard becomes Dimsbury, or the Wizard Dimsbury.
 * Add a bit about the importance of lighting to adventurers
 * link Boltac's lack of faith -- when he speaks to Asarah -- to him saying -- the crazy wizard was right. A merchant can't have power. To which Asarah says. The crazy wizard is dead. Defeated by a merchant. That is power Boltac. Have faith in yourself. In you I see more than a drink-thief. And you should too. 
-
 * BOltac uses magic nullifying gloves at the end.
-
+* Make sure, Dimsbury is sucked into the source of all magic at the end. 
 * What happens to the Troll? Is he still stuck there at the end? 
 * BOltac picks up the mace, signifying that magic is done for. 
 * All my magic items are worthless, Huzzah.
@@ -43,7 +39,18 @@ Except to Relan at end when he takes out wizard. (The one win.)
 
 
 
-"That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
+* Boltac struggling to find something in the sack to create suspense. "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
+
+"Magic is like a vast, underground reservoir of water," began Dimsbury, droning into what was shaping up to be a long lecture. 
+"Is that why you live in the earth like a gopher."
+"No, not literally underground, you thick, literal man, I mean it pool and flows beneath the surface of our reality. Beneath all realties, in fact. And I have found a way to coax it to the surface. Draw this energy to us. And create a deeper, broader opening than any "
+"So your digging a well for magic? Is that it?"
+"Close enough for a coarse man such as you."
+"En-henh."
+ 
+
+
+
 
 
 ## The Bag ##
@@ -755,6 +762,12 @@ The weekly washing of the sheets. And night-time when they would pour in for din
 Then collapsing into bed, waiting for Royrick to stumble in. The brief embrace of love, and then -- all too soon, leaving a warm bed as the first waves of dawn lapped at her window once again. 
 
 And there she was, dashing in and out of the waves, like a young girl, her black hair flying behind her like a pennant. It had been a hard life, but it had been enough. 
+
+Until one morning Royrick hadn't arisen from the bed. She thought he was just drunk. That happened often enough with men, but by the time she and the help had packed the ovens for their long afternoon roast, she realized that he had not stumbled downstairs. He husband could be many things, people having moods like the ocean. 
+
+
+
+> she tells Boltac that she wants to see the ocean again -- and that's how we know she's back to scared little girl.
 
 
 
