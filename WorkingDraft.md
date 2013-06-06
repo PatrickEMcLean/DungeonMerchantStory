@@ -740,7 +740,11 @@ Boltac watched the sleep. Now that the boy was he was unconscious he seemed even
 
 # Inside the Inn #
 
+Inside the Inn, Asarah was thinking of waves. As a young girl, her parents had taken her to see the ocean. She had stayed all day on the beach on that that hot summer day. Her long black hair streaking behind her skinny body like a kite. Shrieking and dashing into the waves as they pounded the shore. 
 
+In her heart, on that perfect summer day, she had made a vow, as long as the waves kept coming, she would keep charging into them. But, of course, the waves did not stop. And at the end of the day she lay, wrapped in a blanket, as he father and his brothers build a bonfire, listening to the waves pound and pound and pound against the shore. She did not doubt that those waves were still pounding to this day. 
+
+And they young girl had grown into a woman. Taken a husband, an innkeepers son. So she had come to Robrecht to help him keep one of the family's inns. On that day 
 
 
 
