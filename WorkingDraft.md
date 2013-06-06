@@ -744,7 +744,11 @@ Inside the Inn, Asarah was thinking of waves. As a young girl, her parents had t
 
 In her heart, on that perfect summer day, she had made a vow, as long as the waves kept coming, she would keep charging into them. But, of course, the waves did not stop. And at the end of the day she lay, wrapped in a blanket, as he father and his brothers build a bonfire, listening to the waves pound and pound and pound against the shore. She did not doubt that those waves were still pounding to this day. 
 
-And they young girl had grown into a woman. Taken a husband, an innkeepers son. So she had come to Robrecht to help him keep one of the family's inns. On that day 
+And the young girl had grown into a woman. Taken an innkeepers son as husband. So she had come to Robrecht to help him keep one of the family's inns. She knew the work would be hard, but she took it on joyfully. How in love she had been with Royrick. So full of life, of energy. They worked and fought and loved and laughed. Oh God they had laughed. With strangers and friends and regulars. The inn had always been full in those happier, departed days. 
+
+She had thought of the Inn as an ocean. People coming in an out on the tides, each day a composed of it's own, wavelike cycles. 
+
+On that day she had made another vo
 
 
 
