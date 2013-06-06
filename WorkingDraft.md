@@ -740,16 +740,21 @@ Boltac watched the sleep. Now that the boy was he was unconscious he seemed even
 
 # Inside the Inn #
 
-Inside the Inn, Asarah was thinking of waves. As a young girl, her parents had taken her to see the ocean. She had stayed all day on the beach on that that hot summer day. Her long black hair streaking behind her skinny body like a kite. Shrieking and dashing into the waves as they pounded the shore. 
+Inside the Inn, Asarah was thinking of waves. As a young girl, her parents had taken her to see the ocean. She had stayed all day on the beach on that that hot summer day. Her long black hair streaking behind her skinny body like a pennant. Shrieking and dashing into the waves as they pounded the shore. 
 
 In her heart, on that perfect summer day, she had made a vow, as long as the waves kept coming, she would keep charging into them. But, of course, the waves did not stop. And at the end of the day she lay, wrapped in a blanket, as he father and his brothers build a bonfire, listening to the waves pound and pound and pound against the shore. She did not doubt that those waves were still pounding to this day. 
 
 And the young girl had grown into a woman. Taken an innkeepers son as husband. So she had come to Robrecht to help him keep one of the family's inns. She knew the work would be hard, but she took it on joyfully. How in love she had been with Royrick. So full of life, of energy. They worked and fought and loved and laughed. Oh God they had laughed. With strangers and friends and regulars. The inn had always been full in those happier, departed days. 
 
-She had thought of the Inn as an ocean. People coming in an out on the tides, each day a composed of it's own, wavelike cycles. 
+She had thought of the Inn as an ocean. People coming in an out on the tides, each day a composed of it's own, wavelike cycles. The lapping waves of early morning, rekindling the kitchen fires, heating the porridge touched with cinnamon to bring weary travelers and bleary drunks around to a new day. 
 
-On that day she had made another vo
+The pounding waves to he mid-day kitchen, ovens fired and roasting meat. The two and for 
 
+The weekly washing of the sheets. And night-time when they would pour in for dinner. Then pouring tankards of the rich beer brewed from sweet, upstream water of the River Swift before all of Robrecht had had a chance to dump piss, shit and kitchen scraps in it. 
+
+Then collapsing into bed, waiting for Royrick to stumble in. The brief embrace of love, and then -- all too soon, leaving a warm bed as the first waves of dawn lapped at her window once again. 
+
+And there she was, dashing in and out of the waves, like a young girl, her black hair flying behind her like a pennant. It had been a hard life, but it had been enough. 
 
 
 
