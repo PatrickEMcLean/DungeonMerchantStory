@@ -7,6 +7,7 @@
 Boltac 
 Relan
 Asarah
+Royrick -- Asarah's dead husband
 Rattick
 Alston Dimsbury
 Weeveston Prestidigitous RampartLion Toroble the 15th,
@@ -15,7 +16,9 @@ Aunt Etheline
 Samga -- the faithful Orc overseer. 
 Hissglarg -- the orc in the tunnel
 
-Various Orcs
+
+
+#### Various Orcs
 An unfortunate Troll
 Some wolves
 Townspeople of Robrecht
