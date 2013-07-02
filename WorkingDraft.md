@@ -1,4 +1,4 @@
-*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+    *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
 # **The Merchant Adventurer** #
@@ -743,7 +743,13 @@ As he dragged the lad across the street, Boltac muttered, "What were you thinkin
 
 "Look kid," he said to the gently snoring Farm Boy on the bench, "It's for your own good. I mean, if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Adventures are tricky." Boltac sighed heavily. "Believe me, go back to the farm."
 
-Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome, Boltac said." Then he went inside.  
+Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.  
+
+# Boltac in Love #
+
+"Asarah, my love!" Boltac shouted before the door had even closed behind him
+
+
 
 # Inside the Inn #
 
