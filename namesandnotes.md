@@ -61,9 +61,11 @@ Boltac's Bargain.
 
 ## Other Titles ##
 
-
+The Merchant Adventurer
 The Merchant King
 The Brother's Grift
+
+Add the murmurers in there someplace. Cult comes to Robrecht and gains power. Endlessly interceding on behalf of a sinning world. 
 
 Stealing Liberty -- guy steals the statue of Liberty and deposits it on their enemies doorstep. Robrecht, small kingdom like Lichtenstien, under assault by the EU and the
 

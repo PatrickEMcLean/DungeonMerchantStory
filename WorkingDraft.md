@@ -19,6 +19,10 @@ Except to Relan at end when he takes out wizard. (The one win.)
 ## Punchlist ##
 
 
+
+* Make Dimsbury want food from the beginning. (add in intro discussion, wine hurts his stomach)
+3. Set up kidnapping (do this earlier. )
+
 * Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
 
 >But you broke your vows for me.
@@ -961,7 +965,7 @@ Botlac raised an eyebrow, "What do you mean, when all of the adventurers are kil
 --> 
 
 
-> What's with the dismal garb, friend. If you are in the market for some more impressive threads, I have a fine store a few steps away. 
+> What's with the dismal garb, friend? If you are in the market for some more impressive threads, I have a fine store a few steps away. 
 > Dismal? I prefer the term humble. I am a, uh, wandering scholar, in search of knowledge. 
 > Knowledge, here's something you can always count on -- Don't take any wooden nickels.
 > What's a nickel?
@@ -978,9 +982,9 @@ Botlac raised an eyebrow, "What do you mean, when all of the adventurers are kil
 
 "Perhaps someone will," ventured the stranger, somewhat cryptically." "What business brings you to our fair city."
 
-"Hmm, city," said the man, with shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish drying village with delusions of grandure."
+"Hmm, city," said the man, with shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish drying village with delusions of grandeur."
 
-"More like delusions of glory," said Boltac as he raised a glass, not sure he liked the other man's tone. "You have travelled then, a trader?" Asked Boltac, sniffing around for a profit. 
+"More like delusions of glory," said Boltac as he raised his ale, not sure he liked the other man's tone. "You have travelled then, a trader?" Asked Boltac, sniffing around for a profit. 
 
 "More of a wandering scholar," said the man.
 
@@ -1049,7 +1053,7 @@ The smile fell from Boltac's face like a sheet of ice falling from a castle wall
 
 "Yeah, she deserves better. The Eelpout has seen better days."
 
-"Oh, ho ho ho ho, ho," chortled the man. "You're not excepted, my grubby little merchant. She deserves better than all of you. Perhaps as a chef to an Duke or a King or someone even more powerful," he said with a flair of his nostrils.  He threw a gold piece (more than three times enough for the bill) on the bar and said, "See that she gets that, my good man." 
+"Oh, ho ho ho ho, ho," chortled the man. "You're not excepted, my grubby little merchant. She deserves better than all of you. Perhaps as a chef to an Duke or a King or someone even more powerful," he said with a flair of his nostrils.  He threw a gold piece (more than three times enough for the bill) on the bar and said, "See that she gets that, my good man."  (and ask her to bring me an ale by the fire. )
 
 "Rich prick," thought Boltac. As he watched the man go he was sure that the prick made the mistake of thinking that because he had money it meant he had power. As he watched him go, he muttered a prayer to the endlessly haggling Gods of commerce, "Just get me a chance to negotiate with that guy. He won't feel so high and mighty after that, I promise you."
 
