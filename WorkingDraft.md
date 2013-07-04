@@ -749,94 +749,48 @@ As he dragged the lad across the street, Boltac muttered, "What were you thinkin
 
 Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.  
 
-# Boltac in Love #
-
-"Asarah, my love!" Boltac shouted before the door had even closed behind him
-
-
-
-# Inside the Inn #
-
-Inside the Inn, Asarah was thinking of waves. As a young girl, her parents had taken her to see the ocean. She had stayed all day on the beach on that that hot summer day. Her long black hair streaking behind her skinny body like a pennant. Shrieking and dashing into the waves as they pounded the shore. 
-
-In her heart, on that perfect summer day, she had made a vow, as long as the waves kept coming, she would keep charging into them. But, of course, the waves did not stop. And at the end of the day she lay, wrapped in a blanket, as he father and his brothers build a bonfire, listening to the waves pound and pound and pound against the shore. She did not doubt that those waves were still pounding to this day. 
-
-And the young girl had grown into a woman. Taken an innkeepers son as husband. So she had come to Robrecht to help him keep one of the family's inns. She knew the work would be hard, but she took it on joyfully. How in love she had been with Royrick. So full of life, of energy. They worked and fought and loved and laughed. Oh God they had laughed. With strangers and friends and regulars. The inn had always been full in those happier, departed days. 
-
-She had thought of the Inn as an ocean. People coming in an out on the tides, each day a composed of it's own, wavelike cycles. The lapping waves of early morning, rekindling the kitchen fires, heating the porridge touched with cinnamon to bring weary travelers and bleary drunks around to a new day. 
-
-The pounding waves to he mid-day kitchen, ovens fired and roasting meat. The two and for 
-
-The weekly washing of the sheets. And night-time when they would pour in for dinner. Then pouring tankards of the rich beer brewed from sweet, upstream water of the River Swift before all of Robrecht had had a chance to dump piss, shit and kitchen scraps in it. 
-
-Then collapsing into bed, waiting for Royrick to stumble in. The brief embrace of love, and then -- all too soon, leaving a warm bed as the first waves of dawn lapped at her window once again. 
-
-And there she was, dashing in and out of the waves, like a young girl, her black hair flying behind her like a pennant. It had been a hard life, but it had been enough. 
-
-Until one morning Royrick hadn't arisen from the bed. She thought he was just drunk. That happened often enough with men, but by the time she and the help had packed the ovens for their long afternoon roast, she realized that he had not stumbled downstairs. He husband could be many things, people having moods like the ocean. 
-
-
-
-> she tells Boltac that she wants to see the ocean again -- and that's how we know she's back to scared little girl.
+# 6 #
 
 
 
 
+"Asarah, my love!" Boltac bellowed before the door had even had a chance to close behind him, "I have come to rescue from all of this."
 
+The hurried, hard-working, yet beautiful mistress of the Inn, turned away from a table she was clearing. When she saw who it was, the professional smile fell from her face and she asked, "And who's going to rescue you?"
 
-# Borrow a Cup of Ale #
+Boltac climbed up on a bar stool, and said, "No, no. I mean it this time. I have come to sweep you away from all this pointless drudgery. We shall journey to a far kingdom where I am Lord and Master and you will be my Queen."
 
+Asarah threw her thick, black mane of hair back from her face with one free hand. She walked behind the bar, set her hands on the well-worn wooden top and asked, "Whattya want Boltac?"
 
+"Only you my love."
 
-> what's the next thing? Like, logically?
+"Yeah, well, all you got is money. I ain't for sale. Now what are you having?"
 
-Introducing Asarah.
+"Asarah, can I borrow an ale?"
 
-Wizard sitting in Boltac's seat. 
+"What? Borrow an ale?"
 
-We need to introduce Asarah -- Asarah's POV?
+"My point exactly!"
 
-With a slurping noise, Boltac sucked the marrow from a leg of lamb. Then he wiped his chin with a trencher of bread, sucked a mighty gulp of ale and said, "Asarah, I will wager that you make the finest lamb of any wench in any tavern in any land."
+"Borrow?"
 
-"You're a bold man, to call the mistress of the house a wench in her own establishment," answered the dark-haired woman behind the bar, pretending to be upset. 
+"Yes."
 
-"It is because someday, I will make an honest woman of you."
-
-"It will take a better man than you."
-
-"A better man than I would fall afoul of your charms and be ruined. I am cunning, I have a fortune, I will tame you yet."
-
-Asarah laughed and returned to the kitchen. It was an old game she played with most all of her customers, but with Boltac, somehow it was different. For one thing, he was not just another traveller. He was a man of standing in the town of Robrecht. A merchant who kept his store across the street from the inn. He was rumored to have a great fortune, but there was always a worried sadness about him. And if he had a fortune, why did he stay here. He could have gone anywhere in the four Kingdoms. Why would anyone stay in this clammy, dismal center of the nowhere called Robrecht?
-
-He was not what you would call handsome. His hair had thinned and beneath his broad shoulders he was running to fat. That didn't bother Asarah. Neither did the the fact that he always tried to cheat her on his bill. Claiming that she had overcharged him, or that an ale was bad halfway through didn't bother her either. Supposedly he was wealthy enough to drink in any Inn or establishment he wanted. With the Duke, even, but he always seemed to wind up back at the Bent Eelpout. 
-
-It was a strange courtship, to be sure. But, pretty as she was, Asarah was no spring maid any more. And courtship, any courtship was a flattery to be welcomed. Since her husband had passed and left her freighted and weighed with the responsibility's of a 
-
-Besides, Boltac could have  
-
-Asarah dropped two roast chickens and another leg of lamb at a table and scanned the room. At this instant everyone was fed and watered and aled. She had the moment to herself. Tucking her tray under her arm she made her way back to the bar. 
-
-"Asarah, can I borrow an ale," asked Boltac. 
-
-"I hate to think what condition you'll give it back to me." She quipped and was pleased to see that he smiled back.
-
-"I promise, it will be liquid. But seriously, can I borrow an ale?"
-
-"What? No. Who asks such a thing?"
+"Who asks such a thing?"
 
 "Exactly!" said Boltac, pounding his fist on the bar. "Who asks such a thing? But people do. I swear to heaven they do. A young man, not 20 minutes ago, walked into my store and had the nerve to ask me if he could borrow a sword."
 
-"What? You mean like you'd ask a neighbor to borrow a cup of sugar."
+"What? You mean like you'd ask a neighbor to borrow a cup of sugar?"
 
-"Yes, exactly. Except when you borrow a cup of sugar, you don't go off and use it to get yourself killed trying to save some damn fool... Priestess of Dar. 
+"Yes, exactly. Except when you borrow a cup of sugar, you don't go off and use it to get yourself killed trying to save some damn fool... Priestess of Dar." 
 
-"Oh, virgin love," she said with a look in her eye that made Boltac realize that shattering her illusions about the Priestess of Dar would be the wrong thing to do. 
+"Oh, virgin love," she said with a moony look in her eye.
 
-"Hmmm," he said into his beer. 
+"En-henh," said Boltac. "How about I rent an ale?"
 
-"So, did you loan him the sword?"
+Asarah poured a tankard of ale out of the keg and set it on the bar in front of Boltac. Then she asked, "So, did you loan him the sword?"
 
-"No," snapped Boltac, foam flying from his lips. "I hit him over the head with a club, dragged him across the street and left him unconscious on the bench out front."
+"No," snapped Boltac, beer flying from his lips. "I hit him over the head with a club, dragged him across the street and left him unconscious on the bench out front."
 
 Now her eyes flashed dark against the wave of her hair. "How *could* you?" 
 
@@ -844,13 +798,17 @@ Now her eyes flashed dark against the wave of her hair. "How *could* you?"
 
 "That word again, Wench, you said she was a priestess."
 
-"Same difference."
+"Oh come on, it was a sleeping beauty. They were roping him."
 
-"It's not and you know it," said Asarah. "Don't you see? How romantic it is?"
+"You don't know that. It could have been true love. True romantic love. The kind that you only hear about in songs."
 
-"I see how stupid it is."
+"Yeah, you only hear about it in the songs, because it's not real."
 
-"No," said Asarah, growing upset. "That's how she will know. The only way she can know!"
+"You're heart is only filled with money," said Asarah.
+
+"No," said Boltac, "It's not full. There's room for more." Asarah rolled her eyes. "Besides, that's not the point. The point is my head is filled  with common sense. Say he's not being conned -- Which is unlikely, but what the hell -- so I give him the sword and he goes and gets himself killed. Enh, then that's on me and for what?"
+
+But that's how she will know. The only way she can know!"
 
 "Know what, that he's an idiot."
 
@@ -862,11 +820,11 @@ Now her eyes flashed dark against the wave of her hair. "How *could* you?"
 
 "Certainly are plenty of horrible dungeons around Robrecht," said Boltac, looking around the room as if he wished the subject would change itself. 
 
-"Oh, it's so romantic. And he goes to rescue her and when he *does* rescue her that's how she *knows*."
+"It's so romantic. And he goes to rescue her and when he *does* rescue her that's how she *knows*."
 
-"Knows what?"
+"Eeeeyeah. You keep saying that. Knows what?"
 
-"That he loves her. That he really, truly loves her above all others."
+"That he *loves* her. That he really, truly loves her above all others."
 
 "That's how she'll know he's a muscle-headed idiot who's good with a sword."
 
@@ -876,113 +834,21 @@ Now her eyes flashed dark against the wave of her hair. "How *could* you?"
 
 "Keep your voice down," hissed Asarah. You're disturbing the other patrons!"
 
-"Patron," quipped Boltac across his empty tankard. 
+"Patron," quipped Boltac across his empty tankard and gesturing at the nearly empty common room. 
 
-Asarah slammed a full ale down in front of him and said. "There's no romance in your life. No passion. I feel sorry for you Boltac." And then she stormed off into the back. 
+Asarah slammed another ale down in front of him and said. "There's no romance in your life. No passion. No wonder you are alone. I feel sorry for you Boltac." And then she stormed off into the back. 
 
-"Safer that way," Boltac muttered into the foam of his first sip. 
+"Safer that way," Boltac muttered into his beer. 
 
+Behind Boltac and an unseasonably cool wind filled the inn. Boltac turned to see who it was. A man in a black robe seemed to float across the common room as the door shut behind him. He took in the room with a raised eyebrow of disapproval then made his way to the bar. He sat and asked Boltac, "Do they have lamb tonight?"
 
-> and then, thinking better of it, he took a sword off the rack -- not his best sword and not his worst -- walked across the street and hung the sword belt around the neck of the unconscious boy. 
+"They usually do."
 
-> As he looked at him. Boltac wondered, was he all that different. At that age? The madness of youth? The kind that drives a young man to abandon his family, travel, see the world. Fall in love? Seek adventures? 
+"Hmm, good. Good."
 
-> Maybe not. Maybe the only difference was, Boltac was just cunning or lucky enough to have survived. And that kid? Ehhh, that kid didn't stand a chance. 
+"So stranger, what business brings you to our fair city?" asked Boltac.
 
-
-
-
-
-## Asarah asserts her independence ##
-
-
->She really stands on the fact that she doesn't need a husband and can take care of herself. Maybe she stands down a drunk patron. 
->This in opposition to the kidnapping
-
-
-
----
-
-Asarah -- but you see that's how she knows he loves her. He comes for her, risks everything against all odds for the love of his life. 
-
-Boltac -- that's how she knows he's an idiot. 
-
-Asarah -- You're a bitter, bitter man. 
-
-Boltac -- What because I make good sense?
-
-Asarah -- Because there's no romance in your life. No passion. No magic. 
-
-Ugh, thought Boltac. Magic that's worse than romance
-
-
-* She gives him a bit of handkerchief and lace to see if he can find more of it. He set's it as a favor on his helmet. (the ugliest helmet anyone had ever seen. That has a powerful magical ability, uniquely suited to Boltacs unusual (well unusual for an adventurer) skills.
-
-
----
-
-
--Isn't that right, Asarah?" but when he turned back, she was gone.
-
----
-
-
-# Boltac v. Wizard
-
-> add, "I have stopped here several times, but I do not know why they call it the Bent Eelpout. "
-
-From Wizard's point of view -- walking to the Inn -- knowing that that they have good Lamb -- Later, after a fine repast he would remove himself to a high hilltop and watch the city burn. A pleasant break from his usual toil. 
-
-Boltac -- good city for business. 
-Wizard -- hmm, yes, so far. 
-Boltac -- Lots of trade
-
-Wizard -- but what happens when all the adventurers are killed?
-
-Botlac raised an eyebrow, "What do you mean, when all of the adventurers are killed? There's always more adventurers. Each fresh crop of children brings new fools willing to risk their life. Trust me, I've made fortune off of this.""
-
-"But what if everyone was defeated? So badly, so horribly, that it set an example? Lots of heads on pikes, that kind of thing."
-
-"Ennnhh," Boltac said, holding up one finger. "That sounds like reason. I mean it makes fine sense to me, but here's the thing -- you can't reason with fools. At least not without becoming a fool yourself."
-
-"Yes," said the Wizard, sighing into his ale, "That is most certainly *the thing*."
-
-
---- 
-
-
-
-<!--
-
-[^and, as two men will, sitting both alone at the same bar, they struck up a conversation]:
-
-
-> AFTER HE MEETS THE INNKEEPER, he thinks ___ Maybe not the entire city, thought Dimsbury. Perhaps there were a few things worth saving 
-
-
-
-
---> 
-
-
-> What's with the dismal garb, friend? If you are in the market for some more impressive threads, I have a fine store a few steps away. 
-> Dismal? I prefer the term humble. I am a, uh, wandering scholar, in search of knowledge. 
-> Knowledge, here's something you can always count on -- Don't take any wooden nickels.
-> What's a nickel?
-> Not much of scholar are you?
-> I'm not concerned with insignificant matters like trade and commerce. 
-
-"Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on the Duke's mutton? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgement.
-
-"She is a fine woman," said the man sitting two seats away at the bar. 
-
-"Hunrn," grunted Boltac, for all the sentiment that gave away. When he turned he saw that the speaker was dressed in an expensive black fabric, with a sash of blue as counter point to a fancy gentleman's sword with a brilliant blue jewel in the hilt. He had the look of money about him. Boltac didn't remember seeing him when he came in. 
-
-"Someone should do something about such adventurers," said Boltac, they are a plague on commerce and the commonwealth alike."
-
-"Perhaps someone will," ventured the stranger, somewhat cryptically." "What business brings you to our fair city."
-
-"Hmm, city," said the man, with shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish drying village with delusions of grandeur."
+"Hmm, city?" asked the man, with shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish-drying village with delusions of grandeur."
 
 "More like delusions of glory," said Boltac as he raised his ale, not sure he liked the other man's tone. "You have travelled then, a trader?" Asked Boltac, sniffing around for a profit. 
 
@@ -990,19 +856,25 @@ Botlac raised an eyebrow, "What do you mean, when all of the adventurers are kil
 
 "What have you learned here," Boltac asked, sure that the man wasn't a scholar, but playing along anyway. 
 
-"This is, without a doubt, the finest leg of lamb I have ever had."
+"This dismal little inn serves the finest leg of lamb I have ever had."
 
-Boltac smiled and said, "Tell her that." With a nod towards the kitchen, "She'll not believe me."
+On cue, Asarah emerge from the kitchen and gave Boltac a withering glare.
 
-"Magic in the kitchen, sheer magic. I should give quite a lot to know the secrets of her art."
+"You should tell her that," Boltac said. Asarah noticed the new customer at the bar and replaced her frown with a smile. 
 
-Boltac shrugged, "Why waste the time. Why not just come here and eat."
+"Madame, I have travelled many miles today, and all of them were in anticipation of the meal I hope to have at your establishment. Please, tell me you have made your incomparable lamb this evening."
 
-"Hmm, so, public, so... common."
+Asarah's smile widened into one of true pleasure. She blushed and curtsied. "Well, I don't know about incomparable, but we have roasted lamb tonight."
 
-"Yeah, well, the surroundings do leave something to be desired."
- 
-"What is an Eelpout?" 
+"A leg if you please," said the man in black robes, "And an ale."
+
+"Of course, it's a pleasure to serve such a refined customer," Asarah said, and smiled at him in a way that Boltac didn't like. Asarah slid the man his ale and hurried back to the kitchen. 
+
+Boltac called after her. "Make that two." Without looking back Asarah threw him a dismissive wave over her shoulder."
+
+For a moment, both men sat quietly with their ales. The man in black robes staring into space thoughtfully. Boltac staring at the door through which Asarah had just disappeared. 
+
+The stranger broke the silence first. "What is an Eelpout?" 
 
 "An Eelpout? You don't know what an Eelpout is?"
 
@@ -1010,13 +882,13 @@ Boltac shrugged, "Why waste the time. Why not just come here and eat."
 
 "Eeh, yeah, no doubt. So an Eelpout is, well, imagine an ugly fish."
 
-The man with the blue sash did not change his expression. 
+The man in black did not change his expression. 
 
-"Seriously, envision it in  your head."
+"Seriously, envision it in your head."
 
 "I am."
 
-"Oh, well, then it's nowhere near ugly enough. It's so ugly, this Eelpout, that to think of it is to "
+"Oh, well, then it's nowhere near ugly enough. It's so ugly, this Eelpout, that to think of it is to."
 
 "I have seen a great many ugly things," said the man in a way that indicated that he, the far worldlier man, was growing tired of this exchange. 
 
@@ -1036,11 +908,11 @@ The man with the blue sash did not change his expression.
 
 "Ah, mystery."
 
-Asarah left the kitchen with a well-ladened tray. She looked over to the bar and gave both of them one her smiles. The smile had enough wattage behind it, and she threw her hair just so, that Boltac started to rethink his position on romance. She was so beautiful, and strong. Not that he could find the words to tell her that. But having her always just a few steps across the street had been a comfort in ways that even know he didn't fully understand. 
+Asarah left the kitchen with a well-ladened tray. She threw another high-powered smile at the stranger as she slid a steaming trencher of lamb in front of him. "Your dinner, sir." When she turned to face Boltac, the smile slipped from her face. The slapped the plate in front of him, and delicious, savory meat juice splattered the front of Boltac's tunic. She turned and walked away without saying a word. 
 
-"The only mystery," said the Stranger, "Is why someone hasn't swept such a radiant creature off her feet."
+The stranger swallowed his first bite and sighed with true contentment. "The only mystery, "Is why someone does't take such a talented creature away from all this."
 
-The smile fell from Boltac's face like a sheet of ice falling from a castle wall. "In the gentle words of the virgin Priestesses of Dar, come again?"
+Boltac's eyebrows lifted and only his mouth moved as he asked, "In the gentle words of the virgin Priestesses of Dar, come again?"
 
 "Oh, nothing. It's just, such a rare creature. I wonder why she stays in this... squalor."
 
@@ -1048,31 +920,49 @@ The smile fell from Boltac's face like a sheet of ice falling from a castle wall
 
 "Oh, I meant no offense. It is what you are *used* to after all. "
 
-"Eh, her husband owned this inn. He died and that's her hand of cards.
+"Eh, her husband owned this inn. He died and that's her hand of cards."
+
+"Hmm," the stranger grunted, as he tucked into his dinner in earnest.  
+
+"So, uh, what's with the dismal garb, friend? If you are in the market for some more impressive threads, I have a fine store a few steps away."
+
+"Ah, yes. A merchant. You would be. And as for the dismal garb, I prefer the term humble. I am a, uh, wandering scholar, in search of knowledge."
+ 
+"Knowledge, here's something you can always count on -- Don't take any wooden nickels," Boltac said, trying to lighten the mood. 
+
+"What's a nickel?"
+
+"You don't know what a nickel is? Not much of scholar are you?"
+
+"I'm not concerned with insignificant matters like trade and commerce."
+
+"Enh, but still. You know clothes make the man."
+
+"Ability makes the man."
+
+"Yeah, that too. But nice clothes don't hurt, I'm just saying. My name is Boltac, by the way."
+
+"Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on mutton at the Duke's table? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgement. 
+
+Dimsbury finished the last bite of lamb and  threw a gold piece (more than 10 times enough for the bill) on the bar. He said, "See that she gets that, my good man. And ask her to bring me another ale over by the fire. Nothing personal," he said, with a thin-lipped smile, "I have a chill."  
+
+As he watched Dimsbury go, Boltac thought, "You brought it with you, ya rich prick." Then he muttered a prayer to the endlessly haggling Gods of commerce, "Just get me a chance to negotiate with that guy. He won't feel so high and mighty after that, I promise you." 
+
+Since there wasn't an offer attached, the Gods of Commerce didn't hear his plea. But other, older Gods -- the ones in charge of punishing Hubris -- they heard Boltac's plea loud and clear.
+
+When Asarah returned, and saw the coin on the bar. 
+
+"What a fine gentleman he turned out to be!" she exclaimed, marveling at the gold piece.
+
+"Oh yeah. Real prince of a guy. He said that's to cover mine too. And he wants another ale over by the fire."
+
+Asarah stabbed him with her eyes, "So nice to have a quality customer for a change." 
+
+Boltac held her gaze, "I'll get outta your hair."
 
 
-"Yeah, she deserves better. The Eelpout has seen better days."
+> Linger for a bit to give Dimsbury some POV -- if we need to set up the kidnapping even further. 
 
-"Oh, ho ho ho ho, ho," chortled the man. "You're not excepted, my grubby little merchant. She deserves better than all of you. Perhaps as a chef to an Duke or a King or someone even more powerful," he said with a flair of his nostrils.  He threw a gold piece (more than three times enough for the bill) on the bar and said, "See that she gets that, my good man."  (and ask her to bring me an ale by the fire. )
-
-"Rich prick," thought Boltac. As he watched the man go he was sure that the prick made the mistake of thinking that because he had money it meant he had power. As he watched him go, he muttered a prayer to the endlessly haggling Gods of commerce, "Just get me a chance to negotiate with that guy. He won't feel so high and mighty after that, I promise you."
-
-Since there wasn't an offer attached, the Gods of Commerce didn't hear his plea. But other, older Gods -- the ones in charge of punishing Hubris -- they heard Boltac's plea loud and clear. 
-
-When Asarah returned, Boltac indicated the coin on the bar and said, "That's for both of us. He said you could keep the change."
-
-"What a fine gentleman he turned out to be!" she exclaimed, marveling at the gold."
-
-"Oh yeah, real prince of a guy. I'll take another one, when you get a chance."
-
-
----
-Rattick oozes his way in. 
-
-
-
-
----
 
 
 # Giving the kid the sword #
