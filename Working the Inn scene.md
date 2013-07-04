@@ -205,33 +205,5 @@ When Asarah returned, and saw the coin on the bar.
 
 Asarah stabbed him with her eyes, "So nice to have a quality customer for a change." 
 
-Boltac held her gaze, "I'll get outta your way."
+Boltac held her gaze, "I'll get outta your hair."
 
-"Asarah glared at Boltac as she returned from
-
-
-* Adventurers
-* You're a Magic user, aren't you. 
-
-
-What does this need to do;
-
-1. Introduce asarah and set up romance (check!)
-2. Bring Boltac and Dimsbury into immediate conflict ()
-
-
-# Here
-
-
-And then, her tough exterior melted. 
-
-Conflict: Boltac wants Asarah
-Asarah rebuffs
-She flirts with The Wizard -- just to spite boltac
-He can't stand it, really hurt. says something that makes Asarah reconsider. 
-
-
-
-The door opened behind Boltac and a cool wind filled the inn. It crawled over his collar, and danced down his spine with icy fingers. Boltac turned to see who it was. 
-
-Dimsbury. 
