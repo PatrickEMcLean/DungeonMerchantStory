@@ -1164,10 +1164,10 @@ And then, in that final moment, Boltac discovered that he wasn't afraid. He wasn
 
 At times like these, ordinary men try negotiating with death. They Offer every promise, pledge and advantage they can think of in exchange for life. But Boltac was not an ordinary man. And certainly not an ordinary negotiator. At that moment he realized that his life alone was not worth negotiating for. If was to haggle with fate, it would not be for his life, it would not be for his store or his fortune. Boltac was surprised to discover that, in the final accounting, those things were worth nothing to him. The only thing worth negotiating for was life, with *her*. Without her, he couldn't seem to come up with a reason to bother.   
 
-As if in a dream, he watched two feet of steel emerge from the Orc's belly. The pike fell, not on Boltac's head, but next him on the muddy street. As the Orc's body fell away to the side, Boltac saw the Relan standing there, brandishing the sword Boltac had given him. No scream of victory echoed from the boy's throat. Instead he looked at the blood and the blade as if he couldn't quite understand what had just happened. "That blade is a quality item," Boltac explained. Then he passed out. 
+As if in a dream, he watched two feet of steel emerge from the Orc's belly. The pike fell, not on Boltac's head, but next him on the muddy street. As the Orc's body fell away to the side, Boltac saw the Relan standing there, trying to hold the Orc up with the sword Boltac had given him. No scream of victory echoed from the boy's throat. Instead he looked at the blood and the blade and the corpse that was dragging his hand towards the ground as if he couldn't quite understand what had just happened. "That blade is a quality item," Boltac explained. Then he passed out. 
 
 
-# Drinking a Healing Potion #
+11
 
 Relan was so terrified, he left the sword in the Orc. 
 
@@ -1181,7 +1181,7 @@ Relan was so terrified, he left the sword in the Orc.
 
 "Sorry," said Relan.
 
-"Don't apologize. Just draAAAAAAAAAHag!" Boltac passed out from the pain of being jolted against the cobble.s
+"Don't apologize. Just draAAAAAAAAAHag!" Boltac passed out from the pain .
 
 When Relan got Boltac into the store and propped him up against the counter, Boltac came around enough to say, "Take the keys. In the back, the chest on the left. Very important, only open the chest on the LEFT. Bring me the bottle."
 
@@ -1193,24 +1193,23 @@ When Relan got Boltac into the store and propped him up against the counter, Bol
 
 Relan hurried to the back. Fear caused him to fumble with the lock. And drop the keys. He had never seen that much blood come from a person before. And that thing he had stabbed out there. What was that? He'd never really thought about it. He woke up and saw it about to kill the merchant. There was sword in his lap. There had been no time, he had just done what needed doing. 
 
-He dropped the keys, again. He never thought it would be anything like this. They sure didn't sing about this part. What if more of them came? What if they could smell blood. What if they were coming to the shop right now. Had he shut the door? And if he had shut the door, did he remember to bar it. He was confused and his head really hurt. 
+He dropped the keys, again. He never thought it would be anything like this. They sure didn't sing about this part. What if more of them came? What if they could smell blood. What if they were coming to the shop right now. Had he shut the door? And if he had shut the door, did he remember to bar it? He was confused and his head really, really hurt. 
 
+He opened the chest. Inside were many leather bags filled with coins. Ye gods, how many coins were in here? Tucked in a corner was a cut-glass glass bottle with the stopper wired shut. It seemed very old and the edges of the bottle were painted with gold leaf. Relan picked it up very carefully. Drop the keys all you want, he told himself, but don't drop this bottle. 
 
-He managed to get the chest open. Inside found many leather bags filled with coins. Ye gods, how many coins were in here? Tucked in a corner, he found a small glass bottle with the stopper wired shut. It seemed very old and the edge of the bottle were painted gold filigree. Relan picked it up very carefully. Drop the keys all you want, he told himself, but don't drop this bottle. 
-
-He carried it out to where Boltac sat propped up in a pool of his own blood against the counter. As he handed it to him, he heard a buzzing as if an angry hive of bees was close by and with it, the smell of burning wood. "Gods," Relan said, "Flaming bees!"
+He carried it out to where Boltac sat propped up in a pool of his own blood. As he handed it to him, he heard a buzzing as if an angry hive of bees was close by and with it, the smell of burning wood. "Gods," Relan exclaimed, "Flaming bees!"
 
 "Shut up, kid," Boltac said weakly, "It's magic. Undo the wire."
 
-Relan did as he was asked. Boltac held the bottle in his left hand and took the cork out with his teeth. He spit it across the room. He raised the bottle in a toast and said, "Listen, kid, if I don't make it. All this…" he indicated the store he had worked so hard to build, "You don't take a single thing you understand? I wanna be buried with it."
+Relan did as he was asked. Boltac held the bottle in his left hand and took the cork out with his teeth. He spit it across the room. He raised the bottle in a toast and said, "Listen, kid, if I don't make it. All this…" he indicated the store he had worked so hard to build, "You don't take a single friggin' thing you understand? I wanna be buried with *all* of it."
 
-Up until that point, Relan hadn't thought of stealing. It wasn't what heroes did, so it wasn't what Relan would do. 
+Up until that point, Relan hadn't thought of stealing. It wasn't what heroes did, so it wasn't what Relan would do. But now he couldn't help himself, as Boltac drank the bottle he looked around. But when Boltac screamed in pain, Relan's attention snapped back to the shopkeeper. 
 
-Boltac but the bottle do his lips and drank. Then he screamed in pain. His back arched at a frightful angle. There was a cruel snapping and popping noise as his knee twisted back into place. Sweat poured from him face as he spiked a fever and broke it in less than a minute. A wave of nausea came, and then a sense of calm. The ragged wound in his shoulder spit out a tooth and closed. 
+Boltac writhed and arched his back arched at a frightful angle. There was a snapping and popping noise as his knee twisted back into place on it's own. Sweat poured from Boltac's face as he spiked a fever and broke it in less than a minute. A wave of nausea came, and then a sense of calm. The ragged wound in his shoulder spit out a wickedly curved tooth and closed. 
 
 "Wh-wh-wh-what was that?" Relan asked in amazement. 
 
-"That," Boltac said, the snap returning to his voice, "was a *magic* potion. The genuine article. Most of what I sell is herbs and healing tonics, a couple of smelly poultices made by this old crone out in one of the villages. I won't say they're garbage, but, uh, you slapping poultice on serious wound. Ya gonna die."
+"That," Boltac said, the snap returning to his voice, "was a *magic* potion. The genuine article. Most of what I sell is herbs and healing tonics, and a couple of smelly poultices made by this old crone out in one of the villages. I won't say they're garbage, but, uh, you slap a poultice on serious wound. Ya gonna die."
 
 "Do you have any more?" Relan asked with wide eyes. Thinking that carrying a few of those potions with him would be an antidote to the fear that was still causing his limbs to shake. 
 
@@ -1218,7 +1217,7 @@ Boltac but the bottle do his lips and drank. Then he screamed in pain. His back 
 
 Boltac tried his recently mangled leg. It felt good. In fact, it felt better than he could remember it ever feeling. 
 
-"Are you okay?" asked the FarmBoy.
+"Are you okay?" asked the Relan.
 
 "En-henh."
 
@@ -1227,17 +1226,17 @@ Boltac tried his recently mangled leg. It felt good. In fact, it felt better tha
 "What am I going to do?" Boltac thought hard. Set his jaw, narrowed his eyes and then fell dead asleep. 
 
 
-# Aftermath, Boltac lives#
+# 11
 
-When Boltac awoke, he was in his bed. Bright light streamed in through the window and he came back to consciousness slowly and from a great distance. At first he couldn't remember how he had gotten here, or what had happened. Then, as the memory of it flooded back, he became fearful. Unable to tell what might be fantastic dream from terrible reality, he flung back the covers. His leg was straight. His shirt was ripped, but the skin underneath was perfect and unscarred. That potion was magic. 
+When Boltac awoke, he was in his bed with bright light streaming in through his window. He returned to consciousness slowly and from a great distance. At first he couldn't remember how he had gotten here, or what had happened. Then, as the memory of it flooded back, he became fearful. Unable to separate fantastic dream from terrible reality, he flung back the covers. His leg was straight. His shirt was ripped, but the skin underneath was perfect and unscarred. That really had been a *magic* potion. Hell of a way to find out. 
 
 He got out of bed and stretched. Then he went downstairs. 
 
-At the foot of the narrow stairs, he found Relan asleep in a pile of cloaks. Even in his sleep he clutching the sword the Boltac had given him. Boltac nudged him with his boot and jumped back.
+At the foot of the narrow stairs, he found Relan asleep in a pile of cloaks. Even in his sleep he clutched the sword the Boltac had given him. Boltac nudged him with his boot and jumped back.
 
-"Ahh!" Relan awoke with a jerk. When he saw Boltac above him on the stairs he said, "I was standing guard. In case those things came back."
+"Ahh!" screamed Relan awaking with a start. When he that it was Boltac  he said, "I was standing guard. In case those things came back."
 
-"No kid, that's sleeping guard," Boltac softened a little, "But, uh, I appreciate it." Boltac stepped over the boy and brought out a loaf thick black bread and some butter. "C'mon, breakfast."
+"No kid, that's sleeping guard." Boltac softened a little, "But, uh, I appreciate it." Boltac stepped over the boy and brought out a loaf of thick black bread and some butter. "C'mon, breakfast."
 
 They ate in silence for a while. Relan asked, "What were those things?" 
 
@@ -1245,7 +1244,7 @@ They ate in silence for a while. Relan asked, "What were those things?"
 
 "An Orc?"
 
-"An Orc," Boltac said with a shrug, to indicate that he certainly wasn't the guy making the rules. 
+"An Orc," Boltac said with a shrug, to indicate that he wasn't the guy making the rules. 
 
 "So they were bad," said Relan.
 
@@ -1285,22 +1284,18 @@ They ate in silence for a while. Relan asked, "What were those things?"
 
 "Well why would anybody want to be that?" asked Relan, "If the whole world was merchants, nobody would have saved your life."
 
-"Look, I'm grateful for that. Take what you like from the store, and then go to your death. Me, I'm going to see the Duke and see what he's gonna do about all this. See if he can get my Innkeeper lady friend back."
+"Look, I'm grateful for that. It's not like I'm not grateful. So, uh, as a reward. Take what you like from the store -- as much as you can carry without horse or wagon -- and then go to your death. Have fun. Me, I'm going to see the Duke and see what he's gonna do about all this. See if he can get my Innkeeper lady friend back."
 
-Relan just shook his head and took another bite of bread.
+Relan shook his head and took another bite of bread.
 
  
-
-* * * 
-
-# Boltac Goes to Duke
-
+# 12
 
 Outside, smoke hung thick in the air. Everywhere there were signs of carnage, The Bent Eelpout and most of the other side of the street had burnt to the ground. Boltac saw the dead wolf and orcs, but did not linger over them. 
 
-On the walk North, he passed serval bodies body lying in the street. One was a young girl, maybe nine. Her pretty dress was torn and soaked with blood. Boltac looked away and muttered, "Bad for business."
+On his walk North, he passed serval bodies body lying in the street. One was a young girl, maybe nine. Her pretty dress was torn and soaked with blood. Boltac looked away and muttered, "Bad for business."
 
-As he crossed the bridge to the keep, he expected to see a line of petitioners. But there was no one. Not even a guard at the gate. The court should be full with angry citizens demanding redress and protection. The walls should have been decorated with Orc's heads on Pikes. By now he should have been able to hear wounded members of the Ducal guard drinking by the stables. Their laughter and the stories of their bravery should have carried over the wall. There should have been smoke from the blacksmith, and the sound of weapons being sharpened. 
+As he crossed the bridge to the keep, he expected to see a line of petitioners. But there was no one. Not even a guard at the gate. The court should be full with angry citizens demanding redress and protection. The walls should have been decorated with Orc's heads on pikes. By now he should have been able to hear wounded members of the Ducal guard drinking by the stables. Their laughter and the stories of their bravery should have carried over the wall. There should have been smoke from the blacksmith, and the sound of weapons being sharpened. 
 
 But there was nothing. 
 
@@ -1308,25 +1303,29 @@ In the courtyard he passed the royal carriage standing all alone. It looked like
 
 Boltac pushed his way into the keep through the half-opened front door. There was no one in the antechamber. There was no one anywhere. Every room he checked was empty. As if all the people had vanished. He called out, but only the echo of his own hello answered. 
 
-When he reached the empty throne room. The penny dropped. Mostly, it was the tapestry flapping in a wind that shouldn't be there. Behind the heavy, musty, overly stylized scene of a heroic battle that had probably never happened, Boltac found a secret door. As he descend through the stone passageways the cold and the damp increased. He emerged at a set of docks in a high walled cove on the north side of the island. All the boats were gone, but discarded items were everywhere. Over there was a guard's helmet and at his feet was chest of silks. He could almost see the scene as it had happened. 
+When he reached the empty throne room. The penny dropped. Mostly, it was the tapestry flapping in a wind that shouldn't be there. Behind the heavy, musty, overly stylized scene of a heroic battle that had probably never happened, Boltac found a secret door. 
 
-"A guard rushing to herd the Duke's household onto the boats. To get them down the River Swift before the attack came. A lady-in-waiting trying to bringing this ridiculous chest of frippery. "No, woman, we don't have room for your damn silks, the guard had snapped, perhaps knocking the chest from her hands as he shoved her roughly into a boat. 
+As he descended down and down through narrow stone passageways until he finally emerged at a set of docks in a high walled cove on the north side of the island. All the boats were gone, but discarded items were everywhere. Over there was a guard's helmet and at his feet was chest of silks. He could almost see the scene as it had happened. 
 
-Then he would jump in himself, pushing free of the docks. The water would have taken them South quickly and if they survived the an uncomfortable ride through the rapids, they would already be out of the grey, misted covered mountains of Robrecht and enjoying a leisurely ride to Shatnapur, the Northernmost city in the Southern Kingdoms. Odds are they were free and clear, floating down a river with the sun in their faces. 
+A guard rushing to herd the Duke's household onto the boats. To get them down the River Swift before the attack came. A lady-in-waiting trying to bring this ridiculous chest of frippery. "No, woman, we don't have room for your damn silks,"" the guard would have snapped, perhaps knocking the chest from her hands as he shoved her roughly into a boat. 
+
+Then he would have jumped in himself, and pushed the boat free of the docks. The water would have taken them South quickly, and if they survived the an uncomfortable ride through the rapids, they would already be out of the grey, misted-covered mountains of Robrecht and enjoying a leisurely ride to Shatnapur, the Northernmost city in the Southern Kingdoms. Odds are they were free and clear, floating down a river with the sun in their faces. 
+
+The guards would know how close they came, but the nobles -- the soft and careless ones that claimed privilege to rule -- would be thinking of  what Southron delicacies they might feast upon in a few days times. Rare  tropical fruits. The brains of monkeys. Anything delectable and procured at great suffering to the peasantry. What they weren't thinking about, Boltac knew, was the body of a young girl, dead in a gutter. 
 
 Boltac spit in the river, then headed headed back up the stairs. 
 
-As he trudged upward, he tried to wrap his head around it. At the first sign of danger, the Duke had fled. He looked around the great hall for a long time. Then he sat himself on the throne. For a second, he almost took it seriously. Then he laughed at himself. 
+Back in the throne room, he tried to wrap his head around it. There was no one. They had *all* gone. At the first sign of danger, the Duke had fled. Boltac walked to the throne and sat down. For a second, he almost took it seriously. Then he laughed hysterically at himself. 
 
-This chair wasn't for him. He was a merchant. Everyone knew you couldn't buy a throne. Sure, it could be inherited. But somewhere, some way, somebody had to win a throne with a sword. A sword drenched in blood. An illiterate barbarian could sooner be a King than a fat merchant. And it had been so long since Robrecht had a real King. Or anything other than a figurehead installed by a larger, more powerful Kingdom seeking to control the trade routes. 
+This wasn't the chair for him. He was a merchant. Everyone knew you couldn't buy a throne. Of course, such a thing could be inherited. But somewhere, some way, somebody had to win a throne with a sword. A sword drenched in blood. An illiterate barbarian could sooner be a King than a fat merchant. And it had been so long since Robrecht had a real King. Or anything other than a figurehead installed by a larger, more powerful Kingdom seeking to control the trade routes. 
 
-The health of Kingdoms, thought Boltac, did not depend on war, but commerce. The opportunity for everyone to be able to conduct their business in peace every day is what made people happy and productive. But the only people deemed fit to rule were warriors and their inbred descendants. Something was wrong with this logic.
+The health of Kingdoms, thought Boltac, did not depend on war, but commerce. The opportunity for everyone to be able to conduct their business in peace is what made people happy and productive. But the only people deemed fit to rule were warriors and their inbred descendants. Something was wrong with this logic. But it was not for him to fix. 
 
-Boltac heaved himself off the fancy chair and left the room. From the wall of the castle he could see heavy columns of smoke rising from the north side of the town. In two's and three's people were leaving from the North gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving? Was this the way it was to be? Was this how his town died? 
+Boltac heaved himself off the fancy chair and left the room. From the wall of the castle he saw heavy columns of smoke rising from the north end of the town. In two's and three's people he could see people fleeing from the North gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving? Was this the way it was to be? Was this how his town died? 
 
-By the time he got back to the store, Relan was gone. Boltac's practiced shopkeeper's eye quickly saw what the boy had taken. All the wrong things. The idiot was probably walking. Walking to his heroic death. 
+By the time he got back to the store, Relan was gone. Boltac's practiced shopkeeper's eye quickly saw what the boy had taken. All the wrong things. The idiot was probably even walking. Walking to his heroic death. 
 
-Boltac thought about opening for business. He thought about barricading the store against looters. Then he looked across the street to the still smoldering remnants of the Bent Eelpout. He stared for a long time. He stared until a light rain began to fall. The drops turned to steam as soon as the hit the coals. Each drop was infinitesimal. Wasted. A single drop could not put out a fire. But enough water could wash an entire city away.  He savored his melancholy and rolled this thought around for a while. Then he turned his back on the window.  
+Boltac thought about opening for business. He thought about barricading the store against looters. Then he looked across the street to the still smoldering remnants of the Bent Eelpout. He stared for a long time. He stared until a light rain began to fall. He watched the drops turn to steam as soon as the hit the smoldering coals of what used to be an inn. Each drop was infinitesimal. Wasted. A single drop could not put out a fire. But enough water could wash an entire city away. He savored his melancholy and rolled this thought around for a while. Then he turned his back on the window.  
 
 Boltac began to gather the finest items, from the most secret places in his store.
 
@@ -1336,7 +1335,7 @@ Boltac began to gather the finest items, from the most secret places in his stor
 >Mace in a case.
 >
 
-Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King. But he wasn't powerless. He could use the skills and tools he had rather than go off half-cocked. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death. 
+Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King either. But he wasn't powerless. Rather than go off half-cocked, he could use the skills and tools he had. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death. 
 
 
 # Relan Outfits Himself and Leaves the City. #
