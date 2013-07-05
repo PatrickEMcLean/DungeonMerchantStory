@@ -1,5 +1,13 @@
 #!/bin/sh
 
+countmessage="`date`" + " " + "`wc -w WorkingDraft.md`"
+echo $countmessage >> wordcount.txt
+
+echo "------------------------------"
+echo 
+echo `wc -w WorkingDraft.md`
+echo
+echo "------------------------------"
 
 git add . -A 
 git commit -m "`wc -w WorkingDraft.md`"
