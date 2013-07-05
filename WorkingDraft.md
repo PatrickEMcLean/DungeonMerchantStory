@@ -996,55 +996,53 @@ There wasn't a soul on the streets as Boltac crossed the square. The stars seeme
 
 He scuttled back across the square. 
 
-# HERE
+# 8
 
-Back in the shop, he barred the door and retrieved the heavy lockbox from beneath the counter. It hadn't been a busy day, but in dribs and drabs the coins had piled up. A bit of lace here, a poultice there, it all added up to a nice living. As his father had said, keep a store and it will keep you. And an important part of keeping a store was counting the money. 
+Back in his shop, Boltac barred the door and retrieved the heavy lockbox from beneath the counter. It hadn't been a busy day, but in dribs and drabs the coins had piled up. A bit of lace here, a poultice there, it all added up to a nice living. 
 
-As he poured the coins out on the counter, he looked out the window and across the square. The boy was there and still unconscious. Probably just a growing boy and needed his sleep, thought Boltac with a pang of guilt. Someone should get the kid in off the street, or else he might lose that sword Boltac had just given him. 
+He poured the coins out on the counter. Then looked out the window and across the square. The boy was there and still unconscious. Probably just a growing boy and needed his sleep, thought Boltac with a pang of guilt. Someone should get the kid in off the street, or else he might lose that sword Boltac had just given him. 
 
-For a second, Boltac thought about going and getting it back, but thought better of it. If Asarah came out and saw the kid with the sword, it would go half-way to getting Boltac back in her good graces. But if she came out and caught Boltac taking the sword back, ergh, he'd never stand a chance with her again.  
+For a second, Boltac thought about going and getting it back, but thought better of it. If Asarah came out and saw the kid with the sword, it would go half-way to getting Boltac back in her good graces. But if she came out and caught Boltac taking the sword back, ergh, she'd never forgive him for that. She was probably too busy fawning over that slumming aristocrat to tear herself away. Throwing gold coins away like it was nothing. Who did he think he was? Coins were for being careful with. For counting, for hoarding, for saving for a rainy day. 
 
-He looked down and divided the coins into three piles of gold, silver and copper. He quickly counted the copper coins and made a note of them in his ledger. With the silver coins he took more time. Producing a set of weights and measures to make sure that not only the count was accurate, but also the total weight. 
+Boltac divided the coins on his counter into three piles of gold, silver and copper. He quickly counted the copper coins and made a note of them in his ledger. With the silver coins he took more time. He used a set of weights and measures to make sure that not only the count was accurate, but also the total weight. 
 
-Boltac was very careful throughout the day not to take any coins that had been clipped, or were too light to be pure. With copper, clipping was rarely a problem. The coins just weren't worth enough to be worth the trouble. With silver clipping became a problem, but that was spotted easily enough. It was the gold coins that presented the greatest difficulty for Boltac. 
+Boltac was very careful not to take any coins that had been clipped, or were too light to be pure. With copper, clipping was rarely a problem. The coins just weren't worth enough to be worth the trouble. With silver clipping became a problem, but that was spotted easily enough. It was the gold coins that presented the greatest difficulty for Boltac. 
 
-Gold was worth enough that instead of merely clipping it, it was worth skilled counterfeiters while mix gold with lead to create a coin that seemed like gold, but was worth less than silver. 
+Gold was worth enough that instead of merely clipping it, it was worth the time and trouble it took to dip lead in gold to create a coin that seemed like gold, but was worth less than silver. This presented a problem for a shrewd merchant who did not want to be taken advantage of. It was insulting to test a customer's coin on the spot yet painful to take a loss. 
 
-This presented quite a problem to a merchant who did not want to be taken advantage of. It was insulting to test a customer's coin on the spot yet painful to take a loss. From a shelf beneath the counter he brought a small glass dish and bottle labeled Aqua Fortis. And strong water it was, a powerful acid used to test the purity and resolve of materials placed into it. 
+Boltac grabbed a small glass dish and bottle labeled Aqua Fortis from a shelf beneath the counter. He carefully poured liquid from the bottle to  the dish. He picked up one of the gold coins, dipped it in the liquid, then examined it carefully. If it had turned green, it would have been a sign that the coin was some alloy, or plated lead. But the gold remained it's reassuring yellow color. With a satisfied grunt, he placed the coin on the other side of the dish. 
 
-Carefully pouring a little of the liquid into the dish, he began to test the coins. He dipped the edge of the first coin in and then examined it carefully. If it had turned green, it would have been a sign that the coin was some alloy, or plated lead. But the gold remained it's reassuring yellow color.  With a grunt, he started another pile on the other side of the dish. 
-
-He went through the coins in this manner until he came to one that was false. It did not turn green when he dipped it in the acid. It did something worse. It hissed, came to life and bit his hand. 
+He tested one coin and the next, pleased to find that all of them were real. He picked up the second to the last gold coin of the day and lowered it into the acid. The coin did not turn green. It did not smoke. It did not sizzle or emit a smell like rotten onions. Instead, it hissed, came to life and bit his hand. 
 
 Boltac cursed and threw the evil little coin across the room. Then he immediately regretted it. With surprising speed for a fat man, he scrabbled out from behind the counter in pursuit. 
 
-There, in the middle of the floor, he saw the gold coin sprouted thin, insect-like legs and scrabbled for perchase against the boards. Boltac tried to stomp it and missed. He stomped again and again, hopping through his store and knocking items here and there in a strange sort of destructive dance. 
+There, in the middle of the floor, he saw the gold coin sprout thin, insect-like legs and scrabble for purchase against the boards. Boltac tried to stomp it and missed. He stomped again and again, hopping through his store, knocking items here and there in a strange sort of destructive dance. 
 
 The coin scrambled under a rack of rope and strips of leather. With a roar, Boltac kicked the rack over and brought his booted foot squarely down upon the creature. 
 
-"HA!" he cried in triumph. He dragged his foot to the other side of the room, grinding the creature across the floor until he was able to reach a set of pliers hanging on the wall. Then he bent down and, ever-so-carefully, clamped the edge of the angry, savage coin in the teeth of the pliers. 
+"HA!" he cried in triumph. He shambled to the other side of the room,  dragging his foot as he went, grinding the creature across the floor, until he was able to reach a set of pliers hanging on the wall. Then he bent down and, ever-so-carefully, clamped the edge of the angry, savage coin in the teeth of the pliers. It let out another metallic shriek, but Boltac was unmoved by it's pain. 
 
-It let out another metallic shriek, but Boltac was utterly without pity. 
-
-He carried the coin into the back, past the foul-smelling bundle of gear he had purchase from Rattick and to a set of iron-bound chests that were sealed with fearsome-looking locks bolted to the floor. The one on the right had a hole in the top of it, sealed with a piece of cork. He removed the cork, crammed the coin into the hole -- hitting it several times with the hammer to get it to go in -- and then replaced the cork. He put his hear to the chest and waited until he heard the coin-creature settled down with a "clink."
+He carried the coin into the back, past the foul-smelling bundle of gear he had purchase from Rattick and to a set of iron-bound chests that were sealed with fearsome-looking locks and bolted to the floor. The one on the right had a hole in the top of it, sealed with a piece of cork. He removed the cork, crammed the coin into the hole -- having to hit it several times with the hammer to convince it to go in -- and then replaced the cork. He put his ear to the chest and waited until he heard the "clink" of coin-creature settle down.
 
 Only after the creature was contained, did Boltac look to his hand. A fingernail-sized disc of flesh was missing from his palm and blood leaked down his forearm. Damned coin. He kicked the chest and immediately regretted it. The chest didn't move and all he got for his trouble was a hurt foot. A bad trade. Boltac looked up and smiled. 
 
-Hanging from a nail on the wall above the chests was a small silver whistle on a leather thong. He grabbed it with his good hand and blew on it for all he was worth. Such a furious, shrieking commotion erupted from inside the chest that for a moment, Boltac worried that the chest might burst. He imagined the hundreds of coins in the cramped, dark space -- all angered -- all clawing at each other in fury and he smiled. 
+Hanging from a nail on the wall above the chests was a small silver whistle. He grabbed it with his uninjured hand and blew on it for all he was worth. Such a furious, shrieking commotion erupted from inside the chest that for a moment, Boltac worried that the chest might burst. He imagined the hundreds of coins in the cramped, dark space -- all angered -- all clawing at each other in fury and he smiled. 
 
-Boltac had named these treacherous pieces of currency the Creeping Coins. At one time, he had thought to train them to perform, as he had seen traveling mummers train fleas, snakes, monkeys and even bears. But they were either untrainable or Boltac had lacked the knack of it. For all his time and experiments he had only earned a number of bite scars and the dubious knowledge that a certain, high-pitched frequency drove the coins mad. 
+Boltac had named these treacherous pieces of currency the Creeping Coins. At one time, he had thought to train them to perform, as he had seen traveling mummers train fleas, snakes, monkeys and even bears. But they were either untrainable or Boltac had lacked the knack of it. For all his time and experiments he had only earned a number of bite scars and the knowledge that a certain, high-pitched frequency drove these Creeping Coins mad. 
 
-Who had created these creatures, and why? Boltac had been unable to learn. They were a species of magical creature that preferred to stay unseen, but had a most sinister method of reproduction. If you placed one of these magic coins in a pile of regular coins, they would slowly but surely convert all of the real coins to animated hunks of metal with sharp little teeth. One at time, they were an annoyance. But in the depths of a dungeon, amid a chest full of gold that might not be opened for years? These creature could turn a payday into a nightmare. Boltac hated to even imagine what that would be like. He rubbed slave into the fingernail-sized bite in his hand. It stopped the bleeding, but still hurt. What would a school of these things do? Or just a few of them under a suit of armor. He shuddered. At least death by  dragon would be quick. 
+Who had created these creatures, and why? Boltac had been unable to find out. What he had learned was that they were a species of magical creature that preferred to stay unseen. So they had a most sinister method of reproduction. If you placed one of these magic coins in a pile of regular coins, they would slowly but surely convert all of the real coins to animated hunks of metal with sharp little teeth. One at time, they were an annoyance. But in the depths of a dungeon, amid a chest full of gold that might not be opened for years? These creature could turn a payday into a nightmare. Boltac hated to even imagine what that would be like. 
 
-But that's the way it was with any enterprise. People feared the big things, but it was always the little things that did them in. The demons were in the details, as they said. All that work polishing your shield in preparation for a Basilisk, could all go wrong if you forgot to bring oil to protect it from rust. 
+He rubbed a healing ointment into the fingernail-sized bite in his hand. It stopped the bleeding, but did nothing for the pain. What would a school of these things do? Or just a few of them under a suit of armor. He shuddered. At least death by Dragon would be quicker and cleaner. 
 
-It was a terrible business, adventuring, that's why Boltac preferred to keep a shop. Oh, sure, he had heard the same songs as all the others. He had dreamed dreams of glory. But then he had grown up, settled down and learned to enjoy a warm fire and a crisp profit. He had done that lad a favor by knocking him on the head, but only if he had managed to knock some sense into him. Or not kill him. 
+But that's the way it was with any enterprise. People feared the big things, but it was always the little things that did you in. The demons were in the details, as they said. All the work you spent polishing your shield in preparation for a Basilisk, could all go wrong if you forgot to bring oil to protect it from rust. 
 
-With a pang of guilt, he looked across the square and saw the the boy was still sleeping there. Grumbling and rubbing his hand, Boltac went in search of some salve. 
+It was a terrible business, adventuring, which was another reason why Boltac was glad he had grown up, settled down and learned to enjoy a warm fire and a crisp profit. Again, he tried to convince himself that had done that lad a favor by knocking him on the head.
+
 
 
 # Wizard Hears the Howl. #
 
+As Dimsbury sat with his feet by the fire, it took him a good hour to give a name to what he was feeling. Contentment didn't quite do it. Comfortable was part of it, but there was something else. A warmish feeling in the stomach that he was quite unaccustomed to .
 
 The Wizard finished the last bite of his supper and took a moment to marvel at how delicious the mutton had been. It was so good that he considered ordering another whole dinner. But there was no time. He had completed his errand and should really leave the city before the carnage started. But perhaps he should take a leg of mutton to go. 
 
