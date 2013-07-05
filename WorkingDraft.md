@@ -963,64 +963,42 @@ Boltac held her gaze, "I'll get outta your hair."
 
 > Linger for a bit to give Dimsbury some POV -- if we need to set up the kidnapping even further. 
 
-
-
-# Giving the kid the sword #
-
+# 7
 Boltac slammed the door of the inn behind him, angry at Asarah for reasons he didn't fully comprehend. He looked up at the stars. He looked down at the muddy cobbles at his feet. Then he looked across the square to his store, trapped squarely between the two. Where he did not look was at the bench where the young lad, Relan sat unconscious. 
 
 Damn what that woman thought. Her fool ideas of romance and heroism. Damn the world, for that matter. The boy was an idiot, and searching for death. No good to no one and a great deal of trouble to whomever he meant to poke with whatever sword he could beg, borrow or steal. That was the thing that all the would-be heroes forgot. The people they meant to stab to death in the name of glory thought that they were heroes too. 
 
 In the end, observed Boltac, it wasn't even the heroes that got the worst of it. It was the people in the middle. The shopkeepers, the peasants, the simple folk just trying to get through the day. To make a buck, raise a crop or raise a family. 
 
-This dark line of thinking served to steel Boltac's nerve so he could get across the square, but when the shop door closed behind him, his resolve faltered. He peered through the window at the boy he had rendered unconscious. 
+This dark line of thinking served to steel Boltac's nerve so he could get across the square, but when the shop door closed behind him, his resolve faltered. He peered through the window at the boy he had knocked unconscious. For a moment, Boltac was worried that he had killed the lad. But after a moment the boy stirred a little in his sleep. 
 
-He hadn't moved. For a moment, Boltac was worried that he had killed him. But watching very carefully, he could see the the gentle rise and fall of the young lad's chest. He remembered when he had been his age. Young and strong and fresh off a farm of his own. A farm for to the North in a particularly hard and frozen region of Mercia, but all farms are the same -- no matter what they may grow, all farms produce a surplus of hard, boring work suitable for the endless torture of young men who crave adventure. 
+Boltac remembered when he had been Relan's age. Young and strong and chained to store. As his father had been fond of saying, "Keep a shop and it will keep you." And so it did, keeping a young boy from doing anything that he might want to do in this world. Keeping him at endless, boring work that served as endless torture to a young man who craved adventure. 
 
-He did not feel guilty to braining the lad. If it was Adventure the boy was after, he would have to withstand far worse. And if his younger self had appeared by magic before him in his own store Boltac would have done far worse. He would have tried to beat some sense into his former self. Even though he doubted it could be done. 
+He did not feel guilty for braining the lad. If it was Adventure the boy was after, he would have to withstand far worse. And if his younger self had appeared by magic before him in his own store Boltac would have done far worse. He would have tried to beat some sense into his former self. 
 
-But how could he tell a young man of the hazards that awaited him. Of the costs to life and limb and family -- all the ways of hurt and all the ways those hurts could radiate beyond himself. It was a terrible thing to be a hero. And Boltac wished the pain of it on no one. Certainly on no one's family. 
+Why could't Asarah see the logic of that? Why did she never approve of any of Boltac's carefully negotiated ways. He craved her affection and approval more than he understood. But it was a thing of which he could not speak. Even to himself. Like the past.
 
-He couldn't talk him out of it. There was simply no way to frame the words, no order to put them in that could make it through his testosterone addled brain and overcome the lust for glory. Yes, if not this priestess, he would find some other cause, or scrape or trouble. At least he wasn't off in search of that Dred Wizard that all of the other 'Adventurers' were always harassing. So few of them came back. 
+There was no way to tell a young man of the hazards that awaited him. Of the costs to life and limb and family -- all the ways of hurt and all the ways those hurts could radiate beyond himself. It was a terrible thing to be a hero. And Boltac wished the pain of it on no one. And on  no one's family. 
 
-But, realized Boltac, there was no stopping him. So why had he tried? Maybe because he saw himself in the lad. And would have given anything and risked everything to take back the poor choices of his own youth. 
+But there was no way to frame the words, no order to put them in that could make it through a testosterone addled brain and overcome the lust for glory. If not this priestess con, the lad would find some other cause, or scrape or trouble. At least he wasn't off in search of that terrible Wizard that all of the other 'Adventurers' were always harassing. None of them ever seemed to come back. Who knew, maybe that meant the Wizard was real and terrible after all. 
 
-He cursed the Bards. It was surely there fault. Putting all these ideas in young men's heads. Sending them off to war or in search of gold. But even as he did, he cursed himself. 
+No, Boltac realized, there was no stopping him. So why had he tried? Because he saw himself in the lad. And would have given anything and risked everything to take back the poor choices of his own youth. 
 
-Damn it all. Time enough for a pint. He opened the door of the store, stepped outside, stopped and then turned around. He walked back in the store, and grabbed a sword from the sword barrel. He drew the blade and tested it's balance. Awful. He sighted down the blade? As curved as a whore's back. What an awful piece of workmanship. It was the kind of item he would willingly sell to a fool, but not the kind of weapon he would wish on his worst enemy. 
+He spit and cursed the Bards. It was their fault. Putting all these ideas in young men's heads. Sending them off to war or in search of gold.  
 
-A man needed a sword he could trust. Boltac saw the shape of a terrible memory rising from the dark waters of his memory. Before the thought could full take hold of him,  slammed the sword back in the barrel. 
+Damn it all. He stomped to the sword barrel, He drew one of the blades and tested it's balance. Awful. He sighted the edge. I was as curved as an old whore's back. What an awful piece of workmanship. It was the kind of item he would willingly sell to a fool, but not the kind of weapon he would wish on his worst enemy. 
 
-He went to the rack behind the counter. He removed the blade from the bottom. It was the one he would of chosen, if he were spending his own money. It was a stout, Mercian sword. At one end, it's straight blade came to a broad triangular point and the other ending with a heavy round pommel that, in the hands of someone who knew what they were doing, qualified as a weapon on it's own. It sang as he unsheathed it and begged to dance in his hand. He sighted along the blade and it's hard edge was as crisp, final unforgiving as the border between this life and the next. 
+A man needed a sword he could trust. Boltac saw the shape of a terrible memory rising from the dark waters of his mind. Before the thought could fully take hold of him, slammed the sword back in the barrel. 
 
-It was the kind of sword Boltac would want in his hand if he was fighting for his life. And if he had had one... No. He turned away from the mugging of guilt he knew awaited him in the alley of memory. He exited, locked the shop and walked across the slop of the muddy street.
+He walked to the rack of weapons. He removed the blade from the bottom. It was the one he would of chosen, if he were spending his own money. It was a stout, Mercian sword. At one end, it's straight blade came to a broad triangular point and the hilt was heavy round pommel that, in the hands of someone who knew what they were doing, qualified as a weapon on it's own. The blade sang softly as he unsheathed it and begged to dance in his hand. He sighted this weapon and it's hard edge was as crisp, final and unforgiving as the border between life and death.
 
----
+There wasn't a soul on the streets as Boltac crossed the square. The stars seemed impossibly high and uncaring. When he got to the boy he hung the sword around Relan's neck very carefully, so as not to wake him. Underneath the thick head of straw blond hair, Boltac could see a freshly-risen lump. Ouch. He reached out to touch it. His fingers almost made contact. Then Boltac became self-conscious. He looked around as if he was afraid of being caught doing something wrong. But there was no one watching. 
 
+He scuttled back across the square. 
 
-# The Orcs Attack #
+# HERE
 
-"Hork, Hork, Hork."
-
-
-You know which end to hold on to?
-
-"But I can't pay you."
-
-"What good is money, kid? The city is burning and they stole the woman I love."
-
-
-
- 
-
-Across the street, he could still see the boy, Relan? Yes, he thought it was Relan, asleep on the bench in front of the inn. How peaceful he looked. Boltac hoped that he wasn't dead. He hadn't hit him that hard, had he? And if the lad couldn't survive a tap like that, than his adventures would be short and predictable indeed. Gah, the stupidity of youth.
-
-
-
-
-# Counting the Coins #
-
-Boltac returned to his store, barred the door and retrieved the heavy lockbox from beneath the counter. It hadn't been a busy day, but in dribs and drabs the coins had piled up. A bit of lace here, a poultice there, it all added up to a nice living. As his father had said, keep a store and it will keep you. And an important part of keeping a store was counting the money. 
+Back in the shop, he barred the door and retrieved the heavy lockbox from beneath the counter. It hadn't been a busy day, but in dribs and drabs the coins had piled up. A bit of lace here, a poultice there, it all added up to a nice living. As his father had said, keep a store and it will keep you. And an important part of keeping a store was counting the money. 
 
 As he poured the coins out on the counter, he looked out the window and across the square. The boy was there and still unconscious. Probably just a growing boy and needed his sleep, thought Boltac with a pang of guilt. Someone should get the kid in off the street, or else he might lose that sword Boltac had just given him. 
 
