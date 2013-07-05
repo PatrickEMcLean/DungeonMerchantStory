@@ -1,6 +1,6 @@
 #!/bin/sh
 
-COUNTMESSAGE = "`date`" + " " + "`wc -w WorkingDraft.md`"
+COUNTMESSAGE=`date`+" "+`wc -w WorkingDraft.md`
 echo $COUNTMESSAGE >> wordcount.txt
 
 echo "------------------------------"
