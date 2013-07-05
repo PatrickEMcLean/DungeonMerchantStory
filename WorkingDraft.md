@@ -967,9 +967,15 @@ Boltac held her gaze, "I'll get outta your hair."
 
 # Giving the kid the sword #
 
----
+Boltac slammed the door of the inn behind him, angry at Asarah for reasons he didn't fully comprehend. He looked up at the stars. He looked down at the muddy cobbles at his feet. Then he looked across the square to his store, trapped squarely between the two. Where he did not look was at the bench where the young lad, Relan sat unconscious. 
 
-He looked across the street to the boy he had rendered unconscious. He was unmoved and Boltac would have feared him dead, if he did not see the gentle rise and fall of the young lad's chest. He remembered when he had been his age. Young and strong and fresh off a farm of his own. A farm for to the North in a particularly hard and frozen region of Mercia, but all farms are the same -- no matter what they may grow, all farms produce a surplus of hard, boring work suitable for the endless torture of young men who crave adventure. 
+Damn what that woman thought. Her fool ideas of romance and heroism. Damn the world, for that matter. The boy was an idiot, and searching for death. No good to no one and a great deal of trouble to whomever he meant to poke with whatever sword he could beg, borrow or steal. That was the thing that all the would-be heroes forgot. The people they meant to stab to death in the name of glory thought that they were heroes too. 
+
+In the end, observed Boltac, it wasn't even the heroes that got the worst of it. It was the people in the middle. The shopkeepers, the peasants, the simple folk just trying to get through the day. To make a buck, raise a crop or raise a family. 
+
+This dark line of thinking served to steel Boltac's nerve so he could get across the square, but when the shop door closed behind him, his resolve faltered. He peered through the window at the boy he had rendered unconscious. 
+
+He hadn't moved. For a moment, Boltac was worried that he had killed him. But watching very carefully, he could see the the gentle rise and fall of the young lad's chest. He remembered when he had been his age. Young and strong and fresh off a farm of his own. A farm for to the North in a particularly hard and frozen region of Mercia, but all farms are the same -- no matter what they may grow, all farms produce a surplus of hard, boring work suitable for the endless torture of young men who crave adventure. 
 
 He did not feel guilty to braining the lad. If it was Adventure the boy was after, he would have to withstand far worse. And if his younger self had appeared by magic before him in his own store Boltac would have done far worse. He would have tried to beat some sense into his former self. Even though he doubted it could be done. 
 
