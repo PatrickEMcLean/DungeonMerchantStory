@@ -1040,23 +1040,23 @@ It was a terrible business, adventuring, which was another reason why Boltac was
 
 
 
-# Wizard Hears the Howl. #
+# 9
 
-As Dimsbury sat with his feet by the fire, it took him a good hour to give a name to what he was feeling. Contentment didn't quite do it. Comfortable was part of it, but there was something else. A warmish feeling in the stomach that he was quite unaccustomed to .
+As Dimsbury sat with his feet by the fire, it took him a good hour to give a name to what he was feeling. Contentment didn't quite do it. Comfortable was part of it, but there was something else. A warmish feeling in the stomach that he was quite unaccustomed to. There was something about a good meal after a good day's work. His plans all in order, everything tilting and tending the way it should. Sated, yes, that was the word he was looking for. He was Sated. 
 
-The Wizard finished the last bite of his supper and took a moment to marvel at how delicious the mutton had been. It was so good that he considered ordering another whole dinner. But there was no time. He had completed his errand and should really leave the city before the carnage started. But perhaps he should take a leg of mutton to go. 
+For a moment he considered ordering another whole dinner. But there was no time. He had completed his errand and should really leave the city before the carnage started. But perhaps he should take a leg of mutton to go. Or -- did they have such a thing -- some mutton sandwiches?
 
-It was so hard to get good food at the bottom of his dungeon. Yes, he had servants, but they were creations. Not flesh and blood. They viewed roasting as an information gathering technique, or at best a method of discipline,  not as essential part of cuisine. And spices? Well, the ones that needed to eat, ate raw flesh. It was practice that guaranteed to keep a palate unrefined. 
+It was so hard to get good food at the bottom of a dungeon. Yes, he had servants, but they were creations. Not flesh and blood. They viewed roasting as an information-gathering technique, or at best a method of discipline, not as essential part of cuisine. And spices? Well, the ones that needed to eat, ate raw flesh. It was practice guaranteed to keep a palate in an unrefined state. 
 
-None of this even touched on the horrid nature of his decor and living conditions in general. Of course, the Wizard could have taken some pains on his own behalf, but there was his work to think of. All else paled in comparison to that. But here, even in this relatively homely inn, the Wizard felt a longing for comfort he had almost forgotten he could have. A woman' touch, yes, that was the phrase. 
+None of this even touched on the horrid nature of his decor and living conditions in general. Of course, the Wizard could have taken some pains on his own behalf, but there was his work to think of. All else paled in comparison to that. But here, even in this relatively homely inn, the Wizard felt a longing for the comfort he had almost forgotten he could have. A woman's touch, yes, that was the phrase. 
 
-When the wench came around again, he asked,"Do you make sandwiches? You know, to go."
+When the wench came around again, he asked, "Do you make sandwiches? You know, to go."
 
 "My sandwiches are so good, men have proposed to me after the first bite," said Asarah with a playful toss of her hair. 
 
 Outside, a wolf howled.
 
-"What was that?" Asarah asked, her smile not falling away, but becoming tinged with concern. 
+"What was that?" Asarah asked, her smile not falling away, but becoming tainted with concern. 
 
 She had a nice smile, and the Wizard thought it was all the sweeter for being mixed with fear. Oh yes, thought the Wizard, he would definitely by taking something to go. "It sounded like a wolf," he said with exaggerated innocence, "I'd like two mutton sandwiches," he said with a smile.
 
@@ -1073,52 +1073,56 @@ The Wizard smiled again. "But what assurance do I have that it will still be her
 "No, the Inn."
 
 
-# Boltac, WTF ? #
+# 10
 
 
-When Boltac heard the howl, he looked up and out the front window. Across the square he saw the boy, still sleeping in the moonlight. He stood there, motionless for a moment, with the last gold coin clamped in his pliers. Then he shrugged and touched the coin to the acid. When it did not come to life and attack him, he dropped it in the pile with the others. 
+When Boltac heard the howl, he looked up and out the front window. Across the square he saw the boy, still sleeping in the moonlight. He stood there, motionless for a moment, with the last gold coin clamped in his pliers. After getting bitten, he was taking no more chances. All coins were now guilty until proven innocent.  
 
-He poured the acid back into the bottle and wiped down the counter. Then he gathered up the coins and  carried them into the back. He placed them in the chest with the rest of the normal coins and then turned his attention to the pile of soiled goods he had purchase from Rattick. 
+The peaceful scene outside his window did not change, so Boltac  shrugged and touched the coin to the acid. It did not come to life and attack him, so he dropped it in the pile with the others. 
 
-He looked up and out the front of the store. There was a flash of grey. And then again. It filled the window and was gone. 
+He poured the acid back into the bottle and wiped down the counter. Then he gathered up the coins and carried them into the back. He placed them in the other chest, the one that held the normal coins. Then turned his attention to the pile of soiled goods he had purchased from Rattick. 
 
-Boltac walked forward slowly. Not sure what was going on, but pretty sure that he didn't like it. In the distance he heard someone sound a horn? Then, far, far off in the distance, a woman screamed. 
+He caught the flash of something out of the corner of his eye.He looked up and out the front of the store. There was a flash of grey by the window. And then again. 
 
-The square was empty when he stepped outside. To the North, across the river, he saw the red glow of fire. Ah, Raiders. Boltac shook his head. He knew this game all too well. He had hoped, for once, that the Duke's garrison was strong enough to keep the raiders out, or perhaps his rule could have lasted a little bit longer. But the tariffs and taxes from a crossroads town like Robrecht were valuable. And all the nobles of the world passed it back and forth like a toy. 
+Boltac walked forward slowly. He had no idea what was going on, but pretty sure that he didn't like it. It was out of the ordinary. And anything out of the ordinary was bad for business. In the distance he heard someone sound a horn? Then, he thought he could hear a woman scream. Or maybe it was a horse? What was going on? 
 
-Now they weren't even pretending to install a king anymore. No more illusion of Robrecht being it's own kingdom (if ever it had been such) now it was a mere protectorate. "En-henh," Boltac grumbled. It seemed there was not much protection to be had in a protectorate. 
+When he stepped outside the square was as empty. To the North, across the river, he saw the red glow of fire. Ah, thought Boltac, Raiders. He knew this game all too well. He had hoped, for once, that the Duke's garrison was strong enough to keep the raiders out, or that his rule could have lasted a little bit longer. But the tariffs and taxes from a crossroads town like Robrecht were valuable. And all the nobles of the world passed it back and forth like a toy. 
 
-Maybe if the Duke released his tax collectors on the invaders. That might do it. Boltac shook his head and went inside. He pulled his stool out from behind the counter and set to loading crossbows. Just let them come for his, thought Boltac, they would pay in full. 
+Now they weren't even pretending to install a King anymore. Robrecht had been pillaged so many times it didn't even get to keep the illusion of  being it's own kingdom. Now it was a mere protectorate. "En-henh," Boltac grumbled. There was not much protection to be had in being a protectorate. 
 
-Across the square, he saw Dimsbury emerge from the Tavern holding a two mutton sandwiches wrapped in parchment. 
+Maybe if the Duke had released his tax collectors on the invaders. That might do it. Boltac shook his head and went inside. He pulled his stool out from behind the counter and set to loading crossbows. Just let them come for his, thought Boltac grimly, and they would find the prices very, very high indeed.  
+
+Across the square, he watched as Dimsbury emerge from the Tavern holding a two sandwiches wrapped in parchment. 
 
 "Heh," said Boltac, "They come across the river and this prick is sure in for a surprise." 
 
-Dimsbury noticed the lad, still asleep on the bench. He looked him up and down. Then he nudged the lad with his toe. 
+Dimsbury noticed the Relan, still asleep on the bench. He looked him up and down. Then he nudged the lad with his toe. 
 
-"Some adventurer," muttered Boltac, "doesn't even wake up. Did I ever do that kid a favor."
+"Some adventurer." muttered Boltac, "He doesn't even wake up! Did I ever do that kid a favor."
 
 Dimsbury reached into his pocket and produced a whistle. When he put it to his lips and blew it produced a slightly lower note than the whistle Boltac had used on the coins. He sounded the note three times, and then waited. 
 
-Boltac heard them coming before he saw them. It sounded like a crowd of people saying something like, "Hork, Hork, Hork, Hork!" From the darkness, they rode into view on wolves. The largest wolves Boltac had ever seen. The animals were barely tame. As they advanced they snarled and snapped at at each other and their riders. 
+Boltac heard them coming before he saw them. It sounded like a crowd of people saying something like, "Hork, Hork, Hork, Hork!" From the darkness, they rode into view on wolves. The largest wolves Boltac had ever seen. And they were barely tame. As they advanced they snarled and snapped at at each other and their riders. 
 
 Whistles, thought Boltac, I knew they did it with whistles!
 
-Boltac shrank back from the window, as one of the wolves sniffed at it and fogged the glass. What in God's name were they? And the men that rode on their backs, were more animal than man. Greyish green skin, looking thick, but not scaled. Evil little eyes set too close together, small mouths filled with teeth, looking as if they would gnaw rather than chew. Large noses as a counterpoint to pointed ears too high on the skull to be human. 
+Boltac shrank back from the window, as one of the wolves sniffed at it and fogged the glass. What in the Gods' name were they? And the men that rode on their backs? They seemed more animal than man. Their greyish, green skin, looked thick, as if it they should have scales, but someone had forgotten. Their evil little eyes were set too close together. Their proportionally small mouths were overflowing with teeth, and gave the impression they would gnaw messily rather than chew. They had large, wide noses and pointed ears set high on their heads. 
 
 "Ah," thought Boltac, "These would be Orcs." There was no way Rattick had fought one of these things. And there was no way they wore jewelry. Maybe a necklace made of ears, but not expensive rubies. 
 
-The Orcs converged on  Dimsbury. For a moment Boltac thought the wolves would tear the man's face off. But then Dimsbury said something and the growls and snarls changed to frightened whimpers. Two of the Orcs dismounted and the wolves ran away. The Orcs moved to chase after their mounts, but a sharp bark from the Dimsbury stopped them. Who was this man who commanded monsters? 
+The Orcs converged on Dimsbury. For a moment Boltac thought the wolves would tear the man's face off. But then Dimsbury said something and the growls and snarls changed to frightened whimpers. Two of the Orcs dismounted and their wolves ran away.
 
-Boltac sighted his crossbow on the Dimsbury, and then thought better of it. After all, he wasn't involved in this transaction. He should stay calm, keep his head down and hope they passed his store by. That was the surest way to avoid a loss in this situation. At least that's what his head told him. But his heart offered a different commentary when he saw the two Orc's kick in the door of the Bent Eelpout. 
+The Orcs turned as if to chase after their mounts, but a sharp bark from the Dimsbury stopped them. Who was this man who commanded monsters? Boltac wondered.
+
+Boltac sighted his crossbow on Dimsbury, and then thought better of it. After all, he wasn't involved in this transaction. He should stay calm, keep his head down and hope they passed his store by. That was the surest way to avoid a loss in this situation. At least that's what his head told him. But his heart offered a different commentary when he saw the two Orc's kick in the door of the Bent Eelpout. 
 
 Asarah!
 
-She'd be fine, Boltac told himself. A strong woman, used to dealing with unruly customers. She had come through raids before. She'd be fine. Dimsbury dismissed the remaining, still mounted Orc. As he rode north out of the square, Boltac got a good look at him. It's skin like tarnished copper armor. It's eyes cold and hard to the edge of lifelessness. 
+She'd be fine, Boltac told himself. A strong woman, used to dealing with unruly customers. She had come through raids before. She'd be fine. Dimsbury dismissed the remaining, still mounted Orcs. The, whattya call a bunch of Orcs anyway? thought Boltac. A troupe, a band, a herd, a gaggle. The rest of them rode South. 
 
-With a crossbow in the crook of his right arm, not taking his eyes from the window, he eased back to the weapons rack and grabbed a double-headed axe without looking at it. He asked himself, "What are you doing?" The voice in his head answered You're not gonna do anything stupid. You're a merchant, not a hero. She'll be fine. You're no help to anybody dead. He placed the axe, head down, beneath the windowsill, next to the other crossbow. 
+With a crossbow in the crook of his right arm, not taking his eyes from the square, he eased back to the weapons rack and grabbed a double-headed axe without looking at it. He asked himself, "What are you doing?" The voice in his head answered, ""You're not gonna do anything stupid. You're a merchant, not a hero. She'll be fine. You're no help to anybody dead." He placed the axe, head down, beneath the windowsill, next to the other crossbow. 
 
-Across the square, he saw the two Orcs emerge from the Inn holding Asarah between them. She struggled against them and cursed. "Think she is still going to be okay?" he asked the voice in his head. It did not answer. Dimsbury turned to look at her and she spit on him. Dimsbury raised his hand and struck her across the face.  Asarah brought her head upright again and rolled her hair out of her face. Dimsbury stood with his back to Boltac's store, so he could not see his face. But whatever expression the unpleasant man wore, when Asarah saw it she started screaming.
+Across the square, he saw the two Orcs emerge from the Inn holding Asarah between them. She struggled against them and cursed. "Think she is still going to be okay?" he asked the voice in his head. It did not answer. Dimsbury turned to look at her and she spit on him. Then Dimsbury raised his hand and struck her across the face. Knocked sideways from the blow, Asarah struggled to bring her head upright again and roll her hair out of her face. Dimsbury stood with his back to Boltac's store, so he could not see his face. But whatever expression the unpleasant man wore, when Asarah saw it she started screaming.
 
 Something broke inside of Boltac. Before he knew what he was doing, he had fired both crossbows and was charging out the door with the axe in hand. The first crossbow bolt took the Orc on the Asarah's left in the throat. The second hit the other Orc in the shoulder. 
 
@@ -1126,13 +1130,13 @@ Asarah screamed a plea and a question, "Boltac?"
 
 But the Boltac she knew was no longer there. The rational, calculating, cunning merchant who stuck his neck out for nobody was not the same creature who lungs burned and heart pumped as his feet churned the dirt of the street. That Boltac was lifting the axe and imagining it cleaving Dimsbury from neck to breastbone. That Boltac didn't hear it coming until it was too late. 
 
-If it had been a man on a horse riding him down, he would have heard him coming from a week away. But the pads of a wolf on the cobbles? He only realized his mistake when it was too late. The wolves fangs sank into his shoulder and lifted him from the ground at a dead run. "HORRRRRRRRRRRRRRK!" cried the triumphant orc. 
+If it had been a man on a horse riding him down, he would have heard him coming from a week away. But the pads of a wolf on the cobblestones? He  realized his mistake when it was too late. The wolf's fangs sank into his shoulder and lifted him from the ground at a dead run. "HORRRRRRRRRRRRRRK!" cried the triumphant orc. 
 
-In pain and animal rage, Boltac slashed blindly with the axe. He felt the edge sink deep into the wolf's neck. He heard it grunt in pain. The pressure in his shoulder went away as the wolf let go. Wolf, Orc and Shopkeeper tumbled across the cobblestones and landed in heap. Somehow, Botac had kept his grip on the axe. 
+In pain and with animal rage, Boltac slashed blindly with the axe. He felt the edge sink deep into the wolf's neck. He heard it grunt in pain. The pressure in his shoulder went away as the wolf let go. Wolf, Orc and Shopkeeper tumbled across the cobblestones and landed in heap. Somehow, Boltac had kept his grip on the axe. 
 
-In a haze, he say Asarah struggling with with Dimsbury. She was shouting, but the only thing Boltac could hear was the pounding of his own heart. He pulled himself from beneath the wolf, tried to stand and failed. His knee folded sideways underneath him. The pain from the second fall was worse than the first. Clutching the axe, he started to crawl.
+In a haze, he watched Asarah struggling with Dimsbury. She was shouting, but the only thing Boltac could hear was the pounding of his own heart. He pulled himself from beneath the wolf, tried to stand and failed. His knee folded sideways underneath him. The pain from the second fall was worse than the first. Clutching the axe, he started to crawl.
 
-Behind him, the Orc recovered his feet and his pike. He cocked his head sideways at this strange man crawling towards master. Then he lifted his weapon and went to finish him. 
+Behind him, the Orc got to his feed and recovered his pike. He cocked his head sideways at this strange man crawling towards Master. Then he lifted his weapon and went to finish him. 
 
 "Hold!" commanded Dimsbury. The Orc stayed the final blow. 
 
@@ -1140,7 +1144,7 @@ Behind him, the Orc recovered his feet and his pike. He cocked his head sideways
 
 "Boltac, what are you doing?" asked Asarah. Boltac could not answer because he was fighting off a wave of pain. But still he crawled. He was oblivious to the pike above his head, and only aware of Dimsbury's expensive boots in front of him. He was going to cut the bastard's feet off and then see where it went from there. 
 
-Dimsbury shook his head at the poor spectacle at his feet. A fat merchant, crawling to his death and leaving the hot stuff of life trailing out of bite wound on the cobbles behind him. How was it that his arm had not been completely severed? He turned to his prize, "Come my dear, let me take you away from all of this."
+Dimsbury shook his head at the poor spectacle beneath him. A fat merchant, crawling to his death as the hot stuff of life trailed on the cobbles behind him. How was it that the poor merchant's arm had not been completely severed? He turned to his prize, "Come my dear, let me take you away from all of this."
 
 "Let me go!" she cried, "I must to tend my Inn."
 
@@ -1148,19 +1152,19 @@ Dimsbury shook his head at the poor spectacle at his feet. A fat merchant, crawl
 
 Asarah screamed again. 
 
-"Please," said the Wizard, "there's no need to scream in my ear." To the Orc he said, "Finish him." He gripped Asarah around the waist and held her to him. Before she could even fight, he took flight and disappeared straight up into the night with her. 
+"Please," said the Wizard, "refrain from screaming in my ear." To the Orc he said, "Finish him." He gripped Asarah around the waist and held her to him. Before she could stubble, he took flight and disappeared straight up into the night with her. 
 
-Boltac reached after her and struggled to his knees. 
+Boltac struggled to his knees and reached after her. 
 
-The Orc brought the butt end of his pike down on Boltac's back and knocked him to the ground. Boltac heard some of his ribs separate from his spine. He thought that was bad, until the orc kicked him in the ribs. His world went white with pain and he rolled over onto his back. 
+The Orc brought the butt end of his pike down on Boltac's back and knocked him to the ground. Boltac heard some of his ribs separate from his spine. He thought that was bad, until the Orc kicked him in those ribs. His world went white with pain and he rolled over onto his back. 
 
-This was it. The Orc spun the pike and touched him gently on the nose point. Then lifted it into the air for the coup de grace.
+This was it. The Orc spun the pike and touched him gently on the nose with the point. Then lifted the pike into the air for the coup de grace.
 
 And then, in that final moment, Boltac discovered that he wasn't afraid. He wasn't even angry. His last thought was of Asarah, and he was sad. Sad that he would never get to see her again. Sad that he would never again get to play the game of cheating her out of a drink, or drive her mad with his haggling, or marvel at the way her hair would bounce and turn like a living thing as she worked her way through the common room of her inn.
 
-At times like these, ordinary men try negotiating with death. Offering every promise, pledge and advantage they could think of in exchange for life. But Boltac was not an ordinary man. And certainly not an ordinary negotiator. At that moment he realized that his life alone was not worth negotiating for. If was to haggle with fate, it would not be for his life, it would not be for his store or his fortune -- Boltac was surprised to discover that, in the final accounting, those things were worth nothing to him. The only thing worth negotiating for was life, with *her*. Without her, he couldn't seem to come up with a reason to bother.   
+At times like these, ordinary men try negotiating with death. They Offer every promise, pledge and advantage they can think of in exchange for life. But Boltac was not an ordinary man. And certainly not an ordinary negotiator. At that moment he realized that his life alone was not worth negotiating for. If was to haggle with fate, it would not be for his life, it would not be for his store or his fortune. Boltac was surprised to discover that, in the final accounting, those things were worth nothing to him. The only thing worth negotiating for was life, with *her*. Without her, he couldn't seem to come up with a reason to bother.   
 
-As if in a dream, he saw two feet of steel emerge from the Orc's belly. The pike fell, not on Boltac's head, but next him on the muddy street. As the Orc's body fell away to the side, Boltac saw the FarmBoy standing there, brandishing the sword Boltac had given him. Boltac said, "That blade is a quality item," and then passed out. 
+As if in a dream, he watched two feet of steel emerge from the Orc's belly. The pike fell, not on Boltac's head, but next him on the muddy street. As the Orc's body fell away to the side, Boltac saw the Relan standing there, brandishing the sword Boltac had given him. No scream of victory echoed from the boy's throat. Instead he looked at the blood and the blade as if he couldn't quite understand what had just happened. "That blade is a quality item," Boltac explained. Then he passed out. 
 
 
 # Drinking a Healing Potion #
