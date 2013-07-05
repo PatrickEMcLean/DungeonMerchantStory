@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 COUNTMESSAGE=`wc -w WorkingDraft.md`" "`date`
 echo $COUNTMESSAGE >> wordcount.txt
