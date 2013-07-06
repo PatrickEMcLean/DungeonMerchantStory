@@ -1327,6 +1327,45 @@ By the time he got back to the store, Relan was gone. Boltac's practiced shopkee
 
 Boltac thought about opening for business. He thought about barricading the store against looters. Then he looked across the street to the still smoldering remnants of the Bent Eelpout. He stared for a long time. He stared until a light rain began to fall. He watched the drops turn to steam as soon as the hit the smoldering coals of what used to be an inn. Each drop was infinitesimal. Wasted. A single drop could not put out a fire. But enough water could wash an entire city away. He savored his melancholy and rolled this thought around for a while. Then he turned his back on the window.  
 
+
+# Here #
+
+
+Boltac looked around his store. The kid had taken all the wrong things. And what's worse, it appeared he had taken the wrong things to carry them in. Boltac shook his head. Why travel if you don't the luggage you need to enjoy the journey?
+
+He had sold a lot of luggage with that line, but it didn't stop if from being bad advice. 
+
+He went into the back and open the chest on the left. He took out all of the small leather bags filled with coin and se them aside. He would need money, or course. After all, it was the most multipurpose substance known to man, but, for Boltac's purposes, there was something in here more valuable than money. 
+
+"Ah HA!" as he held up a a burlap brown sack that looked like it's only purpose in life was to hold 20 pounds of potatoes. "There you are," Boltac said to the sack as if was a precious child that he had found in a game of hide and seek. Of course, this was a ridiculous analogy -- Boltac hated children -- but this burlap sack? He couldn't have been more proud of this sack. 
+
+He walked through his well-stocked store and placed items he might need for his journey into his sack. Into it's modest opening he placed five goat skins of water, two of wine, 10 stout torches, a few flagons of the finest oil, three daggers, an axe, an ornate and well-jeweled mace in a wooden case, a roll of rare tools used for the picking of locks and dismantling of doors and chest, several hundred feet of good rope, an extra pair of boots, two hats, several wool blankets, a lambswool sweater (the depths could be cold) a side of pork cured in salt, five pounds of hard biscuit and a pound of chocolate. 
+
+But that wasn't all. He flitted here and there between the shelves, adding this and that and the other, oddments and ointments, anything Boltac thought he might need in the depths of some foul, unknowable place. Because, if there was one thing that Boltac knew about adventure,  it was that you never knew, or could know, what was going to happen. 
+
+The second to last thing to go in was the magic lantern. And last of all, were his thick gloves of magic negation. Didn't want to be reaching around in a bag like that with bare hands, that was for sure. 
+
+Through all of this, the bag never bulged, or grew heavier than the 17 or 20 pound that a sack that size, filled with potatoes, could be expected to weigh. The more Boltac has stuffed into the sack the wider he had smiled. For an instant, he considered trying to fit EVERYTHING in to the sack, just to see if it would take it, but he thought better of it. Even a magic sack had to have it's limits. And if it didn't, that wasn't the kind of thing Boltac wanted to know. 
+
+Boltac hated magic, but he loved this bag. It was Themistres Bag of Holding. One of only a very few known to exist. It was said that it would contain anything the owner could place into it. It never got heavier or bigger. It was, in effect, a bottomless bag. 
+
+Themistres, as the story went, made the bag for his wife. She was a large woman who liked to travel heavy. The Wizard had not made many of them and no Wizard seemed to have been able to duplicate his feat. Wizards seldom married, and the ones who did, generally wound up turning their wives into something that wouldn't bother them. The Bag of Holding was generally believed to be a myth -- a pleasant fiction of overloaded husbands and servants everywhere. But Boltac had found one. And what a wondrous thing it was. Priceless, really. 
+
+With this thought of pricing, he remembered the coins left out in the back. He took out his gloves. Put them on. Removed the magic lantern, which now did not light as he touched it. Then, he added some gold. As he did, Boltac thought, why hold some in reserve? It wasn't like he expected to be coming back. And that's when Boltac realized -- told the truth of it to himself -- he probably wasn't going to make it out of this adventure alive. 
+
+He stopped, and stood up in the back room of his store. The store he had worked so hard to build into a thriving business. Standing among the money he had worked so hard to save. And all of it seemed so worthless now. The heavy weight of the mittens of magic negation dragged his hands   towards the floor and his shoulders stooped. For a moment, tears ran down his round, weathered face. He let out one sob. Then sniffed, then bent back to the task at hand. 
+
+He piled every bit of the gold into the sack. Who knew, perhaps he could buy his way out of this trouble? That was what a shrewd merchant would do. 
+
+When he picked up the lamp this time, even though he was still wearing the gloves, it shone as brilliant and pure as the first rays of sunrise.  For better or worse, Boltac was ready.  
+
+ heavy mittens dragging his hands down 
+
+With all of this
+
+> and then, as precaution, he thought he should take ALL of the coins. 
+> "There are some things in there a man shouldn't mess with."  Boltac warning about the coins. 
+
 Boltac began to gather the finest items, from the most secret places in his store.
 
 >add a list of items
