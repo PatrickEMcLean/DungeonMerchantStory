@@ -19,3 +19,4 @@
 38824 workingdraft.md Sun Jul 7 17:16:15 EDT 2013
 39708 workingdraft.md Sun Jul 7 18:16:58 EDT 2013
 39813 workingdraft.md Sun Jul 7 18:39:15 EDT 2013
+39908 workingdraft.md Sun Jul 7 19:25:16 EDT 2013
