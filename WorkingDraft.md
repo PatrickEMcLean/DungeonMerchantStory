@@ -3,6 +3,7 @@
 
 # **The Merchant Adventurer** #
 
+
 ## POV TRICK ##
 
 Jump point of view to loser of combat
@@ -13,7 +14,6 @@ to Orc
 to Relan when he gets whacked
 
 Except to Relan at end when he takes out wizard. (The one win.)
-
 
 
 ## Punchlist ##
@@ -28,6 +28,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 >But you broke your vows for me.
 >I was never a real priestess.
 
+* squeezing into elven mail
 * add Boltac stubbornly refusing to use the kid's name as a funny bit. 
 *  Boltac opening up the empty treasury. 
 * have the Wizard forget the sandwiches -- but he has the next best thing -- a supply of sandwiches
@@ -43,6 +44,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 
 
 
+
 * Boltac struggling to find something in the sack to create suspense. "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
 
 "Magic is like a vast, underground reservoir of water," began Dimsbury, droning into what was shaping up to be a long lecture. 
@@ -52,9 +54,6 @@ Except to Relan at end when he takes out wizard. (The one win.)
 "Close enough for a coarse man such as you."
 "En-henh."
  
-
-
-
 
 
 ## The Bag ##
@@ -738,7 +737,6 @@ But tonight. A respite from his labors. His feed carried him south. He knew a of
 Yes, a fine roast leg of lamb. Then a pleasant walk to a hilltop from which to watch the city burn. The only thing to regret was that would not have good company to enjoy such a delightful evening with. The sacrifices he made for his work were many. 
 
 
-
 # 5
 
 Boltac dragged the unconscious Farm Boy out of his shop. As soon as the boy's feet were clear, he dropped him on the ground, and locked the front door. Boltac looked around, for a place to ditch the kid. Across the street, he saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. He'll be just another drunk on a bench, sleeping it off.  
@@ -748,6 +746,7 @@ As he dragged the lad across the street, Boltac muttered, "What were you thinkin
 "Look kid," he said to the gently snoring Farm Boy on the bench, "It's for your own good. I mean, if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Adventures are tricky." Boltac sighed heavily. "Believe me, go back to the farm."
 
 Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.  
+
 
 # 6 
 
@@ -960,6 +959,7 @@ Boltac held her gaze, "I'll get outta your hair."
 
 > Linger for a bit to give Dimsbury some POV -- if we need to set up the kidnapping even further. 
 
+
 # 7
 Boltac slammed the door of the inn behind him, angry at Asarah for reasons he didn't fully comprehend. He looked up at the stars. He looked down at the muddy cobbles at his feet. Then he looked across the square to his store, trapped squarely between the two. Where he did not look was at the bench where the young lad, Relan sat unconscious. 
 
@@ -992,6 +992,7 @@ He walked to the rack of weapons. He removed the blade from the bottom. It was t
 There wasn't a soul on the streets as Boltac crossed the square. The stars seemed impossibly high and uncaring. When he got to the boy he hung the sword around Relan's neck very carefully, so as not to wake him. Underneath the thick head of straw blond hair, Boltac could see a freshly-risen lump. Ouch. He reached out to touch it. His fingers almost made contact. Then Boltac became self-conscious. He looked around as if he was afraid of being caught doing something wrong. But there was no one watching. 
 
 He scuttled back across the square. 
+
 
 # 8
 
@@ -1034,7 +1035,6 @@ He rubbed a healing ointment into the fingernail-sized bite in his hand. It stop
 But that's the way it was with any enterprise. People feared the big things, but it was always the little things that did you in. The demons were in the details, as they said. All the work you spent polishing your shield in preparation for a Basilisk, could all go wrong if you forgot to bring oil to protect it from rust. 
 
 It was a terrible business, adventuring, which was another reason why Boltac was glad he had grown up, settled down and learned to enjoy a warm fire and a crisp profit. Again, he tried to convince himself that had done that lad a favor by knocking him on the head.
-
 
 
 # 9
@@ -1286,6 +1286,8 @@ They ate in silence for a while. Relan asked, "What were those things?"
 Relan shook his head and took another bite of bread.
 
  
+
+
 # 12
 
 Outside, smoke hung thick in the air. Everywhere there were signs of carnage, The Bent Eelpout and most of the other side of the street had burnt to the ground. Boltac saw the dead wolf and orcs, but did not linger over them. 
@@ -1320,6 +1322,7 @@ The health of Kingdoms, thought Boltac, did not depend on war, but commerce. The
 
 Boltac heaved himself off the fancy chair and left the room. From the wall of the castle he saw heavy columns of smoke rising from the north end of the town. In two's and three's people he could see people fleeing from the North gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving? Was this the way it was to be? Was this how his town died? 
 
+
 # 13 
 
 
@@ -1351,26 +1354,37 @@ With this thought of pricing, he remembered the coins left out in the back. He t
 
 He stopped, and stood up in the back room of his store. The store he had worked so hard to build into a thriving business. Standing among the money he had worked so hard to save. And all of it seemed so worthless now. The heavy weight of the mittens of magic negation dragged his hands   towards the floor and his shoulders stooped. For a moment, tears ran down his round, weathered face. He let out one sob. Then sniffed, then bent back to the task at hand. 
 
-He piled every bit of the gold into the sack. Who knew, perhaps he could buy his way out of this trouble? That was what a shrewd merchant would do. 
+He piled *all* the gold into the sack. Who knew, perhaps he could buy his way out of this trouble? That was what a shrewd merchant would do. 
 
 When he picked up the lamp this time, even though he was still wearing the gloves, it shone as brilliant and pure as the first rays of sunrise.  For better or worse, Boltac was ready.  
 
- heavy mittens dragging his hands down 
 
-With all of this
+Boltac left the store and headed North, for points unknown and unknowable. Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop falling onto the smoldering remains of a burned building. But that didn't mean he didn't have any choices. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King either. But he wasn't powerless. Rather than go off half-cocked, he could use the skills and tools he had. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death.
 
-> and then, as precaution, he thought he should take ALL of the coins. 
-> "There are some things in there a man shouldn't mess with."  Boltac warning about the coins. 
 
-Boltac began to gather the finest items, from the most secret places in his store.
+# 14
 
->add a list of items
->squeezing into elven mail
->firefly lantern
->Mace in a case.
->
+Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness again. 
 
-Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King either. But he wasn't powerless. Rather than go off half-cocked, he could use the skills and tools he had. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death. 
+As he moved he stayed off the road, preferring to work his way through the woods some 20 yard off to the side. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the raiding party returning from Robrecht. Horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from Robrecht. Probably just people for food. But just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
+
+The raid was was bad news for Robrecht, of course, but quiet good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? 
+
+With his careful traveling habits, it took Rattick three days to return to the entrance of the Wizard's lair. While he was away, the door and the hillside containing it had been removed, as if a giant had scooped it away and thrown it over a mountain. The wolf tracks led directly into the gaping maw of an open cave.
+
+It appeared the wizard was upping his game. That was good. A unified villain made for a better story. He would draw more powerful adventurers. And more powerful adventurers would have more expensive gear and weapons. 
+
+Rattick settled in to wait at the entrance to the Wizard's lair. As he rested, he invented a new line of patter about love and life lost in the fall of Robrecht. He would tell the next band of adventurers how he was there for vengeance, but that he realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully.
+
+And, then, of course, he would feed them to the Troll, steal all their things and bury any evidence that the Troll could not digest in the woods. 
+
+Before he got too deep into his fantasy, he was interrupted by the sound of a carriage making it's way over the rutted forest road. A CARRIAGE! thought Rattick. There was *real* wealth. Adventurers walked or rode horses. But a party of adventurers in a carriage. That meant real coin! He was counting his newfound wealth even as the carriage rolled to a halt in front of what was left of the mine entrance.
+
+He had his speech all ready. "Hail, brave companions. Well-met in these dark times. Please let me join you. I come seeking revenge for the death of my father, two villages over. I will carry your equipage, fight like a cornered wolverine, do anything that you ask of me -- but I must defeat the scourge that is on this land."
+
+But the speech froze on his lips, when out from the carriage stepped, Boltac.
+
+>He indicated the driver -- this is Relan. He's not too bright, but he knows the pointy end of a sword, I'll give him that. 
 
 
 # Relan Outfits Himself and Leaves the City. #
@@ -1378,36 +1392,6 @@ Yes, it was stupid. But there was nothing else to do. In the end, he had no more
 >runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
 
 >Confronts the con. But you told me she was trapped in a tower! 
-
-# Rattick, back at the Dungeon #
-
-Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then into the sewers. And then, by means of one of the secret ways that well-known to the darker and more desperate sort, made his way out into the wilderness again. 
-
-He stayed to the woods alongside the road, spending the night in a tree. Early in the morning he was awakened by the raiding party leaving Robrecht. Those horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. He wondered what treasure they had taken from Robrecht. Probably just people for food. But just in case, he followed their tracks, looking for dropped baubles by the light of morning. 
-
-It was bad news for Robrecht, but good news for Rattick. When word got out about the sack of Robrecht, adventurers would come from all parts of the Four Kingdoms. Seeking glory, seeking loot. His grift was about to go big time. Maybe he needed a partner to handle the additional volume. 
-
-
-Traveling carefully, it took Rattick three days to return to the entrance of the Wizard's lair. The door and the hillside containing it had been removed, as if a giant had scooped it away and thrown it over a mountain. The wolf tracks led directly into the gaping maw. 
-
-Ah, thought Rattick, so the wizard was upping his game. That was good. A unified villain made for a better story. It would draw more powerful adventurers. And more powerful adventurers would have more expensive gear and weapons. 
-
-Rattick settled in to wait at the entrance to the Wizard's lair. As he waited, he invented a new line of patter about love and life lost in the fall of Robrecht. 
-
-Tell them how he was there for vengeance, but realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully
-
-And, then, of course, feed them to the Troll steal all their things and bury them in the woods. 
-
->Of course it would have been more comfortable to lounge in an Inn and pick his marks that way, lying in waite
-
-
-Before he got too deep into his fantasy, he was interrupted by the sound of a carriage making it's way over the rutted forest road. A CARRIAGE! thought Rattick. There was *real* wealth. Adventurer's walked or rode horses. But a party adventurer's in a carriage. That meant real coin!
-
-The carriage rolled to a halt in front of what was left of the mine entrance.
-
-He had his speech all ready. Please, brave companions, let me join you. I come seeking revenge for the death of my father, two villages over. I will carry your equipage, fight like a cornered wolverine, do anything that you ask of me -- but I must defeat the scourge that is on this land. 
-
-When out from the carriage stepped, Boltac?
 
 
 # Kid Hears the Wagon. #
@@ -1765,7 +1749,7 @@ Then he turned and lifted his lantern high. He strode out of the darkness into t
 
 # Boltac v troll other #
 
-As they defended into the darkness, Rattick thought about knifing them both then and there. They wouldn't be expecting it.  It would be a quick, certain profit. No chance of Boltac getting him killed. But no sooner had the thought crossed his mind than Boltac said, "I know what you're thinking Rattick. Why don't I knife these two right now and go through their pockets for loose change."
+As they descended into the darkness, Rattick thought about knifing them both then and there. They wouldn't be expecting it.  It would be a quick, certain profit. No chance of Boltac getting him killed. But no sooner had the thought crossed his mind than Boltac said, "I know what you're thinking Rattick. Why don't I knife these two right now and go through their pockets for loose change."
 
 "That's not *exactly* what I'm thinking."
 
@@ -1783,19 +1767,19 @@ As they defended into the darkness, Rattick thought about knifing them both then
 
 "What's that noise," asked Relan? Everyone fell silent and realized that each step was taking them closer towards a truly horrible rumbling noise. 
 
-The noise was intermitent. There was a rumbling that sounded like someone with a gigantic set of lungs filled with gravel trying to exhale without coughing. Then silence. Then that same, horrible, ingeopulmonary rumble. 
+The noise was intermittent. There was a rumbling that sounded like someone with a gigantic set of lungs filled with gravel trying to exhale without coughing. Then silence. Then that same, horrible, ingeopulmonary rumble. 
 
 "Troll," said Rattick.
 
-"Doing what," asked Relan. 
+"Doing what?" asked Relan. 
 
 Rattick waited until the sound had rumbled through the corridor again. They were close enough that the sound had become truly deafening.
 
-"Snoring," whispered Rattick into the sudden silence. "Which is a good thing for you, stout Merchant. What I suggest is that you keep to the shadows. Advance while it's snoring. Then you take your dagger and stick it right in his ear. It's really the only vulnerable place on the hole Troll."
+"Snoring," whispered Rattick into the sudden silence. "Which is a good thing for you, stout Merchant. What I suggest is that you keep to the shadows. Advance while it's snoring. Then you take your sword and plunge it right in his ear. It's really the only vulnerable place on the whole of a Troll."
 
-"I don't have a dagger," said Boltac.
+"I don't have a sword," said Boltac.
 
-"You can use my sword," offered Relan. 
+"You can use mine," offered Relan. 
 
 "That's nice of you kid. 'Cause after all it's my sword. But I'm not going to need it."
 
@@ -1803,7 +1787,7 @@ Rattick waited until the sound had rumbled through the corridor again. They were
 
 In the blue cast of the flickering fairy lantern, Boltac took a pair of heavy wool gloves from his belt and put them on. "I'm gonna do what I do best. I'm going to make a deal with him."
 
-Relan searched his memories for sagas in which the hero had defeated the monster by making a deal. He came up empty. 
+Relan searched his memories for any sagas or songs in which the hero had defeated the monster by making a deal. He came up empty. 
 
 Rattick asked, "Stout Merchant, have you ever seen a troll?" 
 
@@ -1815,13 +1799,13 @@ The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking
 
 But when the troll woke up, because something was kicking him in the foot. This was a decidedly strange sensation for the Troll. There really isn't anything in a Troll's native habitat that has the temerity to kick a troll. In the dim light of the dungeon he saw food, holding a bag and looking at him. 
 
-"Yoo hoo, Mister Troooooooll. Have I got a deal for you," said the food. 
+"Yoo hoo, Mister Troooooooll. Have I got a deal for you!" said the food. 
 
-Wait, food was talking. This was confusing. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood it's ground and talked. Since the Troll couldn't understand *what* any of the funny, squeaky words that were coming out of it's mouth, it tried to understand *why* food wasn't doing any of the things that it usually did. 
+Wait, food was talking. This was confusing. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood it's ground and talked. Since the Troll couldn't understand what any of the funny, squeaky little sounds coming out of food's mouth meant, it tried to understand *why* food wasn't doing any of the things that it usually did. 
 
-Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. And, for reasons he couldn't understand, he had been eating quite well lately. Food had been easier a lot easier to come by since he had come to this cave. He didn't even have to go out and terrorize the countryside. And how had he gotten to this cave? He couldn't quite remember that part. 
+Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. And, for reasons he couldn't understand, he had been eating quite well lately. Food had been easier a lot easier to come by since he had come to this cave. He didn't even have to go out and terrorize the countryside. And how had he gotten to this cave? He couldn't quite remember that part. Something about a very loud and angry piece of food wearing black. But it was blurry. 
 
-The Troll decided that he had thought enough for one day, and drew himself up to his full height. He let out a little good morning yawn (a Troll yawn is more like a roar) that rattled a few chips of rock of the ceiling. He expected to see food running away, or curled up in a convenient, bite-sized ball of fear, but it was still there.
+Thinking made the Troll's head hurt, and he decided that he had thought enough for one day. He drew himself up to his full height. He let out a little good morning yawn (a Troll yawn is much like a roar) that rattled  chips of rock of the ceiling. He expected to see food running away, or curled up in a convenient, bite-sized ball of fear, but it was still there!
 
 "There we go," said Boltac, "Come get a closer look at the merchandize." 
 
@@ -1831,7 +1815,7 @@ A darker, more obscure, yet somewhat Rattick-shaped shadow next to him said, "Yo
 
 "Thank --" Relan began. But a finger pressed to his lips and silenced him. 
 
-"Shhh. Don't ruin it. I'm going to enjoy this."
+"Shhh. Don't ruin it. I'm going to enjoy this," said Rattick.
 
 The Troll lowered his head and made two whuffing grunts. This expulsion of air freed his tusks from the ponderous folds of his cheeks and filled the enclosed space with the foul stench of troll breath. He stepped forward to begin his charge. 
 
@@ -2832,8 +2816,6 @@ Do you know what this
 
 
 # +++++++ Right Here +++++++++ #
-
-
 
 
 # Wizard shows Boltac his Treasure Horde #
