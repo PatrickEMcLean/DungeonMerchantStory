@@ -1285,8 +1285,6 @@ They ate in silence for a while. Relan asked, "What were those things?"
 
 Relan shook his head and took another bite of bread.
 
- 
-
 
 # 12
 
@@ -1362,6 +1360,48 @@ When he picked up the lamp this time, even though he was still wearing the glove
 Boltac left the store and headed North, for points unknown and unknowable. Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop falling onto the smoldering remains of a burned building. But that didn't mean he didn't have any choices. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King either. But he wasn't powerless. Rather than go off half-cocked, he could use the skills and tools he had. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death.
 
 
+# Relan Outfits Himself and Leaves the City. #
+
+
+Relan was wearing a new pair of boots. In fact, it was his first pair of boots. Up until this point he had only worn sandals or wooden shoes. And then, they were mostly hand-me downs. Everything in Relan's life had been a hand-me down. That's the way it was when you were the youngest of  seven on a cold-water farm hidden away in the fog-shrouded mountains of Robrecht. There was plenty of work and nothing else. 
+
+But if they could see him now?
+
+Over a linen shirt, he wore a shirt of shining chain mail (not the best mail that Boltac had, but the best-looking.) Around his neck a cloak made of hammered felt was clasped with a chain of silver. On his hip, the sword Boltac had given him swung from a wide leather sword belt. On his opposite hip was a dirk with it's handle worked into the shape of a screaming eagle. Pants of the finest, softest deer skin he had ever encountered were tucked into the black boots with high cuffs and silver buckles. This is how a hero should look, he thought. 
+
+Oh they had laughed at him on the farm -- well, his older brothers and sisters had, Ma and Pa had been too tired. They took the news of his departure as they took all news, good or bad. With the tired stare of someone who has seen the worst that the seasons and the ways of man has had to offer, and, from long habit, tried not to get excited one way or another. 
+
+"You'll be back," his eldest brother had said, in imitation of the same hard, bitter speech his father used. But then his stern, as yet unweathered face soften and he added, "And you'll be welcome. If you conquer the world, littlest brother, be sure to save us a piece." A last smile and a wink and Relan had been on his way. One way or another, none of his family expected to see him again. One way or another, when someone left the high valley, they never seemed to come back. 
+
+But if they could see him now! Mail glinting in the sunlight, hair blowing in the wind and the heels of these magnificent boots ringing off the cobbles. Announcing to all the world that he who walked in these boots was not a man to be trifled with. 
+
+Yes, he would go back home and show them. All of them. His sullen family, the joyless villagers. He would come back like something out of the sagas that the strange wandering minstrels sang in a vain attempt to  cheer the flat, simple people of the land. But he would wait until he had something more than a new suit of clothes to show for his adventures. 
+
+But the farther Relan walked through the city, the more troubled his mood became. Everywhere he looked, he saw the signs of the last night's carnage. Blood spilled on the cobblestones, bodies lying in the streets. Loved one's gathering corpses, families fleeing for the gates with possessions hastily piled in wagons. And fear on every face. 
+
+His music of his strides against the stones took on a sour note and he wondered if he shouldn't have done more last night? But the memory of what he had done, the creature and the killing of it, send a shiver of fear up his spine. He hadn't had time to think. Hadn't had time to be afraid. But now that he had time, he was afraid, and worse. He was honest enough with himself to remember shaking afterwords. And the though of going out into the night again, to face more of those snarling, tusked creatures on wolves -- it turned his blood to water once again. 
+
+He should have done more to help. A real hero would have fought all night. Would have fought until the enemy was driven from the city. But he had not. Why? 
+
+Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hand't been a pleasant week. Sleeping in a makeshift tent in muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
+
+He had almost given up. 
+
+
+
+That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
+
+
+
+  And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
+~                                                                                 
+When Boltac had left the store, Relan 
+
+>runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
+
+>Confronts the con. But you told me she was trapped in a tower! 
+
+
 # 14
 
 Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness again. 
@@ -1383,15 +1423,6 @@ Before he got too deep into his fantasy, he was interrupted by the sound of a ca
 He had his speech all ready. "Hail, brave companions. Well-met in these dark times. Please let me join you. I come seeking revenge for the death of my father, two villages over. I will carry your equipage, fight like a cornered wolverine, do anything that you ask of me -- but I must defeat the scourge that is on this land."
 
 But the speech froze on his lips, when out from the carriage stepped, Boltac.
-
->He indicated the driver -- this is Relan. He's not too bright, but he knows the pointy end of a sword, I'll give him that. 
-
-
-# Relan Outfits Himself and Leaves the City. #
-
->runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
-
->Confronts the con. But you told me she was trapped in a tower! 
 
 
 # Kid Hears the Wagon. #
@@ -1571,6 +1602,9 @@ To win?
 
 
 # Rattick in Front of the Dungeon #
+
+>He indicated the driver -- this is Relan. He's not too bright, but he knows the pointy end of a sword, I'll give him that. 
+
 
 >there's another version of this in the old drafts -- see if the intro paragraph is better. 
 

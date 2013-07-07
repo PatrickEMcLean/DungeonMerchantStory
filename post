@@ -2,8 +2,6 @@
 
 WORKINGDRAFT="workingdraft.md"
 
-echo $WORKINGDRAFT
-
 COUNTMESSAGE=`wc -w $WORKINGDRAFT`" "`date`
 echo $COUNTMESSAGE >> wordcount.txt
 
