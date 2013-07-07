@@ -1,17 +1,21 @@
 #!/bin/bash
 
-COUNTMESSAGE=`wc -w WorkingDraft.md`" "`date`
+WORKINGDRAFT="./workingdraft.md"
+
+echo $WORKINGDRAFT
+
+COUNTMESSAGE=`wc -w $WORKINGDRAFT`" "`date`
 echo $COUNTMESSAGE >> wordcount.txt
 
 echo "----------------------------------------"
 echo 
-echo $* "    " `wc -w WorkingDraft.md`
+echo $* "    " `wc -w $WORKINGDRAFT`
 echo
 echo "----------------------------------------"
 
 git add . -A 
-git commit -m "$* `wc -w WorkingDraft.md`"
+git commit -m "$* `wc -w $WORKINGDRAFT`"
 git push 
 
 
-COUNTMESSAGE=`wc -w WorkingDraft.md`" "`date`
+COUNTMESSAGE=`wc -w $WORKINGDRAFT`" "`date`
