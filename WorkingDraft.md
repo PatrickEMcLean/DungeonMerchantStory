@@ -749,10 +749,7 @@ As he dragged the lad across the street, Boltac muttered, "What were you thinkin
 
 Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.  
 
-# 6 #
-
-
-
+# 6 
 
 "Asarah, my love!" Boltac bellowed before the door had even had a chance to close behind him, "I have come to rescue from all of this."
 
@@ -1323,13 +1320,12 @@ The health of Kingdoms, thought Boltac, did not depend on war, but commerce. The
 
 Boltac heaved himself off the fancy chair and left the room. From the wall of the castle he saw heavy columns of smoke rising from the north end of the town. In two's and three's people he could see people fleeing from the North gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving? Was this the way it was to be? Was this how his town died? 
 
+# 13 
+
+
 By the time he got back to the store, Relan was gone. Boltac's practiced shopkeeper's eye quickly saw what the boy had taken. All the wrong things. The idiot was probably even walking. Walking to his heroic death. 
 
 Boltac thought about opening for business. He thought about barricading the store against looters. Then he looked across the street to the still smoldering remnants of the Bent Eelpout. He stared for a long time. He stared until a light rain began to fall. He watched the drops turn to steam as soon as the hit the smoldering coals of what used to be an inn. Each drop was infinitesimal. Wasted. A single drop could not put out a fire. But enough water could wash an entire city away. He savored his melancholy and rolled this thought around for a while. Then he turned his back on the window.  
-
-
-# Here #
-
 
 Boltac looked around his store. The kid had taken all the wrong things. And what's worse, it appeared he had taken the wrong things to carry them in. Boltac shook his head. Why travel if you don't the luggage you need to enjoy the journey?
 
