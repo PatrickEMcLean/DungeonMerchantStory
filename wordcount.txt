@@ -12,3 +12,4 @@
 37810 WorkingDraft.md Fri Jul 5 16:27:31 EDT 2013
 38744 WorkingDraft.md Sat Jul 6 16:00:10 EDT 2013
 38742 WorkingDraft.md Sun Jul 7 11:22:31 EDT 2013
+38742 WorkingDraft.md Sun Jul 7 11:24:17 EDT 2013
