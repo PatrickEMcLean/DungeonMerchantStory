@@ -1,4 +1,4 @@
-    *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
 # **The Merchant Adventurer** #
@@ -49,7 +49,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 
 "Magic is like a vast, underground reservoir of water," began Dimsbury, droning into what was shaping up to be a long lecture. 
 "Is that why you live in the earth like a gopher."
-"No, not literally underground, you thick, literal man, I mean it pool and flows beneath the surface of our reality. Beneath all realties, in fact. And I have found a way to coax it to the surface. Draw this energy to us. And create a deeper, broader opening than any "
+"No, not literally underground, you thick, literal man, I mean it pools and flows beneath the surface of our reality. Beneath all realties, in fact. And I have found a way to coax it to the surface. Draw this energy to us. And create a deeper, broader opening than any "
 "So your digging a well for magic? Is that it?"
 "Close enough for a coarse man such as you."
 "En-henh."
@@ -1385,9 +1385,31 @@ He should have done more to help. A real hero would have fought all night. Would
 
 Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hand't been a pleasant week. Sleeping in a makeshift tent in muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
 
-He had almost given up. 
+He had almost given up. Then he had had met Sabrellia 
 
 
+But you broke your vows.
+
+Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
+
+
+"It was a con. It was all a con. I was never kidnapped." 
+
+"Never mind Sab, he's too thick to understand."
+
+"No, he's not"
+
+"But I loved you," Relan said, completely disarmed by this trickery. 
+
+"I know you did"
+
+
+
+
+* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
+
+>But you broke your vows for me.
+>I was never a real priestess.
 
 That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
 
