@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORKINGDRAFT="./workingdraft.md"
+WORKINGDRAFT="workingdraft.md"
 
 echo $WORKINGDRAFT
 
