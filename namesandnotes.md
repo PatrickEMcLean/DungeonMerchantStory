@@ -16,6 +16,8 @@ Aunt Etheline
 Samga -- the faithful Orc overseer. 
 Hissglarg -- the orc in the tunnel
 
+Sabrellia -- the Fake Priestess of Dar
+
 
 
 #### Various Orcs
