@@ -1388,6 +1388,10 @@ Perhaps because it wasn't his city? At least not yet. He had only been in Robrec
 He had almost given up. Then he had had met Sabrellia 
 
 
+And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
+
+Then it came to him. He would do both, for both must be done. If he was to be a hero, truly be a hero, then he would have to do the hard things that other people wouldn't. But he didn't see how such a thing would be possible. 
+
 But you broke your vows.
 
 Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
