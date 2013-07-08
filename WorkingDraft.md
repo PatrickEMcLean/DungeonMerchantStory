@@ -1385,7 +1385,11 @@ He should have done more to help. A real hero would have fought all night. Would
 
 Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hand't been a pleasant week. Sleeping in a makeshift tent in muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
 
-He had almost given up. Then he had had met Sabrellia 
+He had almost given up. Then he had had met Sabrellia. She had appeared to him in the muck and the mire of Robrecht's agricultural market. Relan was almost about to give up. He had come to the farmer's stalls to ask for work. He was a strong lad, after all and knew how to work hard. But as he stood there, hungry, exhausted, covered in filth, somehow he couldn't bring himself to speak the words. 
+
+It would mean defeat. It would mean giving up and eventually going back to the farm in the tiny valley. It would mean that his brothers and sisters were right to laugh. And, worst of all, it would mean that the best he could hope to get from life would be that same, hard, beaten look that was the brutal, battered inheritance his parents seemed to have saved for him. 
+
+Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
 
 
 And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
