@@ -1431,6 +1431,63 @@ When Boltac had left the store, Relan
 
 >Confronts the con. But you told me she was trapped in a tower! 
 
+# Remembering the Girl
+
+
+"You seem troubled," she said. 
+
+"What are you," taken aback by the vision of fully perfumed breasts, full, lovely and contoured under sacred robes. 
+
+"I am a priestess, a loyal handmaiden of the Temple of Dar, but how could you not know that?"
+
+"I, uh, am... uh..."
+
+"You are a traveller!" she exclaimed, saving him from his awkward stammering. "A wanderer, a seeker of adventure!"
+
+"Yes," he said, because he would have said yes to anything this perfumed, breathless woman said. She smiled and Relan felt himself go a little weak in the knees. There was a gap between her front teeth that her tongue seemed to darting into and away from. She was the most beautiful thing he had ever seen. 
+
+"Dar commands us to serve all travelers and seekers," she said, stretching the word serve into an impossible number of syllables. "Tell me your name."
+
+"Uh, Relan...?" he said, still bewildered.
+
+"Well is it or isn't it?"
+
+"What?"
+
+She laughed brightly, in a way that was as far from mocking as the bright sunshine is from the rain. "Very well, Relan. I am Sabriella. I am pleased to meet you," she said with a curtsey. Then she slipped her hands around his arm and guided him from the marketplace. 
+
+"My, you are very strong," she exclaimed, accidentally telling the truth. 
+
+She guided him along Robrecht's streets until they were walking along the nicest part of the river. She talked with him gently and gave him the gift of listening well and laughing often at his awkward stories. In no time at all, he was completely comfortable with the radiant creature on his arm. 
+
+"Oh, but you must be famished!" she said, and dragged him into a small pot shop. The owner's greeted her warmly and they were soon seated. To her great delight had three bowls of stew. Best of all, the owners wouldn't take payment. Which was good, because Relan was completely broke. 
+
+They went back out in the street and walked for a time that felt to Relan like both and instant and an eternity. As the sun cast longer and longer shadows through the narrow streets and alleys, they heard the tolling of the temple bell. 
+
+"But I must return," Sabrellia exclaimed, "I had not noticed the hours passing so quickly in you presence. I have only been granted parole for the day and the streets are not safe for such as I after dark."
+
+"I will walk you to the temple and keep you safe," Relan said with all the sincerity there was in the world. 
+
+"You must not! I cannot be seen with you. And you cannot be seen with me. I know to one so hardened to *adventure* the hardship of a dungeon and the Temple's Questioner means nothing, but I am a much frailer creature."
+
+"But, I don't think,"
+
+She placed a finger on his lips. "You are so strong, so handsome, so brave. The temple cares not for one so humble as I... but I know that if  I was in trouble... in danger I mean, that you would come for me. That you would save me. Just like a hero. My hero."
+
+He nodded like the idiot he was. And was going to follow her anyway, but then she paralyzed him with a kiss. 
+
+Of course, he had been kissed before. But the the simple, sullen, load-bearing creatures of his village hardly seemed the same species as the bright creature that pressed her painted lips to his now. Such a kiss! He felt his feet break into a sweat. He closed his eyes and saw colors that he never imagined existed. It was the kind of a kiss that would make a more experienced man ask some pretty hard questions about the supposed purity of the Virgin Priestesses of Dar. 
+
+"Promise me you will meet me here tomorrow. Dar has inflamed me with love for you and you cannot deny the Godess her divine purpose. Say it! Say you will meet me."
+
+He swallowed hard and said, "I will."
+
+And then she ran off around the corner, her sandaled feel slapping the cobblestones as Relan caught flashes of her milk white thighs beneath her flowing robe. 
+
+When she was out of sight he rubbed his lips and smiled to himself. This was the start of it then. The grand adventure of his life that he left the village to find. 
+
+Then the screaming started. 
+
 
 # 14
 
