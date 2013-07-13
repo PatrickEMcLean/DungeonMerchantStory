@@ -25,3 +25,4 @@
 40063 workingdraft.md Mon Jul 8 09:45:13 EDT 2013
 40063 workingdraft.md Thu Jul 11 15:10:52 EDT 2013
 40808 workingdraft.md Thu Jul 11 21:05:56 EDT 2013
+40917 workingdraft.md Sat Jul 13 07:42:16 EDT 2013
