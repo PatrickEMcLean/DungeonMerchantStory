@@ -41,7 +41,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 * BOltac picks up the mace, signifying that magic is done for. 
 * All my magic items are worthless, Huzzah.
 
-
+* Make up sagas for Relan to quote from in one or two places. (A la Don Quixhote.)
 
 
 
@@ -1478,7 +1478,7 @@ He nodded like the idiot he was. And was going to follow her anyway, but then sh
 
 Of course, he had been kissed before. But the the simple, sullen, load-bearing creatures of his village hardly seemed the same species as the bright creature that pressed her painted lips to his now. Such a kiss! He felt his feet break into a sweat. He closed his eyes and saw colors that he never imagined existed. It was the kind of a kiss that would make a more experienced man ask some pretty hard questions about the supposed purity of the Virgin Priestesses of Dar. 
 
-"Promise me you will meet me here tomorrow. Dar has inflamed me with love for you and you cannot deny the Godess her divine purpose. Say it! Say you will meet me."
+"Promise me you will meet me here tomorrow. Dar has inflamed me with love for you and you cannot deny the Goddess her divine purpose. Say it! Say you will meet me."
 
 He swallowed hard and said, "I will."
 
@@ -1491,13 +1491,35 @@ Then the screaming started.
 
 # Relan Gives Chase
 
+Relan rounded the corner and slipped on the cobbles. With inhuman dexterity and a strength that came from long days of hard work on the farm, he caught himself on his palm and shoved the upper half of his body back on to balance.
 
-Relan rounded the corner and slipped on the cobbles. With a monstrous strength and nearly inhuman dexterity, he caught himself on his palm and shoved the upper half of his body back on to balance.
+As he ran, he saw two men in black running away with Sabriella, one holding her over his shoulder, the other glaring back at him and brandishing a wickedly curved knife. He was pretty sure they weren't priests , the infinitely kind and forgiving, first Goddess of Mercy, Dar.
+
+On the street in front of him a third man lay on the cobbles.  He lifted a hand weakly and called after the kidnappers. "Please! Don't hurt her," he sobbed. Sobbed, thought Relan? What weak, unmanly, unheroic behavior was this? Had this man not heard the sagas? The full-throated minstrels singing of how heroes were to act when protecting beautiful ladies in distress through acts of physical valor?
+
+Clearly, this one would be no help. Relan dashed passed him and turned the corner. In front of him was a long alley. Sabriella was nowhere to be seen. What sorcery was this? Relan ran faster, trusting that if the hero was pure of heart, he would come through okay in the end. 
+
+In defense of this naiveté, Relan had spend many of his formative years listening to wandering minstrels trying to coax a meal out of flint-hearted farmers with song at the village longhouse. He knew them all by heart. And in not a single one of them had the hero ever stopped to check the doors he ran past. 
+
+# The Con is in. 
+
+Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, searching the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact, they had gotten away with with love of his young life.
+
+Cursing his luck and the perfidious sorcery with which Sabriella had snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. When he heard Relan's sandals scrape the street, 
 
 
-He saw two men carrying Sabriella away, holding her over their shoulder. A third man, weak and pale had been knocked down and was sobbing, pleading -- using all manner of unmanly, unheroic behavior to stop the men. What was the matter with him? Relan wondered. Had he not read the sagas? Had he not heard the minstrels sing of heroes protecting beautiful ladies with acts of tremendous physical valor?
+The kidnapped sister because I owed them money. We need money to get her back.
 
+But I can rescue her.
 
+You? You don't even have a sword!
+
+So relan had gone in search of a sword.
+
+One of the friends is wounded. 
+Oh Shit! Cried one of the kidnappers!
+
+he backhands her and runs away. Ashamed and embarrassed. 
 
 
 # 14
