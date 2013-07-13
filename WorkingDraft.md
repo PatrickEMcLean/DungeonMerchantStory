@@ -1505,16 +1505,35 @@ In defense of this naiveté, Relan had spend many of his formative years listeni
 
 Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, searching the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact, they had gotten away with with love of his young life.
 
-Cursing his luck and the perfidious sorcery with which Sabriella had snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. When he heard Relan's sandals scrape the street, 
+Cursing his luck and the perfidious sorcery with which Sabriella had snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. 
+
+When he heard Relan's sandals scrape the street, the man looked up and said, "She is my sister. Oh cruel gods, it is all my fault." He dropped his head and his long, stringy hair fell across his face. Sobs shook his shoulders. 
+
+Relan picked the man up and set him on his feet. He weighed almost nothing. "Who?" he asked. "Where?" 
+
+"It's all my fault," he repeated. His large dark eyes seemed like haunted, sunken pits against his pale skin. "The dice. I lost too much money at dice. And they have come for her."
+
+Relan said, "I can rescue her!"
+
+"You? You have money?"
+
+"No, I have no money, but I have courage."
+
+"Courage?" he said, as he looked off into a hopeless middle distance. "They won't take courage. I owe them money. Do you have money? Can you get money. I meant to get money at dice. But..." and here the pitful sobbing took over once again. 
+
+"I can rescue her! If you would tell me where they have taken her."
+
+"No, they would kill her before they would let you have her. No, money is the only way. It is the only way to do anything in this world." The man with hopeless eyes said.
+
+"Look at me. Look at me!" Relan commanded. "I will return your sister to you. This I vow. Now tell me where they have taken her."
+
+"You?" said the man with a laugh bereft of hope, "You don't even have a sword."
+
+The man's pitiful wails chased him through the streets as Relan went in search of a sword.
+  
 
 
-The kidnapped sister because I owed them money. We need money to get her back.
 
-But I can rescue her.
-
-You? You don't even have a sword!
-
-So relan had gone in search of a sword.
 
 One of the friends is wounded. 
 Oh Shit! Cried one of the kidnappers!

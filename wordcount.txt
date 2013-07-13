@@ -27,3 +27,4 @@
 40808 workingdraft.md Thu Jul 11 21:05:56 EDT 2013
 40917 workingdraft.md Sat Jul 13 07:42:16 EDT 2013
 41272 workingdraft.md Sat Jul 13 09:50:20 EDT 2013
+41496 workingdraft.md Sat Jul 13 10:06:04 EDT 2013
