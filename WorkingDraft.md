@@ -1489,6 +1489,17 @@ When she was out of sight he rubbed his lips and smiled to himself. This was the
 Then the screaming started. 
 
 
+# Relan Gives Chase
+
+
+Relan rounded the corner and slipped on the cobbles. With a monstrous strength and nearly inhuman dexterity, he caught himself on his palm and shoved the upper half of his body back on to balance.
+
+
+He saw two men carrying Sabriella away, holding her over their shoulder. A third man, weak and pale had been knocked down and was sobbing, pleading -- using all manner of unmanly, unheroic behavior to stop the men. What was the matter with him? Relan wondered. Had he not read the sagas? Had he not heard the minstrels sing of heroes protecting beautiful ladies with acts of tremendous physical valor?
+
+
+
+
 # 14
 
 Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness again. 
