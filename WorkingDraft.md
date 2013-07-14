@@ -1389,49 +1389,9 @@ He had almost given up. Then he had had met Sabrellia. She had appeared to him i
 
 It would mean defeat. It would mean giving up and eventually going back to the farm in the tiny valley. It would mean that his brothers and sisters were right to laugh. And, worst of all, it would mean that the best he could hope to get from life would be that same, hard, beaten look that was the brutal, battered inheritance his parents seemed to have saved for him. 
 
-Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
-
-
-And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
-
-Then it came to him. He would do both, for both must be done. If he was to be a hero, truly be a hero, then he would have to do the hard things that other people wouldn't. But he didn't see how such a thing would be possible. 
-
-But you broke your vows.
-
-Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
-
-
-"It was a con. It was all a con. I was never kidnapped." 
-
-"Never mind Sab, he's too thick to understand."
-
-"No, he's not"
-
-"But I loved you," Relan said, completely disarmed by this trickery. 
-
-"I know you did"
 
 
 
-
-* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
-
->But you broke your vows for me.
->I was never a real priestess.
-
-That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
-
-
-
-  And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
-~                                                                                 
-When Boltac had left the store, Relan 
-
->runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
-
->Confronts the con. But you told me she was trapped in a tower! 
-
-# Remembering the Girl
 
 
 "You seem troubled," she said. 
@@ -1501,8 +1461,6 @@ Clearly, this one would be no help. Relan dashed passed him and turned the corne
 
 In defense of this naiveté, Relan had spend many of his formative years listening to wandering minstrels trying to coax a meal out of flint-hearted farmers with song at the village longhouse. He knew them all by heart. And in not a single one of them had the hero ever stopped to check the doors he ran past. 
 
-# The Con is in. 
-
 Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, searching the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact, they had gotten away with with love of his young life.
 
 Cursing his luck and the perfidious sorcery with which Sabriella had snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. 
@@ -1531,6 +1489,50 @@ Relan said, "I can rescue her!"
 
 The man's pitiful wails chased him through the streets as Relan went in search of a sword.
   
+
+Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
+
+
+
+
+And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
+
+Then it came to him. He would do both, for both must be done. If he was to be a hero, truly be a hero, then he would have to do the hard things that other people wouldn't. But he didn't see how such a thing would be possible. 
+
+But you broke your vows.
+
+Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
+
+
+"It was a con. It was all a con. I was never kidnapped." 
+
+"Never mind Sab, he's too thick to understand."
+
+"No, he's not"
+
+"But I loved you," Relan said, completely disarmed by this trickery. 
+
+"I know you did"
+
+
+
+
+* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
+
+>But you broke your vows for me.
+>I was never a real priestess.
+
+That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
+
+
+
+  And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
+~                                                                                 
+When Boltac had left the store, Relan 
+
+>runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
+
+>Confronts the con. But you told me she was trapped in a tower! 
 
 
 
