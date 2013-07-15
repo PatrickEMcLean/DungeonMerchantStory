@@ -42,6 +42,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 * All my magic items are worthless, Huzzah.
 
 * Make up sagas for Relan to quote from in one or two places. (A la Don Quixhote.)
+* Make sure "She was a virgin when we met" makes sense"
 
 
 
@@ -1497,7 +1498,22 @@ He was worthless, except for the information that Relan had managed to extract f
 
 Relan, of course, vowed that he would rescue his lady (with all faithfullness and heroism), but the how of it had been impossible until he had saved the Merchant Boltac. Now that he was armed, free and left to his own devices, the question became, what should he do? Robrect needed to be avenged, and the threat of these Orc's and that evil flying wizard needed to be dealt with. Clearly, that was a selfless hero's first duty, wasn't it?
 
-But on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of  
+But on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of no saga, song or lay in which the hero had left his lady in peril to embark on a larger, more important quest. But, in a moment of unusually clear thinking, it seemed that the needs of the city should come before the needs of one heartbroken hero. Shouldn't they. 
+
+So it was, lost deep in the shallows of his limited philosophy, that Relan stumbled into a wheelbarrow with a corpse in it. He muttered half an apology before he recoginzed the bloated corpse in the bottom of the wheelbarrow. "Stavo! What has happened to you!" He heard a sharp intake of breath. A decidedly *feminine* intake of breath, and looked up to see a teary-eyed Sabriella on the other side of the barrow.  
+
+"Sabriella, you have been rescued!"
+
+"Why, I uh, yes, Relow! I, uh, have been..." she looked from side to side, unsure of what she should day in this situation. Relan's smile faded when he realized the two men pushing the wheelbarrow were none other than the men in black who had carried her away from him. 
+
+"My lady," Relan said, "I thank the Gods that you have been returned to me unharmed, but I am confused by..."
+
+"Oh, I just bet you are," one of the men in black quipped. 
+
+"Silence, varlet or I will stave in your head," Relan bellowed, because it seemed like the kind of thing a hero should do in this situation. 
+
+
+"Let's steal his boots!" 
 
 
 Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.    
