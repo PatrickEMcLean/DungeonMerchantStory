@@ -1488,7 +1488,19 @@ Relan said, "I can rescue her!"
 "You?" said the man with a laugh bereft of hope, "You don't even have a sword."
 
 The man's pitiful wails chased him through the streets as Relan went in search of a sword.
-  
+
+# back to present time #
+
+Of course, a sword was hard to find. Relan tried to obtain a sword for two days before he worked up the nerve to go talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavo, who lived in a shack built against the outside of the Southron wall, wailed and cried everytime he saw Relan. He told him his sad tale of woe, claiming that it was all his fault, but would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
+
+He was worthless, except for the information that Relan had managed to extract from him. The men who had taken Sabriella worked for a man named Davidos, a thug who controlled the gambling in Robrecht. They had taken her to hold to the South, a pile of dark stone on the River Swift known as the Tower of Forgetting. There they would keep her for a week. Then the rapes would start. Then, a week after that, they were likely to cut fingers off. Relan did not ask how this creature Stavo, could describe such tortures in detail without breaking down into tears. 
+
+Relan, of course, vowed that he would rescue his lady (with all faithfullness and heroism), but the how of it had been impossible until he had saved the Merchant Boltac. Now that he was armed, free and left to his own devices, the question became, what should he do? Robrect needed to be avenged, and the threat of these Orc's and that evil flying wizard needed to be dealt with. Clearly, that was a selfless hero's first duty, wasn't it?
+
+But on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of  
+
+
+Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.    
 
 Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
 
