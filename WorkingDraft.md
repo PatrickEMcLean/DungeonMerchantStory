@@ -1487,6 +1487,7 @@ Relan said, "I can rescue her!"
 
 The man's pitiful wails chased him through the streets as Relan went in search of a sword.
 
+
 # 16
 
 
@@ -1566,36 +1567,9 @@ As Relan ran north, he thought he might have just learned some kind of lesson. T
 
 >Consider adding a scar or some piece of very specific description for this guy. 
 
+
 # 17
 
-Like all true survivors, Rattick had found a way to profit from misfortune of Robrecht. At the first signs of trouble, he had fled into the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness. 
-
-He stayed off the road, preferring to work his way through the woods some 20 yards off to the side. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the raiding party returning from Robrecht. Horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from the town. Probably just people for food. But, just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
-
-The raid was was bad news for Robrecht, of course, but quiet good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? 
-
-With his careful traveling habits, it took Rattick three days to return to the entrance of the Wizard's lair. While he was away, the door and the hillside containing it had been removed, as if a giant had scooped it away and thrown it over a mountain. The wolf tracks led directly into the gaping maw of an open cave.
-
-It appeared the wizard was upping his game. That was good. A unified villain made for a better story. He would draw more powerful adventurers. And more powerful adventurers would have more expensive gear and weapons. 
-
-Rattick settled in to wait at the entrance to the Wizard's lair. As he rested, he invented a new line of patter about love and life lost in the fall of Robrecht. He would tell the next band of adventurers how he was there for vengeance, but that he realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully.
-
-And, then, of course, he would feed them to the Troll, steal all their things and bury any evidence that the Troll could not digest in the woods. 
-
-
-# Rattick Hears the Carriage.
-
-Before he got too deep into his fantasy, he was interrupted by the sound of a carriage making it's way over the rutted forest road. A CARRIAGE! thought Rattick. There was *real* wealth. Adventurers walked or rode horses. But a party of adventurers in a carriage. That meant real coin! He was counting his newfound wealth even as the carriage rolled to a halt in front of what was left of the mine entrance.
-
-He had his speech all ready. "Hail, brave companions. Well-met in these dark times. Please let me join you. I come seeking revenge for the death of my father, two villages over. I will carry your equipage, fight like a cornered wolverine, do anything that you ask of me -- but I must defeat the scourge that is on this land."
-
-But the speech froze on his lips, when out from the carriage stepped, Boltac.
-
-
-# Kid Hears the Wagon. #
-
-> "I'll protect you!"
-> "That's not what you're here for. You're here to carry the lantern"
 
 For Relan, Adventure wasn't the glorious excitement he had hoped for. Mostly it was sore feet, with a slight tang of guilt. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
 
@@ -1759,85 +1733,58 @@ To win?
 
 "I don't think --"
 
-"Yeah, I figured that one out already. Just trust me, if we can bribe our way through this thing, everybody will be a lot happier. And a lot more alive.
-
-"Hey kid, you mind taking the reins for a while? I'm still a little woozy from that potion."
+"Yeah, I figured that one out already. Just trust me, if we can bribe our way through this thing, everybody will be a lot happier. And a lot more alive. Hey kid, you mind taking the reins for a while? I'm still a little woozy from that potion."
 
 "Woozy? but it was magic!"
 
 "Trust me, the hangover you get from magic is the worst kind of hangover there is."
 
+# 18
 
- )) 
+Rattick was no hero. Like all true survivors, he found a way to profit from misfortune of others. At the first sign of trouble, he slunk into the alleys of Robrecht. While strange creatures marauded through the town and fire ravaged the buildings, he kept to the shadows, looting corpses where he could, burgling a store or two, until he reached the         South gate. When he found a horse in the Guard's stable he was gone into the night without a second thought. 
 
+When he reached the forest, he abandoned the horse and stayed off the road. Rattick worked his way through the woods some 20 yards off to the side. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the raiding party returning from Robrecht. Horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from the town. Probably just people for food. But, just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
 
-Get my bag from inside the carriage. 
+The raid was was bad news for Robrecht, of course, but quite good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? 
 
-JUST THE ONE BAG. 
+With his careful traveling habits, it took Rattick three days to return to the entrance of the Wizard's lair. And when he got there, it wasn't there anymore. The once grassy hill and innocuous-looking wooden door was now a smoking hole in the earth. 
 
-I travel light. 
+Wolf tracks led directly over the edge and into the maw of the pit. Hmm, so the Wizard had become fed up. Rattick imagined the scene in his mind. Often enough he had heard the howls of frustration echoing through lower dark of the dungeon. Of course, Rattick had amazed and frightened by the mighty magics he seen the man work. But that made Rattick smile. That one so wise in the ways of power to be so ignorant of patience. That was amusing. And something worth remembering. 
 
-# Here #
+Did someone make it past the Troll and steal something of value from the Wizard. Yes, that would do it. And Rattick wouldn't be surprised. His efforts had been keeping the Troll so well fed, that half the time when he guided adventurers to the beast he had to wake him up. 
 
-
-
-# Rattick in Front of the Dungeon #
-
->He indicated the driver -- this is Relan. He's not too bright, but he knows the pointy end of a sword, I'll give him that. 
-
-
->there's another version of this in the old drafts -- see if the intro paragraph is better. 
-
-Rattick was no hero. At the first sign of trouble, he had slunk into the alleys of Robrecht. As strange creatures marauded through the town and fire ravaged the buildings, slunk through the shadows, looting corpses where he could, burgling a store or two, until he reached the South gate. He found a horse in the Guard's stable and was gone into the night. 
-
-He rode hard around the city, eventually picking up the tracks of the giant wolves' retreat. He followed them, as a vulture would, hoping to find some profit off of any they might kill or savage on their ride. But  he was disappointed. The tracks led back to the Wizard's lair in the woods. The least they could have done was sacked a village upon the way. Or a mule train loaded with valuables. Really, how was a vulture like Rattick supposed to make a living. 
-
-When Rattick reached the dungeon entrance, it wasn't there anymore. Where once had been a grassy hill and innocuous looking wooden door was now a smoking hole in the earth. 
-
-He saw where the wolf tracks led directly over the edge and into the maw of the pit. Hmm, so the Wizard had become fed up. As he rode carefully around the perimeter of the clearing he imagined the scene in his mind. Often enough he had heard the howls of frustration echoing through lower dark of the dungeon. Often had he spied on the man from the safety of the shadows. Rattick was amazed and frightened by the mighty magics he saw the man work. But for one so wise in the ways of power to be so ignorant of patience. Even now he chuckled. 
-
-Did someone make it past the Troll? Rattick shouldn't wonder. He had been keeping the creature so well fed, half the time he guided adventurers to him he had to be sure to wake the beast.
-
-Yes, the Wizard, standing in a cavern surrounded by things grown not made, fearsome Orcs on trained wolf mounts. The Wizard ranting incoherently, raging against insults and injuries both real and imagined. He throws up his hands, says a word of power and an entire hillside blows outward into the night. 
+He could see it. The Wizard in his foul pit, ranting incoherently at the creatures he had made. Raging against insults and injuries both real and imagined. The Wizard throws up his hands, says a word of power and an entire hillside blows outward into the night. 
 
 With a hue and cry, the Orc's of War are let slip. 
 
-It was the kind of scene that one would place in a mighty saga to give the Hero time to rally an army and save the town. Except that there was no hero. And there was no army. Just a wound in the earth and an unsuspecting town that had been sacked.
+Yes, that's the way it would have happened. It was the kind of scene that one would place in a mighty saga to give the Hero time to rally an army and save the town. Except that there was no hero. And there was no army. Just a wound in the earth and an unsuspecting town that had been sacked.
 
-And best of all for Rattick, all of this only served to make things better. Powerful the Wizard might be, but he was ignorant of the ways of man. Now that he had sacked the town of Robrecht, even more heroes would come seeking to defeat him and steal his treasure.  
+All of this only served to make things better for Rattick. Powerful the Wizard might be, but he was ignorant of the ways of man. Now that he had sacked the town of Robrecht, even more heroes would come seeking to defeat him and steal his treasure.  
 
-He had proven himself a more powerful wizard and now would lure more  and more powerful adventurers. And all of these would-be heroes would bring more valuables with them. Which was good for Rattick. When the next party came, he would spin his sad tale of love and life lost in the fall of Robrecht. 
+a more powerful wizard and now would lure more  and more powerful adventurers. And all of these would-be heroes would bring more valuables with them. Which was good for Rattick. When the next party came, he would spin his sad tale of love and life lost in the fall of Robrecht. 
 
-He would summon tears to his false eyes and tell how he had come for vengeance, but realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully. And when they fell, profit. 
+He would summon tears to his false eyes and tell how he had come for vengeance, but realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully. And when they fell prey to Rattick's trickery, he would profit. 
 
-He hobbled his horse and left it to forage. Then he climbed into a tree, found a comfortable limb and waited peacefully for the next flock of heroic lambs to come to the slaughter.
-
-His dreams of blood and fortune were soon interrupted by the sound of horses and, was that a wagon? Coming up the forest road.  
+Rattick climbed into a tree, found a comfortable limb and dozed peacefully while he waited for the next flock of heroic lambs to come to the slaughter. His dreams of blood and fortune were soon interrupted by the sound of horses and, was that a wagon? Coming up the forest road.  
 
 He peered down through the leaves and spied a coach fit for a king. Or a  party of adventurers so rich that Rattick would only have to run his bloody con one last time before he retired to the warmth and debauchery of the Southern Kingdoms. 
 
-He clambered down from the tree to quickly, he nearly fell and broke his leg. He rushed to greet the adventurers, noting that the strong-jawed blond lad who drove the carriage was wearing a very high grade of armor. A very good sign, thought Rattick, expensive armor, even on the servants.
+He clambered down from the tree to quickly, he nearly fell and broke his leg. He rushed to greet the adventurers in their splendid coach, noting that the strong-jawed blond lad who drove the carriage was wearing a very high grade of armor. A very good sign, thought Rattick, expensive armor, even on the servants.
 
 "Hello, hail and welcome, proud adventurers. Be on your guard, for you have come to the lair of a Wizard most foul and dangerous. Humble as I am, I place at your service, my unworthy person, Rattick." He said, finishing with a low bow. 
-
 
 Before he raised his head, he heard a familiar and irritating voice say, "Ah, Rattick, do I have a deal for you!"
 
 He looked up sharply. "BOLTAC?!?"
 
-
-> Relan has a pack and rope. Boltac has a tiny little sack, and a scale hanging off of his belt? (bag of holding.)
-			
-
-
-## Boltac Hires Rattick ##
+# Boltac Hires Rattick 
 
 
 "Rattick!" answered Boltac, not missing a beat, "Is it ever your lucky day."
 
 "Why?" asked Rattick with narrowing eyes. 
 
-"Have I got a deal for you."
+"Like I said, I have a wonderful deal for you. A deal no *honest* man could pass up."
 
 "I think you are a long way from your store, shrewd merchant."
 
@@ -1941,6 +1888,31 @@ Now it was Rattick's turn to say, "En-henh," Boltac didn't like the sound of his
 
 "Henh, he's worried about the horses."  
 
+
+I object. I am here to protect you and you are making this almost impossible. 
+
+
+> Relan, get my bags out or the coach, while I negotiate with the man here. 
+
+> "I'll protect you!"
+> "That's not here to protect me. You're here to carry the lantern"
+
+
+>He indicated the driver -- this is Relan. He's not too bright, but he knows the pointy end of a sword, I'll give him that. 
+
+ )) 
+
+
+Get my bag from inside the carriage. 
+
+JUST THE ONE BAG. 
+
+I travel light. 
+
+
+
+> Relan has a pack and rope. Boltac has a tiny little sack, and a scale hanging off of his belt? (bag of holding.)
+			
 
 # Boltac Versus the Troll #
 
@@ -3554,12 +3526,6 @@ Boltac smiled at the young man, so innocent in the ways of the world, and oblivi
 
 
 "And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
-
-
-
-
-
-
 
 
 # Extra from Relan v. Shirley. 
