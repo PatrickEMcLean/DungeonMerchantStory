@@ -21,6 +21,7 @@ Sabrellia -- the Fake Priestess of Dar
 Stavro -- her fake brother
 Two men in black -- Generic thugs. 
 
+Uthgar, and Frowen and C'huhoyle -- Heros from the sagas.
 
 
 

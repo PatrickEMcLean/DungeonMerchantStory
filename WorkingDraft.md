@@ -1597,7 +1597,7 @@ But the speech froze on his lips, when out from the carriage stepped, Boltac.
 > "I'll protect you!"
 > "That's not what you're here for. You're here to carry the lantern"
 
-For Relan, Adventure wasn't turning out to be the glorious excitement he had hoped for. Mostly it was sore feet, with a slight tang of guilt. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
+For Relan, Adventure wasn't the glorious excitement he had hoped for. Mostly it was sore feet, with a slight tang of guilt. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
 
 At first, he thought the trouble the boots had given him was from the running -- the running away in shame at what he had done to Sabriella, Shirley, whatever such a woman should be called. At the time, he had been certain that she was going to stab him him. But now, he had doubts. Maybe she had just been scared. Relan knew he was scared, deep down, in that part of him that wasn't fit to be a hero. But even if she had tried to kill him, a real hero would have found a way to deal with it without hitting here. 
 
@@ -1627,7 +1627,7 @@ He turned to see the merchant, fat and happy, holding the reins of the Ducal Car
 
 "Unlike you I am not running away."
 
-"Sweetheart, ya not running anywhere. At best, you're limping."
+"Sweetheart, you are clearly not running anywhere. At best, you're limping."
 
 "I mean, I go to face this dread foe who has so wounded our fair city. I mean not to flee, but to revenge this wrong."
 
@@ -1641,73 +1641,49 @@ He turned to see the merchant, fat and happy, holding the reins of the Ducal Car
 
 "I do have to warn you, you're probably not going to make it through this thing alive."
 
-"Me? But I'm young and strong. You're old and fat."
+"Me? But I'm young and strong. You're old and fat. You're the one who's going to be killed first."
 
-"En-henh. So, out of the two of us, who looks more dangerous. Seriously, you got a crossbow, which one of us you gonna shoot first."
+"En-henh. I'll give you odds on that. Out of the two of us, who looks more dangerous? Seriously, you got a crossbow, which one of us you gonna shoot first."
 
-Relan swallowed awkwardly as the thought sunk in. 
+Relan let the question sink in. 
 
-"Yeah, you are a regular arrow catcher. I'll be three kinds of glad to have you along. Besides "Age and treachery will always beat youth and enthusiasm. So you comin'?"
+"You are young and strong and scary looking. They'll shoot you first. Me, I'm non-threatening."
 
-Relan still didn't climb onto the carriage. "What changed your mind? Isn't this what you pay taxes for."
+Relan still didn't climb onto the carriage. "What changed your mind? Isn't this what you pay taxes for?"
 
-The smile dropped off Boltac's face."The Duke ran away. Took his guards with him."
+The smile dropped off Boltac's face and he said, "The Duke ran away. Took his guards with him."
 
 Relan's mouth dropped open. "Can he do that?"
 
-"Age and treachery kid. That's is play and it's a good one. So it's just us. Ain't nobody else."
+"Age and treachery kid. That's his play and it's a good one. For him at least. So it's just us. Ain't nobody else. Which is good, because what we are going to do is *very* dangerous and *very* stupid."
 
+"It's not stupid. You're going to rescue the lady, the love of your life!" said Relan. 
 
-""
+"En-henh, something like that. Anyway, I eeeeeeeh, like having her around and I'm going to get her back. Rescue is too strong of a word to, uh."
 
+"Stout merchant, from down here it looks like you are blushing."
 
-
-
->being a hero is not what he though
->Boltac has to justify why he's going after the girl 
->(it's not too late to turn back)
->It never turns out like you think. 
-
-
-  
-
-Boltac rides up and says, "Climb on, idiot."
-
-"Where are you going?"
-
-
-
-The farm boy climbed up the wagon and they road off. 
-
-{Kid picked a helmet that was too big, just because he thought it looked cool} 
-
-"Y'know, I'm not afraid now."
-
-"You should be," said Boltac, "We're going to do something very dangerous and stupid."
-
-"It's not. We've got to rescue the girl."
-
-"Yeah, but what's in it for you."
+"Oh, uh, it's just the heat. The sunshine you see. I'm not used to it on account of I'm in my shop all the time," said Boltac, mopping at his face with his sleeve. And besides. If you're so smart, why are you coming along? What's in it for you?"
 
 "Well," he said, "I'll get to make a name for myself. Be somebody. Maybe get a girl of my own."
 
-"Y'know we're going to get killed." And it's not even your girl."
+"Y'know we're going to get killed. You're definitely going to get killed. And it's not even your girl."
 
-"Not if you brought any more of those healing potions. I mean that was cool. I've never seen anything like that. I didn't even know--"
+Relan smiled. "Not if you brought any more of those healing potions. I mean that was amazing. I've never seen anything like that. I didn't even know--"
 
 "Kid, I didn't bring any more potions. Not like that."
 
-"Well, why not."
+"Well, why not?"
 
-"Because that was the only one I had. Magic, real magic is very expensive. And it's tricky. If you're plan depends on magic, it's probably not gonna work."
+"Because that was the only one I had. Magic, real magic is very expensive. And it's tricky. If your plan depends on magic, it's probably not gonna work."
 
-"It was cool though."
+"It was the most amazing, stupendous, unbelievable thing I have ever..."
 
-"Yeah, I'm probably growing an extra liver though. Or an extra lung in the middle of my stomach."
+"Yeah. It was magic. The downside is I'm probably growing an extra liver though. Or an extra lung in the middle of my stomach."
 
 "It worked out."
 
-"Yeah, but next time, ennnh," Boltac waggled his palm from side to side.  "Magic is a bad bet."
+"Yeah, but next time, ennnh," Boltac waggled his palm from side to side.  "There's always a downside with magic."
 
 "So what did you bring?" Relan asked, looking at the bags on top of the coach. 
 
@@ -1735,34 +1711,33 @@ The farm boy climbed up the wagon and they road off.
 
 "Well there's Uthgar, and Frowen and C'huhoyle."
 
-"Not from sagas. Not dead guys you heard about in a song someplace. I mean, how many honest to gods heroes do you know. Have had a beer with?"
+"C'huhoyle my squeaky wagon wheels! Not heroes from sagas. Not dead guys you heard about in a song someplace. I mean, how many honest to gods heroes do you know. Have had a beer with?"
 
 "Uh…"
 
-"Take your time. Make sure you count them all," Boltac said as he let the soothing clip clop of the horses hooves and the tranquil beauty of the forest lull him into something of a trance. Boltac knew he was probably going get himself killed with a stunt like this. But right now that just made him wish that he had spent a little bit more time outside of the store.  
+"Take your time. Make sure you count them all," Boltac said as he let the soothing clip clop of the horses hooves and the tranquil beauty of the forest lull him into a kind of trance. 
 
 "None," interrupted Relan. 
 
 "Did you miss any? I mean is that an exact count? Because, as a merchant, I can tell you, it is important to be precise with figures."
 
-"Okay, okay, you've made your point."
+"Okay, okay, you've made your point." Relan said, staring off into the trees. 
 
-"Yeah, that's what I thought. There are two possible reasons for this, and pay attention, because they are closely linked. One, everybody who sets out to be a hero gets killed. And Two, there's no such thing as heroes."
+"Yeah, that's what I thought. There are two possible reasons for this, and pay attention, because they are closely linked. One, everybody who sets out to be a hero gets killed. And two, there's no such thing as heroes."
 
 "That's not true. That't can't be true. Why there's got to be heroes. Who else looks out for the poor and the unfortunate?"
 
-"The poor and the unfortunate either look out for themselves, or, well, they don't have that problem anymore."
+"The poor and the unfortunate either look out for themselves, or, well, then they're really poor and unfortunate."
 
 "That's terrible. That's the most awful thing I've ever heard."
 
-Boltac shrugged, "Hey, these a dark ages that we live in. I don't make the rules. I don't even like the rules."
+Boltac shrugged, "Hey, these are dark ages in which we live. I don't make the rules. I don't even like the rules."
 
 "The rules suck. And I think you have it wrong."
 
 "I wish I did," said Boltac, "but there's nothing either of us can do to change it."
 
-They rode on in silence.
-
+They rode on in silence. For a long time. 
 
 (( Kid, do you know why people fight wars?
 
@@ -1788,12 +1763,22 @@ To win?
 
 "Hey kid, you mind taking the reins for a while? I'm still a little woozy from that potion."
 
-"Woozy, but it was magic."
+"Woozy? but it was magic!"
 
 "Trust me, the hangover you get from magic is the worst kind of hangover there is."
 
 
  )) 
+
+
+Get my bag from inside the carriage. 
+
+JUST THE ONE BAG. 
+
+I travel light. 
+
+# Here #
+
 
 
 # Rattick in Front of the Dungeon #
