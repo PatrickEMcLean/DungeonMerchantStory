@@ -1,5 +1,6 @@
 # Names #
 
+The world is referred to as "The Four Kingdoms." Whatever that may mean. ;-)
 
 ## Characters ##
 

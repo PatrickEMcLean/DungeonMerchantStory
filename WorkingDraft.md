@@ -19,6 +19,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 ## Punchlist ##
 
 
+"Age and cunning will always overcome" -- tag the final twist with Boltac saying - Age and cunning. 
 
 * Make Dimsbury want food from the beginning. (add in intro discussion, wine hurts his stomach)
 3. Set up kidnapping (do this earlier. )
@@ -1567,9 +1568,9 @@ As Relan ran north, he thought he might have just learned some kind of lesson. T
 
 # 17
 
-Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness again. 
+Like all true survivors, Rattick had found a way to profit from misfortune of Robrecht. At the first signs of trouble, he had fled into the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness. 
 
-As he moved he stayed off the road, preferring to work his way through the woods some 20 yard off to the side. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the raiding party returning from Robrecht. Horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from Robrecht. Probably just people for food. But just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
+He stayed off the road, preferring to work his way through the woods some 20 yards off to the side. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the raiding party returning from Robrecht. Horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from the town. Probably just people for food. But, just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
 
 The raid was was bad news for Robrecht, of course, but quiet good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? 
 
@@ -1580,6 +1581,9 @@ It appeared the wizard was upping his game. That was good. A unified villain mad
 Rattick settled in to wait at the entrance to the Wizard's lair. As he rested, he invented a new line of patter about love and life lost in the fall of Robrecht. He would tell the next band of adventurers how he was there for vengeance, but that he realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully.
 
 And, then, of course, he would feed them to the Troll, steal all their things and bury any evidence that the Troll could not digest in the woods. 
+
+
+# Rattick Hears the Carriage.
 
 Before he got too deep into his fantasy, he was interrupted by the sound of a carriage making it's way over the rutted forest road. A CARRIAGE! thought Rattick. There was *real* wealth. Adventurers walked or rode horses. But a party of adventurers in a carriage. That meant real coin! He was counting his newfound wealth even as the carriage rolled to a halt in front of what was left of the mine entrance.
 
@@ -1593,21 +1597,69 @@ But the speech froze on his lips, when out from the carriage stepped, Boltac.
 > "I'll protect you!"
 > "That's not what you're here for. You're here to carry the lantern"
 
-For Relan, Adventure was turning out to be the same as sore feet. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
+For Relan, Adventure wasn't turning out to be the glorious excitement he had hoped for. Mostly it was sore feet, with a slight tang of guilt. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
 
-As the day wore on, his pace grew slower and slower as he spent more time resting than limping. Finally, he pulled the boots off and tossed them in the heavy sack he carried/dragged behind him. Even with raw blisters on his feet, it hurt less to walk barefoot. 
+At first, he thought the trouble the boots had given him was from the running -- the running away in shame at what he had done to Sabriella, Shirley, whatever such a woman should be called. At the time, he had been certain that she was going to stab him him. But now, he had doubts. Maybe she had just been scared. Relan knew he was scared, deep down, in that part of him that wasn't fit to be a hero. But even if she had tried to kill him, a real hero would have found a way to deal with it without hitting here. 
 
-And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had even known were animal hides wrapped around his legs with leather strips to protect his legs from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned out husks and buildings, the common folk nursing their hurt and wrapping their dead in shrouds, but the memory of how that thing had felt, dying on the other end of his sword. 
+And a real hero wouldn't be held up by sore feet.
 
-He had wanted a sword so badly. Now that he had one, it hung heavy on his hip, pulling him around to the left. After a day of walking, he could feel a pain starting in his left knee and his left hip. Every time his hand brushed the cold steel of the hilt he shuddered.
+As the day wore on, his criticisms grew sharper and his pace grew slower . Now he was spending more time resting than limping. Finally, he  gave up on the boots,pulled them off and tossed them in the heavy sack he carried/dragged behind him. Even with feet blistered raw, it hurt less to walk barefoot. 
+
+And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had even known were animal hides wrapped around his legs with leather strips to protect his legs from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned out husks and buildings, the common folk nursing their hurt and wrapping their dead in shrouds, but the memory of how that thing had felt dying on the other end of his sword was worse. 
+
+He had wanted a sword so badly. Now that he had one, it hung heavy on his hip, pulling him around to the left. After the days walking, he could feel a pain in his left knee and his left hip. Every time his hand brushed the cold steel of the hilt he shuddered.
 
 But he had saved a man's life! And the thing he had killed hadn't even been human. Then why did he still feel awful when he remembered how the Orc's last breath rattling out of it's body felt when transmitted through the hold of that sword. Didn't that make him a hero? Is this the way that heroes were supposed to feel? 
 
-He felt so good and fine, the cobbles of Robrecht ringing from where his bootheels struck them, his sword, swinging at his hip. A hero, that was what he had felt. At least at the beginning of the day. Now, here he was, barefoot, tired and remorseful. 
+He had felt so good and fine, with the cobbles of Robrecht ringing under his bootheels and his sword, swinging at his hip. A hero, that was what he had felt. At least at the beginning of the day. Now, here he was, barefoot, tired and remorseful. Having made little progress other than knocking out a man who had tricked him and punching a woman. If he had been a more experience hero, Relan would have just been glad to be alive. 
 
-But Relan was still determined. If there was one thing he thought he knew about the business of heroism, it was that heroes didn't get up. Even when things got hard. No, heroes, pressed on. Saw it through to the bitter end. And sometimes, yes, died heroic deaths. But a traitorous thought suggested itself to Relan. What about the other adventurers? The ones who didn't make it. The ones who took their boots off. No one wrote songs about them. 
+But Relan kept going. If there was one thing he thought he knew about this business of heroism, it was that heroes didn't give up. Even when things got hard. No, heroes, pressed on. Saw it through to the bitter end. And sometimes, yes, died heroic deaths. But, what about the other adventurers? The ones weren't heroic enough to make it? The ones who took their boots off? No one wrote songs about them. 
 
-So he hung his head and trudged forward, putting one bare, calloused foot after another. He didn't raise his head. Not even when he heard the rattle of a carriage and the heavy footfalls of draft horses on the road behind him. 
+Relan his head put one bare, calloused foot in front of the other. He didn't raise his head. Not even when he heard the rattle of a carriage and the heavy footfalls of draft horses on the road behind him. He just set his jaw and walked on, prepared to walk of the edge of the Earth if that's what it took. 
+
+"Climb on, idiot," said a familiar voice. 
+
+He turned to see the merchant, fat and happy, holding the reins of the Ducal Carriage. 
+
+"What? How?"
+
+"Not only am I smart enough not to pick a shitty pair of boots. I'm also smart enough not to walk when I can ride."
+
+"Unlike you I am not running away."
+
+"Sweetheart, ya not running anywhere. At best, you're limping."
+
+"I mean, I go to face this dread foe who has so wounded our fair city. I mean not to flee, but to revenge this wrong."
+
+"That's a lotta big fancy words. You want to be the big hero? Save the girl, win the kingdom, all that?"
+
+"Yes,"
+
+"Well that's where I'm going."
+
+"You," asked Relan, in danger of developing healthy skepticism in light of recent events. 
+
+"I do have to warn you, you're probably not going to make it through this thing alive."
+
+"Me? But I'm young and strong. You're old and fat."
+
+"En-henh. So, out of the two of us, who looks more dangerous. Seriously, you got a crossbow, which one of us you gonna shoot first."
+
+Relan swallowed awkwardly as the thought sunk in. 
+
+"Yeah, you are a regular arrow catcher. I'll be three kinds of glad to have you along. Besides "Age and treachery will always beat youth and enthusiasm. So you comin'?"
+
+Relan still didn't climb onto the carriage. "What changed your mind? Isn't this what you pay taxes for."
+
+The smile dropped off Boltac's face."The Duke ran away. Took his guards with him."
+
+Relan's mouth dropped open. "Can he do that?"
+
+"Age and treachery kid. That's is play and it's a good one. So it's just us. Ain't nobody else."
+
+
+""
+
 
 
 
@@ -1623,27 +1675,7 @@ Boltac rides up and says, "Climb on, idiot."
 
 "Where are you going?"
 
-"You want to be the big hero? Save the girl, win the kingdom, all that?"
 
-"Yes,"
-
-"Well that's where I'm going."
-
-"I warn you, you'll probably be killed."
-
-"Me? But I'm young and strong. You're old and fat."
-
-"Age and cunning will always beat youth and enthusiasm. You comin' or not?"
-
-The kid still didn't climb onto the carriage. "What changed your mind. Don't you pay taxes."
-
-"The Duke ran away. Took his guards with him."
-
-The kids mouth dropped open. He lost the power of speech.
-
-"Can he do that?"
-
-"Age and cunning kid. So it's just us. Ain't nobody else."
 
 The farm boy climbed up the wagon and they road off. 
 
@@ -1659,7 +1691,7 @@ The farm boy climbed up the wagon and they road off.
 
 "Well," he said, "I'll get to make a name for myself. Be somebody. Maybe get a girl of my own."
 
-"We're going to get killed."
+"Y'know we're going to get killed." And it's not even your girl."
 
 "Not if you brought any more of those healing potions. I mean that was cool. I've never seen anything like that. I didn't even know--"
 
