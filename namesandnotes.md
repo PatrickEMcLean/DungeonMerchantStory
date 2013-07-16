@@ -17,6 +17,10 @@ Samga -- the faithful Orc overseer.
 Hissglarg -- the orc in the tunnel
 
 Sabrellia -- the Fake Priestess of Dar
+Stavro -- her fake brother
+Two men in black -- Generic thugs. 
+
+
 
 
 
