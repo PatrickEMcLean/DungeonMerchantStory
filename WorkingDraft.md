@@ -1361,8 +1361,7 @@ When he picked up the lamp this time, even though he was still wearing the glove
 Boltac left the store and headed North, for points unknown and unknowable. Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop falling onto the smoldering remains of a burned building. But that didn't mean he didn't have any choices. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King either. But he wasn't powerless. Rather than go off half-cocked, he could use the skills and tools he had. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death.
 
 
-# Relan Outfits Himself and Leaves the City. #
-
+# 14
 
 Relan was wearing a new pair of boots. In fact, it was his first pair of boots. Up until this point he had only worn sandals or wooden shoes. And then, they were mostly hand-me downs. Everything in Relan's life had been a hand-me down. That's the way it was when you were the youngest of  seven on a cold-water farm hidden away in the fog-shrouded mountains of Robrecht. There was plenty of work and nothing else. 
 
@@ -1389,10 +1388,6 @@ Perhaps because it wasn't his city? At least not yet. He had only been in Robrec
 He had almost given up. Then he had had met Sabrellia. She had appeared to him in the muck and the mire of Robrecht's agricultural market. Relan was almost about to give up. He had come to the farmer's stalls to ask for work. He was a strong lad, after all and knew how to work hard. But as he stood there, hungry, exhausted, covered in filth, somehow he couldn't bring himself to speak the words. 
 
 It would mean defeat. It would mean giving up and eventually going back to the farm in the tiny valley. It would mean that his brothers and sisters were right to laugh. And, worst of all, it would mean that the best he could hope to get from life would be that same, hard, beaten look that was the brutal, battered inheritance his parents seemed to have saved for him. 
-
-
-
-
 
 
 "You seem troubled," she said. 
@@ -1450,7 +1445,8 @@ When she was out of sight he rubbed his lips and smiled to himself. This was the
 Then the screaming started. 
 
 
-# Relan Gives Chase
+# 15
+
 
 Relan rounded the corner and slipped on the cobbles. With inhuman dexterity and a strength that came from long days of hard work on the farm, he caught himself on his palm and shoved the upper half of his body back on to balance.
 
@@ -1490,17 +1486,18 @@ Relan said, "I can rescue her!"
 
 The man's pitiful wails chased him through the streets as Relan went in search of a sword.
 
-# back to present time #
+# 16
 
-Of course, a sword was hard to find. Relan tried to obtain a sword for two days before he worked up the nerve to go talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavo, who lived in a shack built against the outside of the Southron wall, wailed and cried everytime he saw Relan. He told him his sad tale of woe, claiming that it was all his fault, but would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
+
+Of course, a sword was hard to find. Relan had tried to find one for two days before he worked up the nerve to go talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavo, who lived in a shack built against the outside of the Southron wall, wailed and cried every time he saw Relan. He told him his sad tale of woe, claiming that it was all his fault, but would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
 
 He was worthless, except for the information that Relan had managed to extract from him. The men who had taken Sabriella worked for a man named Davidos, a thug who controlled the gambling in Robrecht. They had taken her to hold to the South, a pile of dark stone on the River Swift known as the Tower of Forgetting. There they would keep her for a week. Then the rapes would start. Then, a week after that, they were likely to cut fingers off. Relan did not ask how this creature Stavo, could describe such tortures in detail without breaking down into tears. 
 
-Relan, of course, vowed that he would rescue his lady (with all faithfullness and heroism), but the how of it had been impossible until he had saved the Merchant Boltac. Now that he was armed, free and left to his own devices, the question became, what should he do? Robrect needed to be avenged, and the threat of these Orc's and that evil flying wizard needed to be dealt with. Clearly, that was a selfless hero's first duty, wasn't it?
+Relan, of course, vowed that he would rescue his lady (with all faithfulness and heroism), but the how of it had been impossible until he had saved the Merchant Boltac. Now that he was armed, free and left to his own devices, the question became, what should he do? Robrecht needed to be avenged, and the threat of these Orc's and that evil flying wizard needed to be dealt with. Clearly, that was a selfless hero's first duty, wasn't it?
 
-But on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of no saga, song or lay in which the hero had left his lady in peril to embark on a larger, more important quest. But, in a moment of unusually clear thinking, it seemed that the needs of the city should come before the needs of one heartbroken hero. Shouldn't they. 
+But on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of no saga, song or lay in which the hero had left his lady in peril to embark on a larger, more important quest. But, in a moment of unusually clear thinking, it seemed that the needs of the city should come before the needs of one heartbroken hero. Shouldn't they?
 
-So it was, lost deep in the shallows of his limited philosophy, that Relan stumbled into a wheelbarrow with a corpse in it. He muttered half an apology before he recoginzed the bloated corpse in the bottom of the wheelbarrow. "Stavo! What has happened to you!" He heard a sharp intake of breath. A decidedly *feminine* intake of breath, and looked up to see a teary-eyed Sabriella on the other side of the barrow.  
+So it was, lost deep in the shallows of his limited philosophy, that Relan stumbled into a wheelbarrow with a corpse in it. He muttered half an apology before he recognized the bloated corpse in the bottom of the wheelbarrow. "Stavo! What has happened to you!" He heard a sharp intake of breath. A decidedly *feminine* intake of breath, and looked up to see a teary-eyed Sabriella on the other side of the barrow.  
 
 "Sabriella, you have been rescued!"
 
@@ -1512,66 +1509,63 @@ So it was, lost deep in the shallows of his limited philosophy, that Relan stumb
 
 "Silence, varlet or I will stave in your head," Relan bellowed, because it seemed like the kind of thing a hero should do in this situation. 
 
+"Let's steal his boots!" said the man in black, because it was the kind of thing a thief should say in this situation. Relan answered by drawing his sword. 
 
-"Let's steal his boots!" 
+"Oh ho, ho. Look who's a man at arms now!" exclaimed the man in black, as he drew his wickedly curved dagger. "You'd best grease that up, so it will hurt less when I take it away from you and stick it up your"
 
+"Whack!" said the man in black's skull as the pommel of Relan's sword came down on it. 
 
-Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.    
+"Please don't hurt me!" cried Stavro. "Haven't I been through enough!"
 
-Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
+"You," shrieked Sabriella "What about me? How could you forsake your own sister, so recently rescued from ruffians of, uh, ill-intent!"
 
+"Sister. You're not my sister! I swear, they forced me to do it. Please don't hurt me. Oh Shirley, you sure know how to pick 'em. I thought he was just a country bumpkin. Did you see how fast he moved?"
 
+"Wait," said Relan, feeling that he had some part to play in all of this, "You know the men who kidnapped you?"
 
+Stavro said, "Ah, well there you go. You can take the bumpkin out of the country, but you can't take the -- OH MY GODS, I take it back, please don't kill me." 
 
-And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
+"I haven't killed anyone... here," said Relan, "What happened to him in the 'barrow?"
 
-Then it came to him. He would do both, for both must be done. If he was to be a hero, truly be a hero, then he would have to do the hard things that other people wouldn't. But he didn't see how such a thing would be possible. 
+"Torn apart, by those things. Those Hork-Hork things. He died trying to protect me."
 
-But you broke your vows.
+"Protect you!?!" cried Stavro. "We ran and you locked him out. I still remember him clawing at the door and screaming. Offering you his share... oh, right. But don't look at me that way Shirl, this grift is blown, this town is done for, let's just bury Harvuex here and get on down the road."
 
-Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
+"Shirley? You're name is Shirley?"
 
+"Well, I see you two have a lot to talk about. I'll just wheel poor Harv out the East gate, and when Thorvin wakes up you catch up with--"
 
-"It was a con. It was all a con. I was never kidnapped." 
+"NO!" Relan and Sabreilla/Shirley shouted. 
 
-"Never mind Sab, he's too thick to understand."
+"Those things are coming back, you know," Stavro said ruefully. "It's not safe."
 
-"No, he's not"
+"I go to root out the source of this evil," said Relan, not taking his wide eyes from Shirley. 
 
-"But I loved you," Relan said, completely disarmed by this trickery. 
+"Then you're an idiot, kid," said Stavro.
 
-"I know you did"
+"No, he's brave," said Shirley, not taking her eyes off of him. 
 
+"But I see it is not the only evil that plagues Robrecht Town. Treacherous woman. I... I... loved you."
 
+"I know you did," said Shirley, not without kindness. "That's my gift. As for the rest," she shrugged, "Don't blame me. It's the world that's treacherous, I'm just a girl who's trying to keep up. Besides, a girl's gotta make a living, doesn't she. And I don't have a big strong man like you to protect me." As she said this, she edged closer to Relan, unafraid of the naked blade in his hand. She pushed the flat of it gently out of the way with her fingertips. 
 
+"You know, we were trying take whatever money you could scrape together. I'm not proud of that." She ducked her head bashfully, then threw her hair back to reveal an expanse of perfect, pale throat that drew Relan downward into her dangerously plunging neckline. "But the feeling was real, you know." Then, like the sun breaking through the clouds after a storm, her pouty frown was replaced with a dazzling smile.
 
-* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
+"Come with us!" she said. "Journey the land together. Make money, have adventures, *embraces* -- we could have it all. And with you I can finally ditch these losers."
 
->But you broke your vows for me.
->I was never a real priestess.
+"Right here," said Stavro, grunting as he struggled to get the unconscious Thorvin into the wheelbarrow. 
 
-That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
+Relan almost believed it. Shirley almost got away with it. But whether the Gods were looking out for Relan, or whether Shirley's luck had run out didm't matter. The morning sunlight glinted off the thin-bladed dagger, Shirley was concealing along her wrist. It wasn't stout enough to chop off a limb, but it was enough to slip between chain mail rings, between the ribs of a strong man, just enough to tickle his heart and kill him. 
 
+"What are you going to do with that?" Relan asked. He didn't give her time to explain. He didn't give her time to stab him. He hit the beautiful create in her beautiful face with fist. Then he looked down in horror at what he had done. A hero never, ever hit a lady. Relan ran away. 
 
+When he heard the punch, Stavros had just finished getting Thorvin into the wheelbarrow. He turned and looked at Shirley, unconscious on the ground. "Aw come on!" he said, sick of this day already. 
 
-  And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
-~                                                                                 
-When Boltac had left the store, Relan 
+As Relan ran north, he thought he might have just learned some kind of lesson. The confusion, the pain in his heart, the feeling of being totally inadequate to the moment -- yes, that's what it always felt like when he learned a lesson. But it  wouldn't be until years later that he would be sure.   
 
->runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
+>Consider adding a scar or some piece of very specific description for this guy. 
 
->Confronts the con. But you told me she was trapped in a tower! 
-
-
-
-
-One of the friends is wounded. 
-Oh Shit! Cried one of the kidnappers!
-
-he backhands her and runs away. Ashamed and embarrassed. 
-
-
-# 14
+# 17
 
 Like all survivors, Rattick had found a way to profit from the sack of Robrecht. At the first signs of the assault, he had fled to the alleys. And then down into the sewers. And then, by means of one of the secret ways that are well-known to the darker and more desperate sort, he made his way out into the wilderness again. 
 
@@ -3543,3 +3537,66 @@ Boltac smiled at the young man, so innocent in the ways of the world, and oblivi
 
 
 "And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
+
+
+
+
+
+
+
+
+# Extra from Relan v. Shirley. 
+
+Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.    
+
+Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
+
+
+
+
+And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
+
+Then it came to him. He would do both, for both must be done. If he was to be a hero, truly be a hero, then he would have to do the hard things that other people wouldn't. But he didn't see how such a thing would be possible. 
+
+But you broke your vows.
+
+Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
+
+
+"It was a con. It was all a con. I was never kidnapped." 
+
+"Never mind Sab, he's too thick to understand."
+
+"No, he's not"
+
+"But I loved you," Relan said, completely disarmed by this trickery. 
+
+"I know you did"
+
+
+
+
+* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
+
+>But you broke your vows for me.
+>I was never a real priestess.
+
+That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
+
+
+
+  And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
+~                                                                                 
+When Boltac had left the store, Relan 
+
+>runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
+
+>Confronts the con. But you told me she was trapped in a tower! 
+
+
+
+
+One of the friends is wounded. 
+Oh Shit! Cried one of the kidnappers!
+
+he backhands her and runs away. Ashamed and embarrassed. 
