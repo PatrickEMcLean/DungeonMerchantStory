@@ -1,4 +1,4 @@
-*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+(*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
 # **The Merchant Adventurer** #
@@ -1767,16 +1767,15 @@ Before he raised his head, he heard a familiar and irritating voice say, "Ah, Ra
 
 He looked up sharply. "BOLTAC?!?"
 
-# Boltac Hires Rattick 
+# 19
 
-
-"Rattick!" answered Boltac, not missing a beat, "Is it ever your lucky day."
+"Rattick!" answered Boltac, not missing a beat, "Is it ever your lucky day!"
 
 "Why?" asked Rattick with narrowing eyes. 
 
 "Like I said, I have a wonderful deal for you. A deal no *honest* man could pass up."
 
-"I think you are a long way from your store, shrewd merchant."
+Rattick made a face. "I think you are a long way from your store, shrewd merchant."
 
 "And don't I know it. Relan, unload the bags, while I have a word with Rattick here."
 
@@ -1788,11 +1787,11 @@ He looked up sharply. "BOLTAC?!?"
 
 "The cunning fat guy who outsmarts everybody in the end."
 
-"I don't understand."
+"I don't understand," said Rattick, for once telling the truth. 
 
 "Rattick, I want to hire you. Now before you protest, here's 10 gold pieces. Now there's more where that came from. Plenty more. I seek an audience with the Wizard at the bottom of this smoking hole, and I want you to get me there."
 
-"I… I… have you lost your mind, fat merchant?"
+"I… I…" Rattick got lost between trying to twist circumstances to his advantage and trying to figure out what in the hell circumstance was up to, "Have you lost your mind, fat merchant?"
 
 "Because I'm here, yes. But I haven't lost all my cunning, you understand. Half you reward is with me, half when you get me back to town."
 
@@ -1806,41 +1805,51 @@ He looked up sharply. "BOLTAC?!?"
 
 "Troll."
 
-"There's a Troll?" asked Relan, as he lowered he brown sack from the, "Why is this so heavy?"
+"There's a Troll?" asked Relan, as he removed Boltac's bag from the inside of the carriage, "is this all you packed?"
 
-"It's not heavy," Boltac said, taking it from him, "You're just not used to work. And there's a troll somewhere inside this hole. It's the same Troll he's been using to kill hapless adventurers, just like us. Isn't that right Rattick?"
+"I travel light," Boltac said, taking it from him, "If there's a troll somewhere inside this hole then it's the same Troll he's been using to kill hapless adventurers, just like us. Isn't that right Rattick?"
 
 "I would never do such a thing. I am here to avenge my beloved Robrecht. And I for one am shocked, SHOCKED --"
 
-"Yadda, yadda, yadda. See kid, what he did, nevermind kid, what he did was despicable. But the important thing is that we're not going to fall for it."
+"Yadda, yadda, yadda. See kid, what he did there, nevermind kid, what he did was despicable. But the important thing is that we're not going to fall for it."
 
-"No we're not," said the Relan, not knowing what he wasn't going to fall for, but scaring Rattick a little anyway."
+"No we're not," said the Relan, not knowing what he wasn't going to fall for, but scaring Rattick a little anyway. "Because I'm here to protect you."
 
-"What are you going to do with me?" asked Rattick. 
+"Protect me! Ha. Kid, you're here to carry the lantern." Boltac reached into his bag and handed Realn him the sacred, magic lantern of Lamptopolis. As soon as Relan touched it, it blazed forth with a brilliant light. 
 
-"Do with you. Why I'm going to make you rich. Name a figure Rattick. How many coins do you need to guide me to the Wizard at the bottom of this smoking hole in the Earth."
+"We're not going to be sneaking up on anybody with that thing."
+
+"Eh, yeah," said Boltac, "You're right. You carry it."
+
+"The magic lamp, do you trust him?" 
+
+"I trust him to be totally untrustworthy. Which I can work with," said Boltac. But when Rattick took the lamp it went out. "Hmm, smart lamp. Okay, we'll use torches."
+
+Rattick handed the darkened lamp back to Boltac and asked, "What do you want with me?" asked Rattick. 
+
+"I want to make you rich. Name a figure Rattick? How many coins do you need to guide me to the Wizard at the bottom of this smoking hole in the Earth."
 
 "Why do you want to see him so badly?"
 
 "He has a friend of mine. And I'd like her back."
 
-"Ho, ho ho. Is this love? Love from the man who is all business."
+"Ho, ho ho. Is this love? Love from the man who is all business?"
 
-"Yeah, I'm all business Rattick, so how much you want."
+"Yeah, I'm all business Rattick, so how much you want?"
 
 "I can't get you past the Troll."
 
-"What do you mean, Rattick. Sneaky little weasel like you?"
+"What do you mean, Rattick? Sneaky little weasel like you?"
 
-"No, no, I swear it. Ever since he put the Troll there, even I haven't been able to sneak to the lower levels. Trolls have a very good sense of smell."
+"No, no, I swear it. Ever since Dimsbury put the Troll there, even I haven't been able to sneak to the lower levels. Trolls have a very good sense of smell."
 
-"Nah Rattick, you're just rotten to the core. But don't you worry about that. You get me to the Troll, and I'll take care of him."
+"Nah Rattick, you're just rotten to the core, so you stink to high heaven. But don't you worry about that. You get me to the Troll, and I'll take care of him."
 
 "What? YOU? You can't be serious," Rattick collapsed in laughter.
 
-"Rattick, I'm your boss. You shouldn't mock your boss."
+Boltac frowned. "Y'know Rattick, if I'm gonna be your boss, you might want to show me a little respect."
 
-"You're not my boss. I would never work for a man who would get me killed."
+"My boss? No offense, but I try not to work for people who will get me killed."
 
 "Ah, so little faith Rattick. I tell you what." Boltac pulled a full coin purse from my belt. "This is for you. And three times this much when we get back to Robrecht with the girl."
 
@@ -1848,79 +1857,19 @@ He looked up sharply. "BOLTAC?!?"
 
 "Don't forget about me," said Relan drawing his sword. The conversation came to a complete halt as both men stared at the Farm boy. In fact, they stared so long, the boy became uncomfortable and asked, "What."
 
-"But that away before you hurt yourself," said Boltac. "Now where were we."
+"But that away before you hurt yourself," said Boltac. "Now where were we?"
 
 "You were just about to get yourself killed," said Rattick. 
 
-"Ah yes, exactly, ye of little faith. I tell you what Rattick. You lead me to the Troll, and if I can't defeat the Troll, you keep the gold. I mean after the Troll eats me and shits it out."
+"Ah yes, exactly, ye of little faith. I tell you what Rattick. You lead me to the Troll, and if I can't defeat your Troll, you keep the gold. I mean after the Troll eats me and shits it out."
 
 "Trolls shit gold?" asked Relan, very confused. 
 
 "Gold is very hard to digest. Isn't that right Rattick?"
 
-"Shut up and follow me," said Rattick. 
+"I shall do as you ask. Then I will loot your corpse with great relish."
 
-
-
-"Name a figure Rattick. How many coins you want to guide me to the bottom of this smoking whole in the Earth?"
-
-Because I haven't brought all the gold with me, "
-
-Now it was Rattick's turn to say, "En-henh," Boltac didn't like the sound of his own skepticism coming back at him. "I can get you *to* the Troll, stout merchant, but I cannot get you *past* the troll."
-
-"Then lead on McSneaky, I'll handle your Troll."
-
-"I shall look forward to serving you, then going through your pockets for loose change."
-
-"En-henh," said Boltac, "C'mon Relan, time to go."
-
-"Are the horse going to be okay if we leave them out here?" asked the  lad with real concern.
-
-"Henh, he's worried about the horses."  
-
-
-I object. I am here to protect you and you are making this almost impossible. 
-
-
-> Relan, get my bags out or the coach, while I negotiate with the man here. 
-
-> "I'll protect you!"
-> "That's not here to protect me. You're here to carry the lantern"
-
-
->He indicated the driver -- this is Relan. He's not too bright, but he knows the pointy end of a sword, I'll give him that. 
-
- )) 
-
-
-Get my bag from inside the carriage. 
-
-JUST THE ONE BAG. 
-
-I travel light. 
-
-
-
-> Relan has a pack and rope. Boltac has a tiny little sack, and a scale hanging off of his belt? (bag of holding.)
-			
-
-# Boltac Versus the Troll #
-
-"Shhh," said Rattick. "It's right up ahead. Now, if you're going to stand any kind of a chance at all, you need to take your dagger. Wait, where's your dagger?"
-
-"Nah, I got different idea."
-
-"But maybe he is right," said Relan, as he began to unsheathe his sword. 
-
-"Keep it in your pants kid," snapped Boltac. "Look, both of yas, we'll try it my way first and if it doesn't work."
-
-"I will avenge you," said Relan.
-
-"Me too," said Rattick, oozing with sarcasm.
-
-"Enh-henh. Ye of little faith."
-
-Then he turned and lifted his lantern high. He strode out of the darkness into the chamber, right up to the foot of the sleeping troll and said, "Oh Mister Trooooooo-ll. Wakey, wakey! You're Uncle Boltac has got a deal for you."
+"There's my boy. C'mon Relan. Let's go meet the Troll."
 
 
 # Boltac v troll other #
@@ -1929,7 +1878,7 @@ As they descended into the darkness, Rattick thought about knifing them both the
 
 "That's not *exactly* what I'm thinking."
 
-"Yeah, but close enough. And you want to know what I'm thinking about? Other than your inevitable and predictable betrayal." Rattick was silent. Boltac continued, "I'm thinking, if you're our guide, you should be going first. Kid, give this slippery bastard the lantern."
+"Yeah, but close enough. And you want to know what I'm thinking about? Other than your inevitable and predictable betrayal." Rattick was silent. Boltac continued, "I'm thinking, if you're our guide, you should be going first. Kid, give this slippery bastard the torch."
 
 "But I'm one of your key suppliers!" protested Rattick 
 
@@ -1943,13 +1892,13 @@ As they descended into the darkness, Rattick thought about knifing them both the
 
 "What's that noise," asked Relan? Everyone fell silent and realized that each step was taking them closer towards a truly horrible rumbling noise. 
 
-The noise was intermittent. There was a rumbling that sounded like someone with a gigantic set of lungs filled with gravel trying to exhale without coughing. Then silence. Then that same, horrible, ingeopulmonary rumble. 
+The noise was intermittent and sounded like someone exhaling through a gigantic set of lungs filled with gravel. Then silence. Then that same, horrible, ingeopulmonary rumble. 
 
-"Troll," said Rattick.
+"That's the troll," said Rattick.
 
 "Doing what?" asked Relan. 
 
-Rattick waited until the sound had rumbled through the corridor again. They were close enough that the sound had become truly deafening.
+Rattick waited until the sound had rumbled through the corridor again. It was far too loud to talk over. 
 
 "Snoring," whispered Rattick into the sudden silence. "Which is a good thing for you, stout Merchant. What I suggest is that you keep to the shadows. Advance while it's snoring. Then you take your sword and plunge it right in his ear. It's really the only vulnerable place on the whole of a Troll."
 
@@ -1961,7 +1910,7 @@ Rattick waited until the sound had rumbled through the corridor again. They were
 
 "What are you going to do?"
 
-In the blue cast of the flickering fairy lantern, Boltac took a pair of heavy wool gloves from his belt and put them on. "I'm gonna do what I do best. I'm going to make a deal with him."
+In the flickering light of the torch, Boltac took his heavy wool gloves from his belt and put them on. "I'm gonna do what I do best. I'm going to make a deal with him."
 
 Relan searched his memories for any sagas or songs in which the hero had defeated the monster by making a deal. He came up empty. 
 
