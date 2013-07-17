@@ -49,6 +49,9 @@ Except to Relan at end when he takes out wizard. (The one win.)
 
 * Boltac struggling to find something in the sack to create suspense. "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
 
+# Dimsbury Lectures About Magic. #
+
+
 "Magic is like a vast, underground reservoir of water," began Dimsbury, droning into what was shaping up to be a long lecture. 
 "Is that why you live in the earth like a gopher."
 "No, not literally underground, you thick, literal man, I mean it pools and flows beneath the surface of our reality. Beneath all realties, in fact. And I have found a way to coax it to the surface. Draw this energy to us. And create a deeper, broader opening than any "
@@ -57,104 +60,27 @@ Except to Relan at end when he takes out wizard. (The one win.)
 "En-henh."
  
 
+# Boltac can't be king -- lantern
 
-## The Bag ##
+At the very end, Boltac uses the Lantern as an example of why he can't be King. He's not pure of heart.
+
+Asarah, I'm not sure kings should be pure of heart. In fact, for what you have to do, I'm pretty sure it's better off if they're not. Kings are underhanded bastards who negotiate using armies as bargaining chips. 
 
 
-Boltac unlocked the chest. On the top of the chest was a wooden drawer, divided into compartments. In this compartment glittered precious stones, a magic set of glasses and many other bits of valuable oddment. Boltac lifted this drawer out of the way and set it to the side. 
+""We don't have an army.
 
-Beneath it was a sword with a jewel in the handle that pulsed in time with Boltac's heartbeat. It was not simple attuned to Boltac, it would pulse in time with the heartbeat of the mammal that was closest to it. Boltac had it on good authority that when it drew blood, it would shine so brightly that one could not look at it. Boltac carefully moved the bloodthirsty thing to the side, being careful not to draw it.
+"Then we need a very, very good negotiator. "
 
-Beneath this was a cloak, several things in bags, and a shirt of what appeared to be fine chain mail. Even though he knew what it was, he still expected it to be heavy when he lifted it. But when he took it, he could not help but gasp in delight. As light as air, but impenetrable to any point or edge. Yes, this would be going along. But this is not what Boltac was after.
+## Lantern ##
 
-At the bottom of this chest of rare and valuable and magical items there was another, smaller lockbox. Dull and leaden, it was cold to the touch and incredibly heavy. Boltac knew that when it was locked, he could not lift it. In fact he was not certain that, when this box was locked, it could be lifted at all. 
-
-He reached under his tunic and removed an equally dull and leaden key from a leather thong around his neck. He used it to unlock the box. In it was Boltac's most valuable treasure. A burlap sack.
-
-Of course, it was not an ordinary burlap sack. Despite it's ordinary, and somewhat worn, appearance, this was one of two sacks that the Wizard Themistres had been known to make. He had acquired it from an unlikely enough rube who was using it to hold a set of plate armor he had no doubt stolen from a fallen knight. When Boltac had dumped the sack on his counter, his wand of magic detection had lit the underside of his countertop on fire. 
-
-He had a hard time playing that one off, but play it off he did. Only discerning, at the last moment that the magical item was the bag and not the armor. He had paid top dollar for some rather ordinary plate armor and had gotten the man to throw in the bag for free.
-
-At first he had though that the there was still something else in the sack. After all, who would enchant a burlap sack and why? But after days and days of turning the sack inside out and poring over it thread by thread, Boltac gave up. Somehow the wand had been mistaken. Maybe some rare object of power had been in the sack before and had left the stamp of true power on the humble burlap. Or something. After all, you could never really know with magic. 
-
-So he used the sack to collect some trash and figured, he carry it out and throw it away when it got full. Only, it never got full. And, after about 20 lbs, it never got heavier. No matter how much Boltac put in it. Since those were the only two known properties of Themistres Bag of Holding, Boltac assumed that's what he had. 
-
-He had emptied the trash, folded the bag neatly and put it in the bottom of his holdfast chest. Such power made him nervous. Boltac didn't know what the catch was, but he knew there was one. There was no such thing as free lunch, after all. Maybe the weight of everything you carried in the sack would come back to you when you turned a certain age. Or would crush down on a man all at once every second blue moon. Or perhaps the bag would try to swallow and digest those who carried it while they slept. Growing ever more powerful and vast with each soul it digested. Whatever it was, it was bound to be bad. 
-
-But Boltac must chance it. Sallying forth was an act of such stupidity to begin with… it would be foolish not to risk the bag for the rewards that it's powers conveyed. 
-
-Very carefully, Boltac selected the finest and most powerful items from his store. The fruits of twenty years of careful stocking and shrewd trading went into the Bag of Holding. Setting out into the unknown, you couldn't know what you might need. 
-
-And to it, he added *all* the gold. Every last piece he had. 
-
-He slung the bag over his shoulder, light and carefree. And headed with a door with a spring in his step and dread in his heart. The last thing he grabbed on his way out was the brass and Turquoise lantern. 
+ The last thing he grabbed on his way out was the brass and Turquoise lantern. "To lamptopolis," he muttered. 
 
 Bag of Holding. 
 
  
 
 
-## The importance of lighting ##
 
-
-*this could go in the store, or it could be Wagon conversation* 
-
-And, of course, lighting. A question of prominent importance to any adventurer. 
-
-The Farm Boy looked a longingly back at the swords.
-
-"I know, I know," continued Boltac. You think the thing with the pointy end is the most important bit of gear you can buy."
-
-"A hero's life depends on the strength of his blade." 
-
-"Sometimes. But there are two things, I can guarantee you are going to need. 1) Water. 2) Light."
-
-"What about food?"
-
-"Eh, you can live for days without food, but without water… not so much. And the dark. You are comfortable in the dark."
-
-"I have walked this land at night since I was a small child."
-
-"And now that you're a big child… I'm sorry, I'm sorry, I'm just having fun. My point here is, you know what lives far, far underground, in the darkness?"
-
-"I do not, but I am ready to boldly face the unknown."
-
-"Ennn-henh. You got no idea. For that matter, neither do I. But whatever horrible underground thing you mean to bash to a pulp in the name of your personal fame or fortune, you can bet that, at the very least, it can see in the dark."
-
-The Farm Boy stood there with a brave, yet stupid look on his face.
-
-"And you know what can't see in the dark?"
-
-"Uh…"
-
-"You. You can't see in the dark. Can you?"
-
-"No."
-
-"Then trust me, you pain-in-the-ass, take a lantern. In fact, take two and some torches, just in case."
-
-
-### The lantern ###
-
-Cannot be broken and never goes out. The magic lantern of lamptopolis
-
-"Lamptopolis?"
-
-"Okay, you caught me, I made it up. But it's a lantern and it's clearly magic."
-
-"It's beautiful. How does it work?"
-
-"It's magic. That's how it works. Some kinda glowing crystal in the center there. But trust me, it can't be broken."
-
-"How do you know that."
-
-"Ennh, you've never had apprentices have you? Third rule of shopkeeping: If a thing can't be broken by an apprentice, it can't broken."
-
-
-
-"To say nothing about the importance of boots. To make sure you are properly fitted for boots, rather than those ragged sandals you are wearing."
-
->Relan cuts him off, and doesn't finish the boot-fitting advice, so that Relan winds up with ill-fitting boots. 
 >Does Relan complain that the Orc's all have such cool boots.
 >For every Orc he kills, he tries on his boots -- but none of them fit, through the entire story. 
 
@@ -349,6 +275,70 @@ Moving right along, Boltac directed his young shopper towards the racks in the b
 
 "But what I need is a sword," protested the young man.
 
+"En-henh," said Boltac, "Which brings us to lighting. A question of prominent importance to any adventurer."
+
+The Farm Boy looked  longingly back at the swords.
+
+"I know, I know," continued Boltac. You think the thing with the pointy end is the most important bit of gear you can buy."
+
+"A hero's life depends on the strength of his blade." 
+
+"Sometimes. But there are two things, I can *guarantee* you are going to need. 1) Water. 2) Light."
+
+"What about food?"
+
+"Eh, you can live for days without food. A strong lad like you could eat what he kills, but without water… not so much. And the dark. Are you comfortable in the dark."
+
+"I have walked this land at night since I was a small child."
+
+"And now that you're a big child… I'm sorry, I'm sorry, I'm just having fun. My point here is, you know what lives far, far underground, in the darkness?"
+
+"I do not, but I am ready to boldly face the unknown."
+
+"Ennn-henh. You got no idea. For that matter, neither do I. But what I *do* know is that whatever horrible underground thing you mean to bash to a pulp in the name of your personal fame or fortune, you can bet that, *it* can see in the dark."
+
+The Farm Boy stood there with a brave, yet stupid look on his face.
+
+"And you know what can't see in the dark?"
+
+"Uh…"
+
+"You. You can't see in the dark. Can you?"
+
+"No."
+
+"Then trust me, you pain-in-the-ass, take a lantern. In fact, take two and some torches, just in case."
+
+"What about that one," the Farm Boy asked, pointing to a lamp that hung on it's own peg high on the wall. 
+
+"Oh, that, you have a very good eye, my lad. That is the magic lantern of Lamptopolis. It cannot be broken and it never goes out as long as it's carried."
+
+"Lamptopolis?" asked the Farm Boy.
+
+"Okay, you caught me, I made it up. But it's a lantern and it's clearly magic."
+
+"It's beautiful. How does it work?"
+
+"It's magic. That's how it works. Some kinda glowing crystal in the center there. But trust me, it can't be broken."
+
+"How do you know that?"
+
+"Ennh, you've never had apprentices have you? Third rule of shopkeeping: If a thing can't be broken by an apprentice, it can't broken. Now lemme see here. It's got an inscription on it…"
+
+Boltac lifted it from it's resting place. As soon as he put a glow on it's handle the crystal in the center of the lamp flickered to life. "Yeah," Boltac said, rubbing the dust from the letters cut across the bottom of the lantern's base. "It says, 'burns with the flame of a true heart. We'll, it's not much of a flame, is it. But at least you don't have to carry oil for it."
+
+He handed the lantern to the Farm Boy. As soon as the Boy touched the handle, the lantern blazed with brilliant light so bright, Boltac realized it had been a long, long time since he had cleaned the store. 
+
+"Wow," said the Farm Boy. 
+
+"Give me that," snapped Boltac, snatching the lantern from the boys hand. It returned to a dull flicker. 
+
+"How much is it?"
+
+"More than you can afford," Boltac grumbled as he hung the lantern back on the peg.
+
+"That's okay," said the Farm Boy in a fresh-faced and agreeable way that just made Boltac hate him all the more, "what I really need is a sword." 
+
 "Maybe you do and maybe you don't. Keep an open mind for me. We've got Pikes, Bows, Warhammers, Battle Axes, Halberds, Flails, Morningstars, Maces and the largest selection of Fine Daggers this side of the mountains."
 
 "I don't want a mace. I want a sword."
@@ -369,7 +359,7 @@ The lad pulled a sword from the bucket and then dropped it back in quickly. "Thi
 
 "A gold piece?" said the lad, looking concerned. 
 
-"Well," said Boltac, who was starting to get a very bad feeling about the entire transaction, "At Boltac's there's always room to negotiate. But try a few, see how you like the balance.""
+"Well," said Boltac, who was starting to get a very bad feeling about the entire transaction, "At Boltac's there's always room to negotiate. But try a few, see how you like the balance."
  
 "I've been trying to save money to buy a sword, sir. Scrounging for herbs, seeing if anyone needs rats killed. But no one needs rats killed. And the countryside is bare for miles around…" He trailed off.
 
