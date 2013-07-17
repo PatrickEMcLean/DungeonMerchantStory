@@ -45,7 +45,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 * Make up sagas for Relan to quote from in one or two places. (A la Don Quixhote.)
 * Make sure "She was a virgin when we met" makes sense"
 
-
+* make sure the maces match up. From the shop and # 21 
 
 * Boltac struggling to find something in the sack to create suspense. "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
 
@@ -1872,7 +1872,7 @@ Boltac frowned. "Y'know Rattick, if I'm gonna be your boss, you might want to sh
 "There's my boy. C'mon Relan. Let's go meet the Troll."
 
 
-# Boltac v troll other #
+# 20
 
 As they descended into the darkness, Rattick thought about knifing them both then and there. They wouldn't be expecting it.  It would be a quick, certain profit. No chance of Boltac getting him killed. But no sooner had the thought crossed his mind than Boltac said, "I know what you're thinking Rattick. Why don't I knife these two right now and go through their pockets for loose change."
 
@@ -1917,28 +1917,27 @@ Relan searched his memories for any sagas or songs in which the hero had defeate
 Rattick asked, "Stout Merchant, have you ever seen a troll?" 
 
 
-# From Troll's perspective #
+# 21	
 
+The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, and it hated sunlight, but the presence of sleight illumination allowed the Troll to see the terror on his meals faces more clearly. There is an old troll proverb that says food better frightened, or scared is good eatin' or terror is the best sauce. It loses something in translation. But it should show you that, as a species, Trolls were prone to sadism. 
 
-The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, and it hated sunlight, but the presence of sleight illumination allowed the stroll to see the terror on his meals faces more clearly. As the old troll proverb goes (it doesn't translate well) food better frightened, or scared is good eaten' or terror is the best sauce. 
-
-But when the troll woke up, because something was kicking him in the foot. This was a decidedly strange sensation for the Troll. There really isn't anything in a Troll's native habitat that has the temerity to kick a troll. In the dim light of the dungeon he saw food, holding a bag and looking at him. 
+The troll woke up, when something kicked him in the foot. This was a decidedly strange sensation for the Troll. There really isn't anything in nature in the habit of kicking Trolls. In the dim light of the lichen, the Troll could see food, holding a small sack and looking at him. 
 
 "Yoo hoo, Mister Troooooooll. Have I got a deal for you!" said the food. 
 
-Wait, food was talking. This was confusing. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood it's ground and talked. Since the Troll couldn't understand what any of the funny, squeaky little sounds coming out of food's mouth meant, it tried to understand *why* food wasn't doing any of the things that it usually did. 
+Wait, food was talking? This was confusing. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood it's ground and talked. And certainly never kicked. Since the Troll couldn't understand what any of the funny, squeaky little sounds coming out of food's mouth meant, it tried to understand *why* food wasn't doing any of the things that it usually did. 
 
-Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. And, for reasons he couldn't understand, he had been eating quite well lately. Food had been easier a lot easier to come by since he had come to this cave. He didn't even have to go out and terrorize the countryside. And how had he gotten to this cave? He couldn't quite remember that part. Something about a very loud and angry piece of food wearing black. But it was blurry. 
+Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. And, for reasons he couldn't understand, he had been eating quite well lately. Food had been easier a lot easier to come by since he had come to this cave. He didn't even have to go out and terrorize the countryside. And how had he gotten to this cave? He couldn't quite remember that part. Something about a very loud and angry piece of food wearing black. But the memory was blurry and confused. 
 
-Thinking made the Troll's head hurt, and he decided that he had thought enough for one day. He drew himself up to his full height. He let out a little good morning yawn (a Troll yawn is much like a roar) that rattled  chips of rock of the ceiling. He expected to see food running away, or curled up in a convenient, bite-sized ball of fear, but it was still there!
+Thinking made the Troll's head hurt. He decided that he had thought enough for one day. He drew himself up to his full height and let out a  good morning yawn (a Troll yawn is much like a roar) that rattled chips of rock off the ceiling. (a Troll yawn is very much like a roar.) The Troll expected that this would cause the food to flee, or curl up in a convenient, bite-sized ball of fear, but food was still there!
 
-"There we go," said Boltac, "Come get a closer look at the merchandize." 
+"There we go," said Boltac, "Come get a closer look at the merchandise." 
 
-From the shadows, Relan drew in breath sharply and said, "He's dead."
+In the shadows, Relan said, "He's dead."
 
-A darker, more obscure, yet somewhat Rattick-shaped shadow next to him said, "You are not as dumb as you look, kid,"
+A Rattick-shaped shadow next to him said, "You are not as dumb as you look, kid,"
 
-"Thank --" Relan began. But a finger pressed to his lips and silenced him. 
+"Thank --" Relan began. But Rattick pressed a finger to his lips and silenced him. 
 
 "Shhh. Don't ruin it. I'm going to enjoy this," said Rattick.
 
@@ -1948,12 +1947,12 @@ The Troll lowered his head and made two whuffing grunts. This expulsion of air f
 
 The Troll, not being smart enough to fear a shrewd merchant's smile -- and generally not knowing what the hell was going on -- took the relatively tiny mace in it's absolutely gigantic hand. 
 
-"There," said Boltac, and he released the mace. No sooner had he let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if it had been smashed there by the hand of an angry God. 
+"There," said Boltac, and he released the mace. No sooner did let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if he had been smashed there by the hand of an angry God. 
 
 
-# Aftermath of Troll #
+# 22
 
-Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the silver mace. 
+Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the ornate mace. 
 
 "What is that?" asked Rattick.
 
@@ -1963,13 +1962,13 @@ Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, 
 
 "Yeah, kid, that's magic for you, there's always a catch."
 
-"Like dealing with you," said Rattick with newfound respect. 
+"Like dealing with you," said Rattick said to Boltac with newfound respect. 
 
 "Hey, I didn't force him to do anything. Here you go Mr. Troll. Here's a free mace. He took it."
 
 "But the Troll didn't know…" said Relan.
 
-"That's there's no such thing as a free mace? Yeah, that's how they get you. Everybody knows this. And that's especially how they get you with magic."
+"That's there's no such thing as a free mace? Everyone knows this. That's how they get you. And that's especially how they get you with magic."
 
 "But what about Wizards? They use magic," countered Rattick. 
 
@@ -1977,19 +1976,19 @@ Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, 
 
 Rattick said, "Marveled as I am by your cunning, good merchant, one question remains: How did you learn about the mace?"
 
-"A guy brought it in a carrying case and refused to take it out.   I thought maybe I could get the jewels off, but the enchantment was too powerful. My last apprentice was pinned to the floor in my shop for a week before we figured out how to get him out from the grip of that foul thing."
+"A guy brought it in a carrying case and refused to take it out. I thought maybe I could get the jewels off, but the enchantment was too powerful. My last apprentice was pinned to the floor of my shop for a week before we figured out how to get him out from under that thing."
 
-""How did you manage it?" asked Rattick
+"How did you manage it?" asked Rattick
 
-"Ahhhh," said Boltac, raising a finger to the side of his nose. "That would be telling." The smile faded from his face as he added, "My advice to both of you? Stay outta the magic bag."
+"Ahhhh," said Boltac, raising a finger to the side of his nose. "That would be telling." His faded from his face as he added, "My advice to both of you? Stay outta the magic bag."
 
 "No problem," said Relan. 
 
-"Problem," thought Rattick. He didn't know what could possibly be in Boltac's magic bag, but he thought that the bag itself could be worth more than he could imagine. And Rattick had quite an imagination.  
+Problem, thought Rattick. He didn't know what could possibly be in Boltac's magic bag, but now he knew for certain that it was magic. And that the bag itself, might be worth more than he could imagine. And Rattick had quite an imagination.  
 
 "C'mon, I don't want to be all day getting my lady friend back," said Boltac as he headed into the darkness. "How deep do you think this goes anyway?"
 
-All the way to the bottom, though rat tick
+All the way to the bottom, though Rattick.
 
 >Kid worried that the magic lantern comes with a catch. 
 
