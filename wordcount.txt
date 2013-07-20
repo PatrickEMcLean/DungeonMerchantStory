@@ -42,3 +42,4 @@
 42212 workingdraft.md Wed Jul 17 17:49:25 EDT 2013
 42240 workingdraft.md Wed Jul 17 18:06:32 EDT 2013
 42264 workingdraft.md Wed Jul 17 20:07:43 EDT 2013
+43106 workingdraft.md Sat Jul 20 13:29:22 EDT 2013

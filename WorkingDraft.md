@@ -49,6 +49,9 @@ Except to Relan at end when he takes out wizard. (The one win.)
 
 * Boltac struggling to find something in the sack to create suspense. "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
 
+* have rattick kill the troll over Relan's protests. 
+
+
 # Dimsbury Lectures About Magic. #
 
 
@@ -60,6 +63,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 "En-henh."
  
 
+
 # Boltac can't be king -- lantern
 
 At the very end, Boltac uses the Lantern as an example of why he can't be King. He's not pure of heart.
@@ -70,6 +74,7 @@ Asarah, I'm not sure kings should be pure of heart. In fact, for what you have t
 ""We don't have an army.
 
 "Then we need a very, very good negotiator. "
+
 
 ## Lantern ##
 
@@ -1729,6 +1734,7 @@ To win?
 
 "Trust me, the hangover you get from magic is the worst kind of hangover there is."
 
+
 # 18
 
 Rattick was no hero. Like all true survivors, he found a way to profit from misfortune of others. At the first sign of trouble, he slunk into the alleys of Robrecht. While strange creatures marauded through the town and fire ravaged the buildings, he kept to the shadows, looting corpses where he could, burgling a store or two, until he reached the         South gate. When he found a horse in the Guard's stable he was gone into the night without a second thought. 
@@ -1766,6 +1772,7 @@ He clambered down from the tree to quickly, he nearly fell and broke his leg. He
 Before he raised his head, he heard a familiar and irritating voice say, "Ah, Rattick, do I have a deal for you!"
 
 He looked up sharply. "BOLTAC?!?"
+
 
 # 19
 
@@ -2039,7 +2046,8 @@ The Wizard replaced the cover on the vile lunch-like creation that sat before hi
 "Yes, Samga, she certainly does."
 
 
-# From Asarah's POV #
+# 23 Asarah in Dungeon
+
 
 When the wizard had flown off with her, Asarah had managed to scream for all of twenty seconds before she passed out. When she awoke, she found herself unharmed on a cell of damp grey rock. There was no window and no furniture. 
 
@@ -2065,11 +2073,11 @@ After what felt like an eternity of terror in the darkness, she heard steps comi
 
 Another of those strange, monstrous faces thrust itself into the window, but instead of grunting or snarling, this one spoke a soft, strangely accented English. 
 
-"Pardon, my lady, but the master would like to see you know."
+"Pardon, my lady, but the master would like to see you now."
 
 "The Master?" asked Asarah, reassured by the creatures manners and seemingly kindly demeanor. "Who is the master? For that matter, who are you? And what manner of hospitality is this?"
 
-"I am Samga, my Lady. And the Master is, well, the Master, Maker of us all." Ah yes, now it made sense to Asarah. The man who took her into the air had abducted her for a reason, the oldest reason of all. Men, thought Asarah, no matter how rich or powerful they might be, they were all the same. 
+"I am Samga, my Lady. And the Master is, well, the Master, Maker of us all. And he has asked for you, the woman in his power." Ah yes, now it made sense to Asarah. The man who took her into the air had abducted her for a reason, the oldest reason of all. Men, thought Asarah, no matter how rich or powerful they might be, they were all the same. 
 
 "And what are you Samga?" Asarah asked as she rose to her feet. 
 
@@ -2079,7 +2087,7 @@ Another of those strange, monstrous faces thrust itself into the window, but ins
 
 "I know not. None of us do. We are made not born, in the bowels of the Earth, to serve the Master."
 
-Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. The door to the cell creaked open and Samga entered. As she saw him in the full light of the lantern, he was less terrifying than she thought. It helped that he wasn't riding a wolf or sacking the town in which she lived. "So what does your master want with me," Asarah asked with a false pout. 
+Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. The door to the cell creaked open and Samga entered. As she saw him in the full light of the lantern, he was less terrifying than she thought. It helped that he wasn't riding a wolf or sacking the town in which she lived. "So what does your master want with me?" Asarah asked with a false pout. 
 
 "It's not wise for me to ask, my Lady. We must go."
 
@@ -2087,7 +2095,7 @@ Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. T
 
 "Master is usually unhappy," Samga said with a sad look that looked decidedly out of place on what was obviously a monster.  
 
-Asarah knew what the flying man wanted with her she wasn't about to give it to him without a fight. But there were many ways to fight. And where a man had desire, a woman had an opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly out of control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
+Asarah knew what the flying man wanted with her she wasn't about to give it to him without a fight. But there were many ways to fight. And where a man had desire, a woman had an opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly, out-of-control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
 
 After her first few tears, her left sleeve and blouse was in tatters, revealing the hollow of her clavicle, most of her left breast and all of her left arm. Then he grabbed a hold of the skirt below the knees. A few sharp jerks and she was showing a lot more leg. Then she rolled her lips inward and bit down on them hard to bring a bright redness to them. 
 
@@ -2101,226 +2109,7 @@ She turned and tried it out on the creature. When she didn't even get the hint o
 Hunh, she thought, Orcs must be gay. 
 
 
-* * * 
-
-As put together as she could manage, she followed Samga out of her dark cell. The passageway outside was just tall enough that Samga could walk with the tips of his pointy ears barely brushing the roof of it, but Asarah had to duck to follow. After a few minutes, the passageways opened up into a larger cavern. This larger cavern had several tunnels leading from it and Asarah began to see many, many Orc's walking to and fro. 
-
-Some carried picks and shovels, the others crates and barrels, and one pair of the creatures carried a third that had obviously been wounded. They seemed, after you looked at them for a while, perfectly natural. How strange it should be that such creatures,  
-
-
-
-
->Set the scene here for how the Orcs are going to grab Boltac and co. See the next scene. 
-
-"What's going on?" Asarah asked?
-
-Samga answered without looking back. The more grey than green of his back hunched a little as he shuffled his way through the tunnels, "Adventurers. Trespassers. Killed master's favorite troll. Now he insists that they be roasted on spits."
-
-"Roasted?" Asarah asked, trying not to wince. 
-
-"Master doesn't like raw meat."
-
-"He is a cannibal?"
-
-"What means this cannibal?"
-
-"He eat's people."
-
-"No, master is a *good* master. He gives the people to us. 'Course, we like them raw, but the Master must have his fun.""
-
-Asarah asked no more questions. Soon they came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and waited for Asarah to walk through first. 
-
-As she crossed the threshold, Samga said, "Master, I have brought the girl." 
-
-In spite of her dire straights, Asarah smiled. She was far from her girlish days. Her hands were worn from the endless toil of keeping an Inn, and there were lines on her face. More from laugher than from frowns, but they were not the kind of lines a girl had.  But still, the heat of her womanhood had not cooled. Perhaps that would be enough. 
-
-The room she entered opened up into a high, arching ceiling. There were several braziers filled with burning coal that sent streams of greasy smoke rising in to the darkness at the top of the chamber. Rugs served to divide the large room into several areas. On the left there was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. On the far side of the room there was a raised dias, and on it a table. On the table there was a large glass jar, perhaps half the height of man. In the jar a flame danced, seemingly just out of focus. It's light through strange shadows and shapes on the ceiling of the room. As a Asarah stared at it it seemed just about to come into focus, but it never quite did. She rubbed her eyes, but still it remained out of phase with the rest of the room. 
-
-In the center of the room a large, disc of wood was set into the floor. Bands of iron held the staves together and it was fitted to an exquisite masonry circle set into the floor. Since it stayed in focus as she looked at it, she felt more comfortable
-
-> when the cover is removed, the smoke from the braziers will be drawn into the negative pressure of the hole. The "rather bottomless pit" sucks.
-
-"Ah yes," said a voice to her right, "the serving girl!" Asarah turned her head and there the Wizard sat at a desk in front of a number of papres. 
-
-"Accounts?" asked Asarah, trying to break the ice. "How I loathe doing accounts."
-
-
-## Set the scene here. ##
-
-* the room
-* the instrument for capturing and harnessing the force of magic
-* The Thamauge!
-* The hole in the center of the room
-* Heads of a progression of crude creatures that lead up to the Orc.
-
-
-What's the empty one for?
-Oh, that's for Samga. He is my finest work, almost like a son to me. And when he dies, his head will go there. 
-
-"Yeah, son, I can see the resemblance."
-
-"Really? How strange, we look nothing alike. You are a curious creature."
-
-
-
-
-"You owe me for two sandwiches. And an inn."
-
-The Wizard looked up from his work, "What?" he asked. "Oh, the MLT's. Sadly, I forgot them, but at least I remembered the most important thing. You."
-
-"I know what you want," she said.
-
-The Wizard rolled his eyes and pushed paper "and what is that?"
-
-"Me," said Asarah, "You have taken me because you want a beautiful woman to bring comfort and pleasure to your life," she said with a roll of her hips. "And you think I will be attracted to you because you are a powerful man."
-
-"Yes," said the Wizard, "I am a powerful man. And intelligent as well, some may even say charming."
-
-Asarah snorted. 
-
-"But you, ho, ho, ho, you cannot be serious."
-
-"I am as serious as I am beautiful," Asarah said, almost choking on her own disgust for the words. But she had turned it over and over in her mind. Seducing this man was her only chance of getting out of this alive. 
-
-"I mean, the thought! Really it is too much."
-
-"Isn't it?" she said, flashing a great deal of leg through her torn dress and hating herself for it. 
-
-"No, no, the very idea I mean. You are serving girl. A totally different species. The idea," he barked a laugh and then regained control of himself, "That I? I? A son of a noble house could take as a consort someone like you? It is laughable really. You are to me as," he indicated the parade of heads that adorned the wall behind his desk, "A creation, or another species. We could no more mate than a snail and a, a, an Eagle!"
-
-Confused and not a little offended, Asarah asked, "Well, if you don't want to *ravish* me then why have you brought me here?"
-
-"You are to be my cook," said the Wizard.
-
-Asarah stood with her mouth hanging open so long that the Wizard felt that he must clarify things for the simpler mind in the room. "Sandwiches, dear lady, I have brought you here to make me a sandwiches."
-
-"Supper? You think I'm making you dinner. I am NOT!" said Asarah with the fury of a woman who thought she wanted to be scorned, but then decided -- when primal fury reared it's formidable head -- hell hath no fury. 
-
-The Wizard's eyes narrowed to evil slits when he said, "Yes, you will."
-
-
-## I am no serving girl
-
-
-"No, no, no, don't be silly. That is not why
-
-
-
-She refuses
-
-"I am glad you said that," said the Wizard.
-
-"Because now you see that I am no servant or serf?"
-
-"No, you are most assuredly that. The stench of the lower classes is upon you, especially your impudence."
-
-"Impudence!" Asarah snapped, knowing it was a dangerous and stupid thing to do, but so angry at this arrogant man that she couldn't bring herself to care. 
-
-"No I am glad you refused because now you have absolved my guilt."
-
-"Guilt? What are you talking about? You should already feel guilty, you kidnapped me!"
-
-"Oh, dear, no. I rescued you from a city under siege. Very sensitive and noble of me."
-
-"You burned down my Inn!"
-
-"Yes, well, there was that. Fit of temper. Besides, I burned up two of my sandwiches. Two sandwiches that I --"
-
-"Didn't even pay for!"
-
-"ENOUGH!" Dimsbury thundered, so loud that bits of rock and dust tumbled down from the vaulted ceiling of the chamber. "You were a pleasant diversion, but no more. "
-
-
-She talks to the Orcs
-
-Wizard finds out about dead troll.
-
-Tries to force her to cook. She refuses. Asserts her independence. 
-
-She has to stage some kind of destabilizing thing. 
-
-He kills one of his own creatures for talking back. 
-
-* Wizard finds out about the Dead Troll. 
-* Dispatches Orcs to find them. They use torches, they are separated, Rattick is discovered, 
-* Rattick before the Wizard -- reveal that they are friends. he sets up Boltac. 
-* Boltac and Relan hide from the Orc's -- have a bit of misadventure. 
-* * where's Rattick -- who cares, we're pressing on. Which way? Down
-
->Wizard -- don't you see, your companion has betrayed you. 
->Boltac -- don't you see, that's the nice thing about making deals rather than fighting. He can't really betray me. I wanted to meet you and now I have. 
->Wizard -- And now you will die. 
->Boltac -- That might not be in your best advantage. 
->
-
-
-# Wizard vs. Asarah #
-
-
-## Origin of Orcs ##
-
-"Ah, do you like them," the Wizard asked her.
-
-"Uh, what are they?"
-
-"An alchemy of fungi, mineral and pure magic. Things made, not born. And surprisingly faithful servants."
-
-
-She thinks he wants her. He tells her she is the wrong class -- almost sub human. He tells her too cook lamb. 
-
-
--- Couldn't mate with you you are simply of an inferior class. An eagle trying to beget with a sparrow -- simply won't do. 
- Who are you trying to convince, she asked with a roll of her hips.
-
-
-## Samaga is tricky ##
-
-In point of fact, Samga had not delivered the news to his master. For he knew that Alston Dimsbury was a violent and tempestuous man when not pleased. And at this, he would not be pleased. Samga did not want to be the one to bring the news. So as soon as he exited the chamber, he motion to the the first Orc he saw, and, in the crude, grinding, barking imperfect tongue of the Orcs said, "You, come."
-
-In return, the other Orc barked, "Obey."
-
-All Orcs could talk after a fashion, but Samga was the only one who could talk that Master had not vented his fury upon. This was because Samga was very careful about what he said. 
-
-
-# Orc Brings bad news about Troll Being Dead.
-
-He pointed at the Orc that had brought the news and hooked his fingers so that his hand formed a ragged, palsied, fist-like object.
-
-The Orc writhed in pain as inside it's body it's bones were ground together by the unspeakable, sinister forces of the Wizard's evil magic.
-
-When the Orc whimpered, Alston Dimsbury gave a tiny smile. Then the corners of his mouth dropped an he sucked air in between his teeth. 
-
-As he did this, the Orc's skin tightened, causing the creatures eyes to bulge out. 
-
-Asarah recoiled in terror from the Wizard's unspeakable cruelty. 
-
-"Oh no my dear, you mustn't worry. They don't feel pain. Not really. Not any more than a machine or an animal does."
-
-Wide-eyed and afraid of a power she did not understand, Asarah said nothing. She did not want have her bones crushed  
-
-"Dispose of this one, Samga. It is defective."
-
-Samga nodded once. With one arm, he reached down and removed the heavy wooden cover from the floor. Then, with a clawed foot, he kicked the crushed and gibbering Orc in to the blackness of the pit. Then he dragged the cover back into place. 
-
-The Wizard said, "Creation is a messy business. One makes a great deal of mistakes you see. But thankfully, I have a very deep pit in which to bury my failures. "
-
->Asarah moved to the warm, yellowwood disc in the floor of the center of the room. Anything to get away from the awful, clammy damp of this dungeon. 
-
->Oh, I wouldn't stand there, my dear. I'm afraid that pit is rather bottomless. 
-
-At first,  he had though
-
-At first he was worried that the Troll might 
-
-Samga is no fool. He knows to bring a scapegoat with him. 
-
-
->well send out patrols, catch them.
->They might get a bit killed the catching my Lud.
->Well, whatever's left, you must bring it to me. 
-
-
-# Boltac and Relan and Rattick #
+# 24 Boltac and Relan and Rattick 
 
 They came to a fork in the tunnel."Which way do we go?" asked Boltac.
 
@@ -2342,7 +2131,7 @@ Relan grew wide-eyed and crouched down, hand on sword hilt. His gaze shifted qui
 
 "To the right then, because we are for good," said Relan, nodding as if the matter was settled. 
 
-"For good," snorted Rattick, "We are sneaking into a powerful wizard's dungeon to steal his treasure, what is good about that? You'll be no kind of thief at all if you try to be polite about it," Rattick said.
+"For good," snorted Rattick, "We are sneaking into a powerful wizard's dungeon to steal from him, what is good about that? You'll be no kind of thief at all if you try to be polite about it," Rattick said.
 
 As the young boy's face grew red with anger, Boltac stepped between the two of them and asked, "Why do you want to go left?"
 
@@ -2357,7 +2146,7 @@ Relan rushed after the merchant, "But you can't trust him."
 
 "He is not a man of honor," protested Relan.
 
-"Kid, you don't know this yet, but Men of Honor? Not all that useful."
+"Kid, you don't know this yet, but Men of Honor aren't really all that useful."
 
 "He means to lead us into a trap and steal the contents of your precious bag," he said.
 
@@ -2367,9 +2156,9 @@ Relan rushed after the merchant, "But you can't trust him."
 
 "We should help him," said Relan.
 
-"En-henh, you think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment he was trapped there. Torn between the desire to do the right thing, and the bald fact that he knew Rattick to be an evil man. He watched the shadows tear at each other for a moment. Then he turn and ran. 
+"En-henh. You think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment he was trapped there. Torn between the desire to do the right thing, and the bald fact that he knew Rattick to be an evil man. He watched the shadows tear at each other for a moment. Then he turn and ran. 
 
-In an instant he caught up with the wheezing, slow moving merchant. Straining under the weight of his brown sack, Boltac looked over at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
+In an instant he caught up with the wheezing, slow-moving merchant. Straining under the weight of his brown sack, Boltac looked over at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
 
 Relan ran ahead. Thinking that he was drawn to danger as the moth is drawn to the candle flame. 
 
@@ -2418,13 +2207,12 @@ Boltac shuttered his lantern and turned back. "Quietly now," he said.
 
 As they made their way back down the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
 
-
 There was a shuffling, hissing noise in front of them. Boltac didn't think twice. He headed for the small passage. "C'mon, this way."
 
 For once, Relan didn't argue. 
 
 
-* * * 
+# A maze of twisting passages, each alike
 
 Off the main passageway, the tunnel sloped sharply up, then down. As they followed it, it twisted to the right, and then back to the left as if the thing that had made it was having trouble making up it's mind which way it really wanted to go. 
 
@@ -2492,7 +2280,7 @@ They sat in silence for a while. Then Boltac said, "Okay, kid, I get that I'm an
 
 "Why are you so cheery about it."
 
-"You don't know nutting, kid. This is an adventure. Of course, my favorite adventures are trading expeditions, but same thing. And the first rule of adventures, they're always miserable. You expect that. You expect the worst, and you have a much better time."
+"You don't know nuttin, kid. This is an adventure. Of course, my favorite adventures are trading expeditions, but same thing. And the first rule of adventures, they're always miserable. You expect that. You expect the worst, and you have a much better time."
 
 "You mean like my feet."
 
@@ -2536,7 +2324,7 @@ Boltac stretched his legs out in front of him, and lowered the shutter on the la
 
 "What we found was jewel encrusted death. I was the only one who made it out alive. I lifted a terrible sword from funeral beir, and as soon as I drew it, the sword attacked. The cursed thing welded itself to my hand and went after my companions. Within minutes they were all dead, and I was alive."
 
-"It wasn't my fault, but I never forgave myself. Of course, I couldn't go back, so I deserted. Six months later I heard that army was destroyed. So I went to r "
+"It wasn't my fault, but I never forgave myself. Of course, I couldn't go back, so I deserted. Six months later I heard that army was destroyed. So I went to Robrecht, which wasn't under the Mercian empire and, well, the rest, as they say... "
 
 It wasn't the whole truth, but it was all of the truth that Boltac was going to tell.  
 
@@ -2546,7 +2334,7 @@ It wasn't the whole truth, but it was all of the truth that Boltac was going to 
 
 "I threw it in the deepest part of the River Swift, and I had not drawn a sword all the way out of a sheath since that day. Well, since the Orc's. And, to tell you the truth, I don't care if I never draw one again."
 
-"After you kill the Wizard you mean."
+"After you kill the Wizard you mean?"
 
 "I don't want to kill anybody."
 
@@ -2571,16 +2359,211 @@ Boltac whispered, "Draw your sword. This is where you get to be a hero."
 "Listen," said Boltac, "Here's what we're going to do."
 
 
+# Asarah Walks With Samga
+
+Asarah followed Samga out of her dark cell. The passageway outside was just tall enough that Samga could walk with the tips of his pointy ears barely brushing the roof of it, but Asarah had to duck to follow. After a few minutes, the passageway opened up into a larger cavern. This larger cavern had several tunnels leading from it and Asarah began to see many, many Orc's walking to and fro. 
+
+Some carried picks and shovels, the others crates and barrels, and one pair of the creatures carried a third that had obviously been wounded. They seemed, after you looked at them for a while, perfectly natural. How strange it should be that such creatures, should have a life below the ground that no one -- no human knew of. 
+
+
+>Set the scene here for how the Orcs are going to grab Boltac and co. See the next scene. 
+
+"What's going on?" Asarah asked?
+
+Samga answered without looking back. The more grey than green of his back hunched a little as he shuffled his way through the tunnels, "Adventurers. Trespassers. Killed master's favorite troll. Master doesn't know about it, but when he finds out, he will insists that they be roasted on spits. I do not want to be roasted on a spit, so I have ordered the spits prepared for roasting early. 
+
+"Roasting?" Asarah asked, trying not to wince. 
+
+"Master doesn't like raw meat."
+
+"He is a cannibal?"
+
+"What means this cannibal?" asked Samga
+
+"He eats people."
+
+"No, master is a *good* master. He gives the people to us. 'Course, we like them raw, but the Master must have his fun.""
+
+Asarah asked no more questions. Soon they came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and waited for Asarah to walk through first. 
+
+# Wizard vs. Asarah #
+
+As she crossed the threshold, Samga said, "Master, I have brought the girl." 
+
+In spite of her tattered condition, Asarah smiled. She was far from her girlish days. Her hands were worn from the endless toil of keeping an Inn, and there were lines on her face. More from laugher than from frowns, but they were not the kind of lines a girl had.  But still, the heat of her womanhood had not cooled. Perhaps that would be enough. 
+
+The room she entered opened up into a high, arching ceiling. There were several braziers filled with burning coal that sent streams of greasy smoke rising in to the darkness at the top of the chamber. Rugs served to divide the large room into several areas but the center was cold, polished stone.
+
+On the left there was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. On the far side of the room there was a raised dais, and on it a table. On the table there was a large glass jar, perhaps half the height of man. In the jar a flame danced, but it seemed to be just out of focus. It's light threw strange shadows and shapes on the ceiling of the room. As a Asarah stared at it it seemed just about to resolve into a normal flame, but it never quite did. She rubbed her eyes, but still it remained out of phase with the rest of the room. 
+
+In the very center of the room was a hole plugged by a large, disc of wood held together with metal bands. It stayed in focus when she looked at it. 
+
+> when the cover is removed, the smoke from the braziers will be drawn into the negative pressure of the hole. The "rather bottomless pit" sucks.
+
+"Ah yes," said a voice to her right, "the serving girl!" Asarah turned her head and realized Wizard sat there behind a desk that was piled high with papers.
+
+"Accounts?" laughed Asarah. The EVIL wizard is doing the books? 
+
+This took Dimsbury somewhat aback. "They are EVIL books."
+
+"Well, add this to your evil. You owe me for two mutton sandwiches and an Inn, which you burnt to the ground."
+
+Dimsbury shut a large ledger. "Oh, yes, the MLT's. Sadly, I forgot them, but at least I remembered the most important thing. You."
+
+"I know what you want," she said.
+
+The Wizard rolled his eyes and pushed paper "and what is that?"
+
+"Me," said Asarah, "You have taken me because you want a beautiful woman to bring comfort and pleasure to your life," she said with a roll of her hips. "And you think I will be attracted to you because you are a powerful man."
+
+"Yes," said the Dimsbury, "I am a powerful man. And intelligent as well, some may even say charming."
+
+Asarah snorted. 
+
+"But you. Wait, you think that?" Dimsbury looked around for someone to share the joke with. But there was no one. "Ho, ho, ho, you cannot be serious."
+
+"I am as serious as I am beautiful," Asarah said, almost choking on her own disgust for her words. But she had turned it over and over in her mind. Seducing this man was her only chance of getting out of this alive. 
+
+"I mean, the thought of it! Really it is too much."
+
+"Isn't it?" she said, flashing a great deal of leg through her torn dress and hating herself for it. 
+
+"No, no, the very idea I mean. You are serving girl. Almost an entirely different species than I. The idea," he barked a laugh and then regained control of himself, "That I? I? A son of a noble house could take as a consort someone like you? It is laughable really. You are to me as," he indicated the parade of heads that adorned the wall behind his desk, "Well, as I said, a creation, or another species. We could no more mate than a snail and a, a, an Eagle!"
+
+Confused and not a little offended, Asarah asked, "Well, if you don't want to *ravish* me then why have you brought me here?"
+
+"You are to be my cook," said the Wizard.
+
+Asarah stood with her mouth hanging open so long that the Wizard felt that he must clarify things for the simpler mind in the room. "Sandwiches, dear lady, I have brought you here to make me a sandwiches."
+
+"Supper? You think I'm making you dinner. I am NOT!" said Asarah with the fury of a woman who thought she wanted to be scorned, but then decided -- when primal fury reared it's formidable head -- hell hath no fury. "I AM NOT A SERVANT!"
+
+The Wizard looked at her for a moment. Then he got up from behind the desk and gave her a smile that was anything but reassuring. 
+
+"I am glad you said that," said the Wizard.
+
+"Because now you see that I am no servant or serf?"
+
+"Well, now we have the question out in the open, at least."
+
+"It's not a question. I am. I was mistress of my own Inn, before you burned it to the ground."
+
+"Yes, I am sorry about that. I am fond of the occasional, overly flamboyant gesture you know. But, for just a moment, let us put the past behind us and start anew."
+
+"Asarah looked at him skeptically but said, "Ooookay. Try me."
+
+"You call me a wizard. And so I am," he indicated his surroundings. "As you can see I am a master of arcane and powerful forces the workings of which you cannot possibly hope to understand, but, you are a clever girl," Asarah winced. He said 'clever girl' in the tone of voice one might use to praise a prize horse or a well-trained dog. If this jackass was trying the smooth-talk it wasn't working. 
+
+Dimsbury charged on heedless of the effect he was having. "So, I believe you can understand the importance of my work here. Work that, if you chose to join the team, you would be supporting in a vital, culinary role." 
+
+"You see, I am not merely the cliche of some maladjusted character living in the bowels of the Earth, twisted and bent on revenge. Nor am a I a mere conjuror," and here he threw up a burst of flame into the center of the room, "though revenge and conjuring are well-within my capabilities.
+
+"I am a creator, a researcher, a man who delves deeply into the very fabric that binds our realities together."
+
+You're a guy who likes to talk about yourself, Asarah thought. 
+
+"And father, to my awkward children. Isn't that right Samga?"
+
+"Of course," Samga said. 
+
+"Father? Of all of these, these."
+
+"Orcs, I call them. I made them. All of them."
+
+"What are they?"
+
+"An alchemy of fungi, mineral and pure magic. Things made, not born. And surprisingly faithful servants. They are my greatest work, to date." He gestured to the wall above his desk. Asarah realized that there were a semicircle of orc's heads on the wall. It was a sequence, moving from crude and puny, to brutishly strong, to a head that looked very much like the creature's she had seen in the halls. But at the end, there was  an empty mounting plate. 
+
+"What's the empty one for?"
+
+Oh, that's for Samga. He is my finest work, almost like a son to me. And when he dies, his head will go there. Asarah looked at Samga. This revelation didn't seem to bother him in the slightest. Of course, Samga, was an Orc, a horrible thing, but Asarah felt a moment of pity for him. She turned back to Dimsbury and said, "Yeah, son, I can see the resemblance."
+
+"Really? How strange, we look nothing alike. You are a curious creature. Now, that you have some sense of the importance of my work let us talk about the terms of your employ."
+
+Asarah drew in breath and was just about to really give the Wizard a piece of her mind when there was a pounding at the door. 
+
+"Come!" said Dimsbury. 
+
+# Killing the Orc Messenger
+
+An orc charged into the room. This creature was squatter and more brutish than Samga, as if the sculptor's thumb had slipped and pressed the clay of him into an awkward wad.
+
+"Master," it grunted. "Troll down."
+
+"What?" said Dimsbury.
+
+The Orc gave the Orcish version of a shrug and said, "Down. No get up."
+
+"You mean dead?"
+
+"No, down."
+
+"Samga, would you please?" Dimsbury asked with an annoyed wave of his hand. Samga conversed with the Orc in their shared, brutal tongue. 
+
+Dimsbury rolled his eyes and said to Asarah, "I am sorry about this interruption. There's always more administrative tasks wasting my time. Details, meddling adventurers. And Samga is the only one of them who has any intelligence..."
+
+Samga had more than intelligence, he had cunning. He had been very careful not to deliver the bad news about the Troll to the master. He knew Dimsbury for the violent and tempestuous man he was. Especially when he was not pleased. And this news would not please him. 
+
+All Orcs could talk after a fashion, but Samga was the only one who could talk that Master had not vented his fury upon. This was because Samga was very, very careful about what he said. 
+
+"Master," began Samga, carefully, "This one says the Troll in the upper passages has been killed. He tells me that there are three adventurers loose in the lower levels."
+
+"The TROLL! BLAST AND SLAPDASH!" Dimsbury roared. "Do you have any idea," he started to say to the Orc, then he stopped. "No, of course you don't. You have no idea. You haven't a thought in your head. You are merely a stomach with legs that walks around making bad choices. My finest creation to date, indeed."
+
+Dimsbury turned to Asarah and lowered his voice. "Do you," he began again, "Have any idea how hard it is to even find a Troll? Weeks away from work. And then finding one, rendering the great big brute unconscious, having him transported here. Tremendous expense of time and effort and now someone has had the temerity to kill my Troll. I ask you, where am I going to get another Troll? At this hour? I don't have time for this! I don't have time for any of this!"
+
+He pointed at the Orc and hooked his fingers so that his hand formed a ragged, palsied, fist-like object. The Orc writhed in pain as inside it's body it's bones were ground together by the unspeakable, sinister forces of the Wizard's evil magic.
+
+When the Orc whimpered, Dimsbury smiled. Then the corners of his mouth dropped an he sucked air in between his teeth. As he did this, the Orc's skin tightened, causing the creatures eyes to bulge out. 
+
+Asarah recoiled in terror from the Wizard's unspeakable cruelty. 
+
+"Oh no my dear, you mustn't worry. They don't feel pain. Not really. Not any more than a machine or an animal does." There was a terrible juicy crunching noise. Asarah looked away and screamed. She her a wet slap as what was left of the Orc was hit the stone floor. She couldn't help herself, shaking, she turned to look at remnants of that poor creature. A low, weezing moan rose from the fleshy pile on the floor. 
+
+"Dispose of this one, Samga. It is defective," said Dimsbury.
+
+Samga nodded. With one arm, he reached down and removed the heavy wooden cover from the floor. Then, with a clawed foot, he kicked the crushed and still wheezing Orc in to the blackness of the pit. Then he dragged the cover back into place. 
+
+The Wizard said, "Creation is a messy business. One makes a great deal of mistakes you see. But thankfully, I have a very deep pit in which to bury my failures. "
+
+>Asarah moved to the warm, yellowwood disc in the floor of the center of the room. Anything to get away from the awful, clammy damp of this dungeon. 
+
+>Oh, I wouldn't stand there, my dear. I'm afraid that pit is rather bottomless. 
+
+At first,  he had though
+
+At first he was worried that the Troll might 
+
+Samga is no fool. He knows to bring a scapegoat with him. 
+
+
+>well send out patrols, catch them.
+>They might get a bit killed the catching my Lud.
+>Well, whatever's left, you must bring it to me. 
+
+And Samga, if they are alive when you catch them, have them roasted on spits in the main hall. 
+
+"The Orc's won't like that, my Lord. Spoils the flavor of the meat."
+
+"So I am told Samga, but let that be a punishment for letting these dilettantes through in the first place."
+
+"So, you still do not want to be my cook?"
+
+In spite of her terror of the 
+
+"Oh, very well. Samga, chain her to that table over there and perhaps boredom will change her mind. And give her some rags so she can clean up this mess."
+
+
 # Orc's POV #
 
 
 Hissglarg smelled human. And orders was very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They was to be saved for identification, of course. But all the rest were free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
 
-It was a silly trait, one that evolution would never would have put up with. All Orc's really needed to survive was a constant diet of the deep minerals they had been grown from. But whispereden Alston Dimsbury set out to do a job of evil wizarding, he didn't leave it half done. No matter what they needed to grow, Alston had decided that his Orcs would have a proper lust for the flesh of mankind, with not so much as a by your leave to the delicate processes that formed the natural world. 
+It was a silly trait, one that evolution would never would have put up with. All Orc's really needed to survive was a constant diet of the deep minerals they had been grown from. But when Alston Dimsbury set out to do a job of evil wizarding, he didn't leave it half done. No matter what they needed to grow, Alston had decided that his Orcs would have a proper lust for the flesh of mankind, with not so much as a by your leave to the delicate processes that formed the natural world. 
 
 This was all well and good (especially for Alston's vanity) but human meat played all hell on an Orc's digestion. In fact, nothing about an Orc's digestion was very good. A single orc, left to its own devices, could eat rock and soil all day, yet fail to extract enough nutrition to survive. So as an odd, created species, they dug and quarried and filtered and smelted and refined -- excavating vast underground complexes -- not for pretty jewels or shiny metals, but for dinner. 
 
-The Orc held the barely sputtering torch close the ceiling and sniffed the air. Yes, this time to the left. He sucked the air and scuttled forward. Strictly speaking, Hissglarg didn't need light. Born and raise underground, the feeling of the rock under his claws and the scent of minerals, warren-mates and intruders were all he needed to navigate his way through the most tortuous of underground passages. He could never get lost. He would just follow his own smell back the way he had come.
+The Orc held the barely sputtering torch close the ceiling and sniffed the air. Yes, this time to the left. He sucked the air and scuttled forward. Strictly speaking, Hissglarg didn't need light. Born and raised underground, the feeling of the rock under his claws and the scent of minerals, warren-mates and intruders were all he needed to navigate his way through the most tortuous of underground passages. He could never get lost. He would just follow his own smell back the way he had come.
 
 Hissglarg had carried the torch because of something the-one-who-spoke-the-human-tongue had told him. He couldn't remember the exact words right now, especially with the intoxicating smell of meat so close, but it was something about human's liking light. And if they were lost in the dark that they would come right towards a source of light. It was close enough, what Samga had told him was, "Keep a light in their eyes," they are easier to catch that way." 
 
@@ -2694,8 +2677,20 @@ His alien face betraying no emotion, Samga said, "I am content to bask in the ra
 
 Rattick bowed. Samga bowed lower, and everyone left the angry Wizard to his work. 
 
+And a bonus if you can deliver them to me. 
 
-# Boltac and Relan sneak into #
+
+# Rattick sneaks them in #
+
+
+# Botlac v Asarah #
+
+
+I don't need rescuing!
+I'm not here to rescue you, I'm here to buy you!
+BUY ME, that's worse.
+
+Lights up. 
 
 
 # He Tries to Buy the Girl #
@@ -2768,7 +2763,7 @@ Colbac nodded his head deeply in recognition. I understand Great Wizard. I under
  
 
 
-# Wizard pops the trap -- boltac doesn't care. #
+# Boltac v Wizard #
 
 Yeah, yeah, yeah. That's great and all. I figured he was probably working with you. 
 
@@ -2790,7 +2785,7 @@ Yeah, yeah, yeah. That's great and all. I figured he was probably working with y
 
 "Thank goodness?" asked Dimsbury, genuinely intrigued.
 
-"I thought I had missed something. A shrewd merchant can't afford to miss things. I mean, you don't have some terrible weakness thatyou are not telling me about, do you?"
+"I thought I had missed something. A shrewd merchant can't afford to miss things. I mean, you don't have some terrible weakness that you are not telling me about, do you?"
 
 "Ho, ho, ho," cackled Alston, "If I did, I certainly would't tell you about it, would I."
 
@@ -3234,7 +3229,7 @@ Relan drove the coach
 
 "You don't like it?"
 
-"No, I do. I really do." There was another kiss and then she continued. "But you don't need, servants. You don't have to force anyone to do anything. But can't you just hire people to help you."
+"No, I do. I really do." There was another kiss and then she continued. "But you don't need, servants. You don't have to force anyone to do anything. But can you just hire people to help you."
 
 "Hire, but servants are bound to the families…"
 
@@ -3283,20 +3278,26 @@ The free companions, I don't know why they call them that, because they sure don
 
 Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage. 
 
-"That is a ducal carriage?"
+"Is that the ducal carriage?" Torvalds said with some contempt.
 
-"Yeah, and I drove the Duke out and took his carriage and his castle and his town."
+"No. It used to be. See, the seal has changed. I drove the Duke out and took his carriage and his castle and his town."
 
-"It is our town," sputtered Torvalds. 
+>"What is that sigil? A fish?"
 
-"And you didn't drive me out. I was driven out by Orcs."
+>"An eelpout. It's like a fishes ugly cousin. And you see those words?"
+
+>"Everybody pays their way? What kind of motto is that?"
+
+
+"It is our town," sputtered Torvalds nearly incoherent with rage. 
+
+"And you didn't drive me out. I was driven out by Orcs," protested 
 
 "En-henh," said Boltac. "Prove it."
 
 "Prove it?" said the ex-Duke, "Why I am a descendant of a noble line. My word is my bond."
 
-"Not with me it ain't. I've known too many nobles.
-Yeah, that and six coppers will get you a foul tasting ale in Robrecht."
+"Not with me it ain't. I've known too many nobles. Your word and six coppers will get you a foul tasting ale in Robrecht."
 
 
 # Boltac Catches Rattick and Makes Him His Minister #
@@ -3520,3 +3521,41 @@ One of the friends is wounded.
 Oh Shit! Cried one of the kidnappers!
 
 he backhands her and runs away. Ashamed and embarrassed. 
+
+
+----
+
+
+
+
+
+"No, you are most assuredly that. The stench of the lower classes is upon you, especially your impudence."
+
+"Impudence!" Asarah snapped, knowing it was a dangerous and stupid thing to do, but so angry at this arrogant man that she couldn't bring herself to care. 
+
+"No I am glad you refused because now you have absolved my guilt."
+
+"Guilt? What are you talking about? You should already feel guilty, you kidnapped me!"
+
+"Oh, dear, no. I rescued you from a city under siege. Very sensitive and noble of me."
+
+"You burned down my Inn!"
+
+"Yes, well, there was that. Fit of temper. Besides, I burned up two of my sandwiches. Two sandwiches that I --"
+
+"Didn't even pay for!"
+
+"ENOUGH!" Dimsbury thundered, so loud that bits of rock and dust tumbled down from the vaulted ceiling of the chamber. "You were a pleasant diversion, but no more. "
+
+
+
+* Rattick before the Wizard -- reveal that they are friends. he sets up Boltac. 
+* Boltac and Relan hide from the Orc's -- have a bit of misadventure. 
+* * where's Rattick -- who cares, we're pressing on. Which way? Down
+
+>Wizard -- don't you see, your companion has betrayed you. 
+>Boltac -- don't you see, that's the nice thing about making deals rather than fighting. He can't really betray me. I wanted to meet you and now I have. 
+>Wizard -- And now you will die. 
+>Boltac -- That might not be in your best advantage. 
+>
+
