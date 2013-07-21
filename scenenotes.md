@@ -1,10 +1,4 @@
-Orc's persue	Dungeon main	Rattick Separated	Orcs v Boltac, Boltac and Relan v Rattick
-Asarah in cell	CEll	Asarah chooses to act - tries to seduce Samga	Asarah v. Wizard & orcs
-Asarah walks with Samga	Dungeon main		
-Asarah meets	Sanctum	Asarah says no. 	She wants to seduce wizard, wizard wants her to be a cook. 
-Samga Fools Dimsbury	Sanctum	Samga has another orc bring the bad news about the Troll. 	
 
------
 
 SCENE: Dimsbury gets a cook
 POV: Dimsbury
