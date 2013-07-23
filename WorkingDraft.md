@@ -2620,35 +2620,43 @@ torn for a moment between helping Rattick and In a moment he caught up with Bolt
 
 As Boltac ran, he wondered, "Why would Rattick allow himself to get caught."
 
-
-
 > should Rattick know that Boltac is after the girl?
 
-
- 
-
-
-# Bit with Relan #
+# 30 Rattick Betrays Him #
 
 
-They get lost and find themselves in a maze of twisty passages each alike. 
+After the chains were tightened around her ankle, Asarah crawled under the large table she was attached to and lay down. She did not cry. She did not give up. But, in spite of her best efforts, she fell asleep. The will may be strong, but when the body is weak, there is nothing you can do. 
 
-	You are in a maze of twisty little passages, all alike.
+She did struggle to stay awake. To observe her surroundings and her captor carefully. She searched for a weak link in the chain, a soft spot in the wood of the table and any flicker of distraction that she could find within the man. But when Samga had left, the Wizard Dimsbury has turned his back on her and devoted his full attention to the out-of-focus flame on the far side of the chamber. 
 
-He can't kill the Orc that chases them. 
+She had watched the back of his head very closely for about 15 minutes before the chanting started. It was low and guttural, and sounded like more than one voice. At first, she though there was more than one person chanting as the sound of it seemed to come from behind her. But when she whirled, there was only the rounded, stone wall of the spherical chamber, catching the echoes and playing tricks on here. 
 
-Boltac knocks him out. Saps him down with a coin purse.
+Still, the effect of the strange, humming/singing noise coming from the the Wizard's throat, the stench of a smoldering brazier in the corner, and the hypnotic, flickering of the in focus/out-of-focus, flame/non-flame trapped under a ball of blown glass all conspired to put her to sleep. 
 
-What gives?
+She awoke slowly, to the sound of voices. Whether she had slept for an hour or an age, she could not have said, but when she opened her eyes she saw the the strange, flame under glass was brighter now, and in better focus. The fingers of eerie light it cast throughout the round room were more substantial and cast deeper shadows. On the far side of the room, two of the shadows were talking. 
 
-Relan tells his story. parents, small town, left because it was boring, but being a hero is not all he thought it was going to be. 
+The figure of Dimsbury seemed to cower over a smaller cowled figure who seemed reluctant to leave the shadows. The two of them were speaking in whispers and she couldn't make out any of what they had said. Until the Wizard stood up straight, and exclaimed, "What? Come to rescue... the scullery maid? You must be joking."
 
-Boltac tells his story. (But it wasn't the whole story. In fact, it almost never is.)
+The smaller figure shook his head and whispered more intently. When he paused in his explanation, the Wizard said, "Ho, ho, ho, no. Really? That is rich. Yes, yes. No wait, bring them here. Making an example of them will be a pleasant diversion."
 
-Relan proves himself in the end. 
+"Yes," continued the Wizard, after another pause, "of course there will be a reward. I never presume someone like you does something out of the goodness of their heart."
+
+The shadow turned and left the room. Try as she might, Asarah could not see the cloaked figure's face, but his walk was familiar. Strangely familiar. Her curiosity and her natural impudence overcame her more survival-minded instincts. 
+
+"Who was that?"
+
+"What, oh? I forgot you were there. I find your question tiresome, so you should sleep," said the Wizard and with a wave of his hand rendered Asarah unconscious. 
 
 
-# Rattick Betrays Him #
+
+"Who" 
+
+The whispering continued. "Yes, yes"
+
+
+And when the shadow slunk out the door she thought she recognized him. 
+
+A strange kind of humming/singing sound
 
 > Alston give Rattick coin for his trouble, but the purse bursts open, one of the Orc's 
 
