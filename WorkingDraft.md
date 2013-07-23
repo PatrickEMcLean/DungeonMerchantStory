@@ -2592,36 +2592,6 @@ Relan opened his eyes to see Boltac standing over an unconscious Orc with a heav
 
 "Money. About 150 gold pieces. Mightier than the sword."
 
-
-
-
-
-
-
-(if Hissglarg survives: there could be an interesting tie-in in the second book.)
-
-
-
-
-"I'd say we should wait until nightfall, but I have no idea what time it is now," said Relan. 
-
-
- 
-
-torn for a moment between helping Rattick and In a moment he caught up with Boltac. 
-
-
-
-
-
-
--- Orc in Rattick's cowl 
-
-
-As Boltac ran, he wondered, "Why would Rattick allow himself to get caught."
-
-> should Rattick know that Boltac is after the girl?
-
 # 30 Rattick Betrays Him #
 
 
@@ -2648,57 +2618,11 @@ The shadow turned and left the room. Try as she might, Asarah could not see the 
 "What, oh? I forgot you were there. I find your question tiresome, so you should sleep," said the Wizard and with a wave of his hand rendered Asarah unconscious. 
 
 
-
-"Who" 
-
-The whispering continued. "Yes, yes"
-
-
-And when the shadow slunk out the door she thought she recognized him. 
-
-A strange kind of humming/singing sound
-
-> Alston give Rattick coin for his trouble, but the purse bursts open, one of the Orc's 
-
-"But my gold!"
-
-Well, the good news is that Orc's digestion system is quite terrible, they take a few flecks of gold off the coins. So you can wait can follow him around and wait for him to shit it out.
-
-"Sort through Orc shit?"
-
-"Or you can decide that that you can live with one less gold coin my greedy fellow."
-
-Greedy I am, thought Rattick, but I'm scarcely *your fellow*. 
-
-Rattick complains that the Orc's roughed him up unnecessarily. Didn't heed the safe word.
-
-"I am terribly sorry, but I didn't breed them for intelligence." turns to Samga, "Except for you of course, no offense meant."
-
-His alien face betraying no emotion, Samga said, "I am content to bask in the radiance of you wisdom and intellect."
-
-"See," Alston said to Rattick, "Flattery. It's a sign of cunning and intelligence."
-
-"Well, your most your most savage and powerfulness, your intelligence and potency is common knowledge," said Rattick.
-
-"Yes, yes. You are cunning as well, Rattick. And far less trustworthy than Samga here."
-
-
-> The Wizard says, oh, so they are coming to me. Not warriors you say? Well then what? 
-> Let them come. Gives orders that they are not to be disturbed on their way in. We will spring a trap a the bottom of the pit. 
-
-"Are you sure that is wise?" asked Rattick. Wouldn't it be better for me to take a squad of your magnificent Orc's and relieve these intruders of their lives right now?"
-
-"And I should trust you, Rattick, with a squad in the heart of my sanctum. I think not my greedy friend. I trust you, as long as you have no power. I could do such a thing and control my creatures, but that would take valuable time from my research. As is this tiring conversation. Samga, let them through. Rattick, leave me to work in peace. Interrupt me only when they have reached the lowest level."
-
-"Now everyone get out!"
-
-Rattick bowed. Samga bowed lower, and everyone left the angry Wizard to his work. 
-
-And a bonus if you can deliver them to me. 
-
-
 # Rattick sneaks them in #
 
+"I am a failure as hero," said Relan. 
+
+"You'll get no argument from me," said Boltac. "Now what do we do about this?" he said motioning to the unconscious orc lying on the ground. 
 
 # Botlac v Asarah #
 
@@ -3574,4 +3498,7 @@ he backhands her and runs away. Ashamed and embarrassed.
 >Boltac -- don't you see, that's the nice thing about making deals rather than fighting. He can't really betray me. I wanted to meet you and now I have. 
 >Wizard -- And now you will die. 
 >Boltac -- That might not be in your best advantage. 
->
+
+
+
+# Extra from Boltac and Relan in twisty passages 
