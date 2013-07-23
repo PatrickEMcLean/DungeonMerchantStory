@@ -45,3 +45,4 @@
 43106 workingdraft.md Sat Jul 20 13:29:22 EDT 2013
 43216 workingdraft.md Sun Jul 21 11:13:47 EDT 2013
 43216 workingdraft.md Sun Jul 21 11:17:43 EDT 2013
+43669 workingdraft.md Tue Jul 23 15:08:00 EDT 2013
