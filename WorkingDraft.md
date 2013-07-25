@@ -1,10 +1,80 @@
 (*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
-# **The Merchant Adventurer** #
+# **The Merchant Adventurer** 
+
+<!-- MarkdownTOC -->
+- POV TRICK
+	- Punchlist
+- Dimsbury Lectures About Magic.
+- Boltac can't be king -- lantern
+	- Lantern
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 23 Asarah in Dungeon
+- 24 Boltac and Relan and Rattick
+- 25 Asarah Walks With Samga
+- 26 Wizard vs. Asarah
+- 27 Killing the Orc Messenger
+- 28 A maze of twisting passages, each alike
+- 29 Orc's POV
+- 30 Rattick Betrays Him
+- Rattick sneaks them in
+- Botlac v Asarah
+- He Tries to Buy the Girl
+- Boltac v Wizard
+- The Wizard Shows Boltac the Fount of All Magic
+- +++++++ Right Here +++++++++ #
+- Wizard shows Boltac his Treasure Horde
+- Conflict at the End
+	- Orc's eat the coins
+- Boltac in the Land of Misfit Toys
+- Mignola Scene
+- BOLTAC"S TURNing Moment
+- ORCS GORGING THEMSELVES ON GOLD
+- Boltac unleashes the coins
+- Boltac throws the magic detecting wand into the fount of all magic.
+	- Boltac brings Relan back with a magic potion
+- And a bunch of confused wolves
+- Revisting the Troll
+- Asarah gives Boltac confidence to be king
+- The Free Companions
+- Boltac Catches Rattick and Makes Him His Minister
+	- Rattick escaping, time to head to the South -- to warmer climes
+	- Rattick at the end.
+- Boltac Confronts the Old Duke and Torvalds
+- Not So Nice Ending
+- The Nice Ending
+- Have to put Boltac sitting on the throne.
+- End With Relan
+- Extra from Relan v. Shirley.
+- Extra from Boltac and Relan in twisty passages
+<!-- /MarkdownTOC -->
 
 
-## POV TRICK ##
+
+## POV TRICK 
 
 Jump point of view to loser of combat
 
@@ -16,7 +86,7 @@ to Relan when he gets whacked
 Except to Relan at end when he takes out wizard. (The one win.)
 
 
-## Punchlist ##
+## Punchlist 
 
 
 "Age and cunning will always overcome" -- tag the final twist with Boltac saying - Age and cunning. 
@@ -52,7 +122,7 @@ Except to Relan at end when he takes out wizard. (The one win.)
 * have rattick kill the troll over Relan's protests. 
 
 
-# Dimsbury Lectures About Magic. #
+# Dimsbury Lectures About Magic.
 
 
 "Magic is like a vast, underground reservoir of water," began Dimsbury, droning into what was shaping up to be a long lecture. 
@@ -76,7 +146,7 @@ Asarah, I'm not sure kings should be pure of heart. In fact, for what you have t
 "Then we need a very, very good negotiator. "
 
 
-## Lantern ##
+## Lantern 
 
  The last thing he grabbed on his way out was the brass and Turquoise lantern. "To lamptopolis," he muttered. 
 
@@ -2162,7 +2232,7 @@ In an instant he caught up with the wheezing, slow-moving merchant. Straining un
 
 Relan ran ahead. Thinking that he was drawn to danger as the moth is drawn to the candle flame. 
 
-Where the corridor made a right angle bend, Relan came to a stop. The stone work had become more finished in this part of the cave system. The rough edges had been broken off, and here and there, there was evidence of polishing and brickwork in places. Evidently, they were getting some place.
+Where the corridor made a right angle bend, Relan came to a stop. The stone work had become more finished in this part of the cave system. The rough edges had been broken off, and here and there, there was evidence of polishing and brickwork in places. Evidently, they were getting to somewhere.
 From around the corner, Relan heard noise. 
 
 He held up a hand so Boltac wouldn't run up behind him. But when he looked back he realized how silly that was. Boltac was limping down the corridor, panting heavily and dragging his sack behind him. When he saw that Relan was looking at him he nodded weakly and raised a hand. 
@@ -2179,17 +2249,17 @@ Relan drew his blade carefully, not making a sound. Then he peeked around the co
 
 He had thought they were in a large corridor before, but when he saw the massive tunnel through which hundreds of Orcs passed them, his sense of scale was quickly and forcibly recalibrated. The most disconcerting thing was that they did not march in ranks, but hurried to and fro as busy townspeople might. This was not merely an army, but an underground civilization. 
 
-The tunnel they were in continued across the large cavern -- it seemed inappropriate to call it a tunnel, it was wide enough across for four, maybe five wagons! As Boltac watched, two Orc's exited the stream of traffic, and entered the tunnel across the way. 
+The tunnel they were in continued across the large cavern -- it seemed inappropriate to call it a tunnel, it was wide enough across for four, maybe five wagons! As Boltac watched, two Orcs exited the stream of traffic, and entered the tunnel across the way. 
 
 "We can't stay here," said Boltac. 
 
 "We should go home," said Relan. 
 
-"Enn-henh," said Boltac, "What happened to the brave adventurer."
+"Enn-henh," said Boltac, "What happened to the brave adventurer?"
 
 "I can't kill so many. I, I, I, I…"
 
-"C'mere for a minute. "
+"C'mere for a minute."
 
 "Go back? But what if we run into some of those things?"
 
@@ -2197,19 +2267,19 @@ The tunnel they were in continued across the large cavern -- it seemed inappropr
 
 "Yeah, Orcs."
 
-"Well, I'll tell you what we're not going to do. Run."
+"Well, there's a lot more of them out there then there are behind us."
 
 Relan's face went pale and he swallowed. 
 
-"C'mon, cheer up. You might get another chance to be a hero again." 
+"C'mon, cheer up. You're gonna get another chance to be a hero." 
 
 Boltac shuttered his lantern and turned back. "Quietly now," he said. 
 
 As they made their way back down the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
 
-There was a shuffling, hissing noise in front of them. Boltac didn't think twice. He headed for the small passage. "C'mon, this way."
+When he heard the shuffling, hissing noise of there pursuers close behind them, Boltac didn't have to think twice. He headed for the small passage. "C'mon, this way."
 
-For once, Relan didn't argue. 
+Relan didn't argue. 
 
 
 # 25 Asarah Walks With Samga
@@ -2240,7 +2310,7 @@ Samga answered without looking back. The more grey than green of his back hunche
 Asarah asked no more questions. Soon they came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and waited for Asarah to walk through first. 
 
 
-# 26 Wizard vs. Asarah #
+# 26 Wizard vs. Asarah
 
 As she crossed the threshold, Samga said, "Master, I have brought the girl." 
 
@@ -2564,7 +2634,7 @@ Boltac whispered, "Draw your sword. This is where you get to be a hero."
 "Listen," said Boltac, "Here's what we're going to do."
 
 
-# 29 Orc's POV #
+# 29 Orc's POV
 
 Hissglarg smelled human. And orders was very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They was to be saved for identification, of course. But all the rest were free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
 
@@ -2592,7 +2662,7 @@ Relan opened his eyes to see Boltac standing over an unconscious Orc with a heav
 
 "Money. About 150 gold pieces. Mightier than the sword."
 
-# 30 Rattick Betrays Him #
+# 30 Rattick Betrays Him
 
 
 After the chains were tightened around her ankle, Asarah crawled under the large table she was attached to and lay down. She did not cry. She did not give up. But, in spite of her best efforts, she fell asleep. The will may be strong, but when the body is weak, there is nothing you can do. 
@@ -2618,13 +2688,143 @@ The shadow turned and left the room. Try as she might, Asarah could not see the 
 "What, oh? I forgot you were there. I find your question tiresome, so you should sleep," said the Wizard and with a wave of his hand rendered Asarah unconscious. 
 
 
-# Rattick sneaks them in #
+# Rattick sneaks them in
 
 "I am a failure as hero," said Relan. 
 
 "You'll get no argument from me," said Boltac. "Now what do we do about this?" he said motioning to the unconscious orc lying on the ground. 
 
-# Botlac v Asarah #
+"Kill him?"
+
+"Me or you, Mr. Hero?" 
+
+Relan flinched a little at this. Boltac's face softened a little. He scratched the side of his round face. "Well, figure they already know we're here. And one more Orc, won't make much of a difference, more or less..."
+
+"But, you must kill him, Boltac, you must!" said Relan with great sincerity. 
+
+"En-henh. We'll if it's so important to you, why don't you take my sword off your hip and cut him down." Boltac looked down at the Orc sleeping on the floor, in somnolence it's terrible features somehow took on an innocence. Relan said nothing. "Yeah, that's what I thought. Tie him tight, we'll leave him."
+
+"But how are we going to get out? It's a maze Boltac. A maze!" whined Relan.
+
+Boltac slapped Relan across the face. "Now, you listen to me. I didn't ask you to come. In fact, told you not to come. I told you, you'd probably get killed, right?"
+
+Relan nodded, rubbing the red mark on his face.
+
+"And are you killed yet?"
+
+"Then cheer up, 'cause things could be a whole lot worse. And likely will be before we are done. You wanted an adventure ya big dumb ox, and now you got one. So now what are you gonna do."
+
+Relan didn't say anything, but knelt down and began binding the Orc with strips of leather that he cut from it's own jerkin. 
+
+Boltac stuck his belly out and stretched a good long stretch. "Okay," he said to himself. Now that we're good and screwed, "how do we renegotiate this deal?"
+
+
+
+"May I suggest stealth?" whispered Rattick's voice from the shadows. 
+
+"You sneaky bastard," exclaimed Boltac, "You're alive!"
+
+"Yes, I am rather less dead than mine enemies would like, this is the truth of it."
+
+"How did you survive?" Relan asked.
+
+"The God's love a thief," said Rattick. 
+
+"You know, Rattick," said Boltac, looking directly into the shadow where the thought Rattick was, "as you're employer, I have to tell you, I have some serious questions to ask you. Not the least of which is, why didn't you tell me there were so many of these things?" he asked, gesturing at the Orc with his foot.
+
+Rattick stepped out of the shadow behind Boltac and said, "To be honest, I did not think you would survive this long."
+
+To Boltac's credit, he didn't jump... much. "En-henh, so now what?"
+
+"For all the gold you have, I can return you and the boy to the surface where you will be safe."
+
+"En-henh, I didn't come this far to return home empty-handed."
+
+"You wish to go on?" Ratick asked, his thick eyebrows expressing surprise. 
+
+"En-henh."
+
+"You, perhaps," said Rattick, "but I don't think the youngling is still so keen."
+
+"My courage is good, sir."
+
+Rattick unwrapped his cape and cowl of midnight black. He stood toe-to-toe with Relan and looked up into his eyes. "I am no sir..." he looked him up and down in away that made his next word a curse, "Sir. And what does that make of your courage."
+
+"Test me and you will find me ready, Sir." said Relan, trying to make an insult of his own. But the quaver in his voice was less than convincing. 
+
+"Very well," said Rattick, giving Boltac a mocking bow, "I lead where my master commands."
+
+"What'cha plan, Rattick?"
+
+Rattick bent down and lifted the Orc's tunic. He plunged his dagger into the soft part of the Orc's thigh and held the creature's garment away from the spurt of greenish/black blood. In it's sleep, the Orc let out a low, sinking moan, as if it was deflating into death. The blood pulsed slower and slower until finally Rattick said, "There, now you can untie it. Bring me it's clothes."
+
+Relan was wide-eyed and pale. He looked to Boltac. Boltac just observed everything with a look of professional disgust. As if the whole thing was going to cost him money no matter what he did. Relan bent to the task. 
+
+"I know these passages far better than I have let on, Stout Merchant." Rattick said, as he wiped his dagger clean with a black rag. 
+
+"No shit, Rattick? You've been keeping secrets from me?" Boltac asked with absolutely no air of surprise. 
+
+"You've no idea, sweet merchant."
+
+"En-henh. So, once again, whatcha plan?"
+
+"By keeping to the shadows and whispering their with ancient tongue, I have found the woman. She is being kept by the wizard in a room at the very bottom of this dungeon."
+
+"You found her, and you didn't bring her back with you?"
+
+"By all the gods no," hissed Rattick, "She is clumsy and loud like you. And how I am I to know that she would not do something stupid, like this one," he gestured to Relan. "For money, I risk my skin, but for nothing do I risk my life."
+
+"A wise policy, Rattick, and one I support. But can you get us to her."
+
+"I can, but you will have to do what I say, when I say it," he pointed at Relan, "Especially you. If you do not, I will slit your throat myself."
+
+"I'd like to see you try," said Relan.
+
+"That's the point," Rattick said, his eyes floating glassily in the feeble light of the winding darkness, "you wouldn't see me try. You wouldn't see me at all."
+
+"All right, all right, Mr. Death-Waits-in-the-Friggin-Darkness -- yes, you're very scary -- do you have a plan or not?"
+
+"I do," said Rattick, "But you won't like it." Then he bent to strip the crude clothing from the Orc. When he was done, then he said, "Now we must skin him."
+
+"Skin him?" asked Relan.
+
+"I told you you're weren't going to like it."
+
+
+
+
+
+> When Rattick goes in front of the Wizard he tries to pin the flaying of an orc on them. They're the real sickos. I'm your faitful servant Rattick!
+
+----
+
+
+POSSIBLITIES
+
+
+Secret Passage
+
+
+Undress the Orc. 
+Rattick puts on the orc's clothes.
+
+or set's the Orc up as a dummy and drives the wagon with strings. 
+
+Disguise 
+Secret Passage
+Magic spell
+
+Magic doohickey from Boltac's bag. 
+
+
+
+----
+
+
+
+
+
+# Botlac v Asarah 
 
 
 I don't need rescuing!
@@ -2634,7 +2834,7 @@ BUY ME, that's worse.
 Lights up. 
 
 
-# He Tries to Buy the Girl #
+# He Tries to Buy the Girl
 
 >Asarah doesn't want to admit weakness -- Boltac struggles with this -- "It's not weakness let someone love you", he said. 
 
@@ -2704,7 +2904,17 @@ Colbac nodded his head deeply in recognition. I understand Great Wizard. I under
  
 
 
-# Boltac v Wizard #
+# Boltac v Wizard
+
+
+> Nah, that's all the gold I've got. Truly. That's it. 
+> Rattick, he said he had more aback in the town
+> Yeah, well, like I'd tell him the truth. Look, what's the point
+> "Soooooo," said Dimsbury. "If I understand this correctly. You expect me to take money in exchange for my cook."
+> "I am not your cook," shrieked Asarah. 
+> Boltac and Dimsbury both tried to ignore this shriek. 
+> "Uh, yeah," said Boltac, making a placating motion toward Asarah with his hands. This was working. If she'd just shut up it was going to work. "in broad strokes, that's the deal."
+
 
 Yeah, yeah, yeah. That's great and all. I figured he was probably working with you. 
 
@@ -2821,7 +3031,7 @@ Alston clapped his hands together and lightning bolts shot forth and ricocheted 
 Samga lifted the cover of the bottomless pit of failed creations. The Orc's gave a push, and Boltac was gone. 
 
 
-# The Wizard Shows Boltac the Fount of All Magic #
+# The Wizard Shows Boltac the Fount of All Magic
 
 "Well, *Merchant*, before we *bargain*, let me show you a few things, so that you might know what manner of man you are bargain with."
 
@@ -2877,7 +3087,7 @@ Do you know what this
 # +++++++ Right Here +++++++++ #
 
 
-# Wizard shows Boltac his Treasure Horde #
+# Wizard shows Boltac his Treasure Horde
 
 
 Show Orc's eating gold. (maybe seed this even further in the beginning.)
@@ -2889,7 +3099,7 @@ Deprecates how much money it is -- a lot perhaps for adventurers, but he is a no
 I show it to you, so you may feel your failure all the more. And realize that money is nothing but a vulgar tool to me. As a shovel or pitchfork. Of course, these implements must be used, but they are not to be used by one in my lofty station. 
 
 
-# Conflict at the End #
+# Conflict at the End
 
 
 * Boltac goes on a rant about why can't you people be reasonable? Why can't you see your own advantage?
@@ -2921,7 +3131,7 @@ Asarah put her head down and sobbed in the corner.
 Relan remained dead on the floor, not quite a hero. 
 
 
-## Orc's eat the coins ##
+## Orc's eat the coins
 
 I will accept your gold. 
 
@@ -2957,7 +3167,7 @@ Boltac didn't look back as he said, " "
 >Asarah goes to aid.
 
 
-# Boltac in the Land of Misfit Toys #
+# Boltac in the Land of Misfit Toys
 
 
 >After all the talk of these things not having feelings. (Wizard to Asarah) we see them really having feelings here. 
@@ -3000,7 +3210,7 @@ And then the shadow told him something about how death worked that Boltac didn't
 > Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
 
 
-# Mignola Scene#
+# Mignola Scene
 
 > Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
 
@@ -3030,7 +3240,7 @@ Samga followed the older one into the darkest darkness under the ground.
 We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
 
 
-# BOLTAC"S TURNing Moment #
+# BOLTAC"S TURNing Moment
 
 ** Problem: How do we get him to all is lost -- and use the coins to defeat the creatures? **
 
@@ -3051,7 +3261,7 @@ Finally he returned to the pool of darkness within the darkness.
 "Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
 
-# ORCS GORGING THEMSELVES ON GOLD #
+# ORCS GORGING THEMSELVES ON GOLD 
 
 > And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
 
@@ -3080,7 +3290,7 @@ Samga gave him a flat Orcish look that admitted of no humor.
 "What? Don't be ridiculous. Beneath me. I know good people, and you Samga, you are good, uh, Orcle? Whatever, c'mon. I still got a lady to rescue."
 
 
-# Boltac unleashes the coins #
+# Boltac unleashes the coins 
 
 I've come back to do you in. 
 
@@ -3101,7 +3311,7 @@ I die a hero.
 "En-henh," said Boltac. "Maybe we should hold out for a better offer."
 
 
-# Boltac throws the magic detecting wand into the fount of all magic. #
+# Boltac throws the magic detecting wand into the fount of all magic.
 
 
 That's the problem with a bottomless sack 
@@ -3114,7 +3324,7 @@ It explodes and shuts the portal.
 "GOOD!" thundered Boltac.
 
 
-## Boltac brings Relan back with a magic potion ##
+## Boltac brings Relan back with a magic potion
 
 
 At the very end, he's been dead and dying the whole time. He rallies 
@@ -3124,13 +3334,13 @@ At the very end, he's been dead and dying the whole time. He rallies
 As if they needed more warning, thought Samga.
 
 
-# And a bunch of confused wolves #
+# And a bunch of confused wolves
 
 
 And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
 
 
-# Revisting the Troll #
+# Revisting the Troll
 
 Melted into slag and the mace is there. Boltac picks up the mace and it doesn't pin him to the floor. 
 
@@ -3147,7 +3357,7 @@ Relan drove the coach
  But as Relan drove the coach, and they rode in the comfort of the plush interior, she planted more, just to make sure they stuck. 
 
 
-# Asarah gives Boltac confidence to be king #
+# Asarah gives Boltac confidence to be king
 
 >I can't be a king, I'm not noble. 
 
@@ -3213,7 +3423,7 @@ He leaned out of the carriage window and shouted to Relan, "Turn this thing arou
 "Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
 
 
-# The Free Companions #
+# The Free Companions
 
 The free companions, I don't know why they call them that, because they sure don't come cheap. 
 
@@ -3241,7 +3451,7 @@ Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage.
 "Not with me it ain't. I've known too many nobles. Your word and six coppers will get you a foul tasting ale in Robrecht."
 
 
-# Boltac Catches Rattick and Makes Him His Minister #
+# Boltac Catches Rattick and Makes Him His Minister
 
 
 ## Rattick escaping, time to head to the South -- to warmer climes
@@ -3314,7 +3524,7 @@ The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
     He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
 
 
-# Boltac Confronts the Old Duke and Torvalds #
+# Boltac Confronts the Old Duke and Torvalds
 
 "Your nephew was just lacking that special something that nobility is supposed to have."
 
@@ -3351,7 +3561,7 @@ Because you have the army.
 "we've got mountain passes, asshole. We're on the trade road to everywhere. And now, we've got a kingdom. And we're in business for ourselves."
 
 
-# Not So Nice Ending #
+# Not So Nice Ending
 
 Boltac assumes that Asarah will be his. 
 
@@ -3362,13 +3572,17 @@ He somehow has to humble and humiliate himself -- or let her go. A tough emotion
 He just kisses her.
 
 
-# The Nice Ending #
+# The Nice Ending
 
 Asarah and Boltac eating, she is sad. He presents her with the sign he took from the ruins of the Inn. 
 ****
 
+# Have to put Boltac sitting on the throne. 
 
-# End With Relan #
+Eh, this chair is not a quality item.
+
+
+# End With Relan
 
 
 Boltac makes him a knight.
