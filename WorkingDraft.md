@@ -40,7 +40,9 @@
 - 28 A maze of twisting passages, each alike
 - 29 Orc's POV
 - 30 Rattick Betrays Him
-- Rattick sneaks them in
+- 31 Rattick sneaks them in
+- 32
+	- To set up earlier
 - Botlac v Asarah
 - He Tries to Buy the Girl
 - Boltac v Wizard
@@ -2688,7 +2690,7 @@ The shadow turned and left the room. Try as she might, Asarah could not see the 
 "What, oh? I forgot you were there. I find your question tiresome, so you should sleep," said the Wizard and with a wave of his hand rendered Asarah unconscious. 
 
 
-# Rattick sneaks them in
+# 31 Rattick sneaks them in
 
 "I am a failure as hero," said Relan. 
 
@@ -2765,7 +2767,7 @@ Relan was wide-eyed and pale. He looked to Boltac. Boltac just observed everythi
 "No shit, Rattick? You've been keeping secrets from me?" Boltac asked with absolutely no air of surprise. 
 
 "You've no idea, sweet merchant."
-
+dwwwww
 "En-henh. So, once again, whatcha plan?"
 
 "By keeping to the shadows and whispering their with ancient tongue, I have found the woman. She is being kept by the wizard in a room at the very bottom of this dungeon."
@@ -2784,11 +2786,140 @@ Relan was wide-eyed and pale. He looked to Boltac. Boltac just observed everythi
 
 "All right, all right, Mr. Death-Waits-in-the-Friggin-Darkness -- yes, you're very scary -- do you have a plan or not?"
 
-"I do," said Rattick, "But you won't like it." Then he bent to strip the crude clothing from the Orc. When he was done, then he said, "Now we must skin him."
+"I do," said Rattick, "but you won't like it." Then he stripped the crude clothing from the Orc. When he was done, then he said, "Now we must skin him."
 
-"Skin him?" asked Relan.
+"Skin him!" said Relan.
 
 "I told you you're weren't going to like it."
+
+
+# 32 
+
+It hadn't taken that long, Relan thought, not really. It just felt like forever because Relan wanted to throw up. Relan had skinned things before, sure. Deer, squirrel, pig. But never a person. Sure. Orc's weren't people. They were monsters, but they had faces just like people. 
+
+Boltac just shook his head and turned away while Rattick worked with his sharp knife and little tugs and jerks. "You really think *this* is going to work?" asked Boltac. "What's you're plan, scare them to death."
+
+"Scare, no," said Rattick, "distract and confuse."
+
+"With a pinch of disgust thrown in for good measure, no doubt."
+
+"Ah, there it is." Rattick held up the skin and scalp of the dead Orc, complete with ears. He had fitted the creature's faceleather to his hand and held up the dismal beast's countenance, as if it was a puppet. "Looks like you," Rattick said to Relan. Then he darted his hand towards Relan's face and made him jump. The ragged cackle that followed was the first time Relan had heard the evil little man laugh. 
+
+"I don't trust him," Relan said to Boltac.
+
+"I don't trust him either. I *employ* him," said Boltac.
+
+Rattick donned the Orc's, crude harness and then slipped the creatures face and ears over his own.
+
+"Wait a minute? Where did Rattick go. He was here just a minute ago," said Boltac. "Seriously, that's a disguse?"
+
+"This is a distraction."
+
+"Where's our disguses?" asked Relan. 
+
+"They're never going to see you."
+
+"I'm not much on sneaking around like a coward," said Relan. 
+
+"Oh, you won't be *sneaking*. You don't have the talent. They'll just be looking elsewhere."
+
+"What?"
+
+"C'mon kid, I think I know what he means. Rattick, get us out of this maze, before this Orc starts to rot."
+
+Rattick bowed low, "Your humble employee, lives to be of service."
+
+
+* * * 
+
+
+They retraced their steps to the main tunnel. If anything, there were more Orcs than before. Now, instead of milling about aimlessly, one side of the tunnel were packed with Torchlit processions of Orcs hauling raw ore and rock up from the depths. On the far side of the passage, a series of empty wooden wagons being conducted back to dig sites far, far below. The Orcs did not use draft animals of any sort, rather one Orc with a whip sat an uncomfortable seat on the raw ore of the full mine carts while four of five of the other creatures pulled. 
+
+"Horrrrrrrrrrrrrrr, horrrrrrrrr," the Orcs wheezed as their powerful legs pushed against the crudly paved surface of the tunnel. Slowly, slowly the wagons climbed from the depths. 
+
+"Merchant," asked Rattick, "do you have any oil in that remarkable sack of yours?"
+
+"En-henh, just a minute." Botlac rummaged through his bottomless sack. 
+
+"There's so many of them," said Relan.
+
+"So many shadows in the darkness, and what will three more be?"
+
+"Is that from a saga? It sounds like it's from one of the sagas."
+
+"No lad," said Rattick from the darkness, "it's from the other kind."
+
+"Ah-hah," Boltac said in quiet triumph. "There you go." 
+
+Rattick took the flagon and said to Relan, "Heroes aren't the only ones who perform deeds worth singing about youngling. Watch and see."
+
+Rattick wrapped himself in the orc's skin, and donned his cloak of darkness, seeming to disappear before their very eyes. A shadow moving through shadows, he moved into the flow of traffic. He was a blackness with pointed ears, nothing more. For a moment, he was in step with the wagons going up, and then next, as natural as could be, he stepped into the lee of one of the great pillars that kept the ceiling from collapsing. 
+
+If Relan hadn't known better, he would have thought this was just another Orc resting on the long climb to the surface. And if he hadn't known better he would have thought that this ordinary Orc was reliving himself on the pillar? 
+
+"Uh, is he?"
+
+"Clever, I'll give him that."
+
+"In front of everybody?" asked Relan.
+
+"Hidden in plain sight. Our friend is very, very sneaky. No wonder he's stayed alive so long."
+
+"He's not my friend," said Relan.
+
+As wagon neared the pillar, Orc-Rattick appeared to finish his business. Relan could imagine him shaking the empty flask and stuffing it in his waistband, but for all the world, he looked like just another Orc in the darkness.
+
+There six Orc's pulling this wagon, yoked together in teams of two. As the pair closest to the Wagon drew abreast of the pillar, something happened to one of the Orcs. It barked out in pain and dropped in it's traces. The other Orc's immediately bellowed in rage, and the "driver," lashed out with the whip indiscriminately. The cavern was filled with such a roaring and commotion, Relan couldn't hear himself think. Even though Relan was looking for Rattick, he almost missed the sneak-thief's next move. 
+
+A ripple of darker darkness came across the floor, underneath the reins of of the wagon. It was Rattick, rolling with noiseless precision. There was a small, silver flash in the murk and another Orc collapsed, clutching a wounded leg. The roars of protest turned to howls of fear as the wagon slipped backwards. The driver whipped and whipped, but it was a disaster in slow-motion, the oil making it impossible for the remaining Orc's to keep their footing. 
+
+But the driver was on to Rattick. He saw a figure that was not quite Orc, crouching motionless on the floor. Relan tensed to flee. But as the driver cried, "HOARRRRRRRK!" and raised his whip, Rattick uncoiled in one fluid motion from the floor. He grabbed a torch from it's holder at the front of the wagon and shoved it in the driver's face. As the Orc screamed in agony, Rattick continued the motion, lofting the torch into river of oil he had planted in the hallway. As it burst into flame, Relan could see Rattick rolling towards them across the floor. 
+
+As flames engulfed the wagon team, the overloaded wagon slid backwards, slamming into the wagon behind it  and crush a number of unfortunate Orc's trapped in it's path. 
+
+
+crushing some of the Orcs on the wagon team behind it. 
+
+
+After such a flash of heat and light Rattick could see nothing in the darkness. 
+
+
+The overloaded wagon slid backwards, crushing some of the Orcs on the wagon team behind it. 
+
+
+"He's good," said Relan. "He's very, very good."
+
+"Worth every penny," said Boltac. 
+
+
+
+"NOW!" Rattick hissed.
+
+They shoved through the mass of confused orcs fleeing from the flames and descending to help their fallen comrades. Relan was nearly overpowered by their oppressive musky scent -- what a lathered horses must smell like in hell, the thought. 
+
+
+If any one of them had looked or smelled closer
+
+
+## To set up earlier
+
+
+
+> the passage was giagantic and vaulted. Supports of raw rock descending with pillars inot the middle of the room. 
+
+> Torches in orc's hands and torches on the wagons.
+
+
+
+
+> Add Rattick pleading with the Wizard to get him to take down his patrols. Tell the Orc's to stand down. 
+
+> "No, no, good sneak-thief. Where would the sport be in that? I will leave them up. If you can get them through, then you shall get your reward and I will know of a weakness in my defense. If you cannot get them through, well, you see, I still get what I want."
+
+> "Then I cannot guaranteed the safety of your minons."
+
+> "Ha ha HA! Break away my evil fellow. I'll just make more. "
+
 
 
 
@@ -2797,6 +2928,11 @@ Relan was wide-eyed and pale. He looked to Boltac. Boltac just observed everythi
 > When Rattick goes in front of the Wizard he tries to pin the flaying of an orc on them. They're the real sickos. I'm your faitful servant Rattick!
 
 ----
+
+Rattick moving through the shadows. Sneaking through the main hall in plain sight. Truly this was a terrifyingly sneaky man. 
+
+he hamstrings an orc carrying a wagon, who falls. The Wagon, turns and careens out of control. Plowing into a crowd coming up with a full wagon of minerals. Then he lights the wagon on fire, in the chaos, they walk right through the hallway and into the passage beyond. 
+
 
 
 POSSIBLITIES
