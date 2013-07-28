@@ -3,77 +3,6 @@
 
 # **The Merchant Adventurer** 
 
-<!-- MarkdownTOC -->
-- POV TRICK
-	- Punchlist
-- Dimsbury Lectures About Magic.
-- Boltac can't be king -- lantern
-	- Lantern
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
-- 10
-- 11
-- 12
-- 13
-- 14
-- 15
-- 16
-- 17
-- 18
-- 19
-- 20
-- 21
-- 22
-- 23
-- 23 Asarah in Dungeon
-- 24 Boltac and Relan and Rattick
-- 25 Asarah Walks With Samga
-- 26 Wizard vs. Asarah
-- 27 Killing the Orc Messenger
-- 28 A maze of twisting passages, each alike
-- 29 Orc's POV
-- 30 Rattick Betrays Him
-- 31 Rattick sneaks them in
-- 32
-	- To set up earlier
-- Botlac v Asarah
-- He Tries to Buy the Girl
-- Boltac v Wizard
-- The Wizard Shows Boltac the Fount of All Magic
-- +++++++ Right Here +++++++++ #
-- Wizard shows Boltac his Treasure Horde
-- Conflict at the End
-	- Orc's eat the coins
-- Boltac in the Land of Misfit Toys
-- Mignola Scene
-- BOLTAC"S TURNing Moment
-- ORCS GORGING THEMSELVES ON GOLD
-- Boltac unleashes the coins
-- Boltac throws the magic detecting wand into the fount of all magic.
-	- Boltac brings Relan back with a magic potion
-- And a bunch of confused wolves
-- Revisting the Troll
-- Asarah gives Boltac confidence to be king
-- The Free Companions
-- Boltac Catches Rattick and Makes Him His Minister
-	- Rattick escaping, time to head to the South -- to warmer climes
-	- Rattick at the end.
-- Boltac Confronts the Old Duke and Torvalds
-- Not So Nice Ending
-- The Nice Ending
-- Have to put Boltac sitting on the throne.
-- End With Relan
-- Extra from Relan v. Shirley.
-- Extra from Boltac and Relan in twisty passages
-<!-- /MarkdownTOC -->
-
 
 
 ## POV TRICK 
@@ -134,6 +63,15 @@ Except to Relan at end when he takes out wizard. (The one win.)
 "Close enough for a coarse man such as you."
 "En-henh."
  
+
+# Rattick v Wizard
+
+
+> When Rattick goes in front of the Wizard he tries to pin the flaying of an orc on them. They're the real sickos. I'm your faitful servant Rattick!
+
+
+
+
 
 
 # Boltac can't be king -- lantern
@@ -2875,41 +2813,31 @@ A ripple of darker darkness came across the floor, underneath the reins of of th
 
 But the driver was on to Rattick. He saw a figure that was not quite Orc, crouching motionless on the floor. Relan tensed to flee. But as the driver cried, "HOARRRRRRRK!" and raised his whip, Rattick uncoiled in one fluid motion from the floor. He grabbed a torch from it's holder at the front of the wagon and shoved it in the driver's face. As the Orc screamed in agony, Rattick continued the motion, lofting the torch into river of oil he had planted in the hallway. As it burst into flame, Relan could see Rattick rolling towards them across the floor. 
 
-As flames engulfed the wagon team, the overloaded wagon slid backwards, slamming into the wagon behind it  and crush a number of unfortunate Orc's trapped in it's path. 
+As flames engulfed the wagon team, the overloaded wagon slid backwards, slammed into the wagon behind it and crushed a number of unfortunate Orcs who were trapped in it's path. 
 
 
 crushing some of the Orcs on the wagon team behind it. 
 
 
-After such a flash of heat and light Rattick could see nothing in the darkness. 
+After such a flash of heat and light Relan could see almost nothing in the darkness. He was only aware of the sounds of chaos and agony and the smell of burning flesh. "It's horrible," Relan said.
 
+"Worth every penny though," said Boltac. 
 
-The overloaded wagon slid backwards, crushing some of the Orcs on the wagon team behind it. 
+"NOW!" Rattick hissed appearing between them as if from nowhere. He thrust both of them across the passage and into the mass of confused Orcs. Some were trying to flee the flames. Others were rushing to help their fallen comrades. They were everywhere, pressing on all sides of them. 
 
+"Keep moving," Rattick hissed. 
 
-"He's good," said Relan. "He's very, very good."
-
-"Worth every penny," said Boltac. 
-
-
-
-"NOW!" Rattick hissed.
-
-They shoved through the mass of confused orcs fleeing from the flames and descending to help their fallen comrades. Relan was nearly overpowered by their oppressive musky scent -- what a lathered horses must smell like in hell, the thought. 
-
-
-If any one of them had looked or smelled closer
+Relan was nearly overpowered by their oppressive, musky scent. He wondered if this was what a lathered horse must smell like in hell. If any one of the frantic, harried Orcs in the passage had looked closer they would have recognized them for the humans, the interlopers that they were. But, in the confusion, they did not. The three were across the passage in a moment, and then safely away into the darkness. Relan felt like laughing. They had gotten away with it. 
 
 
 ## To set up earlier
 
+> Across the vaulted passage, this smaller tunnel continued. It was some yards away, but for all the chance of getting there that they had it might as well have been on the moon. 
 
 
 > the passage was giagantic and vaulted. Supports of raw rock descending with pillars inot the middle of the room. 
 
 > Torches in orc's hands and torches on the wagons.
-
-
 
 
 > Add Rattick pleading with the Wizard to get him to take down his patrols. Tell the Orc's to stand down. 
@@ -2920,41 +2848,6 @@ If any one of them had looked or smelled closer
 
 > "Ha ha HA! Break away my evil fellow. I'll just make more. "
 
-
-
-
-
-
-> When Rattick goes in front of the Wizard he tries to pin the flaying of an orc on them. They're the real sickos. I'm your faitful servant Rattick!
-
-----
-
-Rattick moving through the shadows. Sneaking through the main hall in plain sight. Truly this was a terrifyingly sneaky man. 
-
-he hamstrings an orc carrying a wagon, who falls. The Wagon, turns and careens out of control. Plowing into a crowd coming up with a full wagon of minerals. Then he lights the wagon on fire, in the chaos, they walk right through the hallway and into the passage beyond. 
-
-
-
-POSSIBLITIES
-
-
-Secret Passage
-
-
-Undress the Orc. 
-Rattick puts on the orc's clothes.
-
-or set's the Orc up as a dummy and drives the wagon with strings. 
-
-Disguise 
-Secret Passage
-Magic spell
-
-Magic doohickey from Boltac's bag. 
-
-
-
-----
 
 
 
