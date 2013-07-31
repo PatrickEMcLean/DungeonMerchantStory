@@ -47,6 +47,11 @@ Themistres Bag of Holding.
 
 ## Places ##
 
+Cities mentioned by Dimsbury
+
+Squalipoor
+Yorn
+
 ### The Mercian Empire ###
 
 (to the north.)
@@ -54,8 +59,7 @@ Themistres Bag of Holding.
 
 ### The Southern Kingdoms ###
 
-
-* Shatnapur, the Northernmost city in the Southern Kingdoms.
+Shatnapur, the Northernmost city in the Southern Kingdoms.
 
 ## Title Ideas ##
 
