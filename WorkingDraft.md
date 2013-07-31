@@ -1,4 +1,4 @@
-(*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
 # **The Merchant Adventurer** 
@@ -83,7 +83,7 @@ Asarah, I'm not sure kings should be pure of heart. In fact, for what you have t
 
 ""We don't have an army.
 
-"Then we need a very, very good negotiator. "
+"Then we need a very, very good negotiator."
 
 
 ## Lantern 
@@ -98,6 +98,13 @@ Bag of Holding.
 
 >Does Relan complain that the Orc's all have such cool boots.
 >For every Orc he kills, he tries on his boots -- but none of them fit, through the entire story. 
+
+> Hey, uh, Farm Boy. You are frighteningly strong and fairly unimaginative. Is there a village of you louts somewheres?
+
+> yes, said, relan, why do you ask.
+
+> Cause it's about to be a very rich village. And you, are about to be a hero. 
+
 
 Does Relan get killed and brought back?
 
@@ -481,7 +488,7 @@ In the center of Robrecht, there was a river. In the center of this river was an
 
 The Duke yawned mightily, then thought the better of it. He was holding court. Well, such as court as could be held in the remote and unimpressive Dutchy of Robrecht. There were no glittering courtiers, there were no ladies-in-waiting, there was just the Duke, an uncomfortable wooden chair and a long line of disputes that the Duke was supposed to settle before he would be allowed to go to his supper. 
 
-"Messers Rudolph and Fuad, herders of goats!" the Chamberlain announced. The Duke waved his hand in acknowledgement and the men were brought before him.  
+"Messers Rudolph and Fuad, herders of goats!" the Chamberlain announced. The Duke waved his hand in acknowledgement and the men were brought before him.
 
 "He had advantage of my goat, sire. And I desire compensation," said the cross-eyed man as glared in the approximate direction of the man next to him. The Duke turned his gaze at the accused, a man who was wearing a goat-skin helmet. Was the helmet this man's idea of formal dress, the Duke wondered? The Duke opened his mouth as if to speak, but then thought better of it. 
 
@@ -746,13 +753,13 @@ Yes, a fine roast leg of lamb. Then a pleasant walk to a hilltop from which to w
 
 # 5
 
-Boltac dragged the unconscious Farm Boy out of his shop. As soon as the boy's feet were clear, he dropped him on the ground, and locked the front door. Boltac looked around, for a place to ditch the kid. Across the street, he saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. He'll be just another drunk on a bench, sleeping it off.  
+Boltac dragged the unconscious Farm Boy out of his shop. As soon as the boy's feet were clear, he dropped him on the ground, and locked the front door. Boltac looked around, for a place to ditch the kid. Across the street, he saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. He'll be just another drunk on a bench, sleeping it off.
 
 As he dragged the lad across the street, Boltac muttered, "What were you thinking? Loan you a sword? Are you crazy? Well, of course you're crazy. Forget I asked" With much grunting, Boltac propped the lad up on the bench. He looked up at the hideous, twisted fish on the Tavern's faded sign and a longing for ale filled him. 
 
 "Look kid," he said to the gently snoring Farm Boy on the bench, "It's for your own good. I mean, if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Adventures are tricky." Boltac sighed heavily. "Believe me, go back to the farm."
 
-Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.  
+Boltac watched the sleep. Now that the boy was he was unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.
 
 
 # 6 
@@ -763,7 +770,7 @@ The hurried, hard-working, yet beautiful mistress of the Inn, turned away from a
 
 Boltac climbed up on a bar stool, and said, "No, no. I mean it this time. I have come to sweep you away from all this pointless drudgery. We shall journey to a far kingdom where I am Lord and Master and you will be my Queen."
 
-Asarah threw her thick, black mane of hair back from her face with one free hand. She walked behind the bar, set her hands on the well-worn wooden top and asked, "Whattya want Boltac?"
+Asarah threw her thick, black mane of hair back from her face with her free hand. She walked behind the bar and, setting her hands on the well-worn wooden top, asked, "Whattya want Boltac?"
 
 "Only you my love."
 
@@ -787,25 +794,25 @@ Asarah threw her thick, black mane of hair back from her face with one free hand
 
 "Yes, exactly. Except when you borrow a cup of sugar, you don't go off and use it to get yourself killed trying to save some damn fool... Priestess of Dar." 
 
-"Oh, virgin love," she said with a moony look in her eye.
+"Oh, virgin love," she said as a mooney look crept into her eye.
 
-"En-henh," said Boltac. "How about I rent an ale?"
+"En-henh," said Boltac. "How about I just rent an ale?"
 
-Asarah poured a tankard of ale out of the keg and set it on the bar in front of Boltac. Then she asked, "So, did you loan him the sword?"
+"Comin' right up." Asarah poured a tankard of ale out of the keg and set it on the bar in front of Boltac. Then she asked, "So, did you loan him the sword?"
 
-"No," snapped Boltac, beer flying from his lips. "I hit him over the head with a club, dragged him across the street and left him unconscious on the bench out front."
+"No," snapped Boltac, beer flying from his lips as his blissful first sip was interrupted by the memory of recent inanity. "I hit him over the head with a club, dragged him across the street and left him unconscious on the bench out front."
 
 Now her eyes flashed dark against the wave of her hair. "How *could* you?" 
 
-"It was easy, actually, I just took my... Look, woman. When you pick up a sword you pick up a lot of other things with it. And if the lad wasn't ready to deal with the ambush of a shopkeeper with a bad leg, then he certainly wasn't ready to deal with whatever dangerous and vile thing he meant to bash in the head to preserve the honor of his wench."
+"It was easy, actually, I just took my... Look, woman, When you pick up a sword you pick up a lot of other things with it. And if the lad wasn't ready to deal with the ambush of a shopkeeper with a bad leg, then he certainly wasn't ready to deal with whatever dangerous and vile thing he meant to bash in the head of to preserve the honor of his wench."
 
-"That word again, Wench, you said she was a priestess."
+"That word again. Wench. I thought you said she was a priestess?"
 
-"Oh come on, it was a sleeping beauty. They were roping him."
+"Oh come on, it was a Sleeping Beauty. They were roping him."
 
 "You don't know that. It could have been true love. True romantic love. The kind that you only hear about in songs."
 
-"Yeah, you only hear about it in the songs, because it's not real."
+"Yeah, you only hear about it in the songs, because ain't real."
 
 "You're heart is only filled with money," said Asarah.
 
@@ -853,7 +860,7 @@ Behind Boltac and an unseasonably cool wind filled the inn. Boltac turned to see
 
 "Hmm, city?" asked the man, with shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish-drying village with delusions of grandeur."
 
-"More like delusions of glory," said Boltac as he raised his ale, not sure he liked the other man's tone. "You have travelled then, a trader?" Asked Boltac, sniffing around for a profit. 
+"More like delusions of glory," said Boltac as he raised his ale, not sure he liked the other man's tone. "You have traveled then, a trader?" Asked Boltac, sniffing around for a profit. 
 
 "More of a wandering scholar," said the man.
 
@@ -865,7 +872,7 @@ On cue, Asarah emerge from the kitchen and gave Boltac a withering glare.
 
 "You should tell her that," Boltac said. Asarah noticed the new customer at the bar and replaced her frown with a smile. 
 
-"Madame, I have travelled many miles today, and all of them were in anticipation of the meal I hope to have at your establishment. Please, tell me you have made your incomparable lamb this evening."
+"Madame, I have traveled many miles today, and all of them were in anticipation of the meal I hope to have at your establishment. Please, tell me you have made your incomparable lamb this evening."
 
 Asarah's smile widened into one of true pleasure. She blushed and curtsied. "Well, I don't know about incomparable, but we have roasted lamb tonight."
 
@@ -891,7 +898,7 @@ The man in black did not change his expression.
 
 "I am."
 
-"Oh, well, then it's nowhere near ugly enough. It's so ugly, this Eelpout, that to think of it is to."
+"Oh, well, then it's nowhere near ugly enough. It's so ugly, this Eelpout, that to think of it is to -- "
 
 "I have seen a great many ugly things," said the man in a way that indicated that he, the far worldlier man, was growing tired of this exchange. 
 
@@ -913,7 +920,7 @@ The man in black did not change his expression.
 
 Asarah left the kitchen with a well-ladened tray. She threw another high-powered smile at the stranger as she slid a steaming trencher of lamb in front of him. "Your dinner, sir." When she turned to face Boltac, the smile slipped from her face. The slapped the plate in front of him, and delicious, savory meat juice splattered the front of Boltac's tunic. She turned and walked away without saying a word. 
 
-The stranger swallowed his first bite and sighed with true contentment. "The only mystery, "Is why someone does't take such a talented creature away from all this."
+The stranger swallowed his first bite and sighed with true contentment. "The only mystery, "Is why someone doesn't take such a talented creature away from all this."
 
 Boltac's eyebrows lifted and only his mouth moved as he asked, "In the gentle words of the virgin Priestesses of Dar, come again?"
 
@@ -925,9 +932,9 @@ Boltac's eyebrows lifted and only his mouth moved as he asked, "In the gentle wo
 
 "Eh, her husband owned this inn. He died and that's her hand of cards."
 
-"Hmm," the stranger grunted, as he tucked into his dinner in earnest.  
+"Hmm," the stranger grunted, as he tucked into his dinner in earnest.
 
-"So, uh, what's with the dismal garb, friend? If you are in the market for some more impressive threads, I have a fine store a few steps away."
+"So, uh, while we're asking questions, what's with the dismal garb, friend? If you are in the market for some more impressive threads, I have a fine store a few steps away."
 
 "Ah, yes. A merchant. You would be. And as for the dismal garb, I prefer the term humble. I am a, uh, wandering scholar, in search of knowledge."
  
@@ -945,9 +952,9 @@ Boltac's eyebrows lifted and only his mouth moved as he asked, "In the gentle wo
 
 "Yeah, that too. But nice clothes don't hurt, I'm just saying. My name is Boltac, by the way."
 
-"Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on mutton at the Duke's table? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgement. 
+"Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on mutton at the Duke's table? "Forgive me if I don't shake hands," Dimsbury concluding, sealing Boltac's judgment. 
 
-Dimsbury finished the last bite of lamb and  threw a gold piece (more than 10 times enough for the bill) on the bar. He said, "See that she gets that, my good man. And ask her to bring me another ale over by the fire. Nothing personal," he said, with a thin-lipped smile, "I have a chill."  
+Dimsbury finished the last bite of lamb and  threw a gold piece (more than 10 times enough for the bill) on the bar. He said, "See that she gets that, my good man. And ask her to bring me another ale over by the fire. Nothing personal," he said, with a thin-lipped smile, "I have a chill."
 
 As he watched Dimsbury go, Boltac thought, "You brought it with you, ya rich prick." Then he muttered a prayer to the endlessly haggling Gods of commerce, "Just get me a chance to negotiate with that guy. He won't feel so high and mighty after that, I promise you." 
 
@@ -968,6 +975,7 @@ Boltac held her gaze, "I'll get outta your hair."
 
 
 # 7
+
 Boltac slammed the door of the inn behind him, angry at Asarah for reasons he didn't fully comprehend. He looked up at the stars. He looked down at the muddy cobbles at his feet. Then he looked across the square to his store, trapped squarely between the two. Where he did not look was at the bench where the young lad, Relan sat unconscious. 
 
 Damn what that woman thought. Her fool ideas of romance and heroism. Damn the world, for that matter. The boy was an idiot, and searching for death. No good to no one and a great deal of trouble to whomever he meant to poke with whatever sword he could beg, borrow or steal. That was the thing that all the would-be heroes forgot. The people they meant to stab to death in the name of glory thought that they were heroes too. 
@@ -1967,7 +1975,7 @@ The Troll, not being smart enough to fear a shrewd merchant's smile -- and gener
 "There," said Boltac, and he released the mace. No sooner did let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if he had been smashed there by the hand of an angry God. 
 
 
-# 22
+# 22 Troll Pinned to Floor
 
 Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the ornate mace. 
 
@@ -2010,7 +2018,8 @@ All the way to the bottom, though Rattick.
 >Kid worried that the magic lantern comes with a catch. 
 
 
-# 23
+# 23 The Wizard Hated Administration
+
 The Wizard hated Administration. He hated planning. He even hated arithmetic. Some days, he wondered if he had any talent for anything other than magic at all. 
 
 He could create a monster and control it easily enough. But, little by little, inadvertently, and without realizing it until it was too late, Alston Dimsbury had created the worst kind of monster of all. An organization. 
@@ -2187,17 +2196,32 @@ Relan drew his blade carefully, not making a sound. Then he peeked around the co
 
 "Look!" Relan demanded. Boltac raised his weary head and they both peered around the corner. It was Boltac's turn to drop his jaw. 
 
-He had thought they were in a large corridor before, but when he saw the massive tunnel through which hundreds of Orcs passed them, his sense of scale was quickly and forcibly recalibrated. The most disconcerting thing was that they did not march in ranks, but hurried to and fro as busy townspeople might. This was not merely an army, but an underground civilization. 
+He had thought they were in a large corridor before, but when he saw the massive passageway through which scores of Orcs were walking, his sense of scale was quickly and forcibly recalibrated. Here, underground, was a massive corridor, wider than any street in Robrecht. It looked to have been hewn from the living rock itself. Large, interlocking arches graced the ceiling and descended in a series of gigantic columns that punctuated the center of the corridor. 
 
-The tunnel they were in continued across the large cavern -- it seemed inappropriate to call it a tunnel, it was wide enough across for four, maybe five wagons! As Boltac watched, two Orcs exited the stream of traffic, and entered the tunnel across the way. 
+On the far side of the underground avenue, the comparatively small tunnel they were in continued. But between them and that tunnel was a space five wagons wide filled with Orcs. But not the snarling, ravening, bloodthirsty creatures that had descended on Robrecht. These Orcs looked positively, industrious?
 
-"We can't stay here," said Boltac. 
+"What are they doing," Boltac wondered aloud. 
+
+On the far side of the passage a steady stream of Orcs descended in well-gruntled, torch-carrying twos or threes. And closest to them, a crack of a whip and the straining grunts announced the approach of a heavily ladened wagon. They slunk deeper into the passage and watched a team of four orcs, yoked like oxen, pulling a crude wagon up the slope. 
+
+The wagon was filled with raw ore of some kind and by the light of the foul, pitch-smouldering torches on the front of the wagon, they could see an Orc with a whip sitting on the cargo. 
+
+Crack! Went the whip. "Horrrrrk!" complained one of the haulers. And the wagon rolled on. 
+
+As the back of the wagon disappeared up the passage, Relan said, "If only..."
+
+"Forget it kid, we gotta find another way."
+
+"But there's so many of them... did you know there would be so many?"
+
+"What, you thought this was going to be easy? It told you we were probably going to killed. So quit your whining. Let's go back the way we came."
+
 
 "We should go home," said Relan. 
 
 "Enn-henh," said Boltac, "What happened to the brave adventurer?"
 
-"I can't kill so many. I, I, I, I…"
+"I can't kill so many. I, I, I, I…"d
 
 "C'mere for a minute."
 
@@ -2209,11 +2233,9 @@ The tunnel they were in continued across the large cavern -- it seemed inappropr
 
 "Well, there's a lot more of them out there then there are behind us."
 
-Relan's face went pale and he swallowed. 
+Relan's swallowed and his face went pale. 
 
-"C'mon, cheer up. You're gonna get another chance to be a hero." 
-
-Boltac shuttered his lantern and turned back. "Quietly now," he said. 
+"C'mon, cheer up. You're gonna get another chance to be a hero. Most likely, more chances than you want." Boltac turned back and opened the shutter on the magic lantern the slightest bit. "Quietly now," he said. 
 
 As they made their way back down the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
 
@@ -2349,7 +2371,7 @@ Asarah drew in breath and was just about to really give the Wizard a piece of he
 "Come!" said Dimsbury. 
 
 
-# 27 Killing the Orc Messenger
+# 27 Wizard Kills the Orc Messenger
 
 An orc charged into the room. This creature was squatter and more brutish than Samga, as if the sculptor's thumb had slipped and pressed the clay of him into an awkward wad.
 
@@ -2731,7 +2753,7 @@ dwwwww
 "I told you you're weren't going to like it."
 
 
-# 32 
+# 32 Rattick puts on the disguise
 
 It hadn't taken that long, Relan thought, not really. It just felt like forever because Relan wanted to throw up. Relan had skinned things before, sure. Deer, squirrel, pig. But never a person. Sure. Orc's weren't people. They were monsters, but they had faces just like people. 
 
@@ -2739,7 +2761,7 @@ Boltac just shook his head and turned away while Rattick worked with his sharp k
 
 "Scare, no," said Rattick, "distract and confuse."
 
-"With a pinch of disgust thrown in for good measure, no doubt."
+"With a pinch of disgust thrown in for good measure, no doubt," added Boltac.
 
 "Ah, there it is." Rattick held up the skin and scalp of the dead Orc, complete with ears. He had fitted the creature's faceleather to his hand and held up the dismal beast's countenance, as if it was a puppet. "Looks like you," Rattick said to Relan. Then he darted his hand towards Relan's face and made him jump. The ragged cackle that followed was the first time Relan had heard the evil little man laugh. 
 
@@ -2823,19 +2845,17 @@ After such a flash of heat and light Relan could see almost nothing in the darkn
 
 "Worth every penny though," said Boltac. 
 
-"NOW!" Rattick hissed appearing between them as if from nowhere. He thrust both of them across the passage and into the mass of confused Orcs. Some were trying to flee the flames. Others were rushing to help their fallen comrades. They were everywhere, pressing on all sides of them. 
+"NOW!" Rattick hissed. He appeared between them as if from nowhere. He thrust both of them across the passage and into the mass of confused Orcs. Some were trying to flee the flames. Others were rushing to help their fallen comrades. They were everywhere, pressing on all sides of them. 
 
 "Keep moving," Rattick hissed. 
 
-Relan was nearly overpowered by their oppressive, musky scent. He wondered if this was what a lathered horse must smell like in hell. If any one of the frantic, harried Orcs in the passage had looked closer they would have recognized them for the humans, the interlopers that they were. But, in the confusion, they did not. The three were across the passage in a moment, and then safely away into the darkness. Relan felt like laughing. They had gotten away with it. 
+Relan was nearly overpowered by their oppressive, musky scent. He wondered if this was what a lathered horse must smell like in hell. If any one of the frantic, harried Orcs in the passage had looked closer they would have recognized them for the humans, the interlopers that they were. But, in the confusion, they did not. The three were across the passage in a moment, and then safely away into the darkness. Relan felt like laughing. They had gotten away with it!
+
+This was a very big thing for Relan. He was a good boy, the best of boys. Weaned on all the proper old tales of heroism, and 
 
 
 ## To set up earlier
 
-> Across the vaulted passage, this smaller tunnel continued. It was some yards away, but for all the chance of getting there that they had it might as well have been on the moon. 
-
-
-> the passage was giagantic and vaulted. Supports of raw rock descending with pillars inot the middle of the room. 
 
 > Torches in orc's hands and torches on the wagons.
 
@@ -2844,96 +2864,323 @@ Relan was nearly overpowered by their oppressive, musky scent. He wondered if th
 
 > "No, no, good sneak-thief. Where would the sport be in that? I will leave them up. If you can get them through, then you shall get your reward and I will know of a weakness in my defense. If you cannot get them through, well, you see, I still get what I want."
 
-> "Then I cannot guaranteed the safety of your minons."
+> "Then I cannot guaranteed the safety of your minions."
 
 > "Ha ha HA! Break away my evil fellow. I'll just make more. "
 
-
+ 
 
 
 
 
 # Botlac v Asarah 
 
+Asarah was awakened by someone shaking her shoulder. In spite of herself, she shrieked, and scrambled back underneath the table. 
 
-I don't need rescuing!
-I'm not here to rescue you, I'm here to buy you!
-BUY ME, that's worse.
+"It's okay. It's okay, it's me," said voice that was familiar, but shouldn't be there. Asarah opened her eyes and saw a face lit by an unearthly flickering blue light from below. She gasped. To be fair, it's nobody's best angle. The figure worked the lamp's shutter, throwing more light out into the room. 
 
-Lights up. 
+"Boltac?"
+
+"The one and only."
+
+"What are you doing here?"
+
+"What am *I* doing here? What are *you* doing here. You're the one who got us into this mess."
+
+"Us, wait, what's going on here?"
+
+"I'm here to--"
+
+"No! No you are not. Are you telling me that I'm the damsel in distress? I am NOT a DAMN DAMSEL in DISTRESS!"
+
+"Fine, fine," said Boltac, "Just keep your voice down. Now, how about you rescue me and get out of here."
+
+"That's right! Because, I'm the heroine. I am the girl who rescues herself."
+
+"And doesn't forget to take her best customer, Boltac, with her."
+
+"Best customer, ha! Why, Boltac, when you're not trying to chisel me out of a drink you're trying to beat the check."
+
+"En-henh, and I'm very sorry about that, but if you could hurry up and rescue me so we could get out of here..."
+
+"Oh," said Asarah, sighing into the darkness, "I forgot. I'm chained to this table."
+
+"Ah."
+
+"Yeah."
+
+"So, uh, if I..."
+
+"Don't you even think about it," Asarah said. 
+
+"Well, I think I have something in my sack here that could loosen those chains enough so that, y'know, you and I..."
+
+"All by ourselves. You attempted this stupid rescue all by yourself, what were you thinking?"
+
+"Hurry up!" Relan whispered from across the darkened room. 
+
+"Wait, you brought someone else on this suicide mission!"
+
+"Ennnnyeah, the kid I loaned the sword to?"
+
+"You're endangering a child in this foolish rescue attempt!"
+
+"All right, enough!" Boltac yelled, his voice echoing through the chamber. 
+
+"I think somebody heard that," whispered Relan. 
+
+Boltac slapped his forehead and shook his head. "Look, Asarah. You know this already, but I never told you. I love you."
+
+"The only thing you love is money, Boltac," she said.
+
+Boltac ignored this and plowed on. "And here's something else you know. You should shut up and let people help you."
+
+"Hmmpfh."
+
+"En-henh. That ain't an argument."
+
+"Hm-mpfh!" She said. Making it into an argument by sheer force of inflection. 
+
+"Okay, look. If it makes you feel better, I didn't come here to rescue you. I came here to ransom you. You know, to buy you back."
+
+"BUY ME!" screamed Asarah, creating a racket far beyond any noise which this dungeon had ever had ever heard. "THAT'S EVEN WORSE!"
+
+There was laughter from the darkness. Normally, in keeping with tradition, laughter in the dark would be sardonic. Or sinister. Or, at the very least, mocking. But no, this laughter was amused. "Ho, ho, ho, ho, ho, that. Ho ho ho ho, that is... whoo! I can't take it anymore." There were two short claps in the darkness and then the room was flooded with a brilliant, blinding light. 
+
+Dimsbury was visible as a darker area near the now blinding light trapped within the glass jar. As the intensity of the light faded, it became possible to see again. Dimsbury said, "Oh, that is rich. Without a doubt, that is the finest entertainment, I have seen since the comedies of the Imperial Mercian Opera. Or were they tragedies? I don't know. It's so hard to tell until the end. Do either of you sing?"
+
+Boltac turned to face the Wizard. The powerful light that still suffused the chamber was too bright for anyone to notice, but the lamp he held now glowed a little brighter than before. 
 
 
-# He Tries to Buy the Girl
+Relan stumbled awkwardly into the room. Partially, it was because he had been blinded. But mostly because Rattick was pushing him from behind as he held a dagger to his throat. 
 
->Asarah doesn't want to admit weakness -- Boltac struggles with this -- "It's not weakness let someone love you", he said. 
+Relan knew who it was before he heard his rasping voice.
 
-So he goes into the dungeon. The woman tries to get him to leave -- You've come to fight for my Honor. I thought you were smarter than that!"
+"Undo your sword belt." commanded Rattick.
 
-"No, I'm not here to fight for your honor. I'm here to buy you."
+"Rattick, how could you?" asked Relan. 
 
-"BUY ME! What do you think I am, some kind of whore!"
+"Come now, boy, the question isn't how could I. It was how couldn't I?"
 
-"Keep your voice down," said Colbac, but by then it was too late. 
+"For money, Rattick? For money you help the man who sacked Robrecht? Your home."
 
-Monsters sprung up from all corners of the room. The menagerie scuffled and howled as their master rose from his couch and waved light into the room with a wizarding gesture. 
+From across the room, Boltac said, "Aw c'mon kid, you didn't see that one coming? How could you not see he was working for the wizard all along?"
 
-"What have we here? Why it is my fellow mutton lover. Tell me, what brings you to the depths of my lair."
+"I don't work for anybody but me!" said Rattick, "But I'll take anybody's money."
 
-Colbac could see no percentage in lying. He jerked a thumb at [THE INNKEEPER] and said, "Her."
+Relan protested, "But we have-- I mean Boltac has money. Plenty of it."
 
-"Oh really, is it true love?" asked Oddna with great relish. When they both blushed, he laughed. "Oh my, it _is_ true love. And I thought it was rarer than unicorns. But wait, no it can't be true love, because you told me you had no interest in her. Or don't you remember. I admit, I was in disguise, but I would think a sophisticated man of commerce, such as yourself, would remember."
+"Yes, but there is one important thing he doesn't have. A future. Dead guys don't pay their bills."
 
-"I said she wasn't my _____, that doesn't give you liscense to steal her."
+"The good guys always win Rattick. In the end, they always do," said Relan, as if it was a sacred pledge.
 
-"I don't care for being stolen, Roderick," said [the INNKEEPER]
+"Only in the the songs," said Rattick. A shiver danced Relan's spine. Because, for the first time, he believed the thief. Tears welled in his eyes. He might not be the hero he set out to be, but he resolved right there that he would meet his end like a hero. 
 
-"Roderick?" asked Colbac with a snicker, "Well no wonder you've turned evil in your dotage. Was it all those children who taunted you in school that turned your heart to evil?"
+Behind Rattick and his prisoner, ten Orcs pushed into the room and formed a cordon around the door. They passed to let Samga through. As Relan watched this, he realized, by comparison, how much more refined the Orc Samga, was. It was as if he was a slightly different animal all together. Recongnizable as part of the same genus, but not the same species. The ones guarding the door were more animal. The snorted and scuffled their claws against the tile. They payed careful attention to Asarah. And one of them, staring with unblinking, hollow, black eyes, drooled a little while he watched her. 
 
-Oddna looked at him for a long time. Long enough for every creature in the room, except the strange, powerful wizard to grow uneasy. Mostly it was his smile. It seemed to grow and grow, stretch endlessly under those dead eyes. 
+Dimsbury waved a hand his creatures were silenced. 
 
-"Yes, you are right. I have stolen her, fair and square, and she is mine. And you have come to fight for her. Take you pick of the creatures you see here before you. You may fight any one of them for her hand. Then, if you win, you may fight the rest of them. And then, if you defeat all of them, you may do battle with me."
+"So," he said to Boltac, "What brings such and unlikely and unprepared hero to the depths of my lair?"
 
-"No," began Colbac.
+"Hero?" said Boltac, trying not to let the fear show. "I ain't no hero. You want the other guy." He jerked a thumb at Relan, who was struggling not to cut his throat against the pressure of Rattick's blade by breathing too deeply.
+
+"Be whatever you like. The question remains, why are you here? Why are you disturbing me?"
+
+Boltac could see no percentage in lying. He jerked his other thumb at Asarah and said, "Her."
+
+"Oh really, is it true love?" asked Dimsbury in mocking tone. He rubbed his hands together with great relish. When Asarah and Boltac both blushed, he laughed. "Oh my, it _is_ true love. And I thought it was rarer than unicorns. But wait, no it can't be true love, because you told me you had no interest in her. Or don't you remember. I admit, I was in disguise, but I would think a sophisticated man of commerce, such as yourself, would remember."
+
+"I said she wasn't my wife, that doesn't give you license to steal her."
+
+"I don't care for being stolen, Dimsbury," said Asarah
+
+"Dimsbury?" asked Boltac with a snicker, "Well no wonder you're an evil wizard. in your dotage. Bet the kids on the playground drove you crazy with that one."
+
+Dimsbury looked at him for a long time. Long enough for every creature in the room to become uneasy. Mostly it was his smile. It seemed to grow and grow, stretch endlessly under those dead eyes. 
+
+"Yes, you are right. I have stolen her, fair and square, and she is mine. And you have come to fight for her. Take you pick of my creatures you see here before you. You may fight any one of them for her hand. Then, if you win, you may fight the rest of them. And then, if you defeat all of them, you may do battle with me."
+
+"No," began Boltac.
 
 "No? What do you mean no? You have come here as an adventurer -- as the Hero -- to rescue the damsel in distress. You must fight? You must. That's how these things work."
 
 "I'm not here for a fight. You stole her, fine, she is your property, but I thought perhaps we could make a a deal."
 
-"BUY ME!" protested Sarah, "is that your idea of chivalry. Buying the woman you love back from..."
+"BUY ME!" protested Sarah, "is that your idea of chivalry? Buying the woman you love back from..."
 
-"I never said anything about Love or Chivalry," Colbac snapped in that way that you can only get angry about someone you really, really care about. "You know how many men have tried to defeat the great Oddna? You know how many have succeeded?"
+"I never said anything about Love or Chivalry," Boltac snapped. "You know how many men have tried to defeat the great Dimsbury? You know how many have succeeded?"
 
-"None," said Oddna with a great swelling of pride. "I'm entirely too powerful to be defeated by any but the chosen one, if he even exists. And if he does exist, I'm sure he's not a short, grubby, lame merchant from the backwater town of Robrecht."
+"None," said Dimsbury with a great swelling of pride. "I'm entirely too powerful to be defeated by anythng but a mythical chosen one, a thing which I reasonable certain only exists in within the protected confines of sagas. And if one does exist, I'm sure he's not a short, grubby, lame merchant from the backwater town of Robrecht."
 
-"Yes, yes, mighty Oddna -- you are a rich, wise and powerful man. Quick to perceive your own advantage and capitalize on it. So I offer you a lucrative trade."
+"Yes, yes, mighty Dimsbury -- you are a rich, wise and powerful man," flattered Boltac. "A man of the world who is quick to perceive his own advantage and capitalize on it. So I offer you a lucrative trade."
 
-Oddna's red eyes narrowed, "A trade you say, tell me more..."
+Dimsbury's eyes narrowed, "A trade you say, tell me more..."
 
-Colbac reached into his bag of holding and withdrew a large coin purse that he showed to be overflowing with gold. "I offer 100 gold pieces for the girl."
+Boltac reached into his bag of holding and withdrew a large coin purse that he showed to be overflowing with gold. "I offer 100 gold pieces for the girl."
 
-"Girl?" Oddna snorted, "A handsome woman, certainly, but not a girl."
+"Girl?" Dimsbury snorted, "A handsome woman, certainly, but not a girl."
 
-"The offer stands, a 100," he hefted the purse and reconsidered, "A hundred and two gold pieces, for [THE INNKEEPER]"
+"The offer stands, a 100," he hefted the purse and reconsidered, "A hundred and two gold pieces, for Asarah."
 
-"But I have such a love of her mutton sandwiches. Crisp and fatty and delicious."
+"But I have such a love of her mutton sandwiches. Crisp and fatty and delicious." He shivered a little to emphasize the point. 
 
 "I cannot compel one so powerful as you to do anything, but my offer presents you with a clear choice -- mutton sandwiches, or the gold."
 
 "Oh that word. I cannot abide that word. Or. So harsh on the pallet, so cruel to the ear. I do not accept ors."
 
-Colbac nodded his head deeply in recognition. I understand Great Wizard. I understand. But all life is trade-offs. You can't have your cake and eat it too. Surely you understand this. The money or the girl."
+Boltac nodded his head deeply in recognition. I understand Great Wizard. I understand. But all life is trade-offs. You can't have your cake and eat it too. Surely you understand this. The money or the girl."
 
 "No, I'll take the and."
 
-"And," asked Colbac.
+"And," asked Boltac.
 
-"And," asked [THE INNKEEPER]
+"And," asked Asarah
 
-"Unh?" grunted the Orcs
- 
+"Unh?" grunted one of the Orcs.
+
+"The and," said Rattick with an approving nod. "That's what I'd take."
+
+"Okay, so it's question of price," said Boltac.
+
+"No, I don't think you understand," said Dimsbury with a little chuckle.
+
+"Understand what? It's a negotiation. So, how much you want for her?"
+
+"Boltac!" protested Asarah.
+
+"The, uh, serving girl here," Boltac asked, giving her the signal to calm down with a downward wave of his hand behind his back. "I want my lady friend back. How much for your serving girl, my lady friend?"
+
+"Well, *Merchant*, before we *bargain*, let me show you a few things, so that you might know what manner of man you are bargain with."
+
+"En-henh," said Boltac. Even though the Orc's did not speak English, they could hear the contempt in his voice. Several of them snarled. Alston raised his hand.
+
+"Samga, silence them or end them, I care not which."
+
+"I hear and obey," said Samga. He whispered something in the crude, unfinished language of the Orcs. Whatever it was, the rabble at the far side of the room snapped to attention and stayed there.
+
+"Ah, dear Samga, with a thousand such men as you, you would still be Orcs. At any rate. My dear Merchant, do you know what this is," Alston indicated the in-focus, out of focus flame that flickered on the dias next to him. 
+
+"Eh," Boltac began, intent on speaking some kind of witticism designed to take the wind out of Dimsbury's pretentious sails. But the Wizard would have none of it. 
+
+"SILENCE! I will have none of your mockery and crude calculation!" With a nimbleness that one would not expect from looking at him, the Wizard leapt up on the dais. He caressed the heavy glass vessel within which the flame danced. "This is beyond money. Beyond your crude buying and selling. This is the essence of the source, the headwaters of magic itself. See how it flickers imperfectly, blurred, to pure to be fully realized on this plane of existence."
+
+Boltac rolled his eyes.
+
+"No. NO!" Thundered the Wizard. This is not to be mocked. Not even slightly. This is power. POWER do you understand! With power you can get money. But no Merchant," he spat the title like a curse, "can ever buy power." 
+
+"Have you ever put that to the test?" Boltac asked, with a scrappiness he was faking for the purposes of negotiation. Of course the Wizard was right, thought Boltac, but he'd be damned if he'd give this twisted noble the satisfaction of telling him that. 
+
+To Boltac's surprise, the Wizard laughed. "Very good. Skepticism. The basis of all knowledge. Are you a seeker too, friend Boltac? Let me show you something." Alston stepped down from the dais and crossed to a small door on the far side of the room. 
+
+"Come, merchant! I will show you what I think of money." The Wizard gestured to a spot on the wall and the blank stone changed into a doorway. "Themistres spell of ward and concealment. Do you know it? No matter." Dimsbury threw open the door. "Go ahead, have a good look."
+
+Boltac walked forward. Through the door was what can only be described as a treasure room. There were chests and sacks overflowing with gold and jewels. Golden candelabras, plates, things decorated and encrusted by the jeweler's until it was a wonder they could still stand under their own weight. 
+
+Boltac made a low whistle, "That is a lot of jingle-jangle you got there."
+
+"So you see, your offer of gold, for the girl. Here, may I?"
 
 
-# Boltac v Wizard
+
+
+
+
+"Look fella, that's all very impressive -- and it is, that is a lot of jingle jangle you've got"
+
+
+
+
+
+
+
+
+
+
+
+# This #
+
+"You can't buy her from me? I am of noble descent. You are merely a serf."
+
+"Ennnnh, not so much. I am a free man. A merchant, with assets and capital of my own."
+
+"Pfah, you have no standing," Dimsbury sneered, " You are not even a real person. You are merely a piece of livestock that can have no owner."
+
+"En-henh, but when you milk this cow, he leaks gold," Boltac said. "C'mon Mr. Wizard, there's no need to be unreasonable. Everybody needs gold, right?" Boltac threw a purse of gold at the feet of the Wizard. It landed with a reassuringly substantial clank.
+
+Dimsbury did not look down. He held Boltac's gaze and said, "Only peasants need gold. The Noble need other things."
+
+"Not to offend you, your honor, but that's not exactly how it works. Even Kings run short of coin. And there's plenty more where that came from, in case Wizard's run short of coin as well."
+
+"I will not be bought and sold like so much meat!" Asarah protested.
+
+"This is worse than being stolen?" asked Boltac
+
+"My, ahem, Lord," said Rattick. Everyone turned to look at the thief. He uncurled his dagger hadn from around Relan and stepped to the center of the room holding the lad's sword belt. "There is more where that came from. That unseemly sack draped over his shoulder? Yes, that is something called Themistres Bag of Holding."
+
+"Really," said Dimsbury. "That is incredible. You know, I met him once. When I was young. Do you have any idea how rare his creations are?
+
+"I have some idea of how expensive it was," said Boltac, "and, if you think about it, that's really the same thing. If it will help sweeten the deal, I'll throw it in." The Wizard looked at the ceiling thoughtfully. Boltac quickly shot Asarah a look that begged her to be quiet. 
+
+"You know," Dimsbury said with a strange half-smile, "I must admit, you are a civilized man."
+
+Boltac made a little bow, "Thank you."
+
+"Do you have any idea how many people have tried to raid my dungeon, laboratory, whatever, trying to steal my property."
+
+"I am not raiding you. I am a customer."
+
+"Yes, here for trade. Vile trade it is, but I admit, it is more civilized than treachery, deception and thieves."
+
+"Deception has it's uses for the mighty," whispered Rattick from the shadows. This time he was in the other corner of a round room. How did he do that?
+
+"Yes, civilized…" Dimsbury said, staring off into the smoky air of his spherical chamber. "I have spent so much time arguing for unreasonable people to take the civilized path."
+
+"It's always the best way," Boltac said hopefully, "Reasonable people, getting along in a reasonable world. Able to do business together? Reasonably?" he asked hopefully. 
+
+"It is surprising," said Dimsbury.
+
+"Funny old world, isn't it," said Boltac. 
+
+"Seize him!" commanded Dimsbury. Samga snapped his fingers and three Orc's leapt from the ranks and grabbed Boltac. Samga barked, "Take him to the cells," in the harsh tongue of the Orc's. 
+
+"No!" cried Asarah.
+
+"Wait, wait!" cried Boltac. 
+
+"And bring the bag to me," said Dimsbury.
+
+"Believe me, Mr. Wizard, you don't want to mess around in that bag," said Boltac as the Orc's dragged him away.
+
+"STOP!" cried Dimsbury. "What did you say?"
+
+"I said, for your own good, you should leave that bag alone."
+
+"WHAT!"
+
+"Okay, this is just ridiculous. What are you a moron? I said, stay outta the bag, or you'll regret it."
+
+"DO YOU KNOW WHO I AM!"
+
+"Johnny Hubris?" asked Boltac, "A guy I usedta know. Nevermind."
+
+Dimsbury clapped his hands together and lightning bolts shot forth and ricocheted around the stone ceiling. Everything human in the room, hid their faces against the sudden and terrible noise and wind created by the superheated air. "I command the forces of nature herself. I harness the element power that turns the world. I am to be afraid of your sack of goodies?"
+
+"Only if ya not a jackass," Boltac said out of the side of his mouth. 
+
+"WHAT!" demanded Dimsbury.
+
+
+
+The And. I will keep the girl. AND I will accept the gold. 
+
+That wasn't on the table." Boltac said even as the life was being crushed out of him. 
+
+
+"Throw him in the pit!"
+
+"NOOOOOOOO!" screamed Asarah.
+
+Samga lifted the cover of the bottomless pit of failed creations. The Orc's gave a push, and Boltac was gone. 
 
 
 > Nah, that's all the gold I've got. Truly. That's it. 
@@ -2944,120 +3191,6 @@ Colbac nodded his head deeply in recognition. I understand Great Wizard. I under
 > Boltac and Dimsbury both tried to ignore this shriek. 
 > "Uh, yeah," said Boltac, making a placating motion toward Asarah with his hands. This was working. If she'd just shut up it was going to work. "in broad strokes, that's the deal."
 
-
-Yeah, yeah, yeah. That's great and all. I figured he was probably working with you. 
-
-"You did?" said Relan. "Does this mean that you're in on it?"
-
-"Shattup, kid. It means I'm just not a gullible idiot. I'm not in on anything."
-
-"So if you knew that Rattick would betray you to me, then what was your plan to defeat me?" Dimsbury asked.
-
-"Defeat you?" Boltac asked with genuine confusion.
-
-"You mean you are not here for revenge?" asked Dimsbury.
-
-"Revenge? I have a chance of revenge?" asked Boltac. 
-
-"No, there is no chance of someone like you defeating someone like me."
-
-"Oh, thank goodness," said Boltac
-
-"Thank goodness?" asked Dimsbury, genuinely intrigued.
-
-"I thought I had missed something. A shrewd merchant can't afford to miss things. I mean, you don't have some terrible weakness that you are not telling me about, do you?"
-
-"Ho, ho, ho," cackled Alston, "If I did, I certainly would't tell you about it, would I."
-
-"Ha, ha, ha," laughed Boltac. Then he cut his laugh abruptly short by saying, "Okay, enough yuks. Down to the negotiation."
-
-"Negotation? This is not a negotiation."
-
-"Sure it is chief. Everything is a negotiation. How much you want for her."
-
-"Excuse me?"
-
-"You want a serving girl. I want my lady friend back. How much for your serving girl, my lady friend."
-
-"You can't buy her from me? I am of noble descent. You are merely a serf."
-
-"Ennnnh, not so much. I am a free man. A merchant, with assets and capital of my own."
-
-"Pfah, you have no standing. You are not even a real person. You are merely a piece of livestock that can have no owner."
-
-"En-henh, but when you milk this cow, he leaks gold," Boltac said, "C'mon Mr. Wizard, there's no need to be unreasonable. Everybody needs gold, right?" Boltac threw a purse of gold at the feet of the Wizard. It landed with a reassuringly substantial clank.
-
-Alston did not look down. He held Boltac's gaze and said, "Only peasants need gold. The Noble need other things."
-
-"Not to offend you, your honor, but that's not exactly how it works. Even Kings run short of coin. And there's plenty more where that came from, in case Wizard's run short of coin as well."
-
-"I will not be bought and sold like so much meat!" Asarah protested.
-
-"This is worse than being stolen," asked Boltac
-
-"My, ahem, Lord," said Rattick. Everyone turned to look at Rattick half obscured in the shadows. Boltac wondered, how did Rattick manage to slink into the corner of a round room? "Yes, there is more where that came from. That unseemly sack draped over his shoulder? Yes, that is something called Themistres Bag of Holding."
-
-"Really," said Alston. "That is incredible. You know, I met him once. When I was young. Do you have any idea how rare his creations are?
-
-"I have some idea of how expensive it was," said Boltac, "and, if you think about it, that's really the same thing. But, if it will help sweeten the deal, I'll throw it in." When he saw the Wizard wasn't looking, he gave Asarah a look that begged her to be quiet. 
-
-
-"You know," Alston said with a strange half-smile, "I must admit, you are a civilized man."
-
-Boltac made a little bow, "Thank you."
-
-"Do you have any idea how many people have tried to raid my dungeon, laboratory, whatever, trying to steal my property."
-
-"I am not raiding you, I am a customer."
-
-"Yes, here for trade. Vile trade it is, but I admit, it is more civilized than treachery, deception and thieves."
-
-"Deception also has it's uses for the mighty," whispered Rattick from the shadows. This time from the other corner of a round room. He was such a hard figure to pin down.  
-
-
-"Yes, civilized…" Alston said, staring off into the smokey air, of his spherical chamber. "I have spend so much time arguing for unreasonable people to take the civilized path."
-
-"It's always the best way," Boltac said hopefully, "Reasonable people, getting along in a reasonable world. Able to do business together?" he asked hopefully. 
-
-"It is surprising," said Alston.
-
-"Funny old world, isn't it." said Boltac. 
-
-"Seize him!" commanded Alston. Samga snapped his fingers and three Orc's leapt from the ranks and grabbed Boltac. Samga barked, "Take him to the cells," in the harsh tongue of the Orc's. 
-
-"No!" cried Asarah.
-
-"Wait, wait!" cried Boltac. 
-
-"And bring the bag to me," said Alston.
-
-"Believe me, Mr. Wizard, you don't want to mess around in that bag," said Boltac as the Orc's dragged him away.
-
-"STOP!" cried Alston. "What did you say?"
-
-"I said, for your own good, you should leave that bag alone."
-
-"WHAT!"
-
-"Okay, this is just ridiculous. Stay outta the bag, or you'll regret it."
-
-"DO YOU KNOW WHO I AM!"
-
-"Johnny Hubris?" asked Boltac, "A guy I usedta know. Nevermind."
-
-Alston clapped his hands together and lightning bolts shot forth and ricocheted around the stone ceiling. Everything human in the room, hid their faces against the sudden and terrible noise and wind created by the superheated air. "I command the forces of nature itself. I harness the element power that turns the world. I am to be afraid of your sack of goodies?"
-
-"Only if ya not a jackass," Boltac said out of the side of his mouth. 
-
-"WHAT!" demanded Alston.
-
-"Oh, uh, No, of course not!"
-
-"Throw him in the pit!"
-
-"NOOOOOOOO!" screamed Asarah.
-
-Samga lifted the cover of the bottomless pit of failed creations. The Orc's gave a push, and Boltac was gone. 
 
 
 # The Wizard Shows Boltac the Fount of All Magic
@@ -3111,9 +3244,6 @@ Wizard brings in Asarah.
 
 
 Do you know what this 
-
-
-# +++++++ Right Here +++++++++ #
 
 
 # Wizard shows Boltac his Treasure Horde
