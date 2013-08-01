@@ -66,7 +66,28 @@ But I am a mighty Wizard.
 
 Okay, so I'll repeat myself and say it again slower this time. Some of those things in there --
 
-Enough, you grow tiresome.  
+Enough, you grow tiresome.
+
+
+## Things we need to do to wrap the scene
+
+1) Boltac in hole -- wooden circle shattered on the ceiling. 
+2) Relan must get stabbed.
+3) Bag taken to the Orc's 
+
+Asarah left with the corpse. 
+
+---
+
+Setting: Relan and Asarah
+
+Action: Asarah tries to save Relan
+
++/- : He dies
+
+|><| : She tries convince him that he's a hero. That Boltac was wrong. 
+
+---
 
 
 ----------
