@@ -106,6 +106,46 @@ No it is not magic, just one flawed creature caring for another.
 ----------
 
 
+C'mon, kid, keep you're head up, you're the hero of this story.
+
+Boltac's facade cracks a little. It's one thing to play hard and fast with someone who has some power -- who knows the game and takes the risk. But Relan, -- that brave idiot, gah -- the Wizard should pick on somebody in his own IQ bracket. 
+
+"no, I let you down."
+
+"Don't talk silly, you saved my life. At least once. You just rest easy, just bleed quietly into the floor, I'll get you out of here soon enough."
+
+
+---
+
+
+Samga, leave him to die slowly. But when he his done, you may feed him to Orc's
+
+"They will be so pleased Master," said Samga.
+
+"I am a good and gentle master, am I not?" 
+
+"The finest master," said Samga. 
+
+
+When he's finished dying, 
+
+No 
+
+
+---
+
+
+* No, I wouldn't want everything you jackass. Then I'd have to pay the upkeep on *everything*. And believe you me, that's expensive. Besides, if I had everything, who would I haggle with?
+
+---
+
+
+
+
+----
+
+
+
 The very end
 
 En-henh. Battlemages? I'm just going out on a limb here. You're battlemages haven't really been coming through for you lately. Say, the last four or five days."
