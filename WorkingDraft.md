@@ -20,6 +20,33 @@ Except to Relan at end when he takes out wizard. (The one win.)
 ## Punchlist 
 
 
+* Do we need to set up Boltac's necklace of lucky charms -- with the whistle -- one from every creed or culture or god. Just in case. Then he flits through his necklace. 
+
+I thought you hated magic?
+
+I do. It's not magic. It's insurance. 
+
+En-henh, she said, mocking him. 
+
+* At the end, he throws the charm necklace into the River Swift. 
+
+Are you not afraid anymore?
+
+More afraid than ever! Boltac exclaimed. Now that I'm King, I'm not just afraid for me. I'm afraid for everybody else too. 
+
+Then why did you? 
+
+Because that's my job. Shielding them from the fear. I don't know what kind of King I'm going to be, but if the people see that their King is afraid. They will be afraid. 
+
+Whatever darkness. It is best to face it square on. 
+
+Why Boltac, you're starting to sound like a hero. 
+
+Boltac made a sour face at her, then looked across the river. "En-henh," was all he said. 
+
+
+* Move up Relan's death, so that Boltac sees it before he plunges into the pit. 
+
 "Age and cunning will always overcome" -- tag the final twist with Boltac saying - Age and cunning. 
 
 * Make Dimsbury want food from the beginning. (add in intro discussion, wine hurts his stomach)
@@ -2873,7 +2900,7 @@ This was a very big thing for Relan. He was a good boy, the best of boys. Weaned
 
 
 
-# Botlac v Asarah 
+# 33 Botlac v Asarah 
 
 Asarah was awakened by someone shaking her shoulder. In spite of herself, she shrieked, and scrambled back underneath the table. 
 
@@ -3074,7 +3101,7 @@ Boltac walked forward. Through the door was what can only be described as a trea
 
 Boltac made a low whistle, "That is a lot of jingle-jangle you got there."
 
-"So you see, your offer of gold, for the girl. Here, may I?" Dimsbury reached for the purse of a hundred and two coins. Boltac handed it to him. "Hmm, yes. Watch this." Dimsbury threw it at the feet of the Orc's. The purse opened and gold coins scattered across the floor. Instantly the Orc's broke rank and fought for the gold pieces. Only Samga remained standing, and even he seemed under a great strain. 
+"So you see, your offer of gold, for the girl. Here, may I?" Dimsbury reached for the purse of a hundred and two coins. Boltac handed it to him. "Hmm, yes. Watch this." Dimsbury threw it at the feet of the Orcs. The purse opened and gold coins scattered across the floor. Instantly the Orcs broke rank and fought for the gold pieces. Only Samga remained standing, and even he seemed under a great strain. 
 
 At first it seemed simple greed, but when an Orc got a hold of a few coins, he thrust them between his tusks and gobbled them up greedily. The pecuniary gluttony went on until there was but a few coins left, then the began to fight over one or two coins at the edge of the room. 
 
@@ -3132,80 +3159,341 @@ Boltac made a little bow, "Thank you."
 
 "Johnny Hubris?" asked Boltac, "A guy I usedta know. Nevermind."
 
-Dimsbury clapped his hands together and lightning bolts shot forth and ricocheted around the stone ceiling. Everything human in the room, hid their faces against the sudden and terrible noise and wind created by the superheated air. "I command the forces of nature herself. I harness the element power that turns the world. I am to be afraid of your sack of goodies?"
+Dimsbury clapped his hands together and lightning bolts ricocheted around the stone chamber. Everything human in the room hid it's face against the terrible noise and rush of superheated air. "I command the forces of nature herself. I harness the elemental power that turns the world. I am to be afraid of your sack of goodies?"
 
 "Only if ya not a jackass," Boltac said out of the side of his mouth. 
 
-"WHAT!" demanded Dimsbury.
+Dimsbury crooked his fingers into a claw. Boltac was ripped from the grip of the Orcs and lifted into the air.
+
+"Holy shit!" Boltac said. 
+
+"Offering me a trade," Dimsbury sneered. "I have no need of your trade. I will simply take the AND. I will take your gold AND I will take your sack AND I will take your woman AND I will take your life. Did I miss anything?" He waved his other hand and the wooden cover at the center of the chamber flew up the ceiling and shattered into fragments. Dimsbury directed the wiggling merchant over the bottomless pit.
+
+"No. Don't crush him!" Asarah pleaded. 
+
+"Oh I say," Dimsbury said with a smile, "That is a good idea. That way it will hurt more on the way down. Goodbye merchant."
+
+Boltac vanished into the hole.
+
+
+# 34 Aftermath
+
+Asarah screamed until her lungs were out of air. When she paused to take a breath, she could still hear the far off echos of Boltac's body crashing into the side of the pit. She screamed again, but with very little air in her lungs it degenerated into a cycle of shallow, wailing sobs. 
+
+"There, that's done," said Dimsbury, "Now I need a nap. Samga--"
+
+As Dimsbury turned to address Samga, he presented his back to Relan. Strictly speaking, it wasn't the most heroic of opportunities, but Relan saw the opportunity and seized it. His legs drove him forward. He could almost feel the Wizard's neck in his hands. He could imagine what it would feel like to bash the man's skull against the ground. He made it one step, two, three. It was going to work! He raised his hands, then he felt the knife slide into his belly.
+
+"No, no," said Rattick, still in the lunge position that had taken him out of the shadows, "we'll have no heroes her."
+
+Asarah stopped sobbing and struggled to breath. 
+
+Relan staggered forward a step more. Then Rattick slid knife sideways through the lad's guts and pulled it free. As Relan collapsed to the floor, Dimsbury turned and saw what had happened. 
+
+"Hmm, yes, thank you Rattick, for taking care of that minor nuisance."
+
+"I live to serve my lord."
+
+"Yes, it would be nice to believe that, wouldn't it Rattick."
+
+"Well, what ever humble reward you could see fit to bestow on my unworthy person."
+
+"Oh, Rattick. Oh, Faithful Rattick," he said dripping with sarcasm, "Your job was to see that no adventurer's disturbed me."
+
+"And for that, my cut was whatever loot they had on them," Rattick said, eying Boltac's magic sack greedily. 
+
+"Yes, but you see, I have been well and truly distub-"
+
+"Geh," said Relan, as the last of his life leaked out across the stone floor. 
+
+"Oh good Lord man, just die already and get it over with." Dimsbury looked at Asarah, collapsed in a heap on the ground. "You'll clean this up! I swear to the Nether Gods you will. They're your rescuers. This is your mess."
+
+"Rattick, I know not what to do with you."
+
+"I just saved your life, Master."
+
+"You saved my robe, Rattick. You think thing that he had a chance?"
+
+"Eeergh," said Rattick.
+
+Dimsbury bent over and addressed the dying boy directly, "You never had a chance! Do you understand? Not a chance."
+
+Relan made a gurgling noise. 
+
+"So, Rattick, I will allow you to take as much gold as you can gather and carry from Boltac's sack. Is that acceptable."
+
+"Quite acceptable."
+
+"Excellent. And I trust I will never see you again."
+
+"Not in this, or any other lifetime," Rattick said with a courtly bow of his head. 
+
+"Very well, Samga, take the sack to the UnderHall, gather the horde and dump the Merchant's gold for the feast."
+
+"As you command, Master."
+
+"But," Rattick interrupted, as gently as possible, "I take mine first, right?"
+
+"Oh, no Rattick, where is the sport in that? No, you can scrabble and claw for your reward with the rest of my creatures. Conduct him to the UnderHall and give him the place of honor," Dimsbury said with a smile. Rattick was quickly surrounded by Orcs and led from the room. 
+
+As he left, he had time to say, "You are too kind, Master."
+
+Dimsbury dismissed them with an annoyed wave. 
+
+"What shall I do about this one, Lord?" asked Samga, nodding at Relan.
+
+
+"Samga, leave him to die slowly. Kill him not. But when he is done, you may feed him to whatever Orcs you deem worthy of reward. Or keep him for yourself Samga. You deserve it for keeping this rabble in line.""
+
+"They will be so pleased Master," said Samga.
+
+"I am a good and gentle master, am I not?" 
+
+"The finest master," said Samga. 
+
+"Now I am off to my chambers. I simply must rest. And the first creature to disturb me, will not remain a creature. Am I understood."
+
+Samga nodded. Dimsbury left the room. Samga remained for a moment, considering the horrible scene before him. Underneath Asarah's choking sobs, could hear the labored, gurgling breathing of the dying lad. He twitched he head once, then hurried off to his duties. 
 
 
 
-The And. I will keep the girl. AND I will accept the gold. 
 
-That wasn't on the table." Boltac said even as the life was being crushed out of him. 
+# 35 The Bottom of a Bottom-less Pit
+
+Boltac awoke to more pain than a world could hold. It was a universe of pain, a cosmos of pain and he was at the center of it. In the darkness there was only pain. He tried to open his eyes and there was pain. He tried to close his half-opened eyes and there was pain. His body made the mistake of trying to cough. Then the darkness took him again. He didn't even have time to ask how it might be that the was still alive. 
+
+An age, a time, or a moment later, he awoke again. There was a soft rustling in the darkness beside him and he felt the gentle touch of many creatures he could not see. It was not comforting. 
+
+"Wha--" he tried to ask, but too many ribs were broken for him to speak. He wheezed in pain. The soft touches -- were they hands, or something else -- migrated to his side. Under their strange caresses, the pain eased. As he controlled his loud and labored breathing, he became aware of the low, whispered song all around him. It disappeared into the blackness with no echo, as if they were in the blackness of space or a room so vast as to be it's own walls. 
+
+After a time, the pain in his side was soothed and his breathing came easier. Unexpectedly, his body was wracked with sobs. Tears streamed down his face in that place of dry darkness, and soft pads or hands blotted them away. Finally, he sighed and collected himself enough to say, "I guess this bottomless pit had a bottom after all."
+
+"There is no such thing as a bottomless pit," said a soft voice in the darkness.
+
+"No such thing as a free lunch either," said Boltac. "Who are you and why are you helping me?"
+
+"We are the fallen ones, the discarded ones. The ones that were made, but not unmade."
+
+"En-henh," Boltac said, trying to sit up and immediately regretting it.
+
+"Be still, for your kind was once made. And, as broken as you are, are not beyond salvation, if you will allow it."
+
+"Ho boy. What is going on here? Am I dead? Did I have to pay for own my funeral?"
+
+"We have been shaped and know the way of shaping lives. We the forgotten ones. The made and discarded."
+
+"Wait, wait, you are..."
+
+"The Wizard's forgotten sons. The one's he made and thought to unmake, by discarding us in this place."
+
+"So, uh, forgive me if this is a rude question, but, why aren't ya dead. For that matter, why aren't you dead?"
+
+"When he made us, he did not weave a full spell. He did not allow for the possibility of death. So we must go on for eternity."
+
+"Wait? You mean you can't die?"
+
+"A horse can die, for it is alive. But we are like the carriage. We are not alive, but we function. We cannot die. Only fall apart for all eternity. Unless..."
+
+The singing stopped. 
+
+"Unless what? What's the catch. There's always a catch," said Boltac.
+
+"We have done all we can for you."
+
+"And thanks for that. I don't feel good, but I don't feel dead either."
+
+"No life should be discarded."
+
+"You don't get around much do you?" Boltac asked the voice. "Who are you. Not the plural you, not youse, but you in particular."
+
+"I am the UnderKing, first among the broken."
+
+"Oh, sorry about that, your honor, my liege, whatever. I didn't realize your kind had nobles."
+
+"We did not. But in the darkness, nobility is called forth by need."
+
+"En-henh? Come again?"
+
+"The flame, the one the Wizard worships."
+
+"You mean the 'Source of All Magic'?"
+
+"The very one. He is powerful, powerful beyond all those who have come before him."
+
+"But there's a catch," said Boltac, "There's always a catch. No such thing as free bottomless pit."
+
+"If the link is severed, if the flame of magic is quenched, it will leave this dimension. And we will be released."
+
+"So, ya telling me there's a way to snuff out magic? Like a candle?"
+
+"But only a hero, a true hero, one chosen by fate and circumstance can overcome the Wizard and quench the torrent of magic. That is why you --"
+
+"Wait a minute. Wait a minute! You're saying I'm the chosen one? Like *chosen*. Look buddy, no offense, but I'm just a guy trying to make a coin in this world, you understand?"
+
+"In your heart, there is love."
+
+"Love of coin, of course."
+
+"There is more," whispered the shadow, "do not lie to me. In this place. There is no bargain you can make with the final darkness."
+
+"There's always room to negotiate."
+
+"Not at the very end."
+
+"C'mon, all the stories and the sagas and the miracle turnarounds."
+
+Silence. 
+
+"Look, I'm not your guy. I'm sorry. The guy you wanted, your *hero*, is lying up there in a pool of his own blood and entrails. He was an idiot, but he was the better man. No thought for himself at all. What a Jackass. I wish I could be like him, but I'm not. I'm not your hero, so."
+
+"What of the girl?" the UnderKing asked.
+
+"What, Asarah?"
+
+"Okay, look, I love her. I do. And I figured it out too late.  I blew it. So now I'm here, where ever the hell *here* is, I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's business. I can't save her. I... can't..."
+
+Wise in the ways of patience, the UnderKing said nothing.
+
+"I can't even save myself. I thought I was a smart guy. I thought I had a clever plan, but now... none of my plans are clever. I'm just a fool. So, you know, kill me or whatever you're going to do."
+
+"You are a broken thing," said the UnderKing.
+
+"Yeah. Broken. No resale value whatsoever. So what do I do now?"
+
+"When in darkness, follow the light," said the UnderKing as his voice retreated from Boltac.
+
+"What? There's no light down here. It's the bottom of a bottomless pit!"
 
 
-"Throw him in the pit!"
 
-"NOOOOOOOO!" screamed Asarah.
+# Follow the light.
 
-Samga lifted the cover of the bottomless pit of failed creations. The Orc's gave a push, and Boltac was gone. 
+Boltac sat in the dark for a long time before he saw it. There are many more  gradations of darkness than the human eye can see. In fact, it is correct to say that humans cannot see any kind of darkness, only light. But there is always a catch. As Boltac stared into that endless light and saw nothing, he realized there was a patch blackness that he couldn't see, but it was a patch of blackness that he couldn't see a little less than all the other blackness surrounding it. 
 
+Very slowly, and with many groans, he got to his feet. His clothes, what were left of them, were in tatters. But when he felt his limbs and torso, he realized he was strangely whole. His ribs had stopped moving under his skin like a sack full of broken sticks. The strange pads and paws of the Broken Ones had somehow, set him to rights. For a moment, he considered that he might be a thing shaped as much as they were. 
 
-> Nah, that's all the gold I've got. Truly. That's it. 
-> Rattick, he said he had more aback in the town
-> Yeah, well, like I'd tell him the truth. Look, what's the point
-> "Soooooo," said Dimsbury. "If I understand this correctly. You expect me to take money in exchange for my cook."
-> "I am not your cook," shrieked Asarah. 
-> Boltac and Dimsbury both tried to ignore this shriek. 
-> "Uh, yeah," said Boltac, making a placating motion toward Asarah with his hands. This was working. If she'd just shut up it was going to work. "in broad strokes, that's the deal."
+"You are a broken thing." The UnderKing's words echoed in his ears. In the gigantic silence that surrounded him, the imagined voice was deafening. 
 
+Boltac took a step towards the less dark darkness. It was unnerving to walk blindly. He slid his foot across the floor. Expecting a pit, or a knife in his back or any one of a thousand injuries or tortures or traps that his mind conjured up in the absence of anything to look at. 
 
+Even moving at a snail's pace, Boltac broke out a cold sweat. But inch by inch, he moved forward. After a time he could not measure, he realized that the unseeable floor beneath his feet was sloping upward. But to where? How far had he fallen. There might have been no such thing as a bottomless pit, but there were surely deep, deep holes in the earth.
 
+He came to a wall and felt his way along it in the dark. His hands clung to every fissure and rough place with greed and desperation, as if he could fall off into the darkness and be lost for ever. As he walked, he was overcome with the hopelessness of his position. He was miles underground, and could wander forever -- or at least until dehydration or starvation killed -- without ever finding his way out. 
 
+"Follow the light?" Boltac called out. "Hey! I'm talking to you. I know there's something out there... in here... whatever..." he said, assured at first, but his voice trailing off at the end. He thought for a while about all the somethings that might be out there in the darkness. Maybe yelling was a bad idea. Maybe breathing was a bad idea. Maybe everything was a bad idea. 
 
-> The Orc's bring in Relan, beat to hell.
+Boltac lay his head against the wall and fought back tears. As the silent sobs wracked his body, his necklace of charms infinitesimal jingling noises against the stone. Did he have a ward against being trapped underground? He'd have to get one of those. When he got out of here, that would be the first thing he would do. Surely those barbarous, tanned, Southroners had a God of the UnderDark or some such. Who did the UnderKing worship, Boltac wondered? *Some*where, *some*body a charm against this shit, and Boltac would find it. 
 
-C'mon, kid, keep you're head up, you're the hero of this story. 
-
-Boltac's facade cracks a little. It's one thing to play hard and fast with someone who has some power -- who knows the game and takes the risk. But Relan, -- that brave idiot, gah -- the Wizard should pick on somebody in his own IQ bracket. 
-
-"no, I let you down."
-
-"Don't talk silly, you saved my life. At least once. You just rest easy, just bleed quietly into the floor, I'll get you out of here soon enough."
-
-
-Wizard brings in Asarah. 
-
-"So you wish to buy my cook."
-
-"Buy me! BUY ME!" Asarah said, the coals of her earlier rage leaping up into flame at the suggestion that she would be owned by anyone or anything. 
- 
-
-
-Do you know what this 
-
-
-# Wizard shows Boltac his Treasure Horde
-
-
-Show Orc's eating gold. (maybe seed this even further in the beginning.)
+Wiping his tears away with what remained of his sleeve, Boltac pressed on. A few steps later, he found an opening in the wall, and in it, stairs. As he climbed, he realized that the steps were cut for a creature with a smaller stride than a human. It made climbing them even harder than climbing regular stairs. But even though his legs cramped and his lungs burned, he climbed. Not quickly. Not as a young man like Relan might, but slowly and without stopping. 
 
 
 
-Deprecates how much money it is -- a lot perhaps for adventurers, but he is a noble. Besides, he cares 
+When the sound of Boltac's footsteps, rising from the UnderDark, had faded, Samga spoke to the UnderKing. "I told you he was not the one."
 
-I show it to you, so you may feel your failure all the more. And realize that money is nothing but a vulgar tool to me. As a shovel or pitchfork. Of course, these implements must be used, but they are not to be used by one in my lofty station. 
+"It is not done yet," said the King. 
+
+"He's no Chosen One. He cannot release us from the Master."
+
+"Maybe it is not the one who is Chosen who can save us, Samga. Maybe it is the one who *chooses*."
+
+"I have been away too long," said Samga, leaving his King. 
+
+"I will await his return for a time."
+
+"Of course," said Samga, not adding, "All you ever do is sit in the dark, and wait."
+
+Samga followed his own scent-trail back to the secret fissure he would climb back to the Wizard's dungeon. He had thought he was out range of the UnderKing, but all of a sudden his voice was there beside him. 
+
+"It's not all sitting and waiting, Samga. In the darkness, an Orc can look inward, for there is nothing else to see. "
+
+
+
+
+
+
+
+
+
+
+
+
+
+From time to time, it would become too much and he would  h lay his head 
+
+When Boltac had gone from the blackness, Samga spoke to the UnderKing. "I told you "
+
+
+---
+
+
+Reaction to Relan's death.
+
+
+Maybe the chosen one isn't chosen from outside. Maybe the chosen one is one who chooses himself? 
+
+
+Samga speaks from the darkness, "I told you there was nothing for it. Ee's not the one."
+
+"It is not done yet," said the UnderKing, knowing that such a statement was always true. 
+
+
+
+---
+
+
+
+
+They tell him that only if the magic is released. Only if the flame of magic is quenched from this dimension, can they be released. Only a hero like he can defeat the wiz
+
+"What, you're saying I'm the chosen one? Chosen one. Look buddy, no offense, but I'm just a guy trying to make a coin in this world, you understand."
+
+"In your heart, there is love."
+
+"Love of coin, of course."
+
+"There is more," whispered the shadow, "do not lie to me. In this place. There is no bargain you can make with the final darkness."
+
+"C'mon, there's always room to negotiate."
+
+"Not at the very end."
+
+"C'mon, all the stories and the sagas and the miracle turnarounds."
+
+Silence. 
+
+"You mean the kid is really dead?"
+
+And then the shadow told him something about how death worked that Boltac didn't know. Boltac saw an angle in it, but not for himself. 
+
+"Okay, look, I love the girl. I do. And I figured it out too late and I didn't seize the opportunity and so now I'm hear and she's gone and I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's the bidness."
+
+> Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
+
+
+
+# BOLTAC"S TURNing Moment
+
+** Problem: How do we get him to all is lost -- and use the coins to defeat the creatures? **
+
+At most it's a distraction. It's stupid. It's the only chance he's got. Not because it's a way out (misfit toys offer that) but because he couldn't live with himself if he did anything else. 
+
+He took a whiff of fresh air. He had a last glimpse of the trees through  secret way between the rocks. He made his goodbye to the world and then headed back into the darkness. 
+
+This time it was harder. There was no light to follow. So he followed the darkness. Instead of heading towards the lightness and feeling of hope, at every turning he headed toward the feeling of stale, leaden fear. 
+
+Finally he returned to the pool of darkness within the darkness. 
+
+"You have returned," the shadow hissed in the darkness, "Why?"
+
+"I need to find a way up."
+
+"We told you, you must find the way out on your own."
+
+"Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
 
 # Conflict at the End
 
-
-* Boltac goes on a rant about why can't you people be reasonable? Why can't you see your own advantage?
-
-* Wizard shows him the source of all magic. Tell me you wouldn't want everything.
-
-* No, I wouldn't want everything you jackass. Then I'd have to pay the upkeep on *everything*. And believe you me, that's expensive. Besides, if I had everything, who would I haggle with?
 
 * Commerce, is so, so, impure.
 
@@ -3237,98 +3525,6 @@ Relan remained dead on the floor, not quite a hero.
 >Asarah goes to aid.
 
 
-# Boltac in the Land of Misfit Toys
-
-
->After all the talk of these things not having feelings. (Wizard to Asarah) we see them really having feelings here. 
-
-He awoke on the floor and everything was in pain. 
-
-Mishappen creatures come out of the dark, but they help him rather than hurt him. 
-
-We have been shaped ourselves and we know the way of shaping life. 
-
-He forgot to allow us the possibility of death. So we must go on for eternity. 
-
-"My god, that's awful," said Boltac. In the corner an eyeball wept all by itself. 
-
-
-They tell him that only if the magic is released. Only if the flame of magic is quenched from this dimension, can they be released. Only a hero like he can defeat the wiz
-
-"What, you're saying I'm the chosen one? Chosen one. Look buddy, no offense, but I'm just a guy trying to make a coin in this world, you understand."
-
-"In your heart, there is love."
-
-"Love of coin, of course."
-
-"There is more," whispered the shadow, "do not lie to me. In this place. There is no bargain you can make with the final darkness."
-
-"C'mon, there's always room to negotiate."
-
-"Not at the very end."
-
-"C'mon, all the stories and the sagas and the miracle turnarounds."
-
-Silence. 
-
-"You mean the kid is really dead?"
-
-And then the shadow told him something about how death worked that Boltac didn't know. Boltac saw an angle in it, but not for himself. 
-
-"Okay, look, I love the girl. I do. And I figured it out too late and I didn't seize the opportunity and so now I'm hear and she's gone and I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's the bidness."
-
-> Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
-
-
-# Mignola Scene
-
-> Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
-
-
-
-In the lighter darkness Samga spoke with the elder one in the broken, hissing tongue of Orc's. (between them they try to make the language who)
-
-
-For in the darker darkness he could not speak for the weight of the blackness pressing in on him from all sides. And in the darkest darkness, he feared that the blackness would fill his lungs and he would drown in night. 
-
-
-
-And now we die. 
-
-No, many of the husks will falter, but we will go on?
-
-How can you be sure, I feel the beat of my heart slowing as we speak, the magic is 
-
-The magic of man is draining out of you, but the deeper magic. The magic of life… can you feel that starting?
-
-No. 
-
-You have spent too much time around the human's Samga. Retreat with me into the darkness a while and I will tell you what I have learned from listening deep inside my self. 
-
-Samga followed the older one into the darkest darkness under the ground. 
-
-We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
-
-
-# BOLTAC"S TURNing Moment
-
-** Problem: How do we get him to all is lost -- and use the coins to defeat the creatures? **
-
-At most it's a distraction. It's stupid. It's the only chance he's got. Not because it's a way out (misfit toys offer that) but because he couldn't live with himself if he did anything else. 
-
-He took a whiff of fresh air. He had a last glimpse of the trees through  secret way between the rocks. He made his goodbye to the world and then headed back into the darkness. 
-
-This time it was harder. There was no light to follow. So he followed the darkness. Instead of heading towards the lightness and feeling of hope, at every turning he headed toward the feeling of stale, leaden fear. 
-
-Finally he returned to the pool of darkness within the darkness. 
-
-"You have returned," the shadow hissed in the darkness, "Why?"
-
-"I need to find a way up."
-
-"We told you, you must find the way out on your own."
-
-"Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
 
 # ORCS GORGING THEMSELVES ON GOLD 
@@ -3491,6 +3687,36 @@ He leaned out of the carriage window and shouted to Relan, "Turn this thing arou
 "Get where?" Relan shouted. 
 
 "Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
+
+
+# Mignola Scene
+
+> Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
+
+
+
+In the lighter darkness Samga spoke with the elder one in the broken, hissing tongue of Orc's. (between them they try to make the language who)
+
+
+For in the darker darkness he could not speak for the weight of the blackness pressing in on him from all sides. And in the darkest darkness, he feared that the blackness would fill his lungs and he would drown in night. 
+
+
+
+And now we die. 
+
+No, many of the husks will falter, but we will go on?
+
+How can you be sure, I feel the beat of my heart slowing as we speak, the magic is 
+
+The magic of man is draining out of you, but the deeper magic. The magic of life… can you feel that starting?
+
+No. 
+
+You have spent too much time around the human's Samga. Retreat with me into the darkness a while and I will tell you what I have learned from listening deep inside my self. 
+
+Samga followed the older one into the darkest darkness under the ground. 
+
+We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
 
 
 # The Free Companions
@@ -3693,7 +3919,7 @@ Boltac smiled at the young man, so innocent in the ways of the world, and oblivi
 
 # Extra from Relan v. Shirley. 
 
-Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.    
+Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.
 
 Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
 
@@ -3732,7 +3958,7 @@ That's what he would do. In his arrogance, he decided upon humility. He would no
 
 
   And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
-~                                                                                 
+
 When Boltac had left the store, Relan 
 
 >runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
@@ -3783,6 +4009,12 @@ he backhands her and runs away. Ashamed and embarrassed.
 >Wizard -- And now you will die. 
 >Boltac -- That might not be in your best advantage. 
 
+# Extra from Boltac in Pit
+
+
+>After all the talk of these things not having feelings. (Wizard to Asarah) we see them really having feelings here. 
+
 
 
 # Extra from Boltac and Relan in twisty passages 
+
