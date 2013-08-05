@@ -3441,13 +3441,23 @@ He turned his back on the door. "It was a bad deal from the beginning. But you g
 
 He fingered the necklace thick with charms around his neck and had a thought. It was a bad idea. It was all a bad idea. "You make your own luck," said Boltac. 
 
-He took a whiff of fresh air. He said to the trees and the green grass and the water pure and dancing through rocks. The clouds parted and the sun was suddenly too brilliant. To all of it he made a silent goodbye and then headed back into the darkness. It was a bad deal all right. But Boltac had made the deal. And he wasn't going to break it. 
+He took a whiff of fresh air. He said to the trees and the green grass and the water pure and dancing through rocks. The clouds parted and the sun was suddenly too brilliant. To all of it he made a silent, last goodbye and then headed back into the darkness. It was a bad deal all right. But Boltac had made the deal. And he wasn't going to break it. 
 
 His life at risk? Sure, thought Boltac, leaving the door open behind him. But that was nothing. It wasn't just the sum of all his yesterdays he had put up to finance this ill-advised expedition. It was the promise of all his tomorrows. Unless he saw this thing through, there would be no ease by the fire. There would be no pleasure in shrewd trading and a crisp profits. There would be no, living with himself. 
 
-Fine, thought Boltac. She loves me not. But I love her still. I cannot do other. The thought flickered, unbidden to his head, I guess that makes me some manner of hero. He answered his own foolishness with a skeptical, "En-henh."
+Fine, thought Boltac. She loves me not. But I love her still. I cannot do other. The thought flickered, unbidden to his head, I guess that makes me some manner of hero. As he closed the door behind him, he answered his own foolishness with a skeptical, "En-henh."
 
+It was harder to go back. Now he realized how stagnant the air was down here. Each step still had fear, but now they were robbed of hope and anticipation. He imagined he knew what waited for him at the bottom of the pit. So he followed the darkness, sinking in the blackness; at every turn heading towards the feeling of stale fear and dry death. 
 
+When the gigantic, silent room opened up around him again, he stood listening for a time. He heard nothing, but took a chance anyway. "I know you're there," he said.
+
+"You have returned," said the UnderKing "Why?"
+
+"I need to find a way up."
+
+"We told you, to find your way out, you must follow the light."
+
+"Not *out*, back up. In the mess. And with all the crap the Wizard has thrown down his hidey hole, you can't tell me nobody's got a torch."
 
 
 It was a mistake to set out
@@ -3471,17 +3481,7 @@ At most it's a distraction. It's stupid. It's the only chance he's got. Not beca
 
 He took a whiff of fresh air. He had a last glimpse of the trees through  secret way between the rocks. He made his goodbye to the world and then headed back into the darkness. 
 
-This time it was harder. There was no light to follow. So he followed the darkness. Instead of heading towards the lightness and feeling of hope, at every turning he headed toward the feeling of stale, leaden fear. 
 
-Finally he returned to the pool of darkness within the darkness. 
-
-"You have returned," the shadow hissed in the darkness, "Why?"
-
-"I need to find a way up."
-
-"We told you, you must find the way out on your own."
-
-"Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
 
 
 
