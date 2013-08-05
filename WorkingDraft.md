@@ -3382,7 +3382,7 @@ He came to a wall and felt his way along it in the dark. His hands clung to ever
 
 "Follow the light?" Boltac called out. "Hey! I'm talking to you. I know there's something out there... in here... whatever..." he said, assured at first, but his voice trailing off at the end. He thought for a while about all the somethings that might be out there in the darkness. Maybe yelling was a bad idea. Maybe breathing was a bad idea. Maybe everything was a bad idea. 
 
-Boltac lay his head against the wall and fought back tears. As the silent sobs wracked his body, his necklace of charms infinitesimal jingling noises against the stone. Did he have a ward against being trapped underground? He'd have to get one of those. When he got out of here, that would be the first thing he would do. Surely those barbarous, tanned, Southroners had a God of the UnderDark or some such. Who did the UnderKing worship, Boltac wondered? *Some*where, *some*body a charm against this shit, and Boltac would find it. 
+Boltac lay his head against the wall and fought back tears. As the silent sobs wracked his body, his necklace of charms infinitesimal jingling noises against the stone. Did he have a ward against being trapped underground? He'd have to get one of those. When he got out of here, that would be the first thing he would do. Surely those barbarous, tanned, Southroners had a God of the UnderDark or some such. Who did the UnderKing worship, Boltac wondered? *Some*where, *some*body a charm against this kind of thing, and Boltac would find it. 
 
 Wiping his tears away with what remained of his sleeve, Boltac pressed on. A few steps later, he found an opening in the wall, and in it, stairs. As he climbed, he realized that the steps were cut for a creature with a smaller stride than a human. It made climbing them even harder than climbing regular stairs. But even though his legs cramped and his lungs burned, he climbed. Not quickly. Not as a young man like Relan might, but slowly and without stopping. 
 
@@ -3400,74 +3400,66 @@ When the sound of Boltac's footsteps, rising from the UnderDark, had faded, Samg
 
 "I will await his return for a time."
 
-"Of course," said Samga, not adding, "All you ever do is sit in the dark, and wait."
+"Of course," said Samga, "All you ever do is sit in the dark, and wait."
 
 Samga followed his own scent-trail back to the secret fissure he would climb back to the Wizard's dungeon. He had thought he was out range of the UnderKing, but all of a sudden his voice was there beside him. 
 
-"It's not all sitting and waiting, Samga. In the darkness, an Orc can look inward, for there is nothing else to see. "
+"It's not all sitting and waiting, Samga. The darkness, is where an Orc can look inward, for here is nothing else to see."
+
+"We were made hollow. We are empty inside."
+
+"It is not done yet," said the UnderKing, knowing that that statement was always true. 
+
+
+# Boltac Turns back. 
+
+Boltac stumbled through darkness for what felt like days. The stairs he had found ended in another darkened level. Again, he felt his way towards the lighter darkness. Stumbling into walls. Once almost falling into another pit. His nerves became numb to the constant strain, even has his hands cramped with the effort of reaching outward, ever outward. As far as his fingers could reach. Eventually the ache reached all the way to his shoulders. 
+
+He was on the verge of giving up, when he felt the movement of air. A breath of freshness in the stale depths that had become familiar. But this air was light and sweet, like a cool drink of water on a hot summer day. His lungs drank it in greedily. And with his face and nose he followed the movement of that impossible breeze.
+
+He rounded a corner, and then he saw it. Light. Not the brightness of a new day dawning. Not even the faint light of a candle guttering it's last spark in a pool of melted tallow. No, it was a lessening of the dark. But in comparison from the darkened places of the earth from which he had traveled it was beacon to lead the the way. He hurried and fell. Got up and fell again. Climbed stairs using his hands and feet. Then a passage to the left, then more stairs and then, there it was, a chink in the wall. A pure beam of light in this darkened place. 
+
+He followed the beam to a crack in the wall. It was a hole in an ancient stone door, seemingly overgrown on the other side. After a struggle with the stone, he was able to pull it inward, with a great grinding of stone on counterbalanced stone. Grass and vine tumbled inward, and he pushed his way out, as if through sod, into the sunlight of a brilliant day. 
+
+He was high on the side of a mountain, facing East, and the light was a sunrise. Near him, a spring burbled down the slope. Boltac drank greedily from the water. It was so clear and cold it caused his teeth to ache. When he splashed it upon his shaven pate, the shock of it sparked through him an emotion very much like hope. Realizing he was alive, free and in the light of a new day, Boltac laughed as he had not laughed for years. 
+
+A short walk in the sunlight, a gentle stroll downhill, around the base of this mountain and he would be on the road back home. He had it on good authority that some people even enjoyed such walks in nature. 
+
+And then what? Sell what was left in his store. Buy a boat and head South? A leisurely drift in the open air. Some fishing along the way. Large bonfires on the riverbank at night. 
+
+And then what? A shop or trading stall in Yorn or in the swamp-ringed Squalipoor. Surely he would not stop in Shatnapur? That would be too close to Robrecht. Too close to memories. Too close to...
+
+And then what? To build a business again. Make back something of the fortune he lost. He could do it. Wasn't he a lucky man? As he thought this he jangled the necklace of charms and wards. A lucky man. Luck bought with hard work and the money it had brought. 
+
+And then what? His ease in old age, perhaps a place to put his feet up? He wasn't too old to dream of a family. A vineyard, something productive, not too far out of a city, but away from the bustle. And then, as an old man, the busy-i-ness of his life complete, he would put his feet on the hearth, sip the wine that was too good to sell and he would have time to think.
+
+Relan falling to the stone floor. The look of confusion on his face, seeming to say, "But this can't happen, for I am the hero!" Asarah, lost to him. As lost to him as if she was dead. But her scream, her wails, crying for him. Would he not hear that echoing through the years for the rest of his life. 
+
+He turned back to the door. "Who am I kidding?" he asked the bright new day. "I'm just gonna get myself killed. I ain't the chosen one. Who chose me? Who would chose me. I'm not the hero? I don't have broad shoulders or a strong chin?"
+
+He turned his back on the door. "It was a bad deal from the beginning. But you got away with your skin. It's a sunk cost Boltac. Take the hit and walk away." He nodded to himself as if that that ended the argument. Good. Sensible. Mercantile. Just a bad deal. But when he went to walk away, his feet moved in the wrong direction. 
+
+He fingered the necklace thick with charms around his neck and had a thought. It was a bad idea. It was all a bad idea. "You make your own luck," said Boltac. 
+
+He took a whiff of fresh air. He said to the trees and the green grass and the water pure and dancing through rocks. The clouds parted and the sun was suddenly too brilliant. To all of it he made a silent goodbye and then headed back into the darkness. It was a bad deal all right. But Boltac had made the deal. And he wasn't going to break it. 
+
+His life at risk? Sure, thought Boltac, leaving the door open behind him. But that was nothing. It wasn't just the sum of all his yesterdays he had put up to finance this ill-advised expedition. It was the promise of all his tomorrows. Unless he saw this thing through, there would be no ease by the fire. There would be no pleasure in shrewd trading and a crisp profits. There would be no, living with himself. 
+
+Fine, thought Boltac. She loves me not. But I love her still. I cannot do other. The thought flickered, unbidden to his head, I guess that makes me some manner of hero. He answered his own foolishness with a skeptical, "En-henh."
+
+
+
+
+It was a mistake to set out
+
+
+You got a way "
 
 
 
 
 
 
-
-
-
-
-
-
-
-From time to time, it would become too much and he would  h lay his head 
-
-When Boltac had gone from the blackness, Samga spoke to the UnderKing. "I told you "
-
-
----
-
-
-Reaction to Relan's death.
-
-
-Maybe the chosen one isn't chosen from outside. Maybe the chosen one is one who chooses himself? 
-
-
-Samga speaks from the darkness, "I told you there was nothing for it. Ee's not the one."
-
-"It is not done yet," said the UnderKing, knowing that such a statement was always true. 
-
-
-
----
-
-
-
-
-They tell him that only if the magic is released. Only if the flame of magic is quenched from this dimension, can they be released. Only a hero like he can defeat the wiz
-
-"What, you're saying I'm the chosen one? Chosen one. Look buddy, no offense, but I'm just a guy trying to make a coin in this world, you understand."
-
-"In your heart, there is love."
-
-"Love of coin, of course."
-
-"There is more," whispered the shadow, "do not lie to me. In this place. There is no bargain you can make with the final darkness."
-
-"C'mon, there's always room to negotiate."
-
-"Not at the very end."
-
-"C'mon, all the stories and the sagas and the miracle turnarounds."
-
-Silence. 
-
-"You mean the kid is really dead?"
-
-And then the shadow told him something about how death worked that Boltac didn't know. Boltac saw an angle in it, but not for himself. 
-
-"Okay, look, I love the girl. I do. And I figured it out too late and I didn't seize the opportunity and so now I'm hear and she's gone and I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's the bidness."
-
-> Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
 
 
 
@@ -3490,6 +3482,20 @@ Finally he returned to the pool of darkness within the darkness.
 "We told you, you must find the way out on your own."
 
 "Not out, back up. And with all the crap that's down here, you can't tell me nobody dropped a torch."
+
+
+
+
+---
+
+Finds his glove, another half eaten. Finds his wand -- it's been gnawed on. 
+
+All the gold is gone and the Orc's are lying around, having gorged themselves
+
+You know, there was a lot of gold in there. 
+
+A pause -- Boltac goes, 
+
 
 
 # Conflict at the End
@@ -4013,6 +4019,39 @@ he backhands her and runs away. Ashamed and embarrassed.
 
 
 >After all the talk of these things not having feelings. (Wizard to Asarah) we see them really having feelings here. 
+
+
+
+
+
+
+
+They tell him that only if the magic is released. Only if the flame of magic is quenched from this dimension, can they be released. Only a hero like he can defeat the wiz
+
+"What, you're saying I'm the chosen one? Chosen one. Look buddy, no offense, but I'm just a guy trying to make a coin in this world, you understand."
+
+"In your heart, there is love."
+
+"Love of coin, of course."
+
+"There is more," whispered the shadow, "do not lie to me. In this place. There is no bargain you can make with the final darkness."
+
+"C'mon, there's always room to negotiate."
+
+"Not at the very end."
+
+"C'mon, all the stories and the sagas and the miracle turnarounds."
+
+Silence. 
+
+"You mean the kid is really dead?"
+
+And then the shadow told him something about how death worked that Boltac didn't know. Boltac saw an angle in it, but not for himself. 
+
+"Okay, look, I love the girl. I do. And I figured it out too late and I didn't seize the opportunity and so now I'm hear and she's gone and I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's the bidness."
+
+> Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
+
 
 
 
