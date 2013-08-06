@@ -3266,7 +3266,15 @@ An age, a time, or a moment later, he awoke again. There was a soft rustling in 
 
 "Wha--" he tried to ask, but too many ribs were broken for him to speak. He wheezed in pain. The soft touches -- were they hands, or something else -- migrated to his side. Under their strange caresses, the pain eased. As he controlled his loud and labored breathing, he became aware of the low, whispered song all around him. It disappeared into the blackness with no echo, as if they were in the blackness of space or a room so vast as to be it's own walls. 
 
-After a time, the pain in his side was soothed and his breathing came easier. Unexpectedly, his body was wracked with sobs. Tears streamed down his face in that place of dry darkness, and soft pads or hands blotted them away. Finally, he sighed and collected himself enough to say, "I guess this bottomless pit had a bottom after all."
+After a time, the pain in his side was soothed and his breathing came easier. Unexpectedly, his body was wracked with sobs. Tears streamed down his face in that place of dry darkness, and soft pads or hands blotted them away. "I should be dead," Boltac said at last.
+
+"Someday, you will be," said the voice in the darkness. 
+
+"Is this magic?"
+
+"Magic? Just one flawed creature caring for another? There is a magic in that, yes."
+
+There was silence for time. This made Boltac nervous, so he joked, "I guess this bottomless pit had a bottom after all."
 
 "There is no such thing as a bottomless pit," said a soft voice in the darkness.
 
