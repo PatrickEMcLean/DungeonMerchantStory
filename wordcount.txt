@@ -15,7 +15,7 @@
 38742 WorkingDraft.md Sun Jul 7 11:24:17 EDT 2013
 38824 WorkingDraft.md Sun Jul 7 12:00:02 EDT 2013
 38824 WorkingDraft.md Sun Jul 7 14:53:56 EDT 2013
-38824 ./workingdraft.md Sun Jul 7 17:15:38 EDT 2013
+38824 workingdraft.md Sun Jul 7 17:15:38 EDT 2013
 38824 workingdraft.md Sun Jul 7 17:16:15 EDT 2013
 39708 workingdraft.md Sun Jul 7 18:16:58 EDT 2013
 39813 workingdraft.md Sun Jul 7 18:39:15 EDT 2013
@@ -57,3 +57,4 @@
 49072 workingdraft.md Sun Aug 4 21:15:44 EDT 2013
 50104 workingdraft.md Mon Aug 5 11:30:36 EDT 2013
 50165 workingdraft.md Mon Aug 5 17:58:45 EDT 2013
+50204 workingdraft.md Tue Aug 6 10:11:07 EDT 2013

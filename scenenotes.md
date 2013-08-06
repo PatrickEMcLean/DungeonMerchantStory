@@ -1,58 +1,5 @@
 
 
-SCENE: Dimsbury gets a cook
-POV: Dimsbury
-SETTING: Sanctum
-
-Look, if you won't cook, you're no use to me, I'll throw you into the pit to cook for the rejects. 	
-
-Asarah -- Fine, but I won't be kept in that nasty old cell. Not fit conditions for a worker. 
-
-Dimsbury - I know just the place. Samga, have her chained to the table. You can sleep on the luxurious rug, my dear. There are you happy. 
-
-She heard the struggles of the poor creature below. No, she thought. But she kept it to herself. 
-
----
-
-
-SCENE: Rattick betrays Boltac
-POV: Rattick
-SETTING: Sanctum
-
-A bonus if you can deliver them to me here. 
-
-How?
-
-Be sneaky Rattick. After all, it is what you are good at.
-
------
-
------
-
-SCENE: Boltac negotiates with Dimsbury
-POV: Boltac
-SETTING: Sanctum
-
-Boltac offers money -- it seems like it's going to be a negotiation -- but then Dimsbury shows him his treasure room. (I have money -- you peasant, you grubby commoner. What would I want with that pittance of gold?)
-
-
-Dimsbury shows off about the 
-Dimsbury takes everything, pushes him into the pit. Rattick stabs Relan. 
-
-Rattick asks what of his things? 
-
-Divide it among the Orcs. Let them have the metal bits. 
-
-But the gold!
-
-Oh, Rattick I have no need of gold.
-
-But the gold for me. 
-
-Oh, Rattick, I have no need of you, either. You are free to go, but trouble me no more. Or else, it is the pit for you. 
-
-Hmm, he said to Samga, should we wake her to make me a sandwich -- or is it best to let her sleep, do you think?
-
 -----
 
 SCENE: Boltac goes back for his sack	
@@ -70,6 +17,8 @@ Hey, what's behind this door? The one that crackled with a powerful magic field.
 
 
 ---
+
+
 
 SCENE: Boltac goes back for his sack	
 POV: Boltac
