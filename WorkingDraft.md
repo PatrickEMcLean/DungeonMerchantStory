@@ -3473,22 +3473,27 @@ When the gigantic, silent room opened up around him again, he stood listening fo
 
 In the darkness a light appeared. It was a torch, and though it was well soaked in oil and burning well, the darkness did not give up easily. It pressed in on all sides. As the torch was lifted, Boltac saw that it was Samga that held it. And to his left, stood a simpler, cruder version of an Orc that wore a crown of bent and twisted metal. The UnderKing closed his eyes and still shielded them with a claw from the light. The UnderKing's features seemed like they were drawn in crayon, simple and plain. A moon face, mere holes for ears and a scribble for mouth. His simple symmetry was interrupted by a leg bent underneath him. It was twisted as if it had shattered in a fall and never properly reset. 
 
-Not opening his eyes, the UnderKing. "Blessings be upon you, One who has chosen."
-
 "Uh," began Boltac, but then he realized that the emptiness of the pit was anything but empty. At the very edges of the feeble light cast by the torch, were creatures keeping to the dark. Some walked, some crawled, some shambled. There were pieces of 
 
-"R"
+"Release. Release. Release." They all whispered in unison. Yet when they moved, they did not make a sound. 
 
+Boltac tore his eyes away and looked at Samga. "Why are you helping me? Why do you betray your Master."
 
-"Why are you helping me?"
+"Do you have a master?"
 
+"No."
 
+"Do you want one?"
 
-Samga
+"No."
 
-He has bled the boy dry to lure the flame and soon will sacrifice the girl. By so doing, he will weld the flame to his power. 
+"Neither do I. He is my King," he nodded towards the unfinished shell of the UnderKing who was averting his eyes from the light. Then he looked upward and added, "He is my captor."
 
-"What the?"
+"Okay, well, good enough for me. Now let's talk about how we are going to do this. We need to be patient. Take our time. Make no mistakes. We're only gonna get one shot at this guy."
+
+Samga's expression did not change when he said, "He has bled the boy dry to lure the flame and soon will sacrifice the woman. By so doing, he will weld the flame to his power. 
+
+"What?"
 
 "It is blood magic. The force that binds mother to child, father to son and clan to clan. Very old and very powerful," said Samga.
 
@@ -3496,17 +3501,45 @@ He has bled the boy dry to lure the flame and soon will sacrifice the girl. By s
 
 "He hungers for power and cares not how he gets it."
 
-"En-henh. No offense to your hospitality there, King, but we need to get a move on. I'm late for an appointment to do something stupid."
+"En-henh. Okay, no offense to your hospitality there, King, but we need to get a move on. I'm late for an appointment to do something stupid."
 
 
+Not opening his eyes, the UnderKing said "Blessings be upon you, One who has Chosen."
 
-It was a mistake to set out
+"En-henh. I see what you did there."
+
+As Samga walked away, the broken one's skittered out of the range of light. Boltac followed. He didn't feel lucky, but at least he didn't feel broken. 
 
 
-You got a way "
+# The Wizard, Killing Relan.
+
+When the Wizard had returned to his sanctum, Asarah had crept as far under the table as her chain would allow. She sat wide-eyed and frozen like the rabbit who hope the fox does not see her. 
+
+But Dimsbury had no attention for her. As soon as he entered the room he was drawn to the flame. He muttered to himself, "Brighter. More resolved. But how can this be?" Dimsbury looked around the chamber. He waved a hand at the wall sconces and the burst into flame, dispelling the uncertain, illumination of the magic flame and filling the room with an honest, sooty light. 
+
+A glance at the floor revealed the cause. From Relan's body, a rivulet of blood stretched across the floor to the dias on which the flame sat. "Could it be?" Dimsbury asked. He removed the glass cover from the flame. Although there was no wind, the flames bent over the side of the dias. Dimsbury bent and dipped his fingers into blood. He held them above the flame, and as it dripped downward into the confluence of magic, it was transformed through a brilliant range of hues, and looked to be just a bit more substantial at the end of it.
+
+He turned what was left of Relan and said, "You're not completely useless after all, what a surprise."
 
 
----
+The Wizard wasted no time in having Relan strung up by his ankles over the flame. What little blood remained in the poor boy dripped into the cool, hypnotic light. The unflames licked greedily at the blood and became a little more focused and defined with each drop. 
+
+Asarah wept at this horrible sight. She wept for the poor boy. He had tried to be a hero and he had failed. And now the stuff of his life was drained out... it was horrible. She wept for herself. That that this should be her state and condition. That she would meet her end here, under the Earth. And, it is true, she wept for Boltac. He was no hero. He was not equipped to even save himself. But in the end, he had come for her. 
+
+She had forgotten her earlier words, but now they came back to her. "But that's how she *knows* that he truly loves him." He wasn't a prince. This wasn't a storybook or a saga, but he had come for her. It was not what she expected from romance, but it was true. Or had been. Now Boltac was dead, not to return. And she had been so cruel to him. 
+
+Grief piled upon grief and sorrow upon sorrow, but she was so afraid, she dared not give voice to her pain. Silent tears streamed down her face as if the could flood the interior of the Earth. 
+
+When Relan's blood had stopped flowing, Dimsbury swung him away from the flame and hacked the cords holding him up with a knife. The lad's body fell to the floor in an awful heap. ""
+
+
+Without looking at Asarah, Dimsbury addressed her in a voice loud enough to make her jump. "My dear, I have good news and bad news!"
+
+She did not answer. She did not even move. 
+
+"The good news is that I no longer require you to be my cook."
+
+
 
 
 Relan is being drained of his blood. Look at the flames my dear, see how they hunger. One, maybe two more offerings and the lock will be complete. 
