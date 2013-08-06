@@ -3465,7 +3465,39 @@ When the gigantic, silent room opened up around him again, he stood listening fo
 
 "We told you, to find your way out, you must follow the light."
 
-"Not *out*, back up. In the mess. And with all the crap the Wizard has thrown down his hidey hole, you can't tell me nobody's got a torch."
+"Not *out*, back up. Into the mess. And with all the crap the Wizard has thrown down his hidey hole, you can't tell me there's not a torch down here somewhere."
+
+"But this is the UnderDark. The Kingdom of things discarded that want to be forgotten," said the UnderKing.
+
+"And a hell of pitch for tourism that is, but if you want to me to take on this crazy Wizard at the height of his power, I better get moving."
+
+In the darkness a light appeared. It was a torch, and though it was well soaked in oil and burning well, the darkness did not give up easily. It pressed in on all sides. As the torch was lifted, Boltac saw that it was Samga that held it. And to his left, stood a simpler, cruder version of an Orc that wore a crown of bent and twisted metal. The UnderKing closed his eyes and still shielded them with a claw from the light. The UnderKing's features seemed like they were drawn in crayon, simple and plain. A moon face, mere holes for ears and a scribble for mouth. His simple symmetry was interrupted by a leg bent underneath him. It was twisted as if it had shattered in a fall and never properly reset. 
+
+Not opening his eyes, the UnderKing. "Blessings be upon you, One who has chosen."
+
+"Uh," began Boltac, but then he realized that the emptiness of the pit was anything but empty. At the very edges of the feeble light cast by the torch, were creatures keeping to the dark. Some walked, some crawled, some shambled. There were pieces of 
+
+"R"
+
+
+"Why are you helping me?"
+
+
+
+Samga
+
+He has bled the boy dry to lure the flame and soon will sacrifice the girl. By so doing, he will weld the flame to his power. 
+
+"What the?"
+
+"It is blood magic. The force that binds mother to child, father to son and clan to clan. Very old and very powerful," said Samga.
+
+"You forgot very crazy," said Boltac.
+
+"He hungers for power and cares not how he gets it."
+
+"En-henh. No offense to your hospitality there, King, but we need to get a move on. I'm late for an appointment to do something stupid."
+
 
 
 It was a mistake to set out
@@ -3474,22 +3506,12 @@ It was a mistake to set out
 You got a way "
 
 
+---
 
 
+Relan is being drained of his blood. Look at the flames my dear, see how they hunger. One, maybe two more offerings and the lock will be complete. 
 
-
-
-
-
-# BOLTAC"S TURNing Moment
-
-** Problem: How do we get him to all is lost -- and use the coins to defeat the creatures? **
-
-At most it's a distraction. It's stupid. It's the only chance he's got. Not because it's a way out (misfit toys offer that) but because he couldn't live with himself if he did anything else. 
-
-He took a whiff of fresh air. He had a last glimpse of the trees through  secret way between the rocks. He made his goodbye to the world and then headed back into the darkness. 
-
-
+How did I miss it before, It was so obvious. But then, I had nothing to offer the flame but my Orc's
 
 
 
@@ -3503,6 +3525,52 @@ All the gold is gone and the Orc's are lying around, having gorged themselves
 You know, there was a lot of gold in there. 
 
 A pause -- Boltac goes, 
+
+---
+
+Asarah hanging limb from limb. 
+
+
+TEAR THEM LIMB FROM LIMB! commanded the Wizard.
+
+"Wait!" cried Boltac with a newfound strength in his voice. 
+
+"They do not listen to you, Merchant. They bow to power."
+
+"En-henh, but what if I've got a whistle too?" Boltac fumbled with his charm necklace for a moment, while ever
+
+
+
+Well, cut me down!
+
+You know, you're a nice lookin' lady. 
+
+Cut me down this instant!
+
+Calm down, you're rescued already. Besides, we've got a man down. Boltac said, turning his attention to Relan, in a pile on the floor. All the color had drained from his face. His lips were blue with cold, yet still he drew breath. How he lived at all? Was this not another kind of magic? The magic of will alone?
+
+Boltac knelt by him. "Kid," he said softly. "C'mon, kid." Boltac opened the small lacquered box and inside it was a tiny flask covered in ornately wrapped gold wire.
+
+
+"I was dead. I thought I was dead? Wasn't I dead? And you said you didn't have any more magic potions."
+
+"Dead? Kid, there's dead and there's dead. Besides, no matter what they tell you, there's always room for negotiation. Even with death." 
+
+
+Gets up and bats the rest of the flame out with the magic negating glove. 
+
+The lantern goes out. 
+
+At the top the find the melted troll. 
+
+
+
+--- 
+
+Gives Relan the potion. 
+
+He averts his eyes. 
+
 
 
 
