@@ -3374,7 +3374,7 @@ Wise in the ways of patience, the UnderKing said nothing.
 
 
 
-# Follow the light.
+# 36 Follow the light.
 
 Boltac sat in the dark for a long time before he saw it. There are many more  gradations of darkness than the human eye can see. In fact, it is correct to say that humans cannot see any kind of darkness, only light. But there is always a catch. As Boltac stared into that endless light and saw nothing, he realized there was a patch blackness that he couldn't see, but it was a patch of blackness that he couldn't see a little less than all the other blackness surrounding it. 
 
@@ -3419,7 +3419,7 @@ Samga followed his own scent-trail back to the secret fissure he would climb bac
 "It is not done yet," said the UnderKing, knowing that that statement was always true. 
 
 
-# Boltac Turns back. 
+# 37 Boltac Turns back. 
 
 Boltac stumbled through darkness for what felt like days. The stairs he had found ended in another darkened level. Again, he felt his way towards the lighter darkness. Stumbling into walls. Once almost falling into another pit. His nerves became numb to the constant strain, even has his hands cramped with the effort of reaching outward, ever outward. As far as his fingers could reach. Eventually the ache reached all the way to his shoulders. 
 
@@ -3511,7 +3511,7 @@ Not opening his eyes, the UnderKing said "Blessings be upon you, One who has Cho
 As Samga walked away, the broken one's skittered out of the range of light. Boltac followed. He didn't feel lucky, but at least he didn't feel broken. 
 
 
-# The Wizard, Killing Relan.
+# 38 The Wizard, Killing Relan.
 
 When the Wizard had returned to his sanctum, Asarah had crept as far under the table as her chain would allow. She sat wide-eyed and frozen like the rabbit who hope the fox does not see her. 
 
@@ -3532,19 +3532,50 @@ Grief piled upon grief and sorrow upon sorrow, but she was so afraid, she dared 
 
 When Relan's blood had stopped flowing, Dimsbury swung him away from the flame and hacked the cords holding him up with a knife. The lad's body fell to the floor in an awful heap. ""
 
-
 Without looking at Asarah, Dimsbury addressed her in a voice loud enough to make her jump. "My dear, I have good news and bad news!"
 
 She did not answer. She did not even move. 
 
 "The good news is that I no longer require you to be my cook."
 
+All thought left Asarah and she started to scream. 
+
+"Seize her," Dimsbury commanded. The screaming was perfect, thought Dimsbury. It was all according to form. The way such things were to be done But the Orcs did not move towards her at all. This wasn't right at all. It made her scream seem pointless and silly. 
+
+Exasperated, Dimsbury exclaimed, "Her, there under the table. Grab her. Her. THAT ONE!" He made wild, uninterpretable thrashing gestures with his hands. "The screaming one!"
+
+The Orcs finally got the idea and seized the woman. She passed out and stopped screaming. As Dimsbury watched the Orc's struggle to tie her feet to the ropes, he wondered aloud, "Where did Samga go? He was here just a minute ago."
+
+
+# 39 In the Hall of Metallic Gluttony
+
+Rattick had not pushed his luck. After killing the boy, he had left the Wizard's presence as quickly as possible. Sure, there was the question of payment owed, but Rattick knew as well as anyone that dead men collect no tolls or tithes. Best to stay alive, for there was no profit in death. The Orcs carried Boltac's sack high above their heads, fighting for possession of it as they raced to the Great Hall. Rattick followed in the shadows, waiting for his chance to grab something of value before he escaped from the madness of the Wizard's lair. Why were rich people always so dangerously out of touch with reality, Rattick wondered?
+
+The Great Hall was ambitiously named and modestly furnished. A large cavern off the main passage, it was a darker analog of the refectory at a traditional boy's school. Large wooden tables with benches had once been lined up here. Now half of them were pushed into a jumble. A mock fireplace and mantle piece that had been carved into the living rock, was full to overflowing with bits of discarded bone and gristle. Here and there a wolf nosed through the scraps. Even to Rattick, this jumbled room looked like the end of a civilization. 
+
+He climbed the wall, and shimmied down a thick iron chain to a long unused chandelier. There he took up his perch and watched and waited. 
+
+The Orc's cleared a space in the center of the room, by pushing more of the benches and tables over. For a time, they fought over possession of the bag. Claws darting in here and there, trying to snatch the contents. Soon the room had filled to capacity with the brutish creatures. The noise of their disputations was deafening. The smell of so many of them, packed so close was debilitating. Rattick began to wonder if the chandelier had been a terrible idea. But he remained still and silent. There was nothing else to do. 
+
+Soon the bag was upended and the content spilled all over the floor. For such a tiny, plain bag, it was shocking to see how much it contained. Among, the miscellany -- the occasional weapon, rations of food, bits of apparel --  sack after sack of coin, flew from the opening, landing on the floor with solid, seductive clink of loot. What would they do with gold, Rattick thought. He would wait until they were tired of fighting amongst themselves, then he would swoop down and collect as many of those sacks as he could...
+
+Rattick's dreams of avarice were shattered as he watched Orcs claw the leather bags apart and cram the gold pieces in their mouths. They clawed and fought and ate until all of Boltac's gold -- of which there was a substantial fortune -- had disappeared into their monstrous gullets. Rattick sighted and felt an emotion that was very much like grief as he watched this scene. Ah well, the dungeon had been good while it lasted, he thought. He'd wait for the creatures to disband then he would sneak out like the thief he was. 
+
+But the Orcs did not leave. Their squabbles died down, with occasional after skirmishes flaring up here an there, until most all of them, bloated on coin, fell asleep under, on and around the tables. Rattick cursed his luck, as he shifted his cramping legs. How much longer would he be stuck up here? He waited and waited. Finally, when the strange snores of the Orcs below wafted up to his ears, Rattick uncoiled himself from his perch and climbed back down.
+
+He snuck through the sated and sedate creatures as quietly as he could. When one near the door snorted heavily and rolled over, Rattick swore he could hear the coin rattling in his belly. A plan suggested itself to Rattick. And always with Rattick, where there was a plan, there was almost always a sharp knife involved. He drew his cruel blade from it sheath against his thigh and considered how he could this quietly. With an ordinary person, he would just cram a hand over the mouth and slide the dagger down into the the neck. Severing an artery deep inside the torso to they bled to death internally in a matter of seconds. It was very clean and very professional. And Rattick prided himself on this knowledge of this secret assassin's skill. 
+
+But with the Orc, this presented a number of problems. Not the least of which, how do you cover a mouth that has tusks. And he had seen how brutishly powerful these things were. He doubted that they would die quietly of their own accord. And how could he hope to hold this one down. He hunkered in a nearby shadow and considered his prey. As he did, he drew a whetstone from a pouch on his belt, spit on it, and began to sharpen the already razor-sharp knife out of habit. There was gold here, he just needed to figure out how to cut himself a piece. 
+
+When he heard a noise from the hallway, he replaced the knife and sharpening stone and then hid his hands under his robe. As clawsteps drew closer, he closed his eyes so that the whites of them might not give him away when whoever it was first entered the room. This was an old and important trick of Rattick's. Hiding was a fine art, depending as much up psychology as camouflage and secrecy. The only time a person looked carefully at room was when they first entered it. After determining that no one was secreted there, they generally stopped looking. In fact, once they believed they knew who and what was in a room, it was very difficult for them to see anything new. It wasn't so much hiding in plain sight, as it was hiding in someone's stubborn blind spot. 
 
 
 
-Relan is being drained of his blood. Look at the flames my dear, see how they hunger. One, maybe two more offerings and the lock will be complete. 
 
-How did I miss it before, It was so obvious. But then, I had nothing to offer the flame but my Orc's
+
+
+
+
 
 
 
