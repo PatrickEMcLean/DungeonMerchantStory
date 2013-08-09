@@ -1363,7 +1363,7 @@ The health of Kingdoms, thought Boltac, did not depend on war, but commerce. The
 Boltac heaved himself off the fancy chair and left the room. From the wall of the castle he saw heavy columns of smoke rising from the north end of the town. In two's and three's people he could see people fleeing from the North gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving? Was this the way it was to be? Was this how his town died? 
 
 
-# 13 
+# 13
 
 
 By the time he got back to the store, Relan was gone. Boltac's practiced shopkeeper's eye quickly saw what the boy had taken. All the wrong things. The idiot was probably even walking. Walking to his heroic death. 
@@ -1969,7 +1969,7 @@ Relan searched his memories for any sagas or songs in which the hero had defeate
 Rattick asked, "Stout Merchant, have you ever seen a troll?" 
 
 
-# 21	
+# 21
 
 The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, and it hated sunlight, but the presence of sleight illumination allowed the Troll to see the terror on his meals faces more clearly. There is an old troll proverb that says food better frightened, or scared is good eatin' or terror is the best sauce. It loses something in translation. But it should show you that, as a species, Trolls were prone to sadism. 
 
@@ -3549,6 +3549,8 @@ The Orcs finally got the idea and seized the woman. She passed out and stopped s
 
 # 39 In the Hall of Metallic Gluttony
 
+> Make sure it's hundreds of Orcs.
+
 Rattick had not pushed his luck. After killing the boy, he had left the Wizard's presence as quickly as possible. Sure, there was the question of payment owed, but Rattick knew as well as anyone that dead men collect no tolls or tithes. Best to stay alive, for there was no profit in death. The Orcs carried Boltac's sack high above their heads, fighting for possession of it as they raced to the Great Hall. Rattick followed in the shadows, waiting for his chance to grab something of value before he escaped from the madness of the Wizard's lair. Why were rich people always so dangerously out of touch with reality, Rattick wondered?
 
 The Great Hall was ambitiously named and modestly furnished. A large cavern off the main passage, it was a darker analog of the refectory at a traditional boy's school. Large wooden tables with benches had once been lined up here. Now half of them were pushed into a jumble. A mock fireplace and mantle piece that had been carved into the living rock, was full to overflowing with bits of discarded bone and gristle. Here and there a wolf nosed through the scraps. Even to Rattick, this jumbled room looked like the end of a civilization. 
@@ -3567,7 +3569,107 @@ He snuck through the sated and sedate creatures as quietly as he could. When one
 
 But with the Orc, this presented a number of problems. Not the least of which, how do you cover a mouth that has tusks. And he had seen how brutishly powerful these things were. He doubted that they would die quietly of their own accord. And how could he hope to hold this one down. He hunkered in a nearby shadow and considered his prey. As he did, he drew a whetstone from a pouch on his belt, spit on it, and began to sharpen the already razor-sharp knife out of habit. There was gold here, he just needed to figure out how to cut himself a piece. 
 
-When he heard a noise from the hallway, he replaced the knife and sharpening stone and then hid his hands under his robe. As clawsteps drew closer, he closed his eyes so that the whites of them might not give him away when whoever it was first entered the room. This was an old and important trick of Rattick's. Hiding was a fine art, depending as much up psychology as camouflage and secrecy. The only time a person looked carefully at room was when they first entered it. After determining that no one was secreted there, they generally stopped looking. In fact, once they believed they knew who and what was in a room, it was very difficult for them to see anything new. It wasn't so much hiding in plain sight, as it was hiding in someone's stubborn blind spot. 
+When he heard a noise from the hallway, he replaced the knife and sharpening stone and then hid his hands under his robe. As clawsteps drew closer, he closed his eyes so that the whites of them might not give him away when whoever it was first entered the room. This was an old and important trick of Rattick's. Hiding was a fine art, depending as much up psychology as camouflage and secrecy. The only time a person looked carefully at room was when they first entered it. After determining that no one was secreted there, they generally stopped looking. In fact, once they believed they knew who and what was in a room, it was very difficult for them to see anything new. It wasn't so much hiding in plain sight, as it was hiding in someone's self-enforced blind spot. 
+
+He heard an orc enter the room. There was a shuffling and a scraping of claws here and there as he took in the scene, but no sharp intake of breath. No sudden movements Rattick remained unseen. Then the Orc spoke, but in the Human tongue. 
+
+"It is safe, the are all asleep," said a voice both alien and strangely familiar to Rattick. He opened his eyes and saw Samga, the Wizard's clever pet Orc. And entering the room behind him... BOLTAC! In spite of himself and his skills of general and considerable sneaklitude, Rattick jumped at the sight of Boltac and struggled to stifle a curse. 
+
+"Well, somebody had a party," said Boltac. "Did they eat everything?"
+
+"Most like, just the metals."
+
+"Good, 'cause there's a couple of things I would be nice to have," Boltac muttered as he began to search through the wreckage of the room. After a few moments, he held up a half-chewed, heavy wool, glove. "I suppose the other one is too much to ask for. See if you can find a wand, or the sack."
+
+Samga held up a shredded mass of fabric that had once been a magic sack. "You mean this?"
+
+"Ah crap," said Boltac. "Looks like we'll be doing this the hard way, unless..." Boltac looked around the room at the sleeping Orcs and their bloated bellies. "You know Samga, there was a lot of gold in that sack of mine. An awful lot. Did they eat all of it?"
+
+"They kept eating until there was nothing left to eat," Samga said with a shug. 
+
+"En-henh. Not sophisticated and restrained like you."
+
+"As you say," Samga said, surveying his kin with sadness. "All of your gold is gone. Such a shame."
+
+"It's not gone," said Boltac, "It's in your friends' stomachs, here. Important distinction."
+
+Samga did not understand much of anything humans said. The gold was eaten. And that other word, he had never heard it before, "Please, what does this word 'friend' mean."
+
+"Ya kidding me, right?" said Boltac.
+
+Samga gave him a flat Orcish look that admitted of no humor. 
+
+"Okay. You Samga, you're my *friend*. You are *helping* me, ergo, you are my friend," said Boltac.
+
+"But I am just hurting the Master," said Samga.
+
+"Yeah, it's a trade. You help me by getting me out. I help you by hurting the Master, and we both benefit. Trade, makes friends, Samga."
+
+"But you can't be friends with such as I. I am beneath you."
+
+"What? Don't be ridiculous. Beneath me? I mean, ya short, there's no way around that. But I know good people, and you Samga, you are good, people, uh, Orcle? Whatever, c'mon. I still got a lady to rescue."
+
+Boltac noticed his wand, trapped underneath a sleeping Orc's leg. "Hey, uh, Samga, could you..." he said, pointing at the wand. Probably better if you wake this thing up."
+
+Samga nodded and retrieved the magic detecting wand. It too had been gnawed on, but had fared better than the bag and gloves. Boltac used what remained of his tunic to wiped the saliva from it.
+
+"Okay, this will do, now let's get outta here." They walked back to the door and Rattick could swear that Boltac looked right at him -- right into his eyes -- but saw him not. If the glance had lasted longer, Rattick might have been given away, but Boltac's eye was drawn to something on the other side of the door. 
+
+"Hey," Boltac said, "The sacred lamp of Lamptopolis."
+
+"Lamptopolis?" asked Samga.
+
+"Eh, nevermind. It's a long story. It doesn't really work that well for me, but, as I always say, you can never have too much light or too much water." Boltac reached down and grabbed the lamp by it's handle. As he held it up, it blazed forth with a clear brilliant light that filled the room as if the sun had been harnessed and dragged into the bowels of the earth. 
+
+Samga hissed and averted his eyes. Rattick, closed his eyes to protect his night vision, but otherwise. stayed absolutely motionless, realizing that he was completely exposed. 
+
+Boltac said, "Holy crap," and dropped the lamp. It gradually fade away. Leaving a confused Boltac standing over it, rubbing his eyes to try and get rid of the spots the brilliance had left. As the Orcs began to wake up, Boltac said, "I don't understand. I mean, I'm not a hero."
+
+"We must go," said Samga.
+
+Boltac grabbed the remnants of Themistre's Bag of Holding and wrapped them around the lamp handle. He picked it up and was relieved that it did not light. As he held it, he moved the burlap so that it covered the motto carved into the metal. "Burns with the flame of a true heart," he muttered, "En-henh."
+
+One of the slow-to-rise Orcs saw them go. He cried, "Hork!" but it was a half-hearted protest at best. The gold hung heavy in his belly and he struggled to rise. 
+
+Rattick slipped out of the shadows. How had Boltac survived? And where was he headed now? Rattick sensed chaos. And where chaos rode, there were always plenty spoils for the taking. He followed the merchant and his unlikely guide from a distance. 
+
+
+# Confronting the Wizard
+
+"Samga. There you are," said Dimsbury. "Thank the Gods you have returned. Pass me that knife over there so I may open this woman's neck." Dimsbury turned back to Asarah who now hung by her legs, upside down above the flame that danced half-in-focus, half-out-of-focus above it's stone dias. Asarah attempted to scream, but it was muffled by a gag which Dimsbury now tightened. "I must say, I enjoy your company much more now that you are quiet. It will almost be sad to see you go. Samga, the knife!"
+
+From over his shoulder, Dimsbury heard Samga say, "No."
+
+"No? What do you mean there is no,'No.'--"
+
+"The Wizard turned to see his prized creature standing next to a smiling Boltac. "Samga, what do you have there. And where ever did you find it?"
+
+"I'm back like a bad penny," said Boltac. 
+
+"Before we get to the question of how," Dimsbury said, in a way that suggested that this was all so tiresome, "I will ask why?"
+
+"I'm here to do you in."
+
+Dimsbury gestured, vaguely, a Relan's body, discarded along the wall. "Yes, that was his idea as well. What makes you think you will fare any better?"
+
+"I am not an idiot."
+
+
+
+
+I'd be utterly lost without you."
+
+
+
+I've come back to do you in. 
+
+"Oh have you now."
+
+"That's a fact."
+
+"Well, oh my heavens. Let us ignore the fact that I can strike you down at my leisure. Perhaps with bolt of lightning, or a spell of transmogrify, have you forgotten about the horde or Orc's I have at my disposal."
+
+"You know, I don't think those Orc's are going to be much help to you? But you can call them."
 
 
 
@@ -3580,15 +3682,8 @@ When he heard a noise from the hallway, he replaced the knife and sharpening sto
 
 
 
----
 
-Finds his glove, another half eaten. Finds his wand -- it's been gnawed on. 
 
-All the gold is gone and the Orc's are lying around, having gorged themselves
-
-You know, there was a lot of gold in there. 
-
-A pause -- Boltac goes, 
 
 ---
 
@@ -3636,70 +3731,9 @@ Gives Relan the potion.
 He averts his eyes. 
 
 
-
-
-# Conflict at the End
-
-
-* Commerce, is so, so, impure.
-
-* Oh, and liven' in the bottom of a hole in the ground with a lot of things you grew like a fungus that you call your friends.
-
-* You take too many chances, Merchant. I have no friends. These are my servants.
-
-* All alone in a dark hole in the ground and you don't have any friends. Not for nutting buddy, but now I'm feeling sorry for you. 
-
-"I DON'T WANT YOUR PITY!" roared the Wizard.
-
-"Okay, okay, I see you're upset --" began Boltac. But the Wizard waved his hand and the Orc's threw him over the edge of the pit. 
-
-> Throw him into the pit. Let whatever has survived at the bottom, feed on him and shit his corpse out into eternal darkness. 
-
-The Wizard walked to the edge and listened as the fat merchant crashed into things on the long way down. At the end, there was a deep, far off boom. 
-
-"How's that for a counter-offer," said the Wizard. And then he turned back back to his work. 
-
-Asarah put her head down and sobbed in the corner. 
-
-Relan remained dead on the floor, not quite a hero. 
-
-
-
-
->Strikes down the boy
-
->Asarah goes to aid.
-
-
-
-
 # ORCS GORGING THEMSELVES ON GOLD 
 
 > And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
-
-I don't need the gold. Power can 
-
-Orc's all sleeping in the great hall, gorged, Boltac sneaks in and gets his gloves. And his wand. Samga helps him. 
-
-Samga, "all of your gold is gone. Such a shame."
-
-"It's not gone," said Boltac, "It's in your friends' stomachs, here. Important distinction."
-
-Samga did not understand much of anything humans said. The gold was eaten. And that other word, he had never heard it before, "Please, what does this word 'friend' mean."
-
-"Ya kidding me, right?" said Boltac.
-
-Samga gave him a flat Orcish look that admitted of no humor. 
-
-"Okay. You Samga, you're my friend. You're helping me. You are my friend," said Boltac.
-
-"But I am just hurting the Master," said Samga.
-
-"Yeah, it's a trade. You help me by getting me out. I help you by hurting the master, and we both benefit. Trade, makes friends, Samga."
-
-"But you can't be friends with such as I. I am beneath you."
-
-"What? Don't be ridiculous. Beneath me? I mean, ya short, there's no way around that. But I know good people, and you Samga, you are good, uh, Orcle? Whatever, c'mon. I still got a lady to rescue."
 
 
 # Boltac unleashes the coins 
