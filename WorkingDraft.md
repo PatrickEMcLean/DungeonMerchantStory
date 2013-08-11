@@ -3636,6 +3636,8 @@ Rattick slipped out of the shadows. How had Boltac survived? And where was he he
 
 # Confronting the Wizard
 
+> Do we need to sharpen the conflict between Samga and Dimsbury -- does Samga deliver the coup de grace of throwing the wizard into the firery rippling gap of spacetime
+
 "Samga. There you are," said Dimsbury. "Thank the Gods you have returned. Pass me that knife over there so I may open this woman's neck." Dimsbury turned back to Asarah who now hung by her legs, upside down above the flame that danced half-in-focus, half-out-of-focus above it's stone dias. Asarah attempted to scream, but it was muffled by a gag which Dimsbury now tightened. "I must say, I enjoy your company much more now that you are quiet. It will almost be sad to see you go. Samga, the knife!"
 
 From over his shoulder, Dimsbury heard Samga say, "No."
@@ -3654,24 +3656,36 @@ Dimsbury gestured, vaguely, a Relan's body, discarded along the wall. "Yes, that
 
 "I am not an idiot."
 
+"Idiots never think they are."
+
+> Does Asarah need to scream or protest or struggle somehow, to keep herself in the scene? Does she headbutt Dimsbury at a critical juncture so she is not so passive?
+
+"Eh-henh, you want me to say touché, or you just want to get down to it."
+
+"Very well," said Dimsbury, and picked a medium-sized silver whistle from his desk. "I shall let me staff handle the light work." He placed his lips to the whistle and blew. No sound came from the whistle, but Samga writhed in pain.
+
+From the hall there was a groaning commotion. And soon, metal-bloated Orc's streamed into the room. They snorted and growled and grunted and bitched in their brutish language about being awakened from their post-gluttony slumber. And if such a thing was possible, they seemed even more frightening and contentious than Orcs usually did. 
+
+Dimsbury drew himself up to his full height. He raised his arms and electricity crackled along his fingertips and along the surface of his robes. In full voice, he began his mighty, doom-filled pronouncement. "Tear him --"
+
+"Hang on," said Boltac interrupting. "Hang on. Sorry to ruin your speech there. But I've got one of those too." Boltac reached for his charm necklace. For the first time in a long time, he felt very, very lucky. He placed the tiny, silver whistle to his lips and blew. 
+
+Nothing happened.
+
+"I'm sorry, is that it?" said Dimsbury, his voice dripping with contempt. 
+
+"Eh, hang on," Boltac put the whistle to his lips and blew as hard as he could. Blew until he was red in the face. Blew until he was sputtering and out of air. When he was done he said, "huuuuuuuuh," as he gasped for air. 
+
+The Orcs looked a Boltac. Samga looked at Boltac. Hanging upside down, Asarah closed her eyes. 
+
+"Yes," said Dimsbury, "if you are quite through?" Boltac looked down and away. "TEAR HIM LIMB FROM LIMB!"
+
+There was no where to run. There was nothing to do. As the first Orc advanced, Boltac turned to Samga and said, "Sorry, I thought that would work."
+
+Snarling and gibbering, truly enraged, the front line of Orc's reach out for Boltac, claws and tusks ready to rip and tear the soft, fat flesh of the merchant. But before they touched him, the biggest Orc of all let out a long, almost mournful howl of pain. The other Orcs stopped to watch as the largest of them grasped his stomach and collapsed to the floor. Then another fell, and then another, until all of the Orcs were lying on the floor, writhing in pain. 
 
 
-
-I'd be utterly lost without you."
-
-
-
-I've come back to do you in. 
-
-"Oh have you now."
-
-"That's a fact."
-
-"Well, oh my heavens. Let us ignore the fact that I can strike you down at my leisure. Perhaps with bolt of lightning, or a spell of transmogrify, have you forgotten about the horde or Orc's I have at my disposal."
-
-"You know, I don't think those Orc's are going to be much help to you? But you can call them."
-
-
+426
 
 
 
@@ -3698,7 +3712,7 @@ TEAR THEM LIMB FROM LIMB! commanded the Wizard.
 
 "En-henh, but what if I've got a whistle too?" Boltac fumbled with his charm necklace for a moment, while ever
 
-
+---
 
 Well, cut me down!
 
