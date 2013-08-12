@@ -1060,7 +1060,7 @@ There, in the middle of the floor, he saw the gold coin sprout thin, insect-like
 
 The coin scrambled under a rack of rope and strips of leather. With a roar, Boltac kicked the rack over and brought his booted foot squarely down upon the creature. 
 
-"HA!" he cried in triumph. He shambled to the other side of the room,  dragging his foot as he went, grinding the creature across the floor, until he was able to reach a set of pliers hanging on the wall. Then he bent down and, ever-so-carefully, clamped the edge of the angry, savage coin in the teeth of the pliers. It let out another metallic shriek, but Boltac was unmoved by it's pain. 
+"HA!" he cried in triumph. He shambled to the other side of the room, dragging his foot as he went, grinding the creature across the floor, until he was able to reach a set of pliers hanging on the wall. Then he bent down and, ever-so-carefully, clamped the edge of the angry, savage coin in the teeth of the pliers. It let out another metallic shriek, but Boltac was unmoved by it's pain. 
 
 He carried the coin into the back, past the foul-smelling bundle of gear he had purchase from Rattick and to a set of iron-bound chests that were sealed with fearsome-looking locks and bolted to the floor. The one on the right had a hole in the top of it, sealed with a piece of cork. He removed the cork, crammed the coin into the hole -- having to hit it several times with the hammer to convince it to go in -- and then replaced the cork. He put his ear to the chest and waited until he heard the "clink" of coin-creature settle down.
 
@@ -3682,10 +3682,75 @@ The Orcs looked a Boltac. Samga looked at Boltac. Hanging upside down, Asarah cl
 
 There was no where to run. There was nothing to do. As the first Orc advanced, Boltac turned to Samga and said, "Sorry, I thought that would work."
 
-Snarling and gibbering, truly enraged, the front line of Orc's reach out for Boltac, claws and tusks ready to rip and tear the soft, fat flesh of the merchant. But before they touched him, the biggest Orc of all let out a long, almost mournful howl of pain. The other Orcs stopped to watch as the largest of them grasped his stomach and collapsed to the floor. Then another fell, and then another, until all of the Orcs were lying on the floor, writhing in pain. 
+Snarling the front line of Orcs reached out for Boltac. Their claws and tusks searched through savage arcs for the soft, fat flesh of the Merchant. But before he was torn open, the biggest Orc of all let out a long, almost mournful howl of pain. The other Orcs stopped to watch as the largest of them grasped his stomach and collapsed to the floor. Then another fell, and then another, until all of them were lying on the floor, writhing in pain. 
+
+"What is this foolishness?" demanded Dimsbury.
+
+Boltac kept blowing the whistle as hard as he could. As the Orcs writhed in agony on the floor. The largest of them made the connection. He lifted his taloned hand off the ground then plunged it deeply into his own stomach. The whistle dropped from Boltac's lips has his face contorted in disgust. Coins exploded outward from the unfortunate creatures stomach, clicking and clinking as they ripped tiny slices of flesh from the now dying creature. 
+
+A bolt of lightning exploded in the room and lept to the Orc
+
+Boltac held up his gloved hand and it slurped up Dimsbury's lightning bolt like a spaghetti noodle. "Hey! That worked!" Boltac said, laughing giddily. 
+
+Dimsbury furrowed his brow and said, "Very well. The fat man wants to play."
+
+The next bolt of lightning was so powerful, Boltac thought that his eyeballs had been seared from his head. But as his eyes adjusted, he realized it had just been so bright that he had gone momentarily blind. But still, the glove on his left hand remained intact. As Dimsbury extended his arm again, Boltac closed his eyes. He felt an impact on his arm. And again, and again. The palm of the glove grew hot and fought off the urge to shake his hand. On this belt the magic detecting wand vibrated wildly. "Okay," said Boltac, "this isn't funny anymore."
+
+"Do it now!" Samga cried over the crackle of the lightning and the rush of superheated air.
+
+"I can't see!" protested Boltac. And the bolts kept coming and coming. Pounding into his left arm. He could feel the glove burning his flesh. And now, tiny shocks that forced the muscles of his arm to contract and twitch violently. He turned his face away from the Wizard, still holding his hand up, and eyes closed, wincing in pain, felt on around his belt for where the wand vibrated painfully and grew hot against his skin. 
+
+Samga heaved on the heavy shelves, and they toppled over into Dimsbury knocking him back a step. Dimsbury lashed out blindly and a bolt of electricity caught Samga in the chest. He staggered towards the Wizard once, twice and then collapsed. As Dimsbury turned back, he saw Boltac throw the wand across the room into out-of-focus flame above which Asarah dangled. 
+
+"Ha!" cried Boltac as the wand spun through the air, in perfectly aimed arc. Dimsbury sneered and raised his hand to launch another blast at the Merchant. But as the wand entered the flame, there was a wuffing sound, and the flames of magic snapped into sharp focus. The wand was sucked into the heart of the flames and, for an instant, everything stopped moving.
+
+"What have you done," asked Dimsbury. Then he realized he didn't care. He threw his hands forward in a gesture of power, certain to obliterate the meddling merchant from this plane of existence. Except that nothing happened. Dimsbury looked at his hands, confused. Boltac rushed to swing the apparatus from which Asarah hung out of the way. 
+
+"Stop," commanded Dimsbury, but his voice rang hollow. "What have you done?"
+
+Boltac did not answer. He carefully lowered Asarah to the ground. Before he could kneel to untie her, everyone became aware of a high-pitched whine rising above the sound of coins tearing at incapacitated Orcs.
+
+Dimsbury looked at the now frozen flame. The flow of magic, yes, he thought, that's what it was. The flow of magic had stopped. Inside the still weirdly illuminated, perfect flames the wand vibrated furiously, emitting the high-pitched, rising whine that dominated the room. If Dimsbury could unblock he thought as he reached out and touched the frozen flame. As his finger brushed the surface, it cracked like impossibly fine glass, shattering into a million fragments, each of which shattered into a million fragments of it's own. 
+
+The explosion knocked everyone flat. Asarah, of course was lying on the ground, so she was spared the brunt of the blast. Samga, surprised to have survived a bolt of lightning to his chest, had just risen to his hands and knees. He saw Dimsbury fly over his head into the wall, even as the blast wave knocked him flat. Boltac was flipped upside down and thrown into the wall. He landed in a heap next to what was left of Relan. Even the creeping coins where battered so badly, they retracted into their glittering carapaces and pretended to be currency. 
+
+As Boltac raised his head, he heard a moan from Relan's corpse. Wait! Not a corpse. Somehow he was still alive. "Too stupid to die?" Boltac asked. Even as he searched for it in his pockets. From within the small, lacquered box he produced a tiny flask covered in ornately wrapped gold wire. No bigger than Boltac's thumb, this vial contained scarcely more moisture than could be found in a few tears. 
+
+He looked at Relan, in an ungainly pile on the floor. The blood turning brown where it had soaked into his tunic and dried. There was no color left in his face. The boy's lips were blue with cold, yet still a the slightest of breaths fluttered his nostrils. How was it that he lived? Was this not another kind of magic? The magic of will alone?
+
+"Kid," Boltac said softly. "C'mon, kid." He carefully removed the flask. 
+
+---
+
+Dimsbury feels the magic flood back into his limbs. 
+
+He sat up and exclaimed, "I will have power again." Then he sneezed twice, not understanding the funny feeling he had. Why did the room look differently. And what was that in front of his face. He brought his hand up to his face, bumping something. The pain became excruciating, and he realized that the Merchant's wand was stuck in his eye. He collapsed back to the floor with the shock of it. But lying there, hyperventilating for a moment, he calmed himself. 
 
 
-426
+
+---
+
+As Boltac helps Relan, Samga confronts the dying wizard. Wizard begs Samga to drag him closer. So Samga reaches down and picks him up. The mortal terror he had held the Wizard shivering out of his crudely formed body as a kind of excitement. 
+
+"Yes, Samga, my faithful servant after all. All is forgiven."
+
+Samga looked up at the circle of heads mounted in on the wall. The broken and aborted things that had lead to him. The trial and error, the arrogant misuse of power in an attempt to craft life itself. Not for the first time, Samga wished that he had had never been made.
+
+"Yessss," said Dimsbury. Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury started coughing again and more blood came up. 
+
+ As his clacking steps took him closer 
+
+
+
+
+
+---
+
+"Samga, how are you not dead?" asked Boltac.
+
+"I do not know, I must go to ask the Underking."
+
+"Ah, that guy. He'll have an answer, but it won't help you."
 
 
 
@@ -3745,11 +3810,6 @@ Gives Relan the potion.
 He averts his eyes. 
 
 
-# ORCS GORGING THEMSELVES ON GOLD 
-
-> And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
-
-
 # Boltac unleashes the coins 
 
 I've come back to do you in. 
@@ -3792,6 +3852,11 @@ At the very end, he's been dead and dying the whole time. He rallies
 -- Leave him where he has fallen as a warning. 
 
 As if they needed more warning, thought Samga.
+
+
+
+> And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
+
 
 
 # And a bunch of confused wolves
