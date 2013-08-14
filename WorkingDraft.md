@@ -1,4 +1,4 @@
-*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+5rcv  *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
 
 # **The Merchant Adventurer** 
@@ -3634,7 +3634,7 @@ One of the slow-to-rise Orcs saw them go. He cried, "Hork!" but it was a half-he
 Rattick slipped out of the shadows. How had Boltac survived? And where was he headed now? Rattick sensed chaos. And where chaos rode, there were always plenty spoils for the taking. He followed the merchant and his unlikely guide from a distance. 
 
 
-# Confronting the Wizard
+# 40 Confronting the Wizard
 
 > Do we need to sharpen the conflict between Samga and Dimsbury -- does Samga deliver the coup de grace of throwing the wizard into the firery rippling gap of spacetime
 
@@ -3718,68 +3718,61 @@ As Boltac raised his head, he heard a moan from Relan's corpse. Wait! Not a corp
 
 He looked at Relan, in an ungainly pile on the floor. The blood turning brown where it had soaked into his tunic and dried. There was no color left in his face. The boy's lips were blue with cold, yet still a the slightest of breaths fluttered his nostrils. How was it that he lived? Was this not another kind of magic? The magic of will alone?
 
-"Kid," Boltac said softly. "C'mon, kid." He carefully removed the flask. 
+"Kid," Boltac said softly. "C'mon, kid." He carefully removed the tiny top from the flask. Very, very carefully, he lifted the flask to Relan's blue and lifeless lips. Only the slightest flutter of air on Boltac's fingers gave him any hope that the lad was still alive. Boltac doubted that there was enough liquid to do more than wet the Relan's tongue. There was scarcely a chance that this would work at all. But there was so little chance that any of this should work, why not? Why not?
 
----
-
-Dimsbury feels the magic flood back into his limbs. 
-
-He sat up and exclaimed, "I will have power again." Then he sneezed twice, not understanding the funny feeling he had. Why did the room look differently. And what was that in front of his face. He brought his hand up to his face, bumping something. The pain became excruciating, and he realized that the Merchant's wand was stuck in his eye. He collapsed back to the floor with the shock of it. But lying there, hyperventilating for a moment, he calmed himself. 
+He tipped the bottle up and the few drops disappeared into the cave of Relan's mouth. 
 
 
+On the other side of the room, Dimsbury felt the tingle of power dance along his limbs. The magic was back! He sat up and exclaimed, "I will have power again." Then he sneezed twice, not understanding the sharp pain that shot through his skull each time. And why did the room look differently? What was in front of his face? He brought his hand up and bumped something. The pain became excruciating, and he realized that the Merchant's wand was stuck in his eye. He collapsed back to the floor with the shock of it. But lying there, hyperventilating for a moment, he managed to calm himself. 
 
----
+On the far side of the room, he could see the flame, the font of all magic, guttering and flickering as if it was to go out. No, thought Dimsbury, this could not be? How could this Merchant? This fat, ignorant, money-grubbing aberration have stopped him? Did he know what a world without magic would be like? Could such a thing even exist. For himself, and for the greater good, Dimsbury realized he must reach the flame and coax it back to a fuller life. 
 
-As Boltac helps Relan, Samga confronts the dying wizard. Wizard begs Samga to drag him closer. So Samga reaches down and picks him up. The mortal terror he had held the Wizard shivering out of his crudely formed body as a kind of excitement. 
+As he struggled to regain his feet, a shape appeared before him. Holding his chest, Samga said, "Master," because he didn't have another name for the man who lay before him. 
 
-"Yes, Samga, my faithful servant after all. All is forgiven."
+"Yes, Samga, my faithful servant after all. Thank goodness I did not strike you down. Please, help me," said the Wizard, not entirely aware that he was begging.
 
-Samga looked up at the circle of heads mounted in on the wall. The broken and aborted things that had lead to him. The trial and error, the arrogant misuse of power in an attempt to craft life itself. Not for the first time, Samga wished that he had had never been made.
+"You made me strong," said Samga. 
 
-"Yessss," said Dimsbury. Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury started coughing again and more blood came up. 
+"Samga, Samga. You are my finest work. All is forgiven, my creation. Move your Father closer to the flame so that I may regain and preserve my power."
 
- As his clacking steps took him closer 
+Samga bent and picked up Dimsbury. He turned back towards the sputtering flame.
 
+"Yes, good Samga. Brave Samga," whispered Dimsbury, touching the wand in his eye gingerly.
 
+Samga looked up at the circle of heads mounted in on the wall. The broken and aborted things that had lead to him. The trial and the error, the arrogant misuse of power in an attempt to craft life itself. Not for the first time, Samga wished that he had had never been made.
 
+"Yessss," said Dimsbury. Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury started coughing and as the pain . 
 
+As his clacking steps took Samga closer to the flame, he lifted the Wizard high above his head. 
 
----
+"What? What are you doing Samga. Lower me! The master commands!" 
 
-"Samga, how are you not dead?" asked Boltac.
+"The Servant does not obey!" Samga threw the Wizard onto what was left of the magic flame. As Dimsbury landed on the the dais, with a sharp crack. Then there was a terrible tearing noise. The flames leapt up, in perfect focus. Terrible, blindingly white flames and as hungry as any real fire had ever been. Dimsbury screamed and screamed. Power shot through him and raked the top of the top of the chamber. The very Earth around them shook and still he screamed. 
 
-"I do not know, I must go to ask the Underking."
-
-"Ah, that guy. He'll have an answer, but it won't help you."
-
+And then there was a gasp. The flames folded in on themselves. With a crunching of bones and a whimpering, the Wizard folded up with them. Flickering in the magic light, tinier and tinier and tinier, until the the light of it winked out and only the light of a single torch that had not been knocked from the walls remained. 
 
 
 
+# And a bunch of confused wolves
+
+
+And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
+
+
+
+# Aftermath
+
+
+
+Gets up and bats the rest of the flame out with the magic negating glove. 
 
 
 
 
+> And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
 
 
-
-
-
----
-
-Asarah hanging limb from limb. 
-
-
-TEAR THEM LIMB FROM LIMB! commanded the Wizard.
-
-"Wait!" cried Boltac with a newfound strength in his voice. 
-
-"They do not listen to you, Merchant. They bow to power."
-
-"En-henh, but what if I've got a whistle too?" Boltac fumbled with his charm necklace for a moment, while ever
-
----
-
-Well, cut me down!
+Untie me!
 
 You know, you're a nice lookin' lady. 
 
@@ -3794,75 +3787,23 @@ Boltac knelt by him. "Kid," he said softly. "C'mon, kid." Boltac opened the smal
 
 "Dead? Kid, there's dead and there's dead. Besides, no matter what they tell you, there's always room for negotiation. Even with death." 
 
+---
 
-Gets up and bats the rest of the flame out with the magic negating glove. 
+So, uh, Relan, how many relatives would you say you have? All unimaginative. Strong backs, just like you?
 
-The lantern goes out. 
-
-At the top the find the melted troll. 
-
+---
 
 
---- 
+Nodding at the slimy hunks of Orc around them Boltac asked, "Samga, how are you not dead?"
 
-Gives Relan the potion. 
+"I do not know, I must go to ask the Underking."
 
-He averts his eyes. 
-
-
-# Boltac unleashes the coins 
-
-I've come back to do you in. 
-
-"Oh have you now."
-
-"That's a fact."
-
-"Well, oh my heavens. Let us ignore the fact that I can strike you down at my leisure. Perhaps with bolt of lightning, or a spell of transmogrify, have you forgotten about the horde or Orc's I have at my disposal."
-
-"You know, I don't think those Orc's are going to be much help to you? But you can call them."
-
-* Bolt after bolt lancing into Boltac. 
-
-Relan comes up at the end, and stabs the Wizard, giving Boltac time
-
-I die a hero. 
-
-"En-henh," said Boltac. "Maybe we should hold out for a better offer."
-
-
-# Boltac throws the magic detecting wand into the fount of all magic.
-
-
-That's the problem with a bottomless sack 
-
-
-It explodes and shuts the portal. 
-
-"My magic! You fool, you may have destroyed magic for this entire plane of existence." Alston cried.
-
-"GOOD!" thundered Boltac.
-
-
-## Boltac brings Relan back with a magic potion
-
-
-At the very end, he's been dead and dying the whole time. He rallies 
-
--- Leave him where he has fallen as a warning. 
-
-As if they needed more warning, thought Samga.
+"Ah, that guy. He'll have an answer, but it won't help you."
 
 
 
-> And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
 
 
-
-# And a bunch of confused wolves
-
-
-And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
 
 
 # Revisting the Troll
@@ -4003,7 +3944,11 @@ Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage.
 
 "Prove it?" said the ex-Duke, "Why I am a descendant of a noble line. My word is my bond."
 
-"Not with me it ain't. I've known too many nobles. Your word and six coppers will get you a foul tasting ale in Robrecht."
+"Not with me it ain't. I've known too many nobles. Your word and six coppers will get you a foul tasting ale at the Sign of the Bent Eelpout."
+
+"My Gods, is that foul establishment still there?"
+
+"It's being renovated," said Boltac.
 
 
 # Boltac Catches Rattick and Makes Him His Minister
@@ -4127,10 +4072,7 @@ He somehow has to humble and humiliate himself -- or let her go. A tough emotion
 He just kisses her.
 
 
-# The Nice Ending
 
-Asarah and Boltac eating, she is sad. He presents her with the sign he took from the ruins of the Inn. 
-****
 
 # Have to put Boltac sitting on the throne. 
 
@@ -4175,6 +4117,9 @@ Boltac smiled at the young man, so innocent in the ways of the world, and oblivi
 
 "And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
 
+
+
+------
 
 # Extra from Relan v. Shirley. 
 
@@ -4268,45 +4213,5 @@ he backhands her and runs away. Ashamed and embarrassed.
 >Wizard -- And now you will die. 
 >Boltac -- That might not be in your best advantage. 
 
-# Extra from Boltac in Pit
 
-
->After all the talk of these things not having feelings. (Wizard to Asarah) we see them really having feelings here. 
-
-
-
-
-
-
-
-They tell him that only if the magic is released. Only if the flame of magic is quenched from this dimension, can they be released. Only a hero like he can defeat the wiz
-
-"What, you're saying I'm the chosen one? Chosen one. Look buddy, no offense, but I'm just a guy trying to make a coin in this world, you understand."
-
-"In your heart, there is love."
-
-"Love of coin, of course."
-
-"There is more," whispered the shadow, "do not lie to me. In this place. There is no bargain you can make with the final darkness."
-
-"C'mon, there's always room to negotiate."
-
-"Not at the very end."
-
-"C'mon, all the stories and the sagas and the miracle turnarounds."
-
-Silence. 
-
-"You mean the kid is really dead?"
-
-And then the shadow told him something about how death worked that Boltac didn't know. Boltac saw an angle in it, but not for himself. 
-
-"Okay, look, I love the girl. I do. And I figured it out too late and I didn't seize the opportunity and so now I'm hear and she's gone and I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's the bidness."
-
-> Samga is friends with the thing in the dark. b/c it's the only one of his kind he can talk with.
-
-
-
-
-# Extra from Boltac and Relan in twisty passages 
 
