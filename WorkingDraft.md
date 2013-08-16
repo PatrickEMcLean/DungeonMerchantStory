@@ -1,4 +1,8 @@
-5rcv  *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+*Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
+
+We need to show Boltac not fitting into his element -- being unkingly so we can show him being kingly at the end.
+
+
 
 
 # **The Merchant Adventurer** 
@@ -3636,7 +3640,7 @@ Rattick slipped out of the shadows. How had Boltac survived? And where was he he
 
 # 40 Confronting the Wizard
 
-> Do we need to sharpen the conflict between Samga and Dimsbury -- does Samga deliver the coup de grace of throwing the wizard into the firery rippling gap of spacetime
+> Do we need to sharpen the conflict between Samga and Dimsbury -- does Samga deliver the coup de grace of throwing the wizard into the firey rippling gap of spacetime
 
 "Samga. There you are," said Dimsbury. "Thank the Gods you have returned. Pass me that knife over there so I may open this woman's neck." Dimsbury turned back to Asarah who now hung by her legs, upside down above the flame that danced half-in-focus, half-out-of-focus above it's stone dias. Asarah attempted to scream, but it was muffled by a gag which Dimsbury now tightened. "I must say, I enjoy your company much more now that you are quiet. It will almost be sad to see you go. Samga, the knife!"
 
@@ -3753,39 +3757,136 @@ And then there was a gasp. The flames folded in on themselves. With a crunching 
 
 
 
-# And a bunch of confused wolves
 
 
-And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
+# 50 Aftermath
 
+> do we need to describe the potion healing Relan?
 
+> Describe his body filling with moisture (in opposition to the few drops that the bottle contains.)
 
-# Aftermath
+> Where does Rattick check out?
 
-
-
-Gets up and bats the rest of the flame out with the magic negating glove. 
-
+> got to deal with Rattick. When he notices what's up and says, it's time to leave!
 
 
 
-> And where every Orc had been, there was now a greasy spot on the floor. And in the center of each greasy spot -- pure and untarnished, was a small pile of gold. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. 
+> He gathers up as much gold as he can carry and makes for the Southron Kingdom.
+
+> Which is where the mercenaries catch him. 
 
 
-Untie me!
-
-You know, you're a nice lookin' lady. 
-
-Cut me down this instant!
-
-Calm down, you're rescued already. Besides, we've got a man down. Boltac said, turning his attention to Relan, in a pile on the floor. All the color had drained from his face. His lips were blue with cold, yet still he drew breath. How he lived at all? Was this not another kind of magic? The magic of will alone?
-
-Boltac knelt by him. "Kid," he said softly. "C'mon, kid." Boltac opened the small lacquered box and inside it was a tiny flask covered in ornately wrapped gold wire.
 
 
-"I was dead. I thought I was dead? Wasn't I dead? And you said you didn't have any more magic potions."
+On the far side of the vaulted room, the tiny remnant of the magic flame still flickered.  Boltac emerged from the darkness. As he looked at the flame, he removed the tattered wool glove from his hand. He walked closer and considered the struggling flame. It was smaller than the last gasp of a dying tallow candle. But it was still magic. Then he beat the flame out with three swipes of his glove. 
 
-"Dead? Kid, there's dead and there's dead. Besides, no matter what they tell you, there's always room for negotiation. Even with death." 
+"mmmmmMMMMMMMM!" in the darkness, Asarah yelled at Boltac through her gag. He rushed to her aid. 
+
+"Are you all right?"
+
+"Untie me!"
+
+"En-henh, you're all right. Thank the gods you're all right. You know, this is a good look for you. Tied up on the ground."
+
+"Boltac, don't ruin it being cute. Untie me."
+
+"Ruin what?" asked Boltac as he loosened her bonds. "It's already wrecked. I mean seriously, have you looked around you?"
+
+Boltac helped Asarah to her feet and she threw her arms around her and kissed Boltac. It was a kiss no money could buy, and a kiss that Boltac wouldn't have traded for anything in the world. 
+
+"You can say whatever you want, Mr. Boltac, but you came back," she said, kissing him on the nose, "You gave up everything you had to save *me*. That how I *know*. And that's what makes you a hero."
+
+"A what? Hero, don't be silly. I'm not a hero, I'm just a guy trying to... to..." Boltac realized that he wasn't quite sure who he was anymore, and he liked it that way. "Anyway, if you want a hero, you should talk to the kid. That's his department, after all. Oh my Gods, the kid!"
+
+Boltac left Asarah's arms and rushed to where Relan was slumped against the wall. He looked like hell, but his eyes were open. "Did we win?" asked Relan. 
+
+"Whattya mean, did we win?" said Boltac, confused by the question. Then he stood up and looked around. The Wizard was gone. Where the Orcs had collapsed to the floor, there were now greasy splotches, each with a pile of gold coins in the center. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. "Henh," said Boltac, letting it really sink in. He walked to where Dimsbury had conjured a magic door to a room full of treasure. There, in the darkness, stood a perfectly ordinary and unremarkable wooden door. 
+
+Boltac pulled the door open. on the other side Dimsbury's hoard gleamed like a dream of avarice at the end of a cold, dark night.
+
+"We won! We WON!" said Boltac. 
+
+"We won," said Relan, as if he didn't believe it. He struggled to get up, and the collapsed back to the floor with a gasp of pain. 
+
+Boltac and Asarah rushed to his side. "Easy, kid," said Boltac, "Nobody is more surprised about this than me, but contain your enthusiasm. You're pretty banged up."
+
+"I thought I was dead? I was dead. Wasn't I dead? And you said you didn't have any more magic potions."
+
+"Dead? Kid, there's dead and there's *dead*. Besides, no matter what they tell you, there's always room for negotiation. Even with death." 
+
+"Can you stand?" asked Asarah.
+
+"Maybe with some help."
+
+"Then let's get the hell out of here," said Asarah.
+
+Relan grunted and cried out in pain, but eventually he made it to his feet. 
+
+"Gah, you're a lug," said Boltac as Relan settled his weight onto their shoulders. The three of them wheeled for the door. But before they could exit the room a dark shape blocked their way. Backlit by the last torch, it was a terrible shape in the darkness. It seemed to reach for them, brandishing something in it's hand. Asarah shrieked. All three of them flinched. But when the second torch blazed to life they could see that it was a trick of the shadows. Samga stood before them, offering a fresh torch. 
+
+"You will need light for your journey"
+
+Boltac looked at greasy remains of the other Orcs on the floor and then back to the Orc that stood before him. "Samga, how did you survive?"
+
+"I do not know, I must go to ask the Underking."
+
+"Ah, that guy. He'll have an answer, but it won't help you."
+
+"He knows the hidden ways of things," said Samga with a shrug. "He is the only one of my kind that I could speak to."
+
+Boltac took the fabled lamp of Lamptopolis from his belt. It did not light. "Hunh," said Boltac. "Samga, I'm pretty sure this is just a lamp now, but I want you to have it. It's a nice lamp, a quality article, but let it remind you, if you if you ever need my help, you come. You, I owe."
+
+"But I am monster. A thing made, not born."
+
+"Ennh, there are monsters and then there are *monsters*," Boltac said with a shrug. "No matter what life hands you, there's always room to negotiate is what I'm saying."
+
+Boltac took the torch from Samga and they watched as he climbed down into the pit. 
+
+They found the main passage and ascended. They stopped to rest several times, but they saw and heard nothing in the great expanse of the Wizard's lair. A great, underground emptiness surrounded them. The Wizard and his creations were gone. 
+
+
+Near the exit the came to a room that was at once familar and strange. The ceiling had cracked open and now sunlight filled the once dark room. Here and there around the edge of the room were bones. But the sunlight, the sight of leaves and sky through the cieling and distant birdsong gave the place a feeling more peaceful than terrible. 
+
+In the center of the room there was a dark spot, more dust than anything, and in it the ornate, jeweled and cursed mace that Boltac had used to trick the troll what seemed like a lifetime ago. 
+
+As Relan and Asarah both gazed at the sunlight and fresh air, Boltac slipped out underneath Relan's arm and walked to the mace. "Henh," he said, "Then he bent down to pick up the cursed mace. 
+
+"Don't!" cried Relan weakly, "It's..."
+
+Boltac hefted the mace and turned to Relan. No sinister forces crushed him to the Earth. Boltac said, "It's a blunt instrument." He considered the jewels and ornate carvings that decorated the weapon in his hand. "A faaaancy, blunt instrument, but still."
+
+"It's not magic anymore?" asked Relan.
+
+"Nope. I'm pretty sure not even magic is magic anymore," answered Boltac.
+
+"What does that mean?" asked Asarah.
+
+"I dunno," said Boltac, "but I like it."
+
+Boltac lifted Relan again and the three made their awkward way from the dungeon. As they walked into the sunlight of a new day, Boltac thought about all that gold, buried far, far beneath them. "So, uh, kid, you're from a village not far here, right?"
+
+Relan pointed West with a dejected air, "That way, half a day's walk. Do you know how hard it was for me to get away from there. You're not going to leave me there, are you?"
+
+"No. No?" said Boltac. He looked at Asarah and she shook her head no. "No. You're with us now. But these villagers, they uh, big and strong and stupid-- I'm sorry, I mean *honest* like you?"
+
+"Everyone there is the same," Relan sighed, "It is very dull. Why do you want to know."
+
+"I think I know how to liven it up a bit."
+
+"They don't like outsiders very much."
+
+"Do they like gold?"
+
+They loaded Relan in the back of the Ducal Coach. Boltac closed the door and started at the Ducal seal of Weeveston Prestidigitous RampartLion Toroble the 15th. "Henh..." he said.
+
+"What," asked Asarah.
+
+"That's gonna have to change."
+
+
+
+
+
 
 ---
 
@@ -3794,132 +3895,16 @@ So, uh, Relan, how many relatives would you say you have? All unimaginative. Str
 ---
 
 
-Nodding at the slimy hunks of Orc around them Boltac asked, "Samga, how are you not dead?"
 
-"I do not know, I must go to ask the Underking."
 
-"Ah, that guy. He'll have an answer, but it won't help you."
 
 
 
 
 
+# Boltac Confronts the Old Duke and Torvalds
 
 
-# Revisting the Troll
-
-Melted into slag and the mace is there. Boltac picks up the mace and it doesn't pin him to the floor. 
-
-There you go, magic is neatly dispensed with. World is a safer place. 
-
-Asarah looked at him with a crooked sort of grin. 
-
-"What? what's that look for?" Boltac asked.
-
-"You're a strange sort of hero, Boltac." said Asarah. Boltac started to deny it, but Asara grabbed him and shut him up with a kiss she planted good and hard. It was the kind of kiss that stuck deep. The kind of kiss that would stay planted for years. The kind of kiss that for years to come, on cold lonely nights, Boltac would still be able to feel that kiss vibrating in his toes. 
-
-Relan drove the coach
-
- But as Relan drove the coach, and they rode in the comfort of the plush interior, she planted more, just to make sure they stuck. 
-
-
-# Asarah gives Boltac confidence to be king
-
->I can't be a king, I'm not noble. 
-
->We'll, if you can't be a king, then we are doomed, simply doomed to have men like him rule over us -- YOu are cheap, I will give you that Mr. Boltac. 
-
-
-"You might not be able to be a King Mr. Boltac, but I could definitely be a Queen."
-
-"But," said Boltac, "It's so much work,"
-
-"Pfahh "
-
-"But I wouldn't want have servants or slaves."
-
-"Who said you have to have servant? And servants and slaves are two very different things."
-
-"I know, dear," said Boltac.
-
-"Aw, you called me dear."
-
-"You don't like it?"
-
-"No, I do. I really do." There was another kiss and then she continued. "But you don't need, servants. You don't have to force anyone to do anything. But can you just hire people to help you."
-
-"Hire, but servants are bound to the families…"
-
-"You know while you are daydreaming, dear, you don't have to stick to the rules of reality. And are all servants bound to "
-
-"Wait, wait, did you say hire," Boltac said, lapsing out of the sweet trance of cuteness for the first time since they had escaped.
-
-He leaned out of the carriage window and shouted to Relan, "Turn this thing around, we're going the wrong way!"
-
-"But Robrecht is south!" said Relan, "If there's anything left of it."
-
-"Yeah, I know, but to save the city we gotta go North before we go South."
-
-"I don't understand?"
-
-"I know. That's not your job. It's my job. And speaking of which, do you want a job? I am hiring?"
-
-"Wait, what? But I'm an adventurer."
-
-"And can you possibly imagine anyone else who could have taken you on a bigger adventure?"
-
-"No," said Relan, "But you had the adventure."
-
-"Whattya mean, you were there? You were there the whole time!"
-
-"But you got the girl at the end. That's the way an adventure works. You get the girl at the end and live happily ever after."
-
-"I have two things to say to that. Eh, but never mind. We don't have time. Just trust me, the adventure ain't over yet."
-
-"But we're out of danger," said Relan.
-
-"Trust me, what I have in mind, kid. Probably get us all killed."
-
-"Oh," said Relan, with a smile, "then I'm in!" And he urged the horse into a gallop. 
-
-"Okay," Boltac shouted over the rushing of the air and the thudding of the horse's hooves. "You're hired. Now don't disturb me until we get there. I've got important business back here."
-
-"Get where?" Relan shouted. 
-
-"Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
-
-
-# Mignola Scene
-
-> Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
-
-
-
-In the lighter darkness Samga spoke with the elder one in the broken, hissing tongue of Orc's. (between them they try to make the language who)
-
-
-For in the darker darkness he could not speak for the weight of the blackness pressing in on him from all sides. And in the darkest darkness, he feared that the blackness would fill his lungs and he would drown in night. 
-
-
-
-And now we die. 
-
-No, many of the husks will falter, but we will go on?
-
-How can you be sure, I feel the beat of my heart slowing as we speak, the magic is 
-
-The magic of man is draining out of you, but the deeper magic. The magic of life… can you feel that starting?
-
-No. 
-
-You have spent too much time around the human's Samga. Retreat with me into the darkness a while and I will tell you what I have learned from listening deep inside my self. 
-
-Samga followed the older one into the darkest darkness under the ground. 
-
-We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
-
-
-# The Free Companions
 
 The free companions, I don't know why they call them that, because they sure don't come cheap. 
 
@@ -3948,10 +3933,84 @@ Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage.
 
 "My Gods, is that foul establishment still there?"
 
-"It's being renovated," said Boltac.
+"It's being renovated," said Boltac, "My wife is quite fond of it."
+
+
+
+
+You are using the gold from our own treasury to hire an army to fight us! SUCH IMPUDENCE.
+
+"En-henh," said Boltac, "So, funny thing about that. There was no gold in the treasury. It was all gone. Robrecht was broke. I can't say I was surprised, seeing how your boy here say fit to loot our fair city six ways from Sunday. And then one more time on Monday, just to be sure. So I filled the treasury on my own."
+
+"What? How?"
+
+"Yeah, that's why the call me the Hero of Robrecht. I bought it. Just like I bought your army."
+
+"They would never desert. Then they would never be safe against the  Battlemages of Mercia."
+
+"Okay, so funny thing about *that*."
+
+
+
+
+You hired them to fight us?
+
+No, I hired them not to fight. Less risk. Cheaper that way. In fact, I made them all citizens. Gave them a nice plot of land, reclaiming an area that had been recently terrorized by an evil Wizard and his creations. 
+
+"And what happened to the Wizard?"
+
+"Ennnh, magic is a dangerous business. "
+
+
+
+
+---
+
+
+"Your nephew was just lacking that special something that nobility is supposed to have."
+
+"Courage?"
+
+"You know, I was going to say nobility, 'cause it's sounds more poetic, but no. What you're nephew lacks is smarts. No offense your Dukedom, but ya an idiot."
+
+"You can't talk to me like that."
+
+"Shut up," Boltac and Torvalds said at the same time. 
+
+"So, you know why people fight wars?"
+
+"I fight them to win."
+
+"Nah, what you really fight for, is a better negotiating position. And if you do it right, you don't even have to fight. Right?"
+
+"Yes," said Torvald's through a wolf's smile, "That's close enough. You're a cunning man, it's going to be a shame to have you put to death. "
+
+You're not in a position to negotiate
+
+Because you have the army. 
+
+"Yes, yes, because I have the army." Torvalds motioned for the Companions to take Boltac away. But no one moved. "Oh, you dullards, take him."
+
+"Are you sure it's your army?"
+
+"What do you mean, I have hired them."
+
+"Well, about that. You haven't paid them."
+
+"And, as it turns out, I got there first. And I had a chest fulla gold, so, uh, boys, take him a way. "
+
+"we've got mountain passes, asshole. We're on the trade road to everywhere. And now, we've got a kingdom. And we're in business for ourselves."
+
+
+
+# The Free Companions
+
+
 
 
 # Boltac Catches Rattick and Makes Him His Minister
+
+Jump to Rattick's pov. He grabs some gold, and sneaks back to Robrecht
 
 
 ## Rattick escaping, time to head to the South -- to warmer climes
@@ -4023,42 +4082,6 @@ The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
 
     He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
 
-
-# Boltac Confronts the Old Duke and Torvalds
-
-"Your nephew was just lacking that special something that nobility is supposed to have."
-
-"Courage?"
-
-"You know, I was going to say nobility, 'cause it's sounds more poetic, but no. What you're nephew lacks is smarts. No offense your Dukedom, but ya an idiot."
-
-"You can't talk to me like that."
-
-"Shut up," Boltac and Torvalds said at the same time. 
-
-"So, you know why people fight wars?"
-
-"I fight them to win."
-
-"Nah, what you really fight for, is a better negotiating position. And if you do it right, you don't even have to fight. Right?"
-
-"Yes," said Torvald's through a wolf's smile, "That's close enough. You're a cunning man, it's going to be a shame to have you put to death. "
-
-You're not in a position to negotiate
-
-Because you have the army. 
-
-"Yes, yes, because I have the army." Torvalds motioned for the Companions to take Boltac away. But no one moved. "Oh, you dullards, take him."
-
-"Are you sure it's your army?"
-
-"What do you mean, I have hired them."
-
-"Well, about that. You haven't paid them."
-
-"And, as it turns out, I got there first. And I had a chest fulla gold, so, uh, boys, take him a way. "
-
-"we've got mountain passes, asshole. We're on the trade road to everywhere. And now, we've got a kingdom. And we're in business for ourselves."
 
 
 # Not So Nice Ending
@@ -4214,4 +4237,108 @@ he backhands her and runs away. Ashamed and embarrassed.
 >Boltac -- That might not be in your best advantage. 
 
 
+
+
+
+# And a bunch of confused wolves
+
+
+And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
+
+
+
+# Asarah gives Boltac confidence to be king
+
+>I can't be a king, I'm not noble. 
+
+>We'll, if you can't be a king, then we are doomed, simply doomed to have men like him rule over us -- YOu are cheap, I will give you that Mr. Boltac. 
+
+
+"You might not be able to be a King Mr. Boltac, but I could definitely be a Queen."
+
+"But," said Boltac, "It's so much work,"
+
+"Pfahh "
+
+"But I wouldn't want have servants or slaves."
+
+"Who said you have to have servant? And servants and slaves are two very different things."
+
+"I know, dear," said Boltac.
+
+"Aw, you called me dear."
+
+"You don't like it?"
+
+"No, I do. I really do." There was another kiss and then she continued. "But you don't need, servants. You don't have to force anyone to do anything. But can you just hire people to help you."
+
+"Hire, but servants are bound to the families…"
+
+"You know while you are daydreaming, dear, you don't have to stick to the rules of reality. And are all servants bound to "
+
+"Wait, wait, did you say hire," Boltac said, lapsing out of the sweet trance of cuteness for the first time since they had escaped.
+
+He leaned out of the carriage window and shouted to Relan, "Turn this thing around, we're going the wrong way!"
+
+"But Robrecht is south!" said Relan, "If there's anything left of it."
+
+"Yeah, I know, but to save the city we gotta go North before we go South."
+
+"I don't understand?"
+
+"I know. That's not your job. It's my job. And speaking of which, do you want a job? I am hiring?"
+
+"Wait, what? But I'm an adventurer."
+
+"And can you possibly imagine anyone else who could have taken you on a bigger adventure?"
+
+"No," said Relan, "But you had the adventure."
+
+"Whattya mean, you were there? You were there the whole time!"
+
+"But you got the girl at the end. That's the way an adventure works. You get the girl at the end and live happily ever after."
+
+"I have two things to say to that. Eh, but never mind. We don't have time. Just trust me, the adventure ain't over yet."
+
+"But we're out of danger," said Relan.
+
+"Trust me, what I have in mind, kid. Probably get us all killed."
+
+"Oh," said Relan, with a smile, "then I'm in!" And he urged the horse into a gallop. 
+
+"Okay," Boltac shouted over the rushing of the air and the thudding of the horse's hooves. "You're hired. Now don't disturb me until we get there. I've got important business back here."
+
+"Get where?" Relan shouted. 
+
+"Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
+
+
+# Mignola Scene
+
+> Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
+
+
+
+In the lighter darkness Samga spoke with the elder one in the broken, hissing tongue of Orc's. (between them they try to make the language who)
+
+
+For in the darker darkness he could not speak for the weight of the blackness pressing in on him from all sides. And in the darkest darkness, he feared that the blackness would fill his lungs and he would drown in night. 
+
+
+
+And now we die. 
+
+No, many of the husks will falter, but we will go on?
+
+How can you be sure, I feel the beat of my heart slowing as we speak, the magic is 
+
+The magic of man is draining out of you, but the deeper magic. The magic of life… can you feel that starting?
+
+No. 
+
+You have spent too much time around the human's Samga. Retreat with me into the darkness a while and I will tell you what I have learned from listening deep inside my self. 
+
+Samga followed the older one into the darkest darkness under the ground. 
+
+We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
 
