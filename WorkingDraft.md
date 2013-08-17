@@ -3759,7 +3759,7 @@ And then there was a gasp. The flames folded in on themselves. With a crunching 
 
 
 
-# 50 Aftermath
+# 41 Aftermath
 
 > do we need to describe the potion healing Relan?
 
@@ -3884,29 +3884,69 @@ They loaded Relan in the back of the Ducal Coach. Boltac closed the door and sta
 "That's gonna have to change."
 
 
-
-
-
-
----
-
-So, uh, Relan, how many relatives would you say you have? All unimaginative. Strong backs, just like you?
-
----
-
-
-
-
-
-
-
-
-
 # Boltac Confronts the Old Duke and Torvalds
 
+The blissful peace of Weeveston Prestidigitous RampartLion Toroble the 15th was all too fleeting. It seemed that no sooner had his wife's lovers been chased off than his Uncle Torvalds was hammering at the front door. Well, not literally of course. Of course, a powerful ma Torvalds had a large man to do his hammering for him. A great many of them. 
+
+Clad in polished armor, Torvalds had clanked onto the terrace and interrupted what had been, up until that point, quite a nice breakfast. Before Torvalds acknowledged his nephew he commanded a servant, "Have a horse saddled for my nephew."
+
+"Good morning Uncle, would you care for some toast?" Weeveston asked. 
+
+His uncle ignored him and turned his attention to his niece-by-marriage.
+
+"Ah, my dear Tryphaenae, you are as lovely as the day you were married."
+
+From her divan, Tryphaenae smiled and said "Torvalds, you old rogue,"
+
+He bowed. "Guilty as charged. I am sorry that I must take him away from you so soon after you have been reunited, but the affairs of state..."
+
+With a smile, Tryphaenae smiled invitingly and said, "I have always been understanding about all manner of affairs. Do what you must."
+
+Torvalds kissed her hand and said, "Our time together is always so brief my dear." Then the smile dropped away from his face and he turned to his nephew
+
+"You have lost a kingdom--"
+
+"Dutchy?" offered Weeveston.
+
+"--and we take our army to win it back."
+
+"Army?" asked Weeveston. "What army, I thought all of our forces were far, far to the North."
+
+"I have hired the Free Companions. All of them. At present they marching North. We ride to join them and retake your throne."
+
+Weeveston did not get up.
+
+"Time is of the essence," said Torvalds said through clenched teeth.
+
+"That's it? Hired and army and off we go? No hello, no how are you doing? No glad to see you. No niceties at all Uncle. Have a concern for your poor nephew, driven from his seat by an army of creatures most foul. Orcs, as they are called in the benighted regions of my former kingdom."
+
+"Dutchy," corrected Torvalds, "Let's go."
+
+Weeveston, with an uncharacteristic courage, sat his ground and stared at his Uncle. 
+
+"Nephew, I am not glad to see you. You're debacle has torn me from pressing business in the West. I should think that it is enough that I am here to help you fix your problem and restore you to the function and station which your family has so graciously seen fit to appoint you. However, if you require a reminder of the warm embrace of family which is denied to you due to your own, obvious shortcomings, then I will tell you that your Aunt sends her best."
+
+Weeveston jumped and checked behind him for a highly skilled assassin. Finding himself not murdered, he rose and said, "Yes, yes. Posthaste Uncle, as you say."
 
 
-The free companions, I don't know why they call them that, because they sure don't come cheap. 
+
+
+
+
+and your aunt sends her best
+
+
+
+
+
+been turned out and he had been re-united with her than 
+
+
+
+
+---
+
+The free companions, I don't know *why* they call them that, because they sure don't come cheap. 
 
 Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage. 
 
