@@ -3886,6 +3886,10 @@ They loaded Relan in the back of the Ducal Coach. Boltac closed the door and sta
 
 # Boltac Confronts the Old Duke and Torvalds
 
+
+> yes, his wife was looking radient in the morning sun. And if she wasn't exactly overjoyed to at his return, at least she was smiling at him from time to time. A fact that Weeveston felt that he could build on. 
+
+
 The blissful peace of Weeveston Prestidigitous RampartLion Toroble the 15th was all too fleeting. It seemed that no sooner had his wife's lovers been chased off than his Uncle Torvalds was hammering at the front door. Well, not literally of course. Of course, a powerful ma Torvalds had a large man to do his hammering for him. A great many of them. 
 
 Clad in polished armor, Torvalds had clanked onto the terrace and interrupted what had been, up until that point, quite a nice breakfast. Before Torvalds acknowledged his nephew he commanded a servant, "Have a horse saddled for my nephew."
@@ -3912,7 +3916,7 @@ Torvalds kissed her hand and said, "Our time together is always so brief my dear
 
 "Army?" asked Weeveston. "What army, I thought all of our forces were far, far to the North."
 
-"I have hired the Free Companions. All of them. At present they marching North. We ride to join them and retake your throne."
+"I have hired the Brave Companions. All of them. At present they marching North. We ride to join them and retake your throne."
 
 Weeveston did not get up.
 
@@ -3929,7 +3933,17 @@ Weeveston, with an uncharacteristic courage, sat his ground and stared at his Un
 Weeveston jumped and checked behind him for a highly skilled assassin. Finding himself not murdered, he rose and said, "Yes, yes. Posthaste Uncle, as you say."
 
 
+Within two days, they joined the main body of the Brave Companions, an army-for-hire 20,000 strong. The men were free and easy with each other and authority. Their laughter and song on the march, provided a fine counterpoint to Weeveston's grim Uncle and a detachment of Mercian BattleMages. Even on a good day, a BattleMage was a odd sort of duck. Weeveston couldn't remember a Wizard who wasn't, in one way or another, but four that his Uncle had brought along had seemed particularly humorless. Still, they did their job. The threat of their sinister magic unleashed managed to keep the Brave Companions civil. 
 
+> Brave they might be, but even Weeveston had few illusions about their loyalty. 
+
+They marched for a week and half along the side of the River Swift. And not a day went by that Weeveston didn't think about the pleasant and fast trip he had made down the river, heading in the other direction. He had really thought he had gotten away with something. That he was out from under. But it seemed that the world did not work that way. A man could change his station just because he wanted to. So it was that the horse of metaphorical fate, carried poor Weeveston onward with his reunion with his destiny already in progress in a damn castle in dank town. Or so he thought. 
+
+A commotion went up in the ranks before him. At the cries of "Scout! Scout!" his dour Uncle perked up. As a rider on a lathered horse, his Uncle demanded, "Have you sighted them? How many are there? What is their disposition?"
+
+
+
+One day, as they we're breaking camp, a scout rode hard up to 
 
 
 
@@ -4040,11 +4054,6 @@ Because you have the army.
 "And, as it turns out, I got there first. And I had a chest fulla gold, so, uh, boys, take him a way. "
 
 "we've got mountain passes, asshole. We're on the trade road to everywhere. And now, we've got a kingdom. And we're in business for ourselves."
-
-
-
-# The Free Companions
-
 
 
 
