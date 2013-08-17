@@ -12,6 +12,8 @@ Royrick -- Asarah's dead husband
 Rattick
 Alston Dimsbury
 Weeveston Prestidigitous RampartLion Toroble the 15th,
+
+
 Uncle Torvalds
 Aunt Etheline
 Samga -- the faithful Orc overseer. 
