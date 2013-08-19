@@ -25,6 +25,8 @@ Two men in black -- Generic thugs.
 
 Uthgar, and Frowen and C'huhoyle -- Heros from the sagas.
 
+Gustavo Rifkanza -- head of the Free Companions
+
 
 
 
