@@ -3573,7 +3573,7 @@ He snuck through the sated and sedate creatures as quietly as he could. When one
 
 But with the Orc, this presented a number of problems. Not the least of which, how do you cover a mouth that has tusks. And he had seen how brutishly powerful these things were. He doubted that they would die quietly of their own accord. And how could he hope to hold this one down. He hunkered in a nearby shadow and considered his prey. As he did, he drew a whetstone from a pouch on his belt, spit on it, and began to sharpen the already razor-sharp knife out of habit. There was gold here, he just needed to figure out how to cut himself a piece. 
 
-When he heard a noise from the hallway, he replaced the knife and sharpening stone and then hid his hands under his robe. As clawsteps drew closer, he closed his eyes so that the whites of them might not give him away when whoever it was first entered the room. This was an old and important trick of Rattick's. Hiding was a fine art, depending as much up psychology as camouflage and secrecy. The only time a person looked carefully at room was when they first entered it. After determining that no one was secreted there, they generally stopped looking. In fact, once they believed they knew who and what was in a room, it was very difficult for them to see anything new. It wasn't so much hiding in plain sight, as it was hiding in someone's self-enforced blind spot. 
+When he heard a noise from the hallway, he replaced the knife and sharpening stone and then hid his hands under his robe. As the clawsteps drew closer, he closed his eyes so that the whites of them might not give him away when whoever it was first entered the room. This was an old and important trick of Rattick's. Hiding was a fine art, depending as much up psychology as camouflage and secrecy. The only time a person looked carefully at room was when they first entered it. After determining that no one was secreted there, they generally stopped looking. In fact, once they believed they knew who and what was in a room, it was very difficult for them to see anything new. It wasn't so much hiding in plain sight, as it was hiding in someone's self-enforced blind spot. 
 
 He heard an orc enter the room. There was a shuffling and a scraping of claws here and there as he took in the scene, but no sharp intake of breath. No sudden movements Rattick remained unseen. Then the Orc spoke, but in the Human tongue. 
 
@@ -3581,7 +3581,7 @@ He heard an orc enter the room. There was a shuffling and a scraping of claws he
 
 "Well, somebody had a party," said Boltac. "Did they eat everything?"
 
-"Most like, just the metals."
+"Most likely, just the metals."
 
 "Good, 'cause there's a couple of things I would be nice to have," Boltac muttered as he began to search through the wreckage of the room. After a few moments, he held up a half-chewed, heavy wool, glove. "I suppose the other one is too much to ask for. See if you can find a wand, or the sack."
 
@@ -3625,15 +3625,15 @@ Samga nodded and retrieved the magic detecting wand. It too had been gnawed on, 
 
 "Eh, nevermind. It's a long story. It doesn't really work that well for me, but, as I always say, you can never have too much light or too much water." Boltac reached down and grabbed the lamp by it's handle. As he held it up, it blazed forth with a clear brilliant light that filled the room as if the sun had been harnessed and dragged into the bowels of the earth. 
 
-Samga hissed and averted his eyes. Rattick, closed his eyes to protect his night vision, but otherwise. stayed absolutely motionless, realizing that he was completely exposed. 
+Samga hissed and averted his eyes. Rattick, covered his eyes to protect his night vision, but otherwise. stayed absolutely motionless. For an instant, he was completely exposed, but there was nothing to be done for it. 
 
-Boltac said, "Holy crap," and dropped the lamp. It gradually fade away. Leaving a confused Boltac standing over it, rubbing his eyes to try and get rid of the spots the brilliance had left. As the Orcs began to wake up, Boltac said, "I don't understand. I mean, I'm not a hero."
+Boltac said, "Holy crap," and dropped the lamp. It light gradually faded away. Leaving a confused Boltac standing over it, rubbing his eyes and trying and get rid of the spots the brilliance had left in them. As the Orcs began to wake up, Boltac said, "I don't understand. I mean, I'm not a hero."
 
 "We must go," said Samga.
 
-Boltac grabbed the remnants of Themistre's Bag of Holding and wrapped them around the lamp handle. He picked it up and was relieved that it did not light. As he held it, he moved the burlap so that it covered the motto carved into the metal. "Burns with the flame of a true heart," he muttered, "En-henh."
+Boltac grabbed the remnants of Themistre's Bag of Holding and wrapped them around the lamp handle. This time, when he picked it up, It did not light. He flipped a loose end of the burlap so that it covered the motto carved into the metal. "Burns with the flame of a true heart," he muttered, "En-henh."
 
-One of the slow-to-rise Orcs saw them go. He cried, "Hork!" but it was a half-hearted protest at best. The gold hung heavy in his belly and he struggled to rise. 
+One of the slow-to-rise Orcs saw them go. The creature cried, "Hork!" but it was a half-hearted protest at best. The gold hung heavy in his belly and he struggled to rise.
 
 Rattick slipped out of the shadows. How had Boltac survived? And where was he headed now? Rattick sensed chaos. And where chaos rode, there were always plenty spoils for the taking. He followed the merchant and his unlikely guide from a distance. 
 
@@ -3884,7 +3884,7 @@ They loaded Relan in the back of the Ducal Coach. Boltac closed the door and sta
 "That's gonna have to change."
 
 
-# Boltac Confronts the Old Duke and Torvalds
+# 40 Boltac Confronts the Old Duke and Torvalds
 
 
 > yes, his wife was looking radiant in the morning sun. And if she wasn't exactly overjoyed to at his return, at least she was smiling at him from time to time. A fact that Weeveston felt that he could build on. 
@@ -3929,7 +3929,7 @@ Weeveston did not get up.
 
 "Dutchy," corrected Torvalds, "Let's go."
 
-Weeveston, with an uncharacteristic courage, sat his ground and stared at his Uncle. 
+Weeveston, with an uncharacteristic courage, sat his ground. 
 
 "Nephew, I am not glad to see you. You're debacle has torn me from pressing business in the West. I should think that it is enough that I am here to help you fix your problem and restore you to the function and station which your family has so graciously seen fit to appoint you. However, if you require a reminder of the warm embrace of family which is denied to you due to your own, obvious shortcomings, then I will tell you that your Aunt sends her best."
 
@@ -4054,15 +4054,15 @@ As they walked South Boltac said, "Look, Weeveston, if that is your real name.  
 
 Pale and shaking, Weeveston looked behind him. A few steps behind him, Weeveston saw the leader of the Free Companions was wiping Uncle Torvalds blood from his sword. The man smiled at him as he did it. 
 
-"I do. I do want to be friends."
+"I do. I do want to be friends," Weeveston said, looking around nervously. 
 
 "I want to be friends, what?"
 
-"What?"
+"What?" asked Weeveston, truly not understanding.
 
-"No. Not what. What do you say."
+"No. Not what. What do you say?"
 
-"Oh, I want to be friends, your H-h-highness."
+"Oh, I want to be friends, your H-h-h-highness?"
 
 "Okay then. Shake hands and run along."
 
@@ -4070,129 +4070,21 @@ Pale and shaking, Weeveston looked behind him. A few steps behind him, Weeveston
 
 "Don't be silly, I'm not that kind of King."
 
-Leader of companions -- you know they'll come, right. 
+Boltac shook Weeveston's soft hand watched him scurry South as fast as his expensive shoes would allow. From beside him, Boltac heard Gustavo Rifkanza low chuckle. The big man made a clicking noise with his tongue as he shook his head. 
 
+"You know they will come for you," said Gustavo. 
 
-And we're in business for ourselves."
+"En-henh," said Boltac. He looked at Gustavo and said, "And you know they're gonna to come for you too?" 
 
+Gustavo shrugged and said, "It will be expensive for them, either way."
 
+# Rattick's story
 
+Of course, Rattick had survived. It was what he was good at. When the Wizard had started throwing lightning bolts around like they were party favors, Rattick had decided that it was time to go. As the walls 
 
+Follows Boltac back to Robrecht.
 
-
-
-moderately priced Companions not to fight,  "
-
-
----
-
-Seize him!
-
-
-"En-henh, about that."
-
----
-
-
-
-
-
-
-
-You hired them to fight us?
-
-No, I hired them not to fight. Less risk. Cheaper that way. In fact, I made them all citizens. Gave them a nice plot of land, reclaiming an area that had been recently terrorized by an evil Wizard and his creations. 
-
-"And what happened to the Wizard?"
-
-"Ennnh, magic is a dangerous business."
-
-
----
-
-
-"Your nephew was just lacking that special something that nobility is supposed to have."
-
-"Courage?"
-
-"You know, I was going to say nobility, 'cause it's sounds more poetic, but no. What you're nephew lacks is smarts. No offense your Dukedom, but ya an idiot."
-
-"You can't talk to me like that."
-
-"Shut up," Boltac and Torvalds said at the same time. 
-
-"So, you know why people fight wars?"
-
-"I fight them to win."
-
-"Nah, what you really fight for, is a better negotiating position. And if you do it right, you don't even have to fight. Right?"
-
-"Yes," said Torvald's through a wolf's smile, "That's close enough. You're a cunning man, it's going to be a shame to have you put to death. "
-
-You're not in a position to negotiate
-
-Because you have the army. 
-
-"Yes, yes, because I have the army." Torvalds motioned for the Companions to take Boltac away. But no one moved. "Oh, you dullards, take him."
-
-"Are you sure it's your army?"
-
-"What do you mean, I have hired them."
-
-"Well, about that. You haven't paid them."
-
-"And, as it turns out, I got there first. And I had a chest fulla gold, so, uh, boys, take him a way. "
-
-"we've got mountain passes, asshole. We're on the trade road to everywhere. And now, we've got a kingdom. And we're in business for ourselves."
-
----
-
-
-"And you didn't drive me out. I was driven out by Orcs," protested 
-
-"En-henh," said Boltac. "Prove it."
-
-"Prove it?" said the ex-Duke, "Why I am a descendant of a noble line. My word is my bond."
-
-"Not with me it ain't. I've known too many nobles. Your word and six coppers will get you a foul tasting ale at the Sign of the Bent Eelpout."
-
-"My Gods, is that foul establishment still there?"
-
-"It's being renovated," said Boltac, "My wife is quite fond of it."
-
-
-
-The free companions, I don't know *why* they call them that, because they sure don't come cheap. 
-
-Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage. 
-
-"Is that the ducal carriage?" Torvalds said with some contempt.
-
-"No. It used to be. See, the seal has changed. I drove the Duke out and took his carriage and his castle and his town."
-
->"What is that sigil? A fish?"
-
->"An eelpout. It's like a fishes ugly cousin. And you see those words?"
-
->"Everybody pays their way? What kind of motto is that?"
-
-
-"It is our town," sputtered Torvalds nearly incoherent with rage. 
-
-"And you didn't drive me out. I was driven out by Orcs," protested 
-
-"En-henh," said Boltac. "Prove it."
-
-"Prove it?" said the ex-Duke, "Why I am a descendant of a noble line. My word is my bond."
-
-"Not with me it ain't. I've known too many nobles. Your word and six coppers will get you a foul tasting ale at the Sign of the Bent Eelpout."
-
-"My Gods, is that foul establishment still there?"
-
-"It's being renovated," said Boltac, "My wife is quite fond of it."
-
-
-
+Okay, everybody, here's what gives. Do you have a plan?
 
 
 
