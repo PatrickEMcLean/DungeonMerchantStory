@@ -3996,7 +3996,7 @@ The soldiers did not move.
 
 "You are using the gold from our own treasury to hire an army to fight us! SUCH IMPUDENCE! I drag your body through the streets from my own horse!"
 
-"En-henh," said Boltac, "So, funny thing about that. There was no gold in the treasury. It was all gone. Robrecht was broke. I can't say I was surprised, seeing how your boy here say fit to loot our fair city six ways from Sunday. So I refilled the treasury on my own."
+"En-henh," said Boltac, "So, funny thing about *that*. There was no gold in the treasury. It was all gone. Robrecht was broke. I can't say I was surprised, seeing how your boy here say fit to loot our fair city six ways from Sunday. So I refilled the treasury on my own."
 
 "What? How?"
 
