@@ -4080,11 +4080,47 @@ Gustavo shrugged and said, "It will be expensive for them, either way."
 
 # Rattick's story
 
-Of course, Rattick had survived. It was what he was good at. When the Wizard had started throwing lightning bolts around like they were party favors, Rattick had decided that it was time to go. As the walls 
+Of course, Rattick had survived. It was what he was good at. When the Wizard had started throwing lightning bolts around like they were party favors, Rattick had decided that it was time to go. As the walls shook around him, hurried upward.
+
+Rattick couldn't imagine that the Merchant stood a chance against the Wizard, but he couldn't see a percentage in sticking around either way. Rattick had seen Dimsbury loose his temper too often. At the very least, Rattick was certain the guy would unleash his considerable powers to see Robrecht burned to the ground. No, that wouldn't be enough for Dimsbury. He would want to see Robrecht burned to the ground and then it's ashes shoveled into the river.
+
+Where there was chaos, thought Rattick, there was opportunity. So, when he had escaped the depths Rattick hid himself away in his favorite tree, to see what happened next. But what happened next was nothing. Clouds drifted across the sky and a gentle breeze blew caused the tree to sway so gently that Rattick fell asleep. As he drifted off, he thought to himself, "it's no worry, you'll never sleep through the sound of a howling mass of Orcs unleashed on the countryside." 
+
+But Rattick awoke to something very, very different. It was the sound of horse being harnessed. The jingle of metal on metal, the clop of hooves, and the slap of leather. He opened his eyes and realized it was night. The clouds had cleared and a bright, waxing moon hung in the sky. By it's light he saw Boltac and Asarah, help Relan into the Duke's carriage. They had survived? But how? 
+
+The two of them climbed onto the seat at the front of the carriage.. Asarah took hold of Boltac's arm and laid her head on his shoulder. And then they climbed on the front of carriage and drove away. Rattick waited many minutes, expecting to hear the howl of bloodthirsty Orcs hurrying in pursuit, or to see fireballs raining down from the heavens upon them. But there was nothing. Nothing at all. Was he dreaming? What was going on. 
+
+He descended and followed them.
+
+
+
+
+> Need to seed Rattick's cloak as a magic item from the beginning?
+
+
+Tries to hide
+Farmer says, "Whattya doing standing out there in the field. Are you daft, man, Are ye hurt."
+
+Rattick unwrapped his cloak and said, "You can see me?"
+
+"Of course, I can see ya. I'm not blind, am I?"
+
+Rattick stammered. How had the farmer seen him. A master sneak-thief like Rattick, espied by this pie-faced rube?
+
+"If yer simple," the Farmer continued, very slowly, "Follow the road down to Robrecht. There's them that can look after you there." Then the Farmer had a thought, "Or you can stay here and I can hire you as a scarecrow." The Farmer cackled at his own joke as if it was the funniest thing that had ever been said. Rattick hurried away to escape the mocking noise of it. 
 
 Follows Boltac back to Robrecht.
 
+But when Rattick reached Robrecht, it was strangely empty. He entered through the North gate, and the noise of many people gathered drifted to him from the south. At any other time, Rattick would have used a major gathering as a chance to burgle few houses. 
+
+
+Everyone was gathered in the courtyard of the keep
+
+
 Okay, everybody, here's what gives. Do you have a plan?
+
+
+
 
 
 
