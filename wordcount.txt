@@ -73,3 +73,4 @@
 57754 workingdraft.md Mon Aug 19 10:46:07 EDT 2013
 58273 workingdraft.md Tue Aug 20 22:08:57 EDT 2013
 59362 workingdraft.md Wed Aug 21 14:48:11 EDT 2013
+60471 workingdraft.md Sat Aug 24 18:54:05 PDT 2013
