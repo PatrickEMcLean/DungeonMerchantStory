@@ -60,7 +60,6 @@ Yorn
 
 (to the north.)
 
-
 ### The Southern Kingdoms ###
 
 Shatnapur, the Northernmost city in the Southern Kingdoms.
@@ -88,6 +87,10 @@ Stealing Liberty -- guy steals the statue of Liberty and deposits it on their en
 
 
 ## continuation stories ##
+
+
+Add Relan's family -- strange, sullen, surly hill people -- in as characters. They are very odd, but very loyal to Boltac. Definitely Rednecks. 
+
 
 
 The entire arc (maybe first three books) ends when Rattick is punished for his initial, heinous crimes. In the second book, Boltac stays a step a head of him, thwarting him with intelligence, but at the end, when Rattick has taken over the kingdom (as a bad minister) Rattick must die. 

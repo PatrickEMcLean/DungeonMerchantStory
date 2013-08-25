@@ -1,6 +1,6 @@
 *Fuck this, fuck that and fuck you, I'm writing this fuckin' story.*
 
-We need to show Boltac not fitting into his element -- being unkingly so we can show him being kingly at the end.
+> We need to show Boltac not fitting into his element -- being unkingly so we can show him being kingly at the end.
 
 
 
@@ -4090,28 +4090,30 @@ But Rattick awoke to something very, very different. It was the sound of horse b
 
 The two of them climbed onto the seat at the front of the carriage.. Asarah took hold of Boltac's arm and laid her head on his shoulder. And then they climbed on the front of carriage and drove away. Rattick waited many minutes, expecting to hear the howl of bloodthirsty Orcs hurrying in pursuit, or to see fireballs raining down from the heavens upon them. But there was nothing. Nothing at all. Was he dreaming? What was going on. 
 
-He descended and followed them.
+He descended from the tree and followed them. Of course, he couldn't keep up with a horse-drawn carriage, but the track it left was distinctive enough, and, it led back to Robrecht. 
 
+He walked through the night, recognizing darkness for the old friend that it was. And he had the small hours of the night to wonder why the cries of Orc's weren't burning up the road behind him. 
 
+In the morning he came upon a small cottage in a clearing. There was smoke rising from the fieldstone chimney. And behind the cottage, in space that was hard-won from the thick, primeval forest, was a garden and a pen with three pigs. Hungry, Rattick made for the garden. As he was rooting around the leafy plants, he heard the door to the cottage open behind him. 
 
+In one motion, he swirled his cape of concealment around him and stood stock still in the middle of the garden. He would fool the peasant, he thought, and then resume his free breakfast. What a fine thing to be thief and free at the start of a new day. 
+
+Peering through a fold in his remarkable cloak, Rattick watched an old man carry the remnants of breakfast to the hogs. The pigs squealed greedily as he filled their trough. Then peasant turned, and seeing his garden, he froze.
+
+Rattick remained motionless, wondering what the peasant might be looking at behind him. Then the Peasant asked, "Whattya doing standing out there in the field? Are you daft, man? Are ye hurt?"
 
 > Need to seed Rattick's cloak as a magic item from the beginning?
 
+After a long moment, Rattick unwrapped his cloak and asked, "You can see me?"
 
-Tries to hide
-Farmer says, "Whattya doing standing out there in the field. Are you daft, man, Are ye hurt."
+"Of course, I can see ya. I may be old and poor, but I'm not blind, am I?"
 
-Rattick unwrapped his cloak and said, "You can see me?"
-
-"Of course, I can see ya. I'm not blind, am I?"
-
-Rattick stammered. How had the farmer seen him. A master sneak-thief like Rattick, espied by this pie-faced rube?
+Rattick stammered. How had the farmer seen him? How had a master sneak-thief like Rattick, espied by this pie-faced rube?
 
 "If yer simple," the Farmer continued, very slowly, "Follow the road down to Robrecht. There's them that can look after you there." Then the Farmer had a thought, "Or you can stay here and I can hire you as a scarecrow." The Farmer cackled at his own joke as if it was the funniest thing that had ever been said. Rattick hurried away to escape the mocking noise of it. 
 
-Follows Boltac back to Robrecht.
 
-But when Rattick reached Robrecht, it was strangely empty. He entered through the North gate, and the noise of many people gathered drifted to him from the south. At any other time, Rattick would have used a major gathering as a chance to burgle few houses. 
+When Rattick reached Robrecht, it was strangely empty. He entered through the North gate, and the noise of many people gathered drifted to him from the south. At any other time, Rattick would have used a major gathering as a chance to burgle few houses. 
 
 
 Everyone was gathered in the courtyard of the keep
@@ -4125,76 +4127,33 @@ Okay, everybody, here's what gives. Do you have a plan?
 > would it be good to set Boltac up with a pre-scene. Where he's afraid? Or can
 > he just mention it here?
 
-Rattick headed South and slipped into the back of the crowd. At the center of
-all of them Boltac stood on a low table, waving his hands for quiet. "C'mon.
-C'mon, shut up already," he cried.
+Rattick headed South and slipped into the back of the crowd. At the center of all of them Boltac stood on a low table, waving his hands for quiet. "C'mon. C'mon, shut up already," he cried.
 
-"Why do you get to be King?" someone demanded. A good question thought Rattick.
-Boltac, King, how rediculous would that be. But still, he had defeated the
-Wizard somehow. Rattick had lived so long for two reasons. One, he had no
-compunctions about killing, and two, he was cautious, cautious, cautious. If he
-didn't understand it, he avoided it. And as he stood there watching a greedy fat
-man make his appeal, he realized that there was something here he just didn't
-understand.
+"Why do you get to be King?" someone demanded. A good question thought Rattick. Boltac, King, how rediculous would that be. But still, he had defeated the Wizard somehow. Rattick had lived so long for two reasons. One, he had no compunctions about killing, and two, he was cautious, cautious, cautious. If he didn't understand it, he avoided it. And as he stood there watching a greedy fat man make his appeal, he realized that there was something here he just didn't understand.
 
-It was not a feeling he was comfortable with, by any stretch of his dark and
-twisted imagination. 
+It was not a feeling he was comfortable with, by any stretch of his dark and twisted imagination. 
 
-Boltac smiled at the man who had asked the question, "I'm glad you asked that
-question. And, there are three reasons. One - 'Cause the treasury is bare. That
-Sneaky bastard Weeveston either spend it all or took it with him when he left
-like a thief in the night." Of course, Boltac meant this as an insult, but
-Rattick found himself hoping that the former Duke had been shrewd enough to
-hiest his own Kingdom. That would have been well-played and Rattick would have
-to remember that trick, if ever he found himself in a similar position. 
+Boltac smiled at the man who had asked the question, "I'm glad you asked that question. And, there are three reasons. One - 'Cause the treasury is bare. That Sneaky bastard Weeveston either spend it all or took it with him when he left like a thief in the night." Of course, Boltac meant this as an insult, but Rattick found himself hoping that the former Duke had been shrewd enough to hiest his own Kingdom. That would have been well-played and Rattick would have to remember that trick, if ever he found himself in a similar position. 
 
-"But if he took the money, why do you get to be King?" asked another anonymus
-person in the crowd. Rattick didn't like to see what should be a typically surly
-crowd treating Boltac with anything resembling deference. It disturbed his sense
-of things. But still, that tingle of fear said, you never know who could wind up
-being a King in these strange days in which they lived. Always best to error on
-the side of caution. 
+"But if he took the money, why do you get to be King?" asked another anonymous person in the crowd. Rattick didn't like to see what should be a typically surly crowd treating Boltac with anything resembling deference. It disturbed his sense of things. But still, that tingle of fear said, you never know who could wind up being a King in these strange days in which they lived. Always best to error on the side of caution. 
 
-"Why? Cause I'm going to refill the treasury with my own money? Anybody else
-want to do that?" The silence was deafening. "Okay, reason #2 why I should be your King, is
-that, effective immediately, I'm cutting taxes," Boltac shook his head. It hurt
-him to say the next words, but desperate times called for desperate measures,
-"in half."
+"Why? Cause I'm going to refill the treasury with my own money? Anybody else want to do that?" The silence was deafening. "Okay, reason #2 why I should be your King, is that, effective immediately, I'm cutting taxes," Boltac shook his head. It hurt him to say the next words, but desperate times called for desperate measures, "in half."
 
-A general cheer went up, but the naturally skeptical Robrecht crowd still wasn't
-totally with them. They had heard too many lies about taxes in their days.
-Boltac didn't hesitiate.  
+A general cheer went up, but the naturally skeptical Robrecht crowd still wasn't totally with them. They had heard too many lies about taxes in their days. Boltac didn't hesitiate. 
 
-"And reason number three. At this very moment, the forces of the Mercian Empire, of
-which we were so recently a protectorate, are on their way here now, to reclaim
-us. By force, even if it's not necessary. Because that's the way people think
-when they are part of an empire."
+"And reason number three. At this very moment, the forces of the Mercian Empire, of which we were so recently a protectorate, are on their way here now, to reclaim us. By force, even if it's not necessary. Because that's the way people think when they are part of an empire."
 
-"But that's not a reason to make you King. That's a reason to surrender,"
-said a fat man in front that Rattick was pretty sure was a baker. 
+"But that's not a reason to make you King. That's a reason to surrender," said a fat man in front that Rattick was pretty sure was a baker. 
 
-"En-henh. I'm not too sure that they are going to take 'Uncle' for an answer,
-if you know what I'm saying. No, they're going to be plenty pissed and looking
-for someone to blame. Why, if I know my Mercian tactics, they are going to come
-stomping in here looking for someone to make an example of."
+"En-henh. I'm not too sure that they are going to take 'Uncle' for an answer, if you know what I'm saying. No, they're going to be plenty pissed and looking for someone to blame. Why, if I know my Mercian tactics, they are going to come stomping in here looking for someone to make an example of."
 
 "Well, then the Orc's surely. They'll take it out on the Orc's."
 
 "Yeah, but I told you, there ain't no more of those Horks. I took care of them."
 
-Relan jumped up on the table next to Boltac. Rattick could see that before the
-lad even opened his mouth that the crowd was ready to believe him. The thief
-shook his head. You just couldn't fake that kind of innocence and naivete. If
-Rattick could have done that, he would have been a much wealthier man by now. "I
-can vouch for his story," said Relan, "I was there. And what's more, this man
-saved my life." 
+Relan jumped up on the table next to Boltac. Rattick could see that before the lad even opened his mouth that the crowd was ready to believe him. The thief shook his head. You just couldn't fake that kind of innocence and naivete. If Rattick could have done that, he would have been a much wealthier man by now. "I can vouch for his story," said Relan, "I was there. And what's more, this man saved my life." 
 
-Boltac didn't waste the opportunity. "Anyone would done the same," said Boltac
-with a level of false modesty that would take generations for another politician to
-equal. "But the thing is, not finding any Orc's they're gonna say it was a hoax.
-A revolt of some kind. And they are going to want to take out their frustration
-by cracking some heads open. And since we've got the only heads here, well,
-friends, something should be done."
+Boltac didn't waste the opportunity. "Anyone would done the same," said Boltac with a level of false modesty that would take generations for another politician to equal. "But the thing is, not finding any Orc's they're gonna say it was a hoax. A revolt of some kind. And they are going to want to take out their frustration by cracking some heads open. And since we've got the only heads here, well, friends, something should be done."
 
 Yeah, went up affirmative cries, something should be done. 
 
@@ -4204,58 +4163,83 @@ Yeah, went up affirmative cries, something should be done.
 
 "Oh am I?" 
 
-There was a grumbling in the crowd. Rattick thought Boltac was going to falter.
-But he saw him look to a balcony high on the keep behind him. There, in the
-sunlight and clean air, was Asarah, as raidient as spring. She smiled an waved
-her palms in a motion that said 'keep calm.' 
+There was a grumbling in the crowd. Rattick thought Boltac was going to falter. But he saw him look to a balcony high on the keep behind him. There, in the sunlight and clean air, was Asarah, as raidient as spring. She smiled an waved her palms in a motion that said 'keep calm.' 
 
-Boltac turned back and smiled at the crowd, armed with new confidence. "So,
-here's the deal. If I'm you're King, I have a plan. If any of *you* have a plan,
-well then, you can put your own money in the treasury, face not only the wrath of the
-most powerful empire in the Four Kingdoms, but also the ire of your
-fellow-citizens... you know, come to think of it. I don't think I want this
-after all." In a display of master showmanship, Boltac jumped off the table,
-saying, "Nah, I'm taking my plan and going home."
+Boltac turned back and smiled at the crowd, armed with new confidence. "So, here's the deal. If I'm you're King, I have a plan. If any of *you  have a plan, well then, you can put your own money in the treasury, face not only the wrath of the most powerful empire in the Four Kingdoms, but also the ire of your fellow-citizens... you know, come to think of it. I don't think I want this after all." In a display of master showmanship, Boltac jumped off the table, saying, "Nah, I'm taking my plan and going home."
 
-"No, no, no!" rose the cries around him. The negotiation successfully concluded,
-Boltac climbed back onto the table and smiled. 
+"No, no, no!" rose the cries around him. The negotiation successfully concluded, Boltac climbed back onto the table and smiled. 
 
 "Okay, here's what we are going to do..." And Boltac told them the plan. 
 
 And through all of it, Asarah beamed down on him like an angel. 
  
-"Wait just a minute," said an old man, missing a few teeth said slowly. "If
-you're to be King, don't you need a coronation first?"
+"Wait just a minute," said an old man, missing a few teeth said slowly. "If you're to be King, don't you need a coronation first?"
 
-"Maybe wait until after I've saved my new Kingdom, hunh?" Nobody argued. 
+"Ahh. Maybe it'd be best to wait until after I've saved my new Kingdom, hunh?" 
 
-And that was that. The gig was up. Rattick stopped off to visit a lady of reasonable rates and when he woke in the morning, he was certain it was the last time he would ever see Robrecht. As he walked the South road, looking for a horse to steal, he was even more certain that he would never see Boltac's coronation. He even doubted that Robrecht would last that long. 
+Nobody argued. 
+
+And with that that. Rattick decided that the gig was up. He stopped off to visit a lady of reasonable rates and when he woke in the morning, he was certain it was the last time he would ever see Robrecht. As drifted down the River Swift in a stolen boat, he was also certain Robrecht would never see Boltac's coronation either. He even doubted that dismal foggy burg would last that long.
+
+Two days later he was drunk in Shatnapur, enjoying the largess of a purse he had cut off a wealthy merchant. He smiled at the dancing girls, and made a note to ask about the heavy incense they burned in this decadent establishment of this most decadent Southern city. He liked it. And want the chance to invoke the scent-memory of this floating time whenever he wanted. He took a long drink of his wine and smiled. It was all over, and he had escaped with his life. Reduced to simple cutpurse, perhaps, but, so far, the life was treating him well. Perhaps he had earned a vacation in the South. 
+
+In his contentment, Rattick let his guard down, so he never saw it coming. He never heard the thock of the heavy wood sap that hit him across the back of his head. Never felt the rough hands lifting him up and depositing him in the back of the wagon. He was unaware of the hard gallop North. But, in the plus column, he hadn't had to pay his bar tab, which had been substantial. 
+
+When he awoke, he saw fog blowing through the gaps in the wagon cover and he knew he was back in Robrecht. When he attempted to roll over, he realized he was bound hand and foot. He struggled for a while. Shouted a little, but when nothing came of any of it, he gave up and went back to sleep. 
+
+The next time he awoke it was to the sound of horse's hooves ringing on cobblestones. He was lifted from the back of the wagon like a sack of grain and deposited in front of a horse trough. One of the men who had taken him, a swarthy man who wore a red bandanna around his head, cut him free with a strangely curved knife and said, "Wash yourself, you are to appear before the King."
+
+"King?" said Rattick. This isn't a Kingdom. 
+
+The man in the bandanna cuffed him across the mouth and said, "Don't speak ill of your Kingdom. One might get the idea that you were a traitor."
+
+What game was this? Soldiers suggested that the place had been overrun 15 minutes after Rattick had left. But with soldiers would come a sack. Rapine, loot and pillagery of the first order. But, from what Rattick had seen, the town of Robrect was eerily intact. 
+
+Rattick rubbed his jaw with the cold water in the basin to ease the sting. Then he was hauled into the keep and thrown onto the floor. When he looked up, he saw Boltac standing before the throne. "Ha," is all Rattick said. 
+
+"You should have more respect when addressing a King," Rattick heard a familiar voice say. He turned his head and there was Relan, dressed in fine clothing and wearing a polished breastplate that featured a rampant eelpout? What was going on here?
+
+"I thought I killed you. I'm sure I killed you," said Rattick.
+
+"En-henh, maybe you are slipping in your old age Rattick. Maybe it's time you considered a new line of work."
+
+"Corpse is a good job for him," said Rattick, his hand dropping to the sword at his side.
+
+"Are you serious?" asked Boltac. "That would be a tragic waste of truly black-hearted and nefarious talent.""
+
+"While the loss would pain me dearly, how is it that you are not dead? Why has the empire seen fit to let a Merchant play Kinglet with it's property.""
+
+"Because I'm cunning and I know how to buy things cheap. Any more questions"
+
+"And how is I am not dead?"
+
+Boltac rolled his head to one side and squinted. "From the look of it, I'd say you're not dead because you've got a very thick skull. And I've got a proposition for you."
+
+"Well, Rattick, it's like this," Boltac said. "Turns out, after all of it, I'm a King."
+
+"Ha," said Rattick.
+
+"I know, no one is more surprised than I am. But here we are and the only thing to do is make the best of it. So, I'd like to make you my first Minister."
+
+"What! This snake? He would not be a loyal minister."
+
+"Exactly. Precisely. Just when I think you are hopeless, kid, you show real glimmers of intelligence."
 
 
 
-# Boltac Catches Rattick and Makes Him His Minister
 
-Jump to Rattick's pov. He grabs some gold, and sneaks back to Robrecht
-
-
-## Rattick escaping, time to head to the South -- to warmer climes
-
-Back to Rattick's POV -- he escapes with his gold. He heads high into the mountains to a little village where he has a girl (he ha a girl in every village)
-
-He figures things have cooled down, so he'll head South with his gold, to the Kingdoms of the Sun -- enjoy the life of luxury to which he can easily become accustomed. 
-
-He actually makes it there (medieval Miami) and he is hit over the back of the head. Thrown in the back of the wagon. (the fog blowing through the wagon windows would have given it away if nothing else.)
-
-He's caught at the border and hauled before the King 
-
-"Wash yourself, you are to appear before the King."
-
-"King of Robrecht? Everybody knows Robrecht doesn't have a King." 
-
-Ranger cuffs him and tells him to be quiet. 
+My first advice as minister is to be rid of this peasant. This ox is more useful to you as a martyr than as a, a, a, what is he? Errand boy? Valet?""
 
 
-Colbac hires two legions of soliders
+
+"And this, this peasant? This son of a poor hillside rock farmer -- what is he in this?"
+
+"Why just look at him Rattick. He's the hero, anybody can see that."
+
+"Hero? How can he be the hero? He's not even a knight."
+
+"And you're not even wise in the ways of statecraft, yet you are appointed my disloyal minister."
+
 
     "No Rattick, I don't want to trust you. I want you to try everything you possibly can. If I'm safe against my friends, I will be safe against my enemies."
 
@@ -4294,6 +4278,35 @@ Colbac hires two legions of soliders
 
     "Just so."
 
+> Asarah comes in
+
+Boltac smiled at her and asked, "and where have you been?"
+
+"Well, my liege," she said with a playful curtsy, "I have been surveying our new home. And I have learned something very important about it. It is very damp."
+
+"Damp?"
+
+"Damp. Moisture from the river seems to creep up the stones. I know it's not possible, but this place frightfully clammy. If I didn't know better, I would say that the place is enchanted. Cursed even."
+
+"So, it just needs a good airing out, maybe?"
+
+Asarah laughed. "Oh no. No, no, no, this place is not homey at all. It will not do. Drafty, damp, strong-looking on the outside, but in no ways impressive or refined. Perhaps it is enough for a second-rate Duke, but for a King..." she tsked. "It will not do. We must build you another castle."
+
+Boltac sighed. All of a sudden he felt very tired. It had all happened so fast. Everyone turning to him, asking what should be done. Always more questions, more problems and fewer answers. Was he even doing any of this right? Was this what being a King was all about? Now that he had time to think about it, would he ever get the hang of it?
+
+He walked over to the wooden thrown and sat down on it heavily. "Ennh," he said, listening to the creaking and feeling the sharp edges of the chair bite into his legs. "This chair is not a quality item."
+
+"Well commission another one," she took his hand and nodded encouragingly at Boltac, "After all, you are a King now. You get to have things the way you want them."
+
+"If we have to build a new castle, I'm not sure I can afford things the way I want them."
+
+She kissed him on the cheek and said, "Don't be cheap. It's unbecoming of your station."
+
+
+---
+
+
+
 Rattick is stopped at the border. He is dragged before the King -- turns out to be Colbac
 
 The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
@@ -4308,23 +4321,6 @@ The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
     He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
 
 
-
-# Not So Nice Ending
-
-Boltac assumes that Asarah will be his. 
-
-She accuses him of bargaining. Trying to buy her with his rescue attempt. But she's not up for it. It's emotionally false -- a step removed from cheating her out of a drink. You just expect. 
-
-He somehow has to humble and humiliate himself -- or let her go. A tough emotional resolution. 
-
-He just kisses her.
-
-
-
-
-# Have to put Boltac sitting on the throne. 
-
-Eh, this chair is not a quality item.
 
 
 # End With Relan
