@@ -3884,7 +3884,7 @@ They loaded Relan in the back of the Ducal Coach. Boltac closed the door and sta
 "That's gonna have to change."
 
 
-# 40 Boltac Confronts the Old Duke and Torvalds
+# 42 Boltac Confronts the Old Duke and Torvalds
 
 
 > yes, his wife was looking radiant in the morning sun. And if she wasn't exactly overjoyed to at his return, at least she was smiling at him from time to time. A fact that Weeveston felt that he could build on. 
@@ -4078,7 +4078,7 @@ Boltac shook Weeveston's soft hand watched him scurry South as fast as his expen
 
 Gustavo shrugged and said, "It will be expensive for them, either way."
 
-# Rattick's story
+# 43 Rattick's story
 
 Of course, Rattick had survived. It was what he was good at. When the Wizard had started throwing lightning bolts around like they were party favors, Rattick had decided that it was time to go. As the walls shook around him, hurried upward.
 
@@ -4122,7 +4122,7 @@ Everyone was gathered in the courtyard of the keep
 Okay, everybody, here's what gives. Do you have a plan?
 
 
-# Rattick at Boltac's "Coronation"
+# 44 Rattick at Boltac's "Coronation"
 
 > would it be good to set Boltac up with a pre-scene. Where he's afraid? Or can
 > he just mention it here?
@@ -4323,7 +4323,7 @@ The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
 
 
 
-# End With Relan
+# 45 End With Relan
 
 
 Boltac makes him a knight.
