@@ -28,9 +28,12 @@ Uthgar, and Frowen and C'huhoyle -- Heros from the sagas.
 Gustavo Rifkanza -- head of the Free Companions
 
 
+### Gods
 
+Dallios, the Lord of the deal. 
+His symbol is the "Bull with Two Backs." (one bull fucking another)
 
-#### Various Orcs
+### Various Orcs
 An unfortunate Troll
 Some wolves
 Townspeople of Robrecht
