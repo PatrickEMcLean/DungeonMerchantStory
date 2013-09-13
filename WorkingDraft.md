@@ -9,6 +9,12 @@ Consider adding Battlemages and magic disrupting transport to #2-3
 
 # Punchlist
 
+
+Make sure we set up/explain the wool gloves sufficiently
+
+Boltac formally gives Relan the sword when he knights him. 
+
+
 Search for it's v. its
 
 
@@ -1969,9 +1975,9 @@ Boltac frowned. "Y'know Rattick, if I'm gonna be your boss, you might want to sh
 "There he is. There's that guy I know and distrust. C'mon Relan. Let's go meet the Troll."
 
 
-# 20
+# 20 -- Let's Make a Deal
 
-As they descended into the darkness, Rattick thought about knifing them both then and there. They wouldn't be expecting it.  It would be a quick, certain profit. No chance of Boltac getting him killed. But no sooner had the thought crossed his mind than Boltac said, "I know what you're thinking Rattick. Why don't I knife these two right now and go through their pockets for loose change."
+As they descended into the darkness, Rattick thought about knifing them both then and there. They wouldn't be expecting it. It would be a quick, certain profit. Perhaps less than he might expect, but there would be no chance getting killed on Boltac foolish quest. But no sooner had the thought crossed his mind than Boltac said, "I know what you're thinking Rattick. Why don't I knife these two right now and go through their pockets for loose change."
 
 "That's not *exactly* what I'm thinking."
 
@@ -1979,25 +1985,25 @@ As they descended into the darkness, Rattick thought about knifing them both the
 
 "But I'm one of your key suppliers!" protested Rattick 
 
-"He might steal your wondrous lantern," protested Relan. 
+"He's going to run off and steal the torch," said Relan, displaying the first glimmers of wisdom. 
 
-"That's okay," said Boltac, "if he stole it from me, he'd have nobody else to sell it back to. But if he makes you nervous, poke him with your sword a little bit. Don't kill him, just make him leak."
+"That's okay," said Boltac, "if he stole it from me, he wouldn't have anybody to sell it back to. But if he makes you nervous, go ahead and poke him with your sword a little bit. Don't kill him, just make him leak."
 
 "Shh," said Rattick.
 
 "Shh yourself, you crooked bastard," said Boltac.
 
-"What's that noise," asked Relan? Everyone fell silent and realized that each step was taking them closer towards a truly horrible rumbling noise. 
+"What's that noise," asked Relan? Everyone fell silent. In the distance, they could hear a horrible rumbling noise.
 
-The noise was intermittent and sounded like someone exhaling through a gigantic set of lungs filled with gravel. Then silence. Then that same, horrible, ingeopulmonary rumble. 
+As the approached the noise came and went in waves. It sounded like someone gigantic trying to exhaling through a set of lungs filled with gravel. It was a horrible, ingeopulmonary rumble. 
 
 "That's the troll," said Rattick.
 
 "Doing what?" asked Relan. 
 
-Rattick waited until the sound had rumbled through the corridor again. It was far too loud to talk over. 
+Rattick waited until after the sound had rumbled through the corridor again. 
 
-"Snoring," whispered Rattick into the sudden silence. "Which is a good thing for you, stout Merchant. What I suggest is that you keep to the shadows. Advance while it's snoring. Then you take your sword and plunge it right in his ear. It's really the only vulnerable place on the whole of a Troll."
+"Snoring," whispered Rattick into the silence. "Which is a good thing for you, stout Merchant. What I suggest is that you keep to the shadows. Advance only while it's snoring. Then you take your sword and plunge it right in his ear. It's one of the only vulnerable places on a Troll."
 
 "I don't have a sword," said Boltac.
 
@@ -2005,28 +2011,29 @@ Rattick waited until the sound had rumbled through the corridor again. It was fa
 
 "That's nice of you kid. 'Cause after all it's my sword. But I'm not going to need it."
 
-"What are you going to do?"
+"What are you going to do?" asked Rattick.
 
-In the flickering light of the torch, Boltac took his heavy wool gloves from his belt and put them on. "I'm gonna do what I do best. I'm going to make a deal with him."
+In the flickering torchlight, Boltac took his heavy wool gloves from his belt. As he put them on he said, "I'm gonna do what I do best. I'm going to make a deal with him."
 
 Relan searched his memories for any sagas or songs in which the hero had defeated the monster by making a deal. He came up empty. 
 
-Rattick asked, "Stout Merchant, have you ever seen a troll?" 
+Rattick asked the obvious question. "Have you ever seen a troll?" 
 
 
-# 21
+# 21 -- Here, take this.
 
-The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, and it hated sunlight, but the presence of sleight illumination allowed the Troll to see the terror on his meals faces more clearly. There is an old troll proverb that says food better frightened, or scared is good eatin' or terror is the best sauce. It loses something in translation. But it should show you that, as a species, Trolls were prone to sadism. 
+The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, but the presence of sleight this illumination allowed the Troll to see the terror on his meals faces' more clearly. There is an old troll proverb that says *food better frightened*, or *scared is good eatin'* or *terror is the best sauce.* It loses pretty much everything in the translation. But just in case you had any question about the matter, Trolls aren't nice. 
 
-The troll woke up, when something kicked him in the foot. This was a decidedly strange sensation for the Troll. There really isn't anything in nature in the habit of kicking Trolls. In the dim light of the lichen, the Troll could see food, holding a small sack and looking at him. 
+
+Something kicked the Troll in the foot. This was a new sensation for the Troll. There really isn't anything in nature in the habit of kicking Trolls. The Troll opened his large, yellow eyes. In the dim light of the lichen, he could clearly see see food, holding a small sack and looking up at him. 
 
 "Yoo hoo, Mister Troooooooll. Have I got a deal for you!" said the food. 
 
 Wait, food was talking? This was confusing. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood it's ground and talked. And certainly never kicked. Since the Troll couldn't understand what any of the funny, squeaky little sounds coming out of food's mouth meant, it tried to understand *why* food wasn't doing any of the things that it usually did. 
 
-Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. And, for reasons he couldn't understand, he had been eating quite well lately. Food had been easier a lot easier to come by since he had come to this cave. He didn't even have to go out and terrorize the countryside. And how had he gotten to this cave? He couldn't quite remember that part. Something about a very loud and angry piece of food wearing black. But the memory was blurry and confused. 
+Maybe it was poisoned? That thought disturbed the Troll. Since he often ate people without bothering to peel them, his stomach was a cause of constant trouble. He had been eating quite well lately. For some reason, food had been easier to come by -- eager even --  since he had come to this cave. He didn't even have to go out and terrorize the countryside jut to get lunch. But how had he gotten to this cave? He couldn't quite remember that part. Something about a very loud and angry piece of food wearing black. But the memory was blurry and confused. 
 
-Thinking made the Troll's head hurt. He decided that he had thought enough for one day. He drew himself up to his full height and let out a  good morning yawn (a Troll yawn is much like a roar) that rattled chips of rock off the ceiling. (a Troll yawn is very much like a roar.) The Troll expected that this would cause the food to flee, or curl up in a convenient, bite-sized ball of fear, but food was still there!
+Thinking made the Troll's head hurt. He decided that he had thought enough for one day. He drew himself up to his full height and yawned. A Troll yawn is much like a roar, and this one was so loud it rattled chips of rock off the ceiling. The Troll expected food to flee, or curl up in a convenient, bite-sized ball of fear, but food was still there!
 
 "There we go," said Boltac, "Come get a closer look at the merchandise." 
 
@@ -2042,14 +2049,14 @@ The Troll lowered his head and made two whuffing grunts. This expulsion of air f
 
 "Here," said Boltac, "Try this." From within his sack of holding, Boltac produced a glittering silver mace. The head was encrusted with jewels that that glittered in the uncertain light of the dungeon. The whole thing was so large that it was more decorative club than mace proper. He held it out to the Troll and said, "Just try it, see how you like the heft."
 
-The Troll, not being smart enough to fear a shrewd merchant's smile -- and generally not knowing what the hell was going on -- took the relatively tiny mace in it's absolutely gigantic hand. 
+The Troll, not being smart enough to fear a shrewd merchant's smile -- and well-accustomed to not understanding what was going on -- took the relatively tiny mace in his absolutely gigantic hand. 
 
-"There," said Boltac, and he released the mace. No sooner did let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if he had been smashed there by the hand of an angry God. 
+"There," said Boltac, and he released the mace. No sooner did let go of the bejeweled head of the weapon than the Troll was pressed to the rough stone floor as if he had been smashed there by the hand of an angry God. 
 
 
-# 22 Troll Pinned  to Floor
+# 22 -- Troll Pinned to Floor
 
-Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the ornate mace. 
+Pinned to the floor, the Troll looked much less fierce. His eyes were wide, and shifted fearfully as he whimpered a little. His foul claw remained tightly wrapped around the ornate mace. 
 
 "What is that?" asked Rattick.
 
@@ -2059,7 +2066,7 @@ Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, 
 
 "Yeah, kid, that's magic for you, there's always a catch."
 
-"Like dealing with you," said Rattick said to Boltac with newfound respect. 
+"Like dealing with you," Rattick said to Boltac with newfound respect. 
 
 "Hey, I didn't force him to do anything. Here you go Mr. Troll. Here's a free mace. He took it."
 
@@ -2077,17 +2084,20 @@ Rattick said, "Marveled as I am by your cunning, good merchant, one question rem
 
 "How did you manage it?" asked Rattick
 
-"Ahhhh," said Boltac, raising a finger to the side of his nose. "That would be telling." His faded from his face as he added, "My advice to both of you? Stay outta the magic bag."
+"Ahhhh," said Boltac, holding the thick wool gloves up in the air. "Woolen Gauntlets of Magic Negation. Very rare, very powerful and very handy."
+
+"They look more like mittens," said Relan.
+
+"Yeah, basically. But Gauntlets have a better ring. Merchandising. You tellin' me you're gonna pay top dollar for magic mittens? So, let that be a lesson to both of you. Stay outta my bag. No telling what you'll find in there."
 
 "No problem," said Relan. 
 
-Problem, thought Rattick. He didn't know what could possibly be in Boltac's magic bag, but now he knew for certain that it was magic. And that the bag itself, might be worth more than he could imagine. And Rattick had quite an imagination.  
+Problem, thought Rattick. He didn't know what could possibly be in Boltac's magic bag, but now he knew for certain that it was magic. There was no way a bag that size could contain such a big, heavy mace. It had to me magic. Why even the bag itself, nevermind the contents, might be worth more than he could imagine. And that was saying something. Rattick had quite an imagination where riches were concerned.
 
 "C'mon, I don't want to be all day getting my lady friend back," said Boltac as he headed into the darkness. "How deep do you think this goes anyway?"
 
-All the way to the bottom, though Rattick.
+All the way to the bottom, thought Rattick.
 
->Kid worried that the magic lantern comes with a catch. 
 
 
 # 23 The Wizard Hated Administration
