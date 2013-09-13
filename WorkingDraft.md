@@ -2104,25 +2104,23 @@ All the way to the bottom, thought Rattick.
 
 The Wizard hated Administration. He hated planning. He even hated arithmetic. Some days, he wondered if he had any talent for anything other than magic at all. 
 
-He could create a monster and control it easily enough. But, little by little, inadvertently, and without realizing it until it was too late, Alston Dimsbury had created the worst kind of monster of all. An organization. 
+He had always prided himself on his ability to create and control monsters. But, Alston Dimsbury had inadvertently created a monster so powerful and unruly, he couldn't control it -- an Organization. He looked up from the ledgers and rubbed his eyes. Gah, supplies, inventories, requisitions. Some 2,000 orcs and wolves required feeding and clothing and organizing. It was all so *tedious*. But he needed an army. An that army need an army of smarter orcs to run it. 
 
-He looked up from the ledgers and rubbed his eyes. Gah, supplies, inventories, requisitions. Some 2,000 orcs and wolves required feeding and clothing and organizing. It was all so tedious. But he needed an army. An army and an army of smarter orcs to run it. 
+Intelligence is a dangerous thing to breed into a creature. You never knew which way it would go. A lesson that Dimsbury had learned the hard way. Too much intelligence, too much initiative and your creations would be rebellious and impossible to command. Too little intelligence and they would be useless. Sometimes dying because they forgot to breathe. 
 
-Intelligence is a dangerous thing to breed into a creature. You never know which way it would go. Alston had discovered this the hard way. Too much intelligence, too much initiative and your creations would be too hard to command. Or, at worst, they would turn rebellious. Too little intelligence and they would be useless. Sometimes dying because they forgot to breathe. 
+In all his experiments with Orcs (his own name, he was quite proud of it) in all their various strains and cultivars, Dimsbury had many, many failures. He could only count one success in his quest to create the perfect mix between intelligence and servility. 
 
-In all his experiments with Orcs (his own name, he was quite proud of it), growing various strains and cultivars, he had many, many failures. He could only count one success in his quest to create the perfect mix between intelligence and servility. 
+As a reward, Dimsbury had given the perfect Orc it's own name, and had made it overseer over all the other Orcs. He called it Samga and used him as his right-hand nearly-man-thing. Samga's duties were wide and varied, but right now, he was engaged in table service. 
 
-As a reward for his own success, Dimsbury had given the perfect Orc it's own name, and had made it overseer over all the other Orcs. He called it Samga and used him as his right-hand nearly-man-thing. Samga's duties were wide and varied, but right now, Samga was approached with a covered tray. 
+As he approached the desk with a covered tray Dimsbury looked up and said, "Ah, lunch." said the Dimsbury with a smile. At last, a reprieve from paperwork at last. Samga smiled, or as close to it an Orc could manage and set the tray down.
 
-"Ah, lunch," said the Dimsbury with a smile. A reprieve from paperwork at last. Samga smiled, or as close to it an Orc could manage and set the tray down.
-
-When the Wizard lifted the cover, he found a bloody, unappetizing mess. On the plate before him it he could make out two slices of bread, some lettuce, two slices of tomato and lot of bloody meat. The Wizard replaced the cover gently and asked, "What is this?"
+When the Wizard lifted the cover, he found a bloody, unappetizing mess. He struggled to read what was on the plate before him. It looked like two slices of bread, some lettuce, two slices of tomato and lot of bloody meat. The Wizard replaced the cover gently and asked, "What is this?"
 
 "It's an M.L.T.," grunted Samga with all the manners and polite inflection he could muster. "Man, Lettuce and Tomato samwich."
 
 "And what is that?" asked Dimsbury pointing at one of the more disgusting looking bits.
 
-"Well, it's man. Lettuce. and Tomato innit?" Seeing the foul look brewing on the Wizard's already foul-looking face, Samga changed directions, "o' course, the finest sliced leg of Man."
+"Well, it's man. Lettuce. and Tomato innit?" Seeing the foul look brewing on the Wizard's already foul-looking face, Samga changed tack, "o' course, the finest sliced leg of Man."
 
 "Raw leg of man, I assume?"
 
@@ -2134,11 +2132,11 @@ The Wizard replaced the cover on the vile lunch-like creation that sat before hi
  
 "There, there Samga. You kind was not bred for cuisine, I understand. Simply take it away and bring me the female prisoner."
 
-"You want us to cook her then?"
+"OH, you want us to cook her?"
 
-"No! No. Samga, I have other uses for her. Please bring her too me unharmed."
+"No, Samga. I have other uses for her. Bring her too me unharmed."
 
-"Oh, all right," Samga said with obvious disappointment. He hunched over the tray  and started shuffling out of the room. 
+"Oh, all right," Samga said with obvious disappointment. He hunched over the tray and shuffled towards the door with his tusks hung low.
 
 "Here, Samga, what's wrong now?"
 
