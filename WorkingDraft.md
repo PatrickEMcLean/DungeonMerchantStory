@@ -1,3 +1,4 @@
+
 # **The Merchant Adventurer** 
 
 # next pass
@@ -1884,7 +1885,7 @@ Rattick made a face. "I think that you are a long way from your store, shrewd me
 
 "The cunning, fat guy who outsmarts everybody in the end."
 
-"I don't understand," said Rattick, the truth for once. 
+"I don't understand," said Rattick, speaking the truth for once. 
 
 "Rattick, I want to hire you. Now before you protest, here's 10 gold pieces. Now there's more where that came from. Plenty more. I seek an audience with the Wizard at the bottom of this smoking hole, and I want you to get me there."
 
