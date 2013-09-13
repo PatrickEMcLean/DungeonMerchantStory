@@ -4,10 +4,6 @@ I've had this thing I've needed to get out of my system. It's writing a heroic t
 I kicked my way into a gig writing and designing levels for an RPG. 
 
 
-
-Explain that Relan is the character that I beat Ultima III with. Twice. 
-
-
 # Introduction 
 
 # The Merchant's Revenge
