@@ -182,6 +182,9 @@ Does Relan get killed and brought back?
 
 Consider adding a meal to the action -- between Relan boltac -- before they fight the Orc
 
+
+Show Relan returning to the old farm to pay off chapter 14?
+
 # 1 -- In the Company of Heroes
 
 "I am the chosen one. Only I can bring peace and restore balance to the land," said the blonde Knight in Shining™ Armor.
@@ -1448,38 +1451,37 @@ When he picked up the lamp this time, even though he was still wearing the glove
 
 Boltac left his store and headed North, for points unknown and unknowable. Yes, it was stupid. But there was nothing else to do. In the end, he had no more choice than a single raindrop falling onto the smoldering remains of a burned building. But that didn't mean he didn't have any choices. It had been a mistake to try fight like a hero. Boltac could see that now. He wasn't a hero. He wasn't a King either. But he wasn't powerless. Rather than go off half-cocked, he could use the skills and tools he had. He could do a better job of outfitting himself. And he would be damned if he would be *walking* to his death.
 
-# 14
+# 14 -- A New Pair of Boots
 
-Relan was wearing a new pair of boots. In fact, it was his first ever pair of boots. Up until this point he had only worn sandals or wooden shoes. And then, they were mostly hand-me downs. Everything in Relan's life had been a hand-me down. That's the way it was when you were the youngest of  seven on a cold-water farm hidden away in the fog-shrouded mountains of Robrecht. There was plenty of work and nothing else. 
+Relan was wearing a new pair of boots. In fact, this was his first ever pair of boots of any kind. Up until this point he had only worn sandals or wooden shoes. And these had been hand-me-downs. In one way or another, it seemed that everything in Relan's life had been a hand-me-down. That's the way it was when you were the youngest of seven on a cold-water farm hidden away in the fog-shrouded mountains of Robrecht. There was plenty of work and nothing else. 
 
 But if they could see him now?
 
-Over a linen shirt, he wore a shirt of shining chain mail (not the best mail that Boltac had, but the best-looking.) Around his neck a cloak made of hammered felt was clasped with a chain of silver. On his hip, the sword Boltac had given him swung from a wide leather sword belt. On his opposite hip was a dirk with it's handle worked into the shape of a screaming eagle. Pants of the finest, softest deer skin he had ever encountered were tucked into the black boots with high cuffs and silver buckles. This is how a hero should look, he thought. 
+Over a linen tunic, he wore a shirt of shining chain mail. It wasn't the best mail that Boltac had, but it was the best-looking. Around his neck a cloak made of hammered felt was clasped with a chain of silver. On his hip, the sword Boltac had given him swung from a wide leather sword belt. On his opposite hip was a dirk with it's handle worked into the shape of a screaming eagle. Pants of the finest, softest deer skin he had ever encountered were tucked into the black boots with high cuffs and silver buckles. This is how a hero should look, he thought. 
 
-Oh they had laughed at him on the farm -- well, his older brothers and sisters had, Ma and Pa had been too tired. They took the news of his departure as they took all news, good or bad. With the tired stare of someone who has seen the worst that the seasons and the ways of man has had to offer, and, from long habit, tried not to get excited one way or another. 
+Oh they had laughed at him on the farm -- well, his older brothers and sisters had, Ma and Pa had been too tired. They took the news of his departure as they took all news, good or bad, with the tired stare of someone who has seen the worst that the seasons and the ways of man has had to offer. From long habit, they tried not to get excited one way or another. 
 
-"You'll be back," his eldest brother had said, in imitation of the same hard, bitter speech his father used. But then his stern, as yet unweathered face soften and he added, "And you'll be welcome. If you conquer the world, littlest brother, be sure to save us a piece." A last smile and a wink and Relan had been on his way. One way or another, none of his family expected to see him again. One way or another, when someone left the high valley, they never seemed to come back. 
+"You'll be back," his eldest brother had said, in imitation of the  hard, bitter speech of his father. But then his stern face softened and he added, "And you'll be welcome. If you conquer the world, littlest brother, be sure to save us a piece." A last smile and a wink and Relan had been on his way. He knew that none of his family ever expected to see him again. One way or another, when someone left the high valley, they never seemed to come back. 
 
 But if they could see him now! Mail glinting in the sunlight, hair blowing in the wind and the heels of these magnificent boots ringing off the cobbles. Announcing to all the world that he who walked in these boots was not a man to be trifled with. 
 
-Yes, he would go back home and show them. All of them. His sullen family, the joyless villagers. He would come back like something out of the sagas that the strange wandering minstrels sang in a vain attempt to  cheer the flat, simple people of the land. But he would wait until he had something more than a new suit of clothes to show for his adventures. 
+Yes, he would go back. Just as soon as he was finished, he would go back home and show them. All of them. His sullen family, the joyless villagers. He would come back like something out of the sagas that the strange wandering minstrels sang of in a vain attempt to cheer the flat, simple people of the land. But he would wait until he had something more than a new suit of clothes to show for his adventures. 
 
-But the farther Relan walked through the city, the more troubled his mood became. Everywhere he looked, he saw the signs of the last night's carnage. Blood spilled on the cobblestones, bodies lying in the streets. Loved one's gathering corpses, families fleeing for the gates with possessions hastily piled in wagons. And fear on every face. 
+The farther Relan walked through the city, the more troubled his mood became. Everywhere he looked, he saw the signs of the last night's carnage. Blood spilled on the cobblestones, bodies lying in the streets. Loved ones gathering corpses. families fleeing for the gates with possessions hastily piled in wagons. And fear on every face. 
 
-His music of his strides against the stones took on a sour note and he wondered if he shouldn't have done more last night? But the memory of what he had done, the creature and the killing of it, send a shiver of fear up his spine. He hadn't had time to think. Hadn't had time to be afraid. But now that he had time, he was afraid, and worse. He was honest enough with himself to remember shaking afterwords. And the though of going out into the night again, to face more of those snarling, tusked creatures on wolves -- it turned his blood to water once again. 
+His music of his strides against the stones took on a sour note and he wondered if he shouldn't have done more last night? But the memory of what he had done, the creature and the killing of it, send a shiver of fear up his spine. He hadn't had time to think. Hadn't had time to be afraid. But now that he had time, he was afraid, and worse. He was honest enough with himself to remember shaking afterwards. And the though of going out into the night again, to face more of those snarling, tusked creatures on wolves -- it turned his blood to water once again. 
 
-He should have done more to help. A real hero would have fought all night. Would have fought until the enemy was driven from the city. But he had not. Why? 
+He should have done more to help. A real hero would have fought all night. Would have fought until the enemy was driven from the city. But Relan had not. Why? 
 
-Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hand't been a pleasant week. Sleeping in a makeshift tent in muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
+Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hadn't been a pleasant week. Sleeping in a makeshift tent in muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
 
-He had almost given up. Then he had had met Sabrellia. She had appeared to him in the muck and the mire of Robrecht's agricultural market. Relan was almost about to give up. He had come to the farmer's stalls to ask for work. He was a strong lad, after all and knew how to work hard. But as he stood there, hungry, exhausted, covered in filth, somehow he couldn't bring himself to speak the words. 
+He had almost given up. Then he had had met Sabrellia. She had appeared to him in the muck and the mire of Robrecht's agricultural market. Relan was on the verge of giving up. He had come to the farmer's stalls to look for work. He was a strong lad and knew how to work hard. But as he stood there, hungry, exhausted, covered in filth, somehow he couldn't bring himself to speak the words. 
 
-It would mean defeat. It would mean giving up and eventually going back to the farm in the tiny valley. It would mean that his brothers and sisters were right to laugh. And, worst of all, it would mean that the best he could hope to get from life would be that same, hard, beaten look that was the brutal, battered inheritance his parents seemed to have saved for him. 
+It would mean defeat. It would mean giving up and eventually going back to the farm in the tiny valley. It would mean that his brothers and sisters were right to laugh. And, worst of all, it would mean that the best he could hope to get from life would be that same, hard, beaten look that was the battered inheritance his parents have saved up for him. 
 
+"You seem troubled," a voice said. 
 
-"You seem troubled," she said. 
-
-"What are you," taken aback by the vision of fully perfumed breasts, full, lovely and contoured under sacred robes. 
+Relan turned and gasped. "What are you?" He was taken aback by the vision of fully perfumed breasts, full, lovely and contoured under sacred robes. 
 
 "I am a priestess, a loyal handmaiden of the Temple of Dar, but how could you not know that?"
 
@@ -1487,9 +1489,9 @@ It would mean defeat. It would mean giving up and eventually going back to the f
 
 "You are a traveller!" she exclaimed, saving him from his awkward stammering. "A wanderer, a seeker of adventure!"
 
-"Yes," he said, because he would have said yes to anything this perfumed, breathless woman said. She smiled and Relan felt himself go a little weak in the knees. There was a gap between her front teeth that her tongue seemed to darting into and away from. She was the most beautiful thing he had ever seen. 
+"Yes," he said, because he would have said yes to anything this perfumed, breathless woman said. She smiled and Relan felt himself go a weak in the knees. There was a gap between her front teeth that her tongue darted into and away from. She was the most beautiful thing he had ever seen. 
 
-"Dar commands us to serve all travelers and seekers," she said, stretching the word serve into an impossible number of syllables. "Tell me your name."
+"Dar commands us to serve all travelers and seekers," she said. "Tell me your name."
 
 "Uh, Relan...?" he said, still bewildered.
 
@@ -1501,17 +1503,17 @@ She laughed brightly, in a way that was as far from mocking as the bright sunshi
 
 "My, you are very strong," she exclaimed, accidentally telling the truth. 
 
-She guided him along Robrecht's streets until they were walking along the nicest part of the river. She talked with him gently and gave him the gift of listening well and laughing often at his awkward stories. In no time at all, he was completely comfortable with the radiant creature on his arm. 
+She guided him along Robrecht's streets until they were walking beside the nicest part of the river. The great keep loomed off to their right and almost managed, in the afternoon light, to look regal. Sabriella, talked with him gently and gave him the gift of listening well and laughing often at his awkward stories. In no time at all, Relan was completely at ease with the radiant creature on his arm. 
 
-"Oh, but you must be famished!" she said, and dragged him into a small pot shop. The owner's greeted her warmly and they were soon seated. To her great delight had three bowls of stew. Best of all, the owners wouldn't take payment. Which was good, because Relan was completely broke. 
+"Oh, but you must be famished!" she said, and dragged him into a small pot shop. The owner greeted her warmly and they were soon seated. To her great delight he had three bowls of stew. Best of all, the owner wouldn't take payment. Which was good, because Relan was completely broke. 
 
-They went back out in the street and walked for a time that felt to Relan like both and instant and an eternity. As the sun cast longer and longer shadows through the narrow streets and alleys, they heard the tolling of the temple bell. 
+They went back out in the street and walked for a time that felt to Relan like both and instant and an eternity. The sun cast longer and longer shadows through the narrow streets and alleys, until finally they heard the tolling of the temple bell. 
 
 "But I must return," Sabrellia exclaimed, "I had not noticed the hours passing so quickly in you presence. I have only been granted parole for the day and the streets are not safe for such as I after dark."
 
 "I will walk you to the temple and keep you safe," Relan said with all the sincerity there was in the world. 
 
-"You must not! I cannot be seen with you. And you cannot be seen with me. I know to one so hardened to *adventure* the hardship of a dungeon and the Temple's Questioner means nothing, but I am a much frailer creature."
+"You must not! I cannot be seen with you. And you cannot be seen with me. I know to one so experienced in *adventure* the hardship of a dungeon and the Temple's Questioner means nothing, but I am a much frailer creature."
 
 "But, I don't think,"
 
@@ -1525,45 +1527,44 @@ Of course, he had been kissed before. But the the simple, sullen, load-bearing c
 
 He swallowed hard and said, "I will."
 
-And then she ran off around the corner, her sandaled feel slapping the cobblestones as Relan caught flashes of her milk white thighs beneath her flowing robe. 
+And then she ran off around the corner, her sandaled feel slapping the cobblestones as Relan caught flashes of her milk white thighs from beneath her flapping robe. 
 
 When she was out of sight he rubbed his lips and smiled to himself. This was the start of it then. The grand adventure of his life that he left the village to find. 
 
 Then the screaming started. 
 
 
-# 15
+# 15 -- The Need of a Sword
 
+Relan rounded the corner so fast that he lost his footing and slipped on the cobbles. With the a strength that came from long days of hard work on the farm, he caught himself on his palm and shoved the upper half of his body back on to balance.
 
-Relan rounded the corner and slipped on the cobbles. With inhuman dexterity and a strength that came from long days of hard work on the farm, he caught himself on his palm and shoved the upper half of his body back on to balance.
+He saw two men in black running away with Sabriella, one holding her over his shoulder, the other glaring back at him and brandishing a wickedly curved knife. He was pretty sure *they* weren't priests of the infinitely kind and forgiving, Dar, the first Goddess of Mercy
 
-As he ran, he saw two men in black running away with Sabriella, one holding her over his shoulder, the other glaring back at him and brandishing a wickedly curved knife. He was pretty sure they weren't priests , the infinitely kind and forgiving, first Goddess of Mercy, Dar.
+On the street in front of him a third man lay on the cobbles.  He lifted a hand weakly and called after the kidnappers. "Please! Don't hurt her," he sobbed. Sobbed, thought Relan? What weak, unmanly, unheroic behavior was this? Had this man not heard the sagas? The full-throated minstrels singing of heroes rescuing beautiful ladies in distress through acts of physical valor? This was not how it was done. 
 
-On the street in front of him a third man lay on the cobbles.  He lifted a hand weakly and called after the kidnappers. "Please! Don't hurt her," he sobbed. Sobbed, thought Relan? What weak, unmanly, unheroic behavior was this? Had this man not heard the sagas? The full-throated minstrels singing of how heroes were to act when protecting beautiful ladies in distress through acts of physical valor?
-
-Clearly, this one would be no help. Relan dashed passed him and turned the corner. In front of him was a long alley. Sabriella was nowhere to be seen. What sorcery was this? Relan ran faster, trusting that if the hero was pure of heart, he would come through okay in the end. 
+Clearly, this man would be no help. Relan dashed passed him and turned the corner. In front of him was a long alley. Sabriella was nowhere to be seen. What sorcery was this? Relan ran faster, trusting that if the hero was pure of heart, he would prevail in the end. 
 
 In defense of this naiveté, Relan had spend many of his formative years listening to wandering minstrels trying to coax a meal out of flint-hearted farmers with song at the village longhouse. He knew them all by heart. And in not a single one of them had the hero ever stopped to check the doors he ran past. 
 
-Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, searching the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact, they had gotten away with with love of his young life.
+Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, glaring the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact, they had gotten away with with love of his young life.
 
-Cursing his luck and the perfidious sorcery with which Sabriella had snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. 
+Cursing his luck and the perfidious sorcery with which Sabriella had been snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. 
 
-When he heard Relan's sandals scrape the street, the man looked up and said, "She is my sister. Oh cruel gods, it is all my fault." He dropped his head and his long, stringy hair fell across his face. Sobs shook his shoulders. 
+When he heard Relan's sandals, the man looked up and said, "She is my sister. Oh cruel gods, it is all my fault." He dropped his head and his long, stringy hair fell across his face. Sobs shook his shoulders. 
 
-Relan picked the man up and set him on his feet. He weighed almost nothing. "Who?" he asked. "Where?" 
+Relan picked the man up and set him on his feet. The wretch weighed almost nothing. "Who?" he asked. "Where?" 
 
-"It's all my fault," he repeated. His large dark eyes seemed like haunted, sunken pits against his pale skin. "The dice. I lost too much money at dice. And they have come for her."
+"It's all my fault," he repeated. His large dark eyes seemed like haunted pits sunk into his pale skin. "The dice. I lost too much money at dice. And they have come for her."
 
 Relan said, "I can rescue her!"
 
 "You? You have money?"
 
-"No, I have no money, but I have courage."
+"No. I have no money, but I have courage."
 
 "Courage?" he said, as he looked off into a hopeless middle distance. "They won't take courage. I owe them money. Do you have money? Can you get money. I meant to get money at dice. But..." and here the pitful sobbing took over once again. 
 
-"I can rescue her! If you would tell me where they have taken her."
+"I can rescue her! If you would but tell me where they have taken her."
 
 "No, they would kill her before they would let you have her. No, money is the only way. It is the only way to do anything in this world." The man with hopeless eyes said.
 
@@ -1571,45 +1572,44 @@ Relan said, "I can rescue her!"
 
 "You?" said the man with a laugh bereft of hope, "You don't even have a sword."
 
-The man's pitiful wails chased him through the streets as Relan went in search of a sword.
+The man's pitiful wails seemed to follow him through the streets as Relan went in search of a sword.
 
 
-# 16
+# 16 -- Relan Learns a Lesson
 
+Of course, a sword was hard to find. Relan had tried to beg or borrow one for two days before he worked up the nerve to go and talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavo lived in a shack built against the outside of the Southron wall. Every time he saw Relan he had wailed and cried. He told and retold his sad tale, claiming that it was all his fault, but he would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
 
-Of course, a sword was hard to find. Relan had tried to find one for two days before he worked up the nerve to go talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavo, who lived in a shack built against the outside of the Southron wall, wailed and cried every time he saw Relan. He told him his sad tale of woe, claiming that it was all his fault, but would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
+He was worthless, except for the information that Relan had managed to extract from him. The men who had taken Sabriella worked for a man named Hogarth, a thug who controlled gambling in Robrecht. They had taken her to a hold in the South, a pile of dark stones on the River Swift known as the Tower of Forgetting. There they would keep her for a week. Then the rapes would start. The week after that, they would cut fingers off. Relan did not think to ask how this creature Stavo, could describe such tortures in detail without breaking down into tears. 
 
-He was worthless, except for the information that Relan had managed to extract from him. The men who had taken Sabriella worked for a man named Davidos, a thug who controlled the gambling in Robrecht. They had taken her to hold to the South, a pile of dark stone on the River Swift known as the Tower of Forgetting. There they would keep her for a week. Then the rapes would start. Then, a week after that, they were likely to cut fingers off. Relan did not ask how this creature Stavo, could describe such tortures in detail without breaking down into tears. 
+Relan, of course, vowed that he would rescue his lady (with all faithfulness and heroism) but the how of it had been impossible until he had saved the Merchant Boltac. Now that he was armed, free and left to his own devices, the question became, what should he do? Robrecht needed to be avenged, and the threat of these Orcs and that evil flying wizard needed to be dealt with. Clearly, that was a selfless hero's first duty, wasn't it?
 
-Relan, of course, vowed that he would rescue his lady (with all faithfulness and heroism), but the how of it had been impossible until he had saved the Merchant Boltac. Now that he was armed, free and left to his own devices, the question became, what should he do? Robrecht needed to be avenged, and the threat of these Orc's and that evil flying wizard needed to be dealt with. Clearly, that was a selfless hero's first duty, wasn't it?
+But, on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of no saga, song or lay in which the hero had left his lady in peril to embark on a larger, more important quest. But, in a moment of unusually clear thinking, it seemed that the needs of the city should come before the needs of one heartbroken hero. Shouldn't they?
 
-But on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of no saga, song or lay in which the hero had left his lady in peril to embark on a larger, more important quest. But, in a moment of unusually clear thinking, it seemed that the needs of the city should come before the needs of one heartbroken hero. Shouldn't they?
-
-So it was, lost deep in the shallows of his limited philosophy, that Relan stumbled into a wheelbarrow with a corpse in it. He muttered half an apology before he recognized the bloated corpse in the bottom of the wheelbarrow. "Stavo! What has happened to you!" He heard a sharp intake of breath. A decidedly *feminine* intake of breath, and looked up to see a teary-eyed Sabriella on the other side of the barrow.  
+So it was, lost deep in the shallows of his limited philosophy, that Relan bumped into a wheelbarrow with a corpse in it. He muttered half an apology before he recognized the man pushing the barrow. "Stavo! You have survived the assault. I am so glad." Relan heard a sharp intake of breath. A decidedly *feminine* intake of breath. He looked up to see a teary-eyed Sabriella on the other side of the wheelbarrow. 
 
 "Sabriella, you have been rescued!"
 
-"Why, I uh, yes, Relow! I, uh, have been..." she looked from side to side, unsure of what she should day in this situation. Relan's smile faded when he realized the two men pushing the wheelbarrow were none other than the men in black who had carried her away from him. 
+"Why, I uh, yes, Relow! I, uh, have been..." she looked from side to side, unsure of what she should say in this situation. Relan's smile faded when he realized that the man standing behind her was none other than the man in black with the knife who had carried her away from him in the first place.
 
 "My lady," Relan said, "I thank the Gods that you have been returned to me unharmed, but I am confused by..."
 
 "Oh, I just bet you are," one of the men in black quipped. 
 
-"Silence, varlet or I will stave in your head," Relan bellowed, because it seemed like the kind of thing a hero should do in this situation. 
+"Silence, varlet or I will stave in your head," Relan said, because it seemed like the kind of thing a hero should say in this situation. 
 
 "Let's steal his boots!" said the man in black, because it was the kind of thing a thief should say in this situation. Relan answered by drawing his sword. 
 
-"Oh ho, ho. Look who's a man at arms now!" exclaimed the man in black, as he drew his wickedly curved dagger. "You'd best grease that up, so it will hurt less when I take it away from you and stick it up your"
+"Oh ho, ho. Look who's a man at arms now!" exclaimed the man in black, as he drew his wickedly curved dagger. "You'd best grease that up, so it will hurt less when I take it away from you and stick it up your..."
 
 "Whack!" said the man in black's skull as the pommel of Relan's sword came down on it. 
 
-"Please don't hurt me!" cried Stavro. "Haven't I been through enough!"
+"Please don't hurt me!" cried Stavro, "Haven't I been through enough!"
 
 "You," shrieked Sabriella "What about me? How could you forsake your own sister, so recently rescued from ruffians of, uh, ill-intent!"
 
 "Sister. You're not my sister! I swear, they forced me to do it. Please don't hurt me. Oh Shirley, you sure know how to pick 'em. I thought he was just a country bumpkin. Did you see how fast he moved?"
 
-"Wait," said Relan, feeling that he had some part to play in all of this, "You know the men who kidnapped you?"
+"Wait," said Relan, feeling that he should have some part to play in all of this, "You know the men who kidnapped you?"
 
 Stavro said, "Ah, well there you go. You can take the bumpkin out of the country, but you can't take the -- OH MY GODS, I take it back, please don't kill me." 
 
@@ -1621,7 +1621,7 @@ Stavro said, "Ah, well there you go. You can take the bumpkin out of the country
 
 "Shirley? You're name is Shirley?"
 
-"Well, I see you two have a lot to talk about. I'll just wheel poor Harv out the East gate, and when Thorvin wakes up you catch up with--"
+"Well, I see you two have a lot to talk about," said Stavo, "I'll just wheel poor Harv out the East gate, and when Thorvin wakes up you catch up with--"
 
 "NO!" Relan and Sabreilla/Shirley shouted. 
 
@@ -1635,69 +1635,64 @@ Stavro said, "Ah, well there you go. You can take the bumpkin out of the country
 
 "But I see it is not the only evil that plagues Robrecht Town. Treacherous woman. I... I... loved you."
 
-"I know you did," said Shirley, not without kindness. "That's my gift. As for the rest," she shrugged, "Don't blame me. It's the world that's treacherous, I'm just a girl who's trying to keep up. Besides, a girl's gotta make a living, doesn't she. And I don't have a big strong man like you to protect me." As she said this, she edged closer to Relan, unafraid of the naked blade in his hand. She pushed the flat of it gently out of the way with her fingertips. 
+"I know you did," said Shirley, not without kindness. "That's my gift. As for the rest," she shrugged, "Don't blame me. It's the world that's treacherous, I'm just a girl who's trying to keep up. Besides, a girl's gotta make a living, doesn't she? And I don't have a big strong man like you to protect me." As she said this, she edged closer to Relan, unafraid of the naked blade in his hand. She pushed the flat of it gently out of the way with her fingertips. 
 
 "You know, we were trying take whatever money you could scrape together. I'm not proud of that." She ducked her head bashfully, then threw her hair back to reveal an expanse of perfect, pale throat that drew Relan downward into her dangerously plunging neckline. "But the feeling was real, you know." Then, like the sun breaking through the clouds after a storm, her pouty frown was replaced with a dazzling smile.
 
-"Come with us!" she said. "Journey the land together. Make money, have adventures, *embraces* -- we could have it all. And with you I can finally ditch these losers."
+"Come with us!" she said. "We could journey the land together. Make money, have adventures, *embraces* -- we could have it all. And with you I can finally ditch these losers."
 
-"Right here," said Stavro, grunting as he struggled to get the unconscious Thorvin into the wheelbarrow. 
+"Right here," said Stavro, grunting as he struggled to push the unconscious Thorvin on top of the corpse already in the wheelbarrow. 
 
-Relan almost believed it. Shirley almost got away with it. But whether the Gods were looking out for Relan, or whether Shirley's luck had run out didm't matter. The morning sunlight glinted off the thin-bladed dagger, Shirley was concealing along her wrist. It wasn't stout enough to chop off a limb, but it was enough to slip between chain mail rings, between the ribs of a strong man, just enough to tickle his heart and kill him. 
+Relan almost believed it. Shirley almost got away with it. But whether the Gods were looking out for Relan, or whether Shirley's luck had run out didn't matter. Relan caught a flash of morning sunlight as it glinted off the glinted off the thin-bladed dagger, Shirley was concealing along her wrist. It wasn't stout enough to chop off a limb, but it was enough to slip between chain mail rings, just enough to tickle his heart and kill him. 
 
-"What are you going to do with that?" Relan asked. He didn't give her time to explain. He didn't give her time to stab him. He hit the beautiful create in her beautiful face with fist. Then he looked down in horror at what he had done. A hero never, ever hit a lady. Relan ran away. 
+"What are you going to do with that?" Relan asked. And then he did it right. He didn't give her time to explain. He didn't give her time to stab him. He hit the beautiful creature in her beautiful face with his fist. Then he looked down in horror at what he had done. A hero never, ever hit a lady.
 
-When he heard the punch, Stavros had just finished getting Thorvin into the wheelbarrow. He turned and looked at Shirley, unconscious on the ground. "Aw come on!" he said, sick of this day already. 
+Relan ran away in shame. 
 
-As Relan ran north, he thought he might have just learned some kind of lesson. The confusion, the pain in his heart, the feeling of being totally inadequate to the moment -- yes, that's what it always felt like when he learned a lesson. But it  wouldn't be until years later that he would be sure.   
+When he heard the punch, Stavros had just finished getting Thorvin into the wheelbarrow. When turned and saw Shirley, unconscious on the ground, he said, "Aw come on!" He was already sick of this day.. 
 
->Consider adding a scar or some piece of very specific description for this guy. 
+As Relan ran north, he thought he might have just learned some kind of lesson. The confusion, the pain in his heart, the feeling of being totally inadequate to the moment -- yes, that's what it always felt like when he'd learned a lesson before. But it wouldn't be until years later that he would be sure.
+   
+# 17 -- Why Walk When You Can Ride?
+
+After Relan left the city, had followed wolf tracks North for the better part of the day. He ran to the point of exhaustion, trying to put the shame of hitting Sabriella, Shirley -- hatever such a woman should be called. -- behind him. At the time, he had been certain that she was going to stab him him. But now, he had doubts. Maybe she had just been scared. Relan knew he was scared, deep down, in that part of him that wasn't fit to be a hero. But even if she had tried to kill him, a real hero would have found a way to deal with it without hitting her. 
+
+All in all, Adventure wasn't turning out like he had expected, that was for sure. It wasn't excitement or glory. More than anything, it was sore feet. The fine new boots that had looked so good in Boltac's store had started to gnaw at him as soon as he made it into the woods. 
 
 
-# 17
+As the day wore on, his self-criticism grew sharper and his pace grew slower. Now he was spending more time resting than limping. Finally, he gave up on the boots, pulled them off and tossed them in the heavy sack he alternately carried and dragged behind him. Even with feet blistered raw, it hurt less to walk barefoot. 
 
+And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had ever known were animal hides wrapped around his legs with leather strips to protect him from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned-out husks and buildings, the common folk nursing their hurt and wrapping their dead in shrouds, but the memory of how that thing had felt dying on the other end of his sword was worse. 
 
-For Relan, Adventure wasn't the glorious excitement he had hoped for. Mostly it was sore feet, with a slight tang of guilt. He had been following wolf tracks North for the better part of a day. The fine new boots that had looked so good in Boltac's store had started to gnaw at his feet as soon as he made it out of town.  
+He had wanted a sword so badly. But now that he had one, it hung heavy on his hip, pulling him around to the left. After the day's walking, he could feel a pain in his left knee and hip. Every time his hand brushed the cold steel of the hilt he shuddered.
 
-At first, he thought the trouble the boots had given him was from the running -- the running away in shame at what he had done to Sabriella, Shirley, whatever such a woman should be called. At the time, he had been certain that she was going to stab him him. But now, he had doubts. Maybe she had just been scared. Relan knew he was scared, deep down, in that part of him that wasn't fit to be a hero. But even if she had tried to kill him, a real hero would have found a way to deal with it without hitting here. 
+But he had saved a man's life! And the thing he had killed hadn't even been human. Then why did he still feel awful when he remembered how the Orc's rattling last breath had felt transmitted through the hilt of the sword. Didn't that make him a hero? Is this the way that heroes were supposed to feel? 
 
-And a real hero wouldn't be held up by sore feet.
+Relan wanted to give up. He had made little or no progress, other than punching a woman. But he kept going. If there was one thing he thought he knew about this business of heroism, it was that heroes didn't give up. Even when things got hard. No, heroes, pressed on. Saw it through to the bitter end. And sometimes, yes, died heroic deaths. But, was he a hero? Or was he the other kind? The one's the didn't write songs about. The ones who took their boots off.
 
-As the day wore on, his criticisms grew sharper and his pace grew slower . Now he was spending more time resting than limping. Finally, he  gave up on the boots,pulled them off and tossed them in the heavy sack he carried/dragged behind him. Even with feet blistered raw, it hurt less to walk barefoot. 
-
-And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had even known were animal hides wrapped around his legs with leather strips to protect his legs from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned out husks and buildings, the common folk nursing their hurt and wrapping their dead in shrouds, but the memory of how that thing had felt dying on the other end of his sword was worse. 
-
-He had wanted a sword so badly. Now that he had one, it hung heavy on his hip, pulling him around to the left. After the days walking, he could feel a pain in his left knee and his left hip. Every time his hand brushed the cold steel of the hilt he shuddered.
-
-But he had saved a man's life! And the thing he had killed hadn't even been human. Then why did he still feel awful when he remembered how the Orc's last breath rattling out of it's body felt when transmitted through the hold of that sword. Didn't that make him a hero? Is this the way that heroes were supposed to feel? 
-
-He had felt so good and fine, with the cobbles of Robrecht ringing under his bootheels and his sword, swinging at his hip. A hero, that was what he had felt. At least at the beginning of the day. Now, here he was, barefoot, tired and remorseful. Having made little progress other than knocking out a man who had tricked him and punching a woman. If he had been a more experience hero, Relan would have just been glad to be alive. 
-
-But Relan kept going. If there was one thing he thought he knew about this business of heroism, it was that heroes didn't give up. Even when things got hard. No, heroes, pressed on. Saw it through to the bitter end. And sometimes, yes, died heroic deaths. But, what about the other adventurers? The ones weren't heroic enough to make it? The ones who took their boots off? No one wrote songs about them. 
-
-Relan his head put one bare, calloused foot in front of the other. He didn't raise his head. Not even when he heard the rattle of a carriage and the heavy footfalls of draft horses on the road behind him. He just set his jaw and walked on, prepared to walk of the edge of the Earth if that's what it took. 
+Relan hung his head and concentrated on put one bare, calloused foot in front of the other. He didn't raise his head for a long time. Not even when he heard the rattle of a carriage and the heavy footfalls of draft horses on the road behind him. He just set his jaw and walked on, prepared to walk off the edge of the Earth if that's what it took. 
 
 "Climb on, idiot," said a familiar voice. 
 
-He turned to see the merchant, fat and happy, holding the reins of the Ducal Carriage. 
+Relan turned to see the merchant, fat and happy, holding the reins of the Duke's Carriage. 
 
 "What? How?"
 
 "Not only am I smart enough not to pick a shitty pair of boots. I'm also smart enough not to walk when I can ride."
 
-"Unlike you I am not running away."
+"Unlike you, I am not running away."
 
-"Sweetheart, you are clearly not running anywhere. At best, you're limping."
+"Sweetheart, you are clearly not running anywhere. At best, you're limping," said Boltac
 
 "I mean, I go to face this dread foe who has so wounded our fair city. I mean not to flee, but to revenge this wrong."
 
 "That's a lotta big fancy words. You want to be the big hero? Save the girl, win the kingdom, all that?"
 
-"Yes,"
+"Yes."
 
 "Well that's where I'm going."
 
-"You," asked Relan, in danger of developing healthy skepticism in light of recent events. 
+"You?" asked Relan, in danger of developing healthy skepticism in light of recent events. 
 
 "I do have to warn you, you're probably not going to make it through this thing alive."
 
@@ -1707,11 +1702,11 @@ He turned to see the merchant, fat and happy, holding the reins of the Ducal Car
 
 Relan let the question sink in. 
 
-"You are young and strong and scary looking. They'll shoot you first. Me, I'm non-threatening."
+"You are young and strong and scary looking. They'll definitely shoot you first. Me, I'm non-threatening."
 
 Relan still didn't climb onto the carriage. "What changed your mind? Isn't this what you pay taxes for?"
 
-The smile dropped off Boltac's face and he said, "The Duke ran away. Took his guards with him."
+The smile dropped from Boltac's face and he said, "The Duke ran away. Took his guards with him."
 
 Relan's mouth dropped open. "Can he do that?"
 
@@ -1723,9 +1718,17 @@ Relan's mouth dropped open. "Can he do that?"
 
 "Stout merchant, from down here it looks like you are blushing."
 
-"Oh, uh, it's just the heat. The sunshine you see. I'm not used to it on account of I'm in my shop all the time," said Boltac, mopping at his face with his sleeve. And besides. If you're so smart, why are you coming along? What's in it for you?"
+"Oh, uh, it's just the heat. The sunshine you see. I'm not used to it on account of I'm in my shop all the time," said Boltac, mopping at his face with his sleeve. 
 
-"Well," he said, "I'll get to make a name for myself. Be somebody. Maybe get a girl of my own."
+As Boltac covered his emotion, Relan climbed aboard the coach and sat beside Boltac. "True love. It is a noble cause. I will lend you my sword, stout merchant."
+
+"You mean, you're gonna lend me my own sword!"
+
+"It's just a figure of speech," Relan muttered. Boltac hitched the reins and the heavy draft horses lurched the carriage into motion. 
+
+"Ahh, I know kid," said Boltac. "You got a good heart, but you're kind of an idiot. No offense. I mean, think about this. What is in this for you?"
+
+"Well, I'll get to make a name for myself. Be somebody. Maybe get a girl of my own."
 
 "Y'know we're going to get killed. You're definitely going to get killed. And it's not even your girl."
 
@@ -1735,15 +1738,15 @@ Relan smiled. "Not if you brought any more of those healing potions. I mean that
 
 "Well, why not?"
 
-"Because that was the only one I had. Magic, real magic is very expensive. And it's tricky. If your plan depends on magic, it's probably not gonna work."
+"Because that was the only one I had. Magic, *real* magic, is very expensive. And it's tricky. If a plan depends on magic, it's probably not gonna work."
 
 "It was the most amazing, stupendous, unbelievable thing I have ever..."
 
 "Yeah. It was magic. The downside is I'm probably growing an extra liver though. Or an extra lung in the middle of my stomach."
 
-"It worked out."
+"It worked out. You're alive."
 
-"Yeah, but next time, ennnh," Boltac waggled his palm from side to side.  "There's always a downside with magic."
+"Yeah, so far it worked out, but next time, ennnh," Boltac waggled his palm from side to side. "With magic, there's always a catch. That's how they get you."
 
 "So what did you bring?" Relan asked, looking at the bags on top of the coach. 
 
@@ -1751,9 +1754,9 @@ Relan smiled. "Not if you brought any more of those healing potions. I mean that
 
 "Why money?"
 
-"Why money? WHY MONEY? Are you serious?"
+"Why money? WHY MONEY! Are you serious?"
 
-"Yeah, there's not going to be anything to buy."
+"Yes, there's not going to be anything to buy."
 
 "Are you kidding there's gonna be all kind of things to buy. Not the least of which is the woman I want to get back."
 
@@ -1775,17 +1778,17 @@ Relan smiled. "Not if you brought any more of those healing potions. I mean that
 
 "Uh…"
 
-"Take your time. Make sure you count them all," Boltac said as he let the soothing clip clop of the horses hooves and the tranquil beauty of the forest lull him into a kind of trance. 
+"Take your time. Make sure you count them all," Boltac said as he let the soothing clip clop of the horses hooves and the tranquil beauty of the forest road lull him into a kind of trance. 
 
 "None," interrupted Relan. 
 
 "Did you miss any? I mean is that an exact count? Because, as a merchant, I can tell you, it is important to be precise with figures."
 
-"Okay, okay, you've made your point." Relan said, staring off into the trees. 
+"Okay, okay, you've made your point." Relan said, staring off into the trees.
 
 "Yeah, that's what I thought. There are two possible reasons for this, and pay attention, because they are closely linked. One, everybody who sets out to be a hero gets killed. And two, there's no such thing as heroes."
 
-"That's not true. That't can't be true. Why there's got to be heroes. Who else looks out for the poor and the unfortunate?"
+"That's not true. That can't be true! Why there's got to be heroes. Who else would look out for the poor and the unfortunate?"
 
 "The poor and the unfortunate either look out for themselves, or, well, then they're really poor and unfortunate."
 
@@ -1797,11 +1800,11 @@ Boltac shrugged, "Hey, these are dark ages in which we live. I don't make the ru
 
 "I wish I did," said Boltac, "but there's nothing either of us can do to change it."
 
-They rode on in silence. For a long time. 
+They rode on in silence for a long time. Finally, Boltac grew so bored, he decided to try again. 
 
-(( Kid, do you know why people fight wars?
+"Kid, do you know why people fight wars?""
 
-To win?
+"To win?"
 
 "No, nobody wins in a war, except the guy selling swords and armor. No people fight wars to put themselves in a better negotiating position."
 
@@ -1819,53 +1822,49 @@ To win?
 
 "I don't think --"
 
-"Yeah, I figured that one out already. Just trust me, if we can bribe our way through this thing, everybody will be a lot happier. And a lot more alive. Hey kid, you mind taking the reins for a while? I'm still a little woozy from that potion."
+"Yeah, I figured that one out already. Just trust me, if we can bribe our way in and out of this thing, everybody will be a lot happier. And a lot more alive. Hey kid, you mind taking the reins for a while? I'm still a little woozy from that potion."
 
 "Woozy? but it was magic!"
 
-"Trust me, the hangover you get from magic is the worst kind of hangover there is."
+"Trust me, the hangover you get from magic is the worst kind of hangover there is. I'm gonna sleep it off in the back. Don't go chasing after anybody while I'm asleep."
 
 
-# 18
+# 18 -- Do I Have a Deal for You!
 
-Rattick was no hero. Like all true survivors, he found a way to profit from misfortune of others. At the first sign of trouble, he slunk into the alleys of Robrecht. While strange creatures marauded through the town and fire ravaged the buildings, he kept to the shadows, looting corpses where he could, burgling a store or two, until he reached the         South gate. When he found a horse in the Guard's stable he was gone into the night without a second thought. 
+Rattick was no hero. Like all true survivors, he always seemed to find ways to profit from misfortune of others. So, at the first sign of trouble, he slunk into the alleys of Robrecht. While Orcs marauded through the town and fire ravaged the buildings, he kept to the shadows, looting corpses where he could, burgling a store here or there, until finally he reached the North gate. He found a horse in the Guard's stable and was gone into the night without a second thought. 
 
-When he reached the forest, he abandoned the horse and stayed off the road. Rattick worked his way through the woods some 20 yards off to the side. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the raiding party returning from Robrecht. Horrible things on wolves, crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from the town. Probably just people for food. But, just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
+When Rattick reached the forest, he abandoned the horse and left the road. He worked his way along the road 20 yards into the woods. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the sounds of the raiding party returning from Robrecht. Horrible things on wolves crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from the town. Probably just people for food. But, just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
 
-The raid was was bad news for Robrecht, of course, but quite good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? 
+The raid was was bad news for Robrecht, of course, but good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? But the problem with taking a partner in the grift was, how could you trust a grifter. 
 
-With his careful traveling habits, it took Rattick three days to return to the entrance of the Wizard's lair. And when he got there, it wasn't there anymore. The once grassy hill and innocuous-looking wooden door was now a smoking hole in the earth. 
+With his careful traveling habits, it took Rattick three days to return to the entrance of the Wizard's lair. And by the time he got there, it wasn't there anymore. The once grassy hill and innocuous-looking wooden door had been blown apart to create a smoking hole in the earth. 
 
-Wolf tracks led directly over the edge and into the maw of the pit. Hmm, so the Wizard had become fed up. Rattick imagined the scene in his mind. Often enough he had heard the howls of frustration echoing through lower dark of the dungeon. Of course, Rattick had amazed and frightened by the mighty magics he seen the man work. But that made Rattick smile. That one so wise in the ways of power to be so ignorant of patience. That was amusing. And something worth remembering. 
+Wolf tracks led directly over the edge and into the maw of the pit. Evidently the Wizard had had enough. It was not hard for Rattick to imagine the scene in his mind. Often enough he had heard the howls of frustration echoing through lower dark of the dungeon. Of course, Rattick had amazed and frightened by the mighty magics he seen the man work. But that's what made if funny now. That one so wise in the ways of power could be so ignorant of patience. That was amusing. And worth remembering. 
 
-Did someone make it past the Troll and steal something of value from the Wizard. Yes, that would do it. And Rattick wouldn't be surprised. His efforts had been keeping the Troll so well fed, that half the time when he guided adventurers to the beast he had to wake him up. 
+Did someone make it past the Troll and steal something of true value from the Wizard? Yes, that would do it. And Rattick wouldn't be surprised. His grift had been keeping the Troll so well fed, that half the time he brought adventurer's to him, he had to wake the beast up to get him to eat his marks. 
 
-He could see it. The Wizard in his foul pit, ranting incoherently at the creatures he had made. Raging against insults and injuries both real and imagined. The Wizard throws up his hands, says a word of power and an entire hillside blows outward into the night. 
+That would have pushed the Wizard over the edge. His temper lost, raging against insults real and imagined, his foul creations scurrying for cover, yest that must have been the way it happened. The Wizard throws up his hands into the air, says a word of power and the entire hillside blows outward into the night. With a hue and cry, he let slip the Orcs of War. 
 
-With a hue and cry, the Orc's of War are let slip. 
+Yes, that's how it would have happened. Dimsbury had enough power to do it, that was sure. He was a Wizard sure enough, with more power than any Battlemage Rattick had ever heard of. 
 
-Yes, that's the way it would have happened. It was the kind of scene that one would place in a mighty saga to give the Hero time to rally an army and save the town. Except that there was no hero. And there was no army. Just a wound in the earth and an unsuspecting town that had been sacked.
+It was the kind of scene that one would place in a mighty saga to give the Hero time to rally an army and save the town. Except that there was no hero. And there was no army. Just a wound in the earth and an unsuspecting town that had been sacked. And would be sacked again and again, now that it was defenseless. 
 
-All of this only served to make things better for Rattick. Powerful the Wizard might be, but he was ignorant of the ways of man. Now that he had sacked the town of Robrecht, even more heroes would come seeking to defeat him and steal his treasure.  
+So now he would wait for the next party of adventurers. When they came, he would spin his sad tale of love and life lost in the fall of Robrecht. He would summon tears to his false eyes and tell how he had come for vengeance, but realized to attempt the depths of the fiendish dungeon alone would be surest suicide. Then he would promise to serve his new friends faithfully. 
 
-a more powerful wizard and now would lure more  and more powerful adventurers. And all of these would-be heroes would bring more valuables with them. Which was good for Rattick. When the next party came, he would spin his sad tale of love and life lost in the fall of Robrecht. 
+After a while, he grew tired of standing around waiting for the next flock of heroic lambs. So he climbed into a tree, found a comfortable limb and went to sleep. But his dreams of blood and fortune were soon interrupted by the sound of horses and, was that a wagon?
 
-He would summon tears to his false eyes and tell how he had come for vengeance, but realized to attempt the depths of the fiendish dungeon alone would be surest suicide. He would promise to serve his new friends faithfully. And when they fell prey to Rattick's trickery, he would profit. 
+He peered down through the leaves and spied a coach fit for a king. A King, or a party of adventurers so rich that Rattick would only have to run his bloody con one last time before he retired to the warmth and debauchery of the Southern Kingdoms. 
 
-Rattick climbed into a tree, found a comfortable limb and dozed peacefully while he waited for the next flock of heroic lambs to come to the slaughter. His dreams of blood and fortune were soon interrupted by the sound of horses and, was that a wagon? Coming up the forest road.  
-
-He peered down through the leaves and spied a coach fit for a king. Or a  party of adventurers so rich that Rattick would only have to run his bloody con one last time before he retired to the warmth and debauchery of the Southern Kingdoms. 
-
-He clambered down from the tree to quickly, he nearly fell and broke his leg. He rushed to greet the adventurers in their splendid coach, noting that the strong-jawed blond lad who drove the carriage was wearing a very high grade of armor. A very good sign, thought Rattick, expensive armor, even on the servants.
+He jumped down from the tree so quickly, he nearly broke his leg. As he rushed to greet the adventurers, he saw that the strong-jawed blond lad who drove the carriage was wearing a very, very high grade of armor. A good sign, thought Rattick, expensive armor, even on the servants.
 
 "Hello, hail and welcome, proud adventurers. Be on your guard, for you have come to the lair of a Wizard most foul and dangerous. Humble as I am, I place at your service, my unworthy person, Rattick." He said, finishing with a low bow. 
 
-Before he raised his head, he heard a familiar and irritating voice say, "Ah, Rattick, do I have a deal for you!"
+Before he could raise his head, he heard a familiar and irritating voice say, "Ah, Rattick, do I have a deal for you!"
 
-He looked up sharply. "BOLTAC?!?"
+He snapped up from his bow. "BOLTAC?!?"
 
 
-# 19
+# 19 -- Meet the Troll
 
 "Rattick!" answered Boltac, not missing a beat, "Is it ever your lucky day!"
 
@@ -1873,7 +1872,7 @@ He looked up sharply. "BOLTAC?!?"
 
 "Like I said, I have a wonderful deal for you. A deal no *honest* man could pass up."
 
-Rattick made a face. "I think you are a long way from your store, shrewd merchant."
+Rattick made a face. "I think that you are a long way from your store, shrewd merchant."
 
 "And don't I know it. Relan, unload the bags, while I have a word with Rattick here."
 
@@ -1883,15 +1882,15 @@ Rattick made a face. "I think you are a long way from your store, shrewd merchan
 
 "If he's the hero, then what does that make you?"
 
-"The cunning fat guy who outsmarts everybody in the end."
+"The cunning, fat guy who outsmarts everybody in the end."
 
-"I don't understand," said Rattick, for once telling the truth. 
+"I don't understand," said Rattick, the truth for once. 
 
 "Rattick, I want to hire you. Now before you protest, here's 10 gold pieces. Now there's more where that came from. Plenty more. I seek an audience with the Wizard at the bottom of this smoking hole, and I want you to get me there."
 
-"I… I…" Rattick got lost between trying to twist circumstances to his advantage and trying to figure out what in the hell circumstance was up to, "Have you lost your mind, fat merchant?"
+"I… I…" Rattick stammered to a halt. Between trying trying to twist circumstances to his advantage and trying to figure out what in the hell circumstance was up to, he just locked up. Finally, he asked "Have you lost your mind, fat merchant?"
 
-"Because I'm here, yes. But I haven't lost all my cunning, you understand. Half you reward is with me, half when you get me back to town."
+"What? You mean because I'm here? Yeah, probably. But I haven't lost my cunning, you understand. Half you reward is with me, half when you get me back to town."
 
 "Twenty gold pieces is not enough."
 
@@ -1905,27 +1904,27 @@ Rattick made a face. "I think you are a long way from your store, shrewd merchan
 
 "There's a Troll?" asked Relan, as he removed Boltac's bag from the inside of the carriage, "is this all you packed?"
 
-"I travel light," Boltac said, taking it from him, "If there's a troll somewhere inside this hole then it's the same Troll he's been using to kill hapless adventurers, just like us. Isn't that right Rattick?"
+"I travel light," Boltac said, taking it from him, "If there's a Troll somewhere inside this hole then it's the same Troll he's been using to kill hapless adventurers, just like us. Isn't that right Rattick?"
 
 "I would never do such a thing. I am here to avenge my beloved Robrecht. And I for one am shocked, SHOCKED --"
 
-"Yadda, yadda, yadda. See kid, what he did there, nevermind kid, what he did was despicable. But the important thing is that we're not going to fall for it."
+"Yadda, yadda, yadda. See kid, what he did there? Ahh, nevermind, what he did was despicable. But the important thing is that we're not going to fall for i are we?"
 
-"No we're not," said the Relan, not knowing what he wasn't going to fall for, but scaring Rattick a little anyway. "Because I'm here to protect you."
+"No we're not," said Relan, not knowing what he wasn't going to fall for. "Because I'm here to protect you."
 
-"Protect me! Ha. Kid, you're here to carry the lantern." Boltac reached into his bag and handed Realn him the sacred, magic lantern of Lamptopolis. As soon as Relan touched it, it blazed forth with a brilliant light. 
+"Protect me! Ha. Kid, you're here to carry the lantern." Boltac reached into his bag and handed Relan him the sacred, magic lantern of Lamptopolis. As soon as Relan touched it, it blazed forth with a brilliant light. 
 
-"We're not going to be sneaking up on anybody with that thing."
+"We're not going to be sneaking up on anybody with that thing," observed Rattick.
 
 "Eh, yeah," said Boltac, "You're right. You carry it."
 
-"The magic lamp, do you trust him?" 
+"The magic lamp," protested Relan, "do you trust him with it?" 
 
-"I trust him to be totally untrustworthy. Which I can work with," said Boltac. But when Rattick took the lamp it went out. "Hmm, smart lamp. Okay, we'll use torches."
+"I trust him to be totally untrustworthy. Consistency. I can work with consistency." said Boltac. As soon as Rattick took the lamp it went out. "Hmm, smart lamp. Okay, we'll use torches."
 
 Rattick handed the darkened lamp back to Boltac and asked, "What do you want with me?" asked Rattick. 
 
-"I want to make you rich. Name a figure Rattick? How many coins do you need to guide me to the Wizard at the bottom of this smoking hole in the Earth."
+"I want to make you rich. Name a figure Rattick? How many coins do you need to guide me to the Wizard at the bottom of this smoking hole in the Earth?"
 
 "Why do you want to see him so badly?"
 
@@ -1953,7 +1952,7 @@ Boltac frowned. "Y'know Rattick, if I'm gonna be your boss, you might want to sh
 
 "Even with my help, you don't stand a chance," said Rattick. 
 
-"Don't forget about me," said Relan drawing his sword. The conversation came to a complete halt as both men stared at the Farm boy. In fact, they stared so long, the boy became uncomfortable and asked, "What."
+"Don't forget about me," said Relan drawing his sword. The conversation came to a complete halt as both men stared at the Farm Boy. They stared so long, that Relan became uncomfortable and asked, "What?"
 
 "But that away before you hurt yourself," said Boltac. "Now where were we?"
 
@@ -1967,7 +1966,7 @@ Boltac frowned. "Y'know Rattick, if I'm gonna be your boss, you might want to sh
 
 "I shall do as you ask. Then I will loot your corpse with great relish."
 
-"There's my boy. C'mon Relan. Let's go meet the Troll."
+"There he is. There's that guy I know and distrust. C'mon Relan. Let's go meet the Troll."
 
 
 # 20
@@ -2048,7 +2047,7 @@ The Troll, not being smart enough to fear a shrewd merchant's smile -- and gener
 "There," said Boltac, and he released the mace. No sooner did let go of the bejeweled head of the mace than the Troll collapsed to the rough stone floor as if he had been smashed there by the hand of an angry God. 
 
 
-# 22 Troll Pinned to Floor
+# 22 Troll Pinned  to Floor
 
 Pinned to the floor, the Troll looked much less fierce now. His eyes were wide, and shifting fearfully as he whimpered a little. His foul claw remained tightly wrapped around the ornate mace. 
 
