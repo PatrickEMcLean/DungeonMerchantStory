@@ -2100,19 +2100,29 @@ All the way to the bottom, thought Rattick.
 
 
 
-# 23 The Wizard Hated Administration
+# 23 -- The Wizard Hated Administration
 
-The Wizard hated Administration. He hated planning. He even hated arithmetic. Some days, he wondered if he had any talent for anything other than magic at all. 
+> Set the santcum here?
 
-He had always prided himself on his ability to create and control monsters. But, Alston Dimsbury had inadvertently created a monster so powerful and unruly, he couldn't control it -- an Organization. He looked up from the ledgers and rubbed his eyes. Gah, supplies, inventories, requisitions. Some 2,000 orcs and wolves required feeding and clothing and organizing. It was all so *tedious*. But he needed an army. An that army need an army of smarter orcs to run it. 
+The faint light from torches and braziers flickered throughout the round room as if it was afraid of being caught there. The space had been carved from the living rock, but, in a concession to the occupant, mortar lines had been chiseled into the stone to create the illusion that this room had been constructed by masons. If one ignored the lack of windows, one might well imagine that this was room in a tower, keep or castle, instead of hundreds of feet below ground. 
 
-Intelligence is a dangerous thing to breed into a creature. You never knew which way it would go. A lesson that Dimsbury had learned the hard way. Too much intelligence, too much initiative and your creations would be rebellious and impossible to command. Too little intelligence and they would be useless. Sometimes dying because they forgot to breathe. 
+There was a high, arching ceiling, with a hole in the top. The smoke from the burning coal and torches send streams of greasy smoke into this upper darkness. Below, thick rugs, the fine work from Southron craftsmen, divided the room into several areas. 
 
-In all his experiments with Orcs (his own name, he was quite proud of it) in all their various strains and cultivars, Dimsbury had many, many failures. He could only count one success in his quest to create the perfect mix between intelligence and servility. 
+In the center of all of them was round hole, six feet across, that was capped by a wooden cover. On the left was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. 
 
-As a reward, Dimsbury had given the perfect Orc it's own name, and had made it overseer over all the other Orcs. He called it Samga and used him as his right-hand nearly-man-thing. Samga's duties were wide and varied, but right now, he was engaged in table service. 
+On the far side of the room there was a raised dais, and on it a kind of altar. On the altar there was a large glass jar, perhaps half the height of man. In the jar a flame danced, but it seemed to be just out of focus. It's weak light light threw strange shadows and shapes on the wall behind it, but it's light did not penetrate any farther into the chamber. 
 
-As he approached the desk with a covered tray Dimsbury looked up and said, "Ah, lunch." said the Dimsbury with a smile. At last, a reprieve from paperwork at last. Samga smiled, or as close to it an Orc could manage and set the tray down.
+And on the right, sitting at a desk covered with papers and oddment, sat the Wizard Dimsbury, slumped in frustration. The heels of his hands pressed into his forehead, he scowled from underneath his troubled brow at the mountain of paperwork before him. 
+
+The Wizard had prided himself on his ability to create and control monsters. But, in his quest for power and understanding, Alston Dimsbury had inadvertently created a monster so powerful and unruly, he couldn't control it. This savage beast was known as an Organization. And a hungry beast it was, demanding a never ending flow of supplies, inventories, requisitions, orders -- attention of every kind. Some 2,000 orcs and wolves required feeding and clothing and organizing. It was all so *tedious*. He had needed an army, so he made one. But now that he had created his army, what he needed was an army needed an army of smarter orcs to run it. But smarter Orcs were a problem.
+
+Intelligence is a dangerous thing to breed into a creature. You could never know which way it would go. Too much intelligence, too much initiative and your creations would be rebellious and impossible to command. Too little intelligence and they would be useless. Sometimes dying because they forgot to breathe. It was a lesson that Dimsbury had learned the hard way.
+
+In all his experiments with the various strains and cultivars of the species Orc, (his own name, and he was quite proud of it) Dimsbury had had many, many failures. But he could only count one unqualified success in his quest to create the perfect mix between intelligence and servility. He was so pleased with this Orc, he had given it's own, human name, Samga. 
+
+As Dimsbury had seen the usefulness of Samga, he had made it the overseer over all the other Orcs. In short time, Samga had become his right-hand nearly-man-thing.
+
+Samga approached the desk with a covered tray. Dimsbury looked up and said, "Ah, lunch." At last, a reprieve from paperwork. Samga smiled, or as close to it an Orc could manage, and set the tray down.
 
 When the Wizard lifted the cover, he found a bloody, unappetizing mess. He struggled to read what was on the plate before him. It looked like two slices of bread, some lettuce, two slices of tomato and lot of bloody meat. The Wizard replaced the cover gently and asked, "What is this?"
 
@@ -2120,7 +2130,7 @@ When the Wizard lifted the cover, he found a bloody, unappetizing mess. He strug
 
 "And what is that?" asked Dimsbury pointing at one of the more disgusting looking bits.
 
-"Well, it's man. Lettuce. and Tomato innit?" Seeing the foul look brewing on the Wizard's already foul-looking face, Samga changed tack, "o' course, the finest sliced leg of Man."
+"Well, it's Man, Lettuce, and Tomato innit?" Seeing the foul look on the Wizard's already foul-looking face, Samga quickly changed tack, "o' course, the finest sliced leg of Man."
 
 "Raw leg of man, I assume?"
 
@@ -2128,7 +2138,7 @@ When the Wizard lifted the cover, he found a bloody, unappetizing mess. He strug
 
 The Wizard replaced the cover on the vile lunch-like creation that sat before him. "And the leg of Man is, I am to understand, uncooked?"
 
-"Oh of course, my -- oh, I see what you're getting at. It's just that Orc's don't, you know, cook meat, so the cooks don't, uh" Samga seemed genuinely hurt and flustered. "Really more of butchers, there, aren't they?"
+"Oh of course, my -- oh, I see what you're getting at. It's just that Orc's don't, you know, cook meat, so the cooks don't, uh" Samga seemed genuinely hurt and flustered. "Really more of butchers, then, aren't they?"
  
 "There, there Samga. You kind was not bred for cuisine, I understand. Simply take it away and bring me the female prisoner."
 
@@ -2357,6 +2367,7 @@ Asarah asked no more questions. Soon they came to a large arch in a formation of
 As she crossed the threshold, Samga said, "Master, I have brought the girl." 
 
 In spite of her tattered condition, Asarah smiled. She was far from her girlish days. Her hands were worn from the endless toil of keeping an Inn, and there were lines on her face. More from laugher than from frowns, but they were not the kind of lines a girl had.  But still, the heat of her womanhood had not cooled. Perhaps that would be enough. 
+> Don't double up description from 23. 
 
 The room she entered opened up into a high, arching ceiling. There were several braziers filled with burning coal that sent streams of greasy smoke rising in to the darkness at the top of the chamber. Rugs served to divide the large room into several areas but the center was cold, polished stone.
 
