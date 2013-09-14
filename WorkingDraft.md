@@ -2102,7 +2102,6 @@ All the way to the bottom, thought Rattick.
 
 # 23 -- The Wizard Hated Administration
 
-..
 
 The faint light from torches and braziers flickered throughout the round room as if it was afraid of being caught there. The space had been carved from the living rock, but, in a concession to the occupant, mortar lines had been chiseled into the stone to create the illusion that this room had been constructed by masons. If one ignored the lack of windows, one might well imagine that this was room in a tower, keep or castle, instead of hundreds of feet below ground. 
 
