@@ -2102,8 +2102,6 @@ All the way to the bottom, thought Rattick.
 
 # 23 -- The Wizard Hated Administration
 
-> Set the santcum here?
-
 The faint light from torches and braziers flickered throughout the round room as if it was afraid of being caught there. The space had been carved from the living rock, but, in a concession to the occupant, mortar lines had been chiseled into the stone to create the illusion that this room had been constructed by masons. If one ignored the lack of windows, one might well imagine that this was room in a tower, keep or castle, instead of hundreds of feet below ground. 
 
 There was a high, arching ceiling, with a hole in the top. The smoke from the burning coal and torches send streams of greasy smoke into this upper darkness. Below, thick rugs, the fine work from Southron craftsmen, divided the room into several areas. 
