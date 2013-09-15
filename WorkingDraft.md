@@ -2154,36 +2154,36 @@ The Wizard replaced the cover on the vile lunch-like creation that sat before hi
 "Yes, Samga, she certainly does."
 
 
-# 23 Asarah in Dungeon
+# 24 -- Asarah in Dungeon
 
 
-When the wizard had flown off with her, Asarah had managed to scream for all of twenty seconds before she passed out. When she awoke, she found herself unharmed on a cell of damp grey rock. There was no window and no furniture. 
+After the wizard had flown off with her, Asarah had managed to scream for all of twenty seconds before she passed out. When she awoke, she found herself unharmed in a cell of damp grey rock. There was no window and no furniture. 
 
-Next to the pile of straw she was lying on there was a candle in a pile of wax that burned in defiance of the oppressive dark of the place. She got up and took the candle. The only way in and our of the room was a heavy oak door with a small window. 
+Next to the pile of straw she was lying on there was a candle in burning burned in defiance of the oppressive dark of the place. She got up and took the candle. By it's feeble light she could see that the only way in and our of the room was a heavy wood door with a small window. 
 
-Through the window she could see that the hallway seemed to be carved out of the same living rock as the cell. She listen carefully, but heard nothing. When she moved the candle away from the window, she thought she could see the merest him of a flicker of light from the right. 
+Through the window she could see that the hallway beyond seemed to be carved out of the same rock as the cell. She listened carefully, but heard nothing. When she moved the candle away from the window, she thought she could see the merest him of a flicker of light from the other end of the passage. 
 
-"Hey!" she yelled. No response.
+"Hey!" she yelled. There was no response.
 
-"You out there! I know you're out there. You can't have a jail without a jailer!" She heard the scraping of a chair against the stone floor. "Come here! I need to see you. I demand to see you."
+"You out there! I know you're out there. You can't have a jail without a jailer!" She heard the scraping of a chair against the stone floor. "Come here! I need to see you. I demand to see you!"
 
-The shuffling, snuffling noise moved down the hallway towards her, but there was no light? What manner man could see in the dark. She held the candle out
+The unknown Jailer made a shuffling, snuffling noise as he drew nearer. She could hear him, but couldn't see him. What manner man didn't use a light. She held the candle out the window to get a better look. 
 
-A face of grey-green, leathery skin, punctuated by tusks and beady black eyes eyes came at her from out of the darkness. It snarled and Asarah jumped backwards dropping her candle. The candle sputtered and went out before she could pick it up again. 
+A face of grey-green, leathery skin, punctuated by tusks and beady black eyes eyes came at her from out of the darkness. It snarled and Asarah jumped backwards and dropped her candle. It sputtered and went out before she could pick it up again. 
 
 There, in the terrible darkness, she heard a sob and realized how afraid she truly was. She could hear the thing breathing on the other side of the door. She prayed she wouldn't hear the sound of the door opening. 
 
-After an eternity, the thing grunted, and walked back down the hallway. Asarah did not cry out again. 
+After what felt like an eternity, the thing grunted, and walked back down the hallway. Asarah did not cry out again. 
 
-She felt her way back to the straw and curled up in a ball. This was awful. This was worse than anything she ever could have imagined. To be in a cell was one thing. But to be trapped in a cell because you were afraid to even escape…
+She felt her way back to the straw and curled up in a ball. This was awful. This was worse than anything she had ever imagined. To be in a cell was one thing. But to be trapped in a cell because you were afraid to attempt escape…
 
-After what felt like an eternity of terror in the darkness, she heard steps coming down the hallway. And this time light came with them. In spite of herself, her hopes rose. Perhaps this would be a person --  A human being -- rather than that awful thing she had just been subjected to. She looked to the faint glimmer of light that came through the doorway, but she did not rush to the window. 
+After what felt like an eternity of terror in the darkness, she heard steps approaching again. And this time light came with them. In spite of herself, her hopes rose. Perhaps this would be a person --  A human being -- rather than that awful thing she had just been subjected to. She looked to the faint glimmer of light that came through the doorway, but she did not rush to the window. 
 
 Another of those strange, monstrous faces thrust itself into the window, but instead of grunting or snarling, this one spoke a soft, strangely accented English. 
 
 "Pardon, my lady, but the master would like to see you now."
 
-"The Master?" asked Asarah, reassured by the creatures manners and seemingly kindly demeanor. "Who is the master? For that matter, who are you? And what manner of hospitality is this?"
+"The Master?" asked Asarah, reassured by the creature's kindly demeanor. "Who is the Master? For that matter, who are you? And what manner of hospitality is this?"
 
 "I am Samga, my Lady. And the Master is, well, the Master, Maker of us all. And he has asked for you, the woman in his power." Ah yes, now it made sense to Asarah. The man who took her into the air had abducted her for a reason, the oldest reason of all. Men, thought Asarah, no matter how rich or powerful they might be, they were all the same. 
 
@@ -2201,25 +2201,26 @@ Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. T
 
 "Wait," said Asarah. ""I must look a fright. Your master will be unhappy if I do not have time to compose himself." 
 
-"Master is usually unhappy," Samga said with a sad look that looked decidedly out of place on what was obviously a monster.  
+"Master is usually unhappy," Samga said with a sad look that seemed out of place on a monster.
 
-Asarah knew what the flying man wanted with her she wasn't about to give it to him without a fight. But there were many ways to fight. And where a man had desire, a woman had an opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly, out-of-control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
+Asarah knew what the flying man wanted with her. And she wasn't about to let him get the upper hand without a fight. But there were many ways to fight. And where a man had desire, a woman had an opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly, out-of-control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
 
 After her first few tears, her left sleeve and blouse was in tatters, revealing the hollow of her clavicle, most of her left breast and all of her left arm. Then he grabbed a hold of the skirt below the knees. A few sharp jerks and she was showing a lot more leg. Then she rolled her lips inward and bit down on them hard to bring a bright redness to them. 
 
-There, she thought, that ought to put him in a twist. Not all men are wizards, but all wizards are men. Asarah, girl, we're going to see how much we can lead this one around.  
+There, she thought, that ought to put him in a twist. Not all men are wizards, but all wizards are men. Asarah, girl, we're going to see how much we can lead this one around.
 
+Then she turned and tried it out on the creature. A toss of the hair, a full smile, a subtle roll of her hips. It should have hit him pretty hard, but she got no reaction from him. She asked, "What manner of man are you?"
 
-She turned and tried it out on the creature. When she didn't even get the hint of a reaction, she asked, "What manner of man are you?"
-
-"Samga, is no man. Samga Orc! Now come. The master is waiting."
+"Samga, isn't a man. Samga is an Orc! Now come. The master is waiting."
 
 Hunh, she thought, Orcs must be gay. 
 
 
-# 24 Boltac and Relan and Rattick 
+# 25 -- Boltac and Relan and Rattick 
 
-They came to a fork in the tunnel."Which way do we go?" asked Boltac.
+Rattick led Boltac and Relan deeper into the dungeon. Sometimes they moved through natural caverns with stalactites and stalagmites. Sometimes they walked through abandoned mine works. But as they descended deeper and deeper, the quality of the workmanship changed. When they plunged into the bedrock the tunnels seemed more organic. More gnawed than carved. It was in one of these these strange, unsettling passages that they came to a fork in the passage. Rattick stopped and said nothing. 
+
+"Which way do we go?" asked Boltac.
 
 Relan put his hand on his sword hilt. "I say we go right, stout companions."
 
@@ -2229,17 +2230,17 @@ Boltac rolled his eyes.
 
 "We should go right," Relan said, nodding to himself as if he was just figuring this out for the first time, "because the right and good is the... "
 
-In the distance came the sound of strangely scraping footfalls and hissing grunts. The noises echoed wildly in the depths of the dungeon, so it was impossible to know where they came from. Left, right, behind. But one thing was certain, the sounds were growing closer. 
+From a distance came heard they sounds of strangely scraping footfalls and hissing grunts. These noises echoed wildly in the strange passages, so it was impossible to know if they were coming from ahead of them or behind. As the listened, the noises grew louder. 
 
-Relan grew wide-eyed and crouched down, hand on sword hilt. His gaze shifted quickly from passageway to passageway to passageway, but as spastic as he was, he could not look at all three avenues at once. Boltac shook his head and looked to Rattick.
+Relan grew wide-eyed and crouched down with a hand on his sword hilt. His gaze shifted quickly from passageway to passageway to passageway, but as spastic as he was, he could not look at all three avenues at once. Boltac shook his head and looked to Rattick.
 
-"Orcs my merchant friend. Hungry for the fatty flesh of shop keepers no doubt."
+Rattick said, "Orcs my merchant friend. They infest the depths. And they  hungry for the fatty flesh of shop keepers no doubt."
 
-"Enh-henh, let's keep moving." He said to Relan, "Quietly. And if possible, don't do anything too stupid." He slapped his kid's hand away from his sword. 
+Boltac said, "Enh-henh, let's keep moving. Quietly." Then he turned to Relan, "And if it's possible, don't do anything too stupid." He slapped his kid's hand away from his sword. 
 
 "To the right then, because we are for good," said Relan, nodding as if the matter was settled. 
 
-"For good," snorted Rattick, "We are sneaking into a powerful wizard's dungeon to steal from him, what is good about that? You'll be no kind of thief at all if you try to be polite about it," Rattick said.
+"For good," snorted Rattick, "We are sneaking into a powerful Wizard's dungeon to steal from him, what is good about that? You'll be no kind of thief at all if you try to be polite about it," Rattick said.
 
 As the young boy's face grew red with anger, Boltac stepped between the two of them and asked, "Why do you want to go left?"
 
@@ -2254,46 +2255,47 @@ Relan rushed after the merchant, "But you can't trust him."
 
 "He is not a man of honor," protested Relan.
 
-"Kid, you don't know this yet, but Men of Honor aren't really all that useful."
+"Kid, you don't know this yet, but Men of Honor aren't really all that useful. In particular, they make especially bad thieves."
 
 "He means to lead us into a trap and steal the contents of your precious bag," he said.
 
-"The bag is more precious than the contents, hey, wait a minute? Where is that weasely son-of-a-bitch?" Before they could even turn, they heard the sounds of a scuffle behind them. 
+"The bag is more precious than the contents, hey, wait a minute? Where is that weasely son-of-a-bitch?" Before they could turn back, they heard the sounds of a scuffle behind them. 
 
-"Ah, Gah, ah-Hah!" they heard Rattick say from around the corner. On the wall, grotesque statues cast by torches revealed two shadows with strange pointed ears grabbing at the cowled shadow of Rattick. The froze at the spectacle before them. There were hisses and grunts, muffled curses and the sound of thudding blows. Then Rattick drew a sharp intake of breath and cried, "Save yourselves, I will hold them as long as I can!"
+"Ah, Gah, ah-Hah!" they heard Rattick say from around the corner. On the wall, grotesque statues cast by torches revealed two shadows with strange pointed ears grabbing at the cowled shadow of Rattick. Boltac and Relan froze at the spectacle before them. There were hisses and grunts, muffled curses and the sound of thudding blows. Rattick cried, "Save yourselves, I will hold them as long as I can!"
 
 "We should help him," said Relan.
 
-"En-henh. You think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment he was trapped there. Torn between the desire to do the right thing, and the bald fact that he knew Rattick to be an evil man. He watched the shadows tear at each other for a moment. Then he turn and ran. 
+"En-henh. You think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment he was trapped there. Torn between the desire to do the right thing, and his certain knowledge that Rattick was an evil man. For a moment, he watched the shadows tear at each other for a moment. Then he turn and ran. 
 
-In an instant he caught up with the wheezing, slow-moving merchant. Straining under the weight of his brown sack, Boltac looked over at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
+He quickly caught up with the wheezing, slow-moving Boltac. Straining under the weight of his brown sack, and his overloaded frame, Boltac looked at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
 
-Relan ran ahead. Thinking that he was drawn to danger as the moth is drawn to the candle flame. 
+Relan ran ahead. Thinking that he was being drawn into danger as the moth is drawn to the candle flame. Yes, maybe this was it. Maybe this was his chance to be heroic.
 
-Where the corridor made a right angle bend, Relan came to a stop. The stone work had become more finished in this part of the cave system. The rough edges had been broken off, and here and there, there was evidence of polishing and brickwork in places. Evidently, they were getting to somewhere.
-From around the corner, Relan heard noise. 
+The corridor came to a right angle bend. Relan skidded to a stop. The stone work was more finished in this part of the cave system. The rough edges had been broken off, and here and there, there was evidence of polishing and brickwork in places. It gave Relan the impression that they were getting somewhere.
 
-He held up a hand so Boltac wouldn't run up behind him. But when he looked back he realized how silly that was. Boltac was limping down the corridor, panting heavily and dragging his sack behind him. When he saw that Relan was looking at him he nodded weakly and raised a hand. 
+He held up a hand so Boltac wouldn't run past him. But when he looked back he realized how silly the gesture was. Boltac was limping down the corridor, panting heavily and dragging his sack behind him. When he saw that Relan was looking at him he nodded weakly and raised a hand. 
 
 Relan drew his blade carefully, not making a sound. Then he peeked around the corner very carefully. His jaw dropped. And he moved backwards very slowly for fear that he might be seen. 
 
 "Pssst," Relan said as he waved frantically to Boltac, "Hurry!" 
 
-"Ennnnnn-heh," said Boltac as he put on all the hurry of which he was capable. By the time he reached where Relan was standing he was panting so heavily, Relan was afraid they would be heard. "Shhhhhh!"
+"Ennnnnn-heh," said Boltac as he put on all the hurry of which he was capable. By the time he got to Relan Boltac was panting so heavily, Relan was afraid it would give them away. 
 
-"Kid. I. ain't. made… for running," Boltac said between gasps. 
+"Shhhhhh!" said Relan.
 
-"Look!" Relan demanded. Boltac raised his weary head and they both peered around the corner. It was Boltac's turn to drop his jaw. 
+"Kid. I... ain't... made... for running," said Boltac between gasps. 
 
-He had thought they were in a large corridor before, but when he saw the massive passageway through which scores of Orcs were walking, his sense of scale was quickly and forcibly recalibrated. Here, underground, was a massive corridor, wider than any street in Robrecht. It looked to have been hewn from the living rock itself. Large, interlocking arches graced the ceiling and descended in a series of gigantic columns that punctuated the center of the corridor. 
+"Look!" Relan commanded. Boltac raised his weary head and they both peered around the corner. This time it was Boltac's turn to drop his jaw. 
 
-On the far side of the underground avenue, the comparatively small tunnel they were in continued. But between them and that tunnel was a space five wagons wide filled with Orcs. But not the snarling, ravening, bloodthirsty creatures that had descended on Robrecht. These Orcs looked positively, industrious?
+He had thought they were in a large corridor before, but when he saw the massive passageway around the corner, Boltac realized how wrong he was. Here, underground, was a massive corridor, wider than any street in Robrecht. It looked to have been hewn from the living rock itself. Large, interlocking arches graced the ceiling and descended in a series of gigantic columns that punctuated the center of the corridor.  Scores of Orcs walked up and down through the long hallway. 
+
+Through this gigantic passage, Orcs climbed and descended, leading wagons as they traveled. On the far side of the passage, Boltac could see that the side passage they were in continued on. But between them and the other side was a space five wagons wide, filled with Orcs. But these were not the snarling, ravening, bloodthirsty creatures that had descended on Robrecht. These Orcs looked positively, industrious?
 
 "What are they doing," Boltac wondered aloud. 
 
-On the far side of the passage a steady stream of Orcs descended in well-gruntled, torch-carrying twos or threes. And closest to them, a crack of a whip and the straining grunts announced the approach of a heavily ladened wagon. They slunk deeper into the passage and watched a team of four orcs, yoked like oxen, pulling a crude wagon up the slope. 
+On one side,  a steady stream of Orcs descended in well-gruntled, torch-carrying groups of two or three. And closest to them, a crack of a whip and the straining grunts announced the approach of a heavily ladened wagon. They retreated into the shadows of the passage. From the corridor below, a team of four orcs, yoked like oxen, came into view pulling a crude wagon up the slope behind them. 
 
-The wagon was filled with raw ore of some kind and by the light of the foul, pitch-smouldering torches on the front of the wagon, they could see an Orc with a whip sitting on the cargo. 
+The wagon was filled with raw ore of some kind and by the light of the foul, pitch-smouldering torches on the front of the wagon, they could see that a fifth Orc sat on the cargo with a whip. 
 
 Crack! Went the whip. "Horrrrrk!" complained one of the haulers. And the wagon rolled on. 
 
@@ -2303,18 +2305,17 @@ As the back of the wagon disappeared up the passage, Relan said, "If only..."
 
 "But there's so many of them... did you know there would be so many?"
 
-"What, you thought this was going to be easy? It told you we were probably going to killed. So quit your whining. Let's go back the way we came."
-
+"What, you thought this was going to be easy? I told you we were probably going to killed. So quit your whining. Let's go back the way we came."
 
 "We should go home," said Relan. 
 
-"Enn-henh," said Boltac, "What happened to the brave adventurer?"
+"What happened to the brave adventurer?" asked Boltac.
 
-"I can't kill so many. I, I, I, I…"d
+"I can't kill so many. I, I, I, I…"
 
 "C'mere for a minute."
 
-"Go back? But what if we run into some of those things?"
+"Go back? But what if we run into some of those things?" said Relan, fear freezing him on the spot. 
 
 "Orcs?"
 
@@ -2324,27 +2325,28 @@ As the back of the wagon disappeared up the passage, Relan said, "If only..."
 
 Relan's swallowed and his face went pale. 
 
-"C'mon, cheer up. You're gonna get another chance to be a hero. Most likely, more chances than you want." Boltac turned back and opened the shutter on the magic lantern the slightest bit. "Quietly now," he said. 
+"C'mon, cheer up. You're gonna get another chance to be a hero. Most likely, more chances than you want." Boltac turned back. He threw his torch down and stompted it out against the floor. From his sack he produced the "Magic Lamp of Lamptopolis" As the lamp touched his hand it began to glow. Relan thought it seemed brighter than before. Boltac drew the shutter on the lamp until only the barest bit of light was spilling out. "Quietly now," he said. 
 
-As they made their way back down the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
+As they made their way back through the side tunnel, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
 
-When he heard the shuffling, hissing noise of there pursuers close behind them, Boltac didn't have to think twice. He headed for the small passage. "C'mon, this way."
+When he heard the shuffling, hissing noise coming from in front of them, Boltac didn't have to think twice. He turned back for the small passage saying, "C'mon, this way."
 
 Relan didn't argue. 
 
 
-# 25 Asarah Walks With Samga
+# 26 -- Asarah Walks With Samga
 
-Asarah followed Samga out of her dark cell. The passageway outside was just tall enough that Samga could walk with the tips of his pointy ears barely brushing the roof of it, but Asarah had to duck to follow. After a few minutes, the passageway opened up into a larger cavern. This larger cavern had several tunnels leading from it and Asarah began to see many, many Orc's walking to and fro. 
+Asarah followed Samga out of the dark cell. The passageway outside was just tall enough that Samga could walk with the tips of his pointy ears barely brushing the roof of it, but Asarah had to duck to follow. After a short distance, the passageway opened up into a larger cavern. This larger cavern revealed itself to be a tunnel. As they headed upwards, she could see many other tunnels leading off in all directions. 
 
-Some carried picks and shovels, the others crates and barrels, and one pair of the creatures carried a third that had obviously been wounded. They seemed, after you looked at them for a while, perfectly natural. How strange it should be that such creatures, should have a life below the ground that no one -- no human knew of. 
+She was soon distracted from underground geography by the large number of Orcs moving through the passage. Some carried picks and shovels, the others crates and barrels, and one pair of the creatures carried a third that had obviously been hurt. As the crossed to the center of the passage she could see a steady stream of wagons, pulled by teams of Orcs. Full one's headed up. Empty one's headed down. What were they mining?
 
+Even though all of the Orc's gave her the same unnatural, unpleasant stare. After a while, they seemed, perfectly natural. Like brutish snowflakes, no two were alike. Their snarls, barks and grunts did not become comfortable, but she was shocked that she became accustomed to them. How strange it should be that a whole speicies creatures should have a life below the ground that no one -- or no human, rather -- knew of?
 
->Set the scene here for how the Orcs are going to grab Boltac and co. See the next scene. 
+A small knot of Orcs walked past holding a log, lashings and quite a lot of firewood. Other than the wood of the wagons, was the pretty much the  only wood Asarah had seen down here. How deep was she, she wondered? She had so many questions and so few answers.  She tried one of them on Samga,"What's going on?" she asked, meaning the wood. 
 
-"What's going on?" Asarah asked?
+For a few steps, Samga didn't answer. The more grey than green of his back hunched a little as he shuffled his way through the tunnels. She noticed, that all the Orcs had slightly different coloration. Samga spoke, but he didn't slow or turn back. She hurried alongside him so she could hear his words. 
 
-Samga answered without looking back. The more grey than green of his back hunched a little as he shuffled his way through the tunnels, "Adventurers. Trespassers. Killed master's favorite troll. Master doesn't know about it, but when he finds out, he will insists that they be roasted on spits. I do not want to be roasted on a spit, so I have ordered the spits prepared for roasting early. 
+"Adventurers. Trespassers. They killed the Master's favorite Troll. Master doesn't know about it, but when he finds out, he will insist that they be roasted on spits. I do not want to be roasted on a spit, so I have ordered the spits prepared for roasting early. 
 
 "Roasting?" Asarah asked, trying not to wince. 
 
@@ -2352,16 +2354,16 @@ Samga answered without looking back. The more grey than green of his back hunche
 
 "He is a cannibal?"
 
-"What means this cannibal?" asked Samga
+"What does cannibal mean?" asked Samga
 
 "He eats people."
 
-"No, master is a *good* master. He gives the people to us. 'Course, we like them raw, but the Master must have his fun.""
+"No, Master is a *good* Master. He gives the people to us. 'Course, we like them raw, but the Master must have his fun.""
 
-Asarah asked no more questions. Soon they came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and waited for Asarah to walk through first. 
+Asarah didn't ask anymore questions. They came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and held it, waiting for Asarah to walk through. 
 
 
-# 26 Wizard vs. Asarah
+# 27 Wizard vs. Asarah
 
 As she crossed the threshold, Samga said, "Master, I have brought the girl." 
 
@@ -2461,7 +2463,7 @@ Asarah drew in breath and was just about to really give the Wizard a piece of he
 "Come!" said Dimsbury. 
 
 
-# 27 Wizard Kills the Orc Messenger
+# 28 Wizard Kills the Orc Messenger
 
 An orc charged into the room. This creature was squatter and more brutish than Samga, as if the sculptor's thumb had slipped and pressed the clay of him into an awkward wad.
 
@@ -2539,7 +2541,7 @@ Dimsbury wave a hand in dismissal. "Oh, very well. Samga, chain her to that tabl
 > There's no such thing as bottomless pit. There's no such thing as free lunch. 
 
 
-# 28 A maze of twisting passages, each alike
+# 29 A maze of twisting passages, each alike
 
 As soon as Boltac and Relan left the main passageway, the tunnel they were in sloped sharply up, then down. As they followed it, it twisted to the right, and then back to the left as if the thing that had made it was having trouble making up it's mind which way it really wanted to go. 
 
@@ -2686,7 +2688,7 @@ Boltac whispered, "Draw your sword. This is where you get to be a hero."
 "Listen," said Boltac, "Here's what we're going to do."
 
 
-# 29 Orc's POV
+# 30 Orc's POV
 
 Hissglarg smelled human. And orders was very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They was to be saved for identification, of course. But all the rest were free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
 
