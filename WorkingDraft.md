@@ -2363,18 +2363,24 @@ For a few steps, Samga didn't answer. The more grey than green of his back hunch
 Asarah didn't ask anymore questions. They came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and held it, waiting for Asarah to walk through. 
 
 
-# 27 Wizard vs. Asarah
+# 27 -- Wizard vs. Asarah
 
-As she crossed the threshold, Samga said, "Master, I have brought the girl." 
+As Asarh entered the room, Samga said, "Master, I have brought the girl." 
 
-In spite of her tattered condition, Asarah smiled. She was far from her girlish days. Her hands were worn from the endless toil of keeping an Inn, and there were lines on her face. More from laugher than from frowns, but they were not the kind of lines a girl had.  But still, the heat of her womanhood had not cooled. Perhaps that would be enough. 
-> Don't double up description from 23. 
+From behind his desk, Dimsbury shot a foul look across the room. Banishing her tattered appearance from her mind, Asarah smiled. She had come a long way since her her girlish days. The endless toil of keeping an Inn had cut lines into her face, more from laugher than from frowns, but they betrayed her age..  But she was still very attractive. In some ways, more attractive than she had been as a girl. She hoped that his would be enough. 
 
-The room she entered opened up into a high, arching ceiling. There were several braziers filled with burning coal that sent streams of greasy smoke rising in to the darkness at the top of the chamber. Rugs served to divide the large room into several areas but the center was cold, polished stone.
+"Do you like my accommodations?" Dimsbury asked, still looking at her intently. 
 
-On the left there was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. On the far side of the room there was a raised dais, and on it a table. On the table there was a large glass jar, perhaps half the height of man. In the jar a flame danced, but it seemed to be just out of focus. It's light threw strange shadows and shapes on the ceiling of the room. As a Asarah stared at it it seemed just about to resolve into a normal flame, but it never quite did. She rubbed her eyes, but still it remained out of phase with the rest of the room. 
+Asarah scanned the clutter of the round room. It was the nicest decorated cave she had ever seen, but it was still a cave. Across the room from her a disturbing-looking flame danced in a gigantic glass receptacle. It was disturbing to look at, but somehow she couldn't look away. It was every color and no color at the same time. It flickered and danced, but somehow the flame always seemed to be somehow out of focus. As she stared at it, she became queasy.
 
-In the very center of the room was a hole plugged by a large, disc of wood held together with metal bands. It stayed in focus when she looked at it. 
+"You are a brave woman to stare so boldly into my flame. There are not many who can tolerate the site of it for so long."
+
+Asarah forced herself to keep looking, "What is it?"
+
+"What isn't it? That is the better question. It is the source, the power that binds and fuels all magic." 
+
+"Is it dangerous," she asked, playing to his vanity. 
+
 
 > when the cover is removed, the smoke from the braziers will be drawn into the negative pressure of the hole. The "rather bottomless pit" sucks.
 

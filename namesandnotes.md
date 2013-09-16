@@ -31,7 +31,7 @@ Gustavo Rifkanza -- head of the Free Companions
 ### Gods
 
 Dallios, the Lord of the deal. 
-His symbol is the "Bull with Two Backs." (one bull fucking another)
+His symbol is the "Bull with Two Backs." (one bull fucking another)													
 
 ### Various Orcs
 An unfortunate Troll
@@ -91,6 +91,7 @@ Stealing Liberty -- guy steals the statue of Liberty and deposits it on their en
 
 ## continuation stories ##
 
+We need a bard in the next tale. Redeem heroes.
 
 Add Relan's family -- strange, sullen, surly hill people -- in as characters. They are very odd, but very loyal to Boltac. Definitely Rednecks. 
 
