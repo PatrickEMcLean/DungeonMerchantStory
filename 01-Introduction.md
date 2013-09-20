@@ -1,4 +1,6 @@
 
+# 29 A maze of twisting passages, each alike
+
 
 I've had this thing I've needed to get out of my system. It's writing a heroic tale without a hero in it. How to Succeed in Evil, my first book, is a really smart guy in a world of superpowered people. And he succeeds because he's smart, ruthless and (in a very strange way) reasonable. The book you hold in your hands (or file you hold on your digital device) represents another one of those stories. And it had a very strange genesis. 
 
