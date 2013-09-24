@@ -1,4 +1,8 @@
 
+
+Boltac is part groucho marx, part carl Reiner, maybe part Elliot Gould, Maybe part Zero Mostel
+
+
 # 29 A maze of twisting passages, each alike
 
 

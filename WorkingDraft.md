@@ -28,8 +28,17 @@ Consider adding Battlemages and magic disrupting transport to #2-3
 
 # Punchlist
 
+> Do we need to sharpen the conflict between Samga and Dimsbury -- does Samga deliver the coup de grace of throwing the wizard into the firey rippling gap of spacetime
+
+> In the final confrontation, does Asarah need to scream or protest or struggle somehow, to keep herself in the scene? Does she headbutt Dimsbury at a critical juncture so she is not so passive?
+
+
+
+
 Can I include Pugh, Xyxxxy or MABADU as magic words?
 
+
+Add small lacquered box to the initial inventory of Boltac getting ready to go. 
 
 
 
@@ -2046,7 +2055,7 @@ Relan searched his memories for any sagas or songs in which the hero had defeate
 Rattick asked the obvious question. "Have you ever seen a troll?" 
 
 
-# 21 -- Here, take this.
+S# 21 -- Here, take this.
 
 The Troll was asleep next to a mount of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, but the presence of sleight this illumination allowed the Troll to see the terror on his meals faces' more clearly. There is an old troll proverb that says *food better frightened*, or *scared is good eatin'* or *terror is the best sauce.* It loses pretty much everything in the translation. But just in case you had any question about the matter, Trolls aren't nice. 
 
@@ -3641,7 +3650,7 @@ He heard another Orc enter the room.There was a shuffling and a scraping of claw
 
 Samga held up a shredded mass of fabric that had once been a magic sack. "You mean this?"
 
-"Ah crap," said Boltac. "Looks like we'll be doing this the hard way, unless..." Boltac looked around the room at the sleeping Orcs and their bloated bellies. "You know Samga, there was a lot of gold in that sack of mine. An awful lot. Did they eat all of it?"
+"Ah crap," said Boltac. He took the burlap from Samga and examined it carefully. The torn shred contained nothing. Boltac turned it over and then over again. As he folded and unfolded it something fell out onto  the floor. It was a small, lacquered box. "Enh. Well, it's better than nuttin'," said Boltac as he tucked the box inside his tunic. Well, if that's all we got, it looks like we'll be doing this the hard way, unless..." Boltac looked around the room at the sleeping Orcs and their bloated bellies. "You know Samga, there was a lot of gold in that sack of mine. An awful lot. Did they eat all of it?"
 
 "They kept eating until there was nothing left to eat," Samga said with a shug. 
 
@@ -3692,7 +3701,7 @@ One of the slow-to-rise Orcs saw them go. The creature cried, "Hork!" but it was
 Rattick slipped out of the shadows. How had Boltac survived? And where was he headed now? Rattick sensed chaos. And where chaos rode, there were always plenty of spoils for the taking. He followed the merchant and his unlikely guide. 
 
 
-# 41 Confronting the Wizard
+# 41 -- Confronting the Wizard
 
 
 "Samga. There you are," said Dimsbury. "Thank the Gods you have returned. Pass me that knife over there so I may open this woman's neck." Dimsbury turned back to Asarah who now hung by her legs, upside down above the flame of magic. Asarah attempted to scream, but it was muffled by a gag which Dimsbury now tightened. "I must say, I enjoy your company much more now that you are quiet. I will almost be sad to see you go. Samga, the knife!"
@@ -3714,8 +3723,6 @@ Dimsbury gestured, vaguely, at Relan's body, now discarded along the wall. "Yes,
 "I am not an idiot."
 
 "Idiots are always the last to find out," said Dimsbury
-
-> Does Asarah need to scream or protest or struggle somehow, to keep herself in the scene? Does she headbutt Dimsbury at a critical juncture so she is not so passive?
 
 "Eh-henh. You want me to say touché, or you just want to get down to it?"
 
@@ -3757,34 +3764,34 @@ The next bolt of lightning was so powerful, Boltac thought that his eyeballs had
 
 "I can't see!" protested Boltac. And the bolts kept coming and coming. Pounding into his left arm. He could feel the glove burning his flesh. And now, tiny shocks, the leftover current that this glove could not absorb, forced the muscles of his arm to contract and twitch violently. He turned his face away from the Wizard, still holding his hand up. Eyes closed in a painful wince, he felt on around his belt for where the magic detecting wand vibrated frantically. 
 
-Samga pushed the heavy shelves over. They toppled over into Dimsbury knocking him back a step. The Wizard lashed out blindly and a bolt of electricity caught Samga in the chest. Samga staggered towards the Wizard  then collapsed. As Dimsbury turned back, he saw Boltac his the wand across the room directly into out-of-focus flame above which Asarah dangled. 
+Samga pushed the heavy shelves over. They toppled over into Dimsbury and knocked him back a step. The Wizard lashed out blindly and a bolt of electricity caught Samga in the chest. Samga staggered towards the Wizard then collapsed. As Dimsbury turned back, he saw Boltac throw the wand across the room into the flame of magic. 
 
-"Ha!" cried Boltac as the wand spun through the air, in a perfectly aimed arc. Dimsbury sneered and raised his hand to launch another blast at the Merchant. But as the wand entered the flame, there was a wuffing sound, and the flame of magic snapped into sharp focus. The wand was sucked into the heart of the flames and, for an instant, everything stopped moving.
+"Ha!" cried Boltac as the wand spun through the air. Dimsbury sneered and raised his hand to launch another blast at the now distracted Merchant. But as the wand entered the flame, there was a wuffing sound, and the flame of magic snapped into sharp focus. The wand reached the heart of the flame and stopped moving. Everything stopped moving.
 
-"What have you done?" asked Dimsbury. Then he realized he didn't care. He threw his hands forward in a gesture of power that certain to obliterate the meddling merchant from this plane of existence. Except that nothing happened. Dimsbury looked at his hands, confused. Boltac rushed to swing  Asarah out of the way. 
+"What have you done?" asked Dimsbury. Then he realized he didn't care. He threw his hands forward in a gesture of power that was certain to obliterate Boltac from this plane of existence. But nothing happened. Dimsbury looked at his hands, confused. Boltac ran to the dias and swung Asarah off to the side. 
 
-"Stop," commanded Dimsbury, but his voice rang hollow. "What have you done?"
+"Stop," commanded Dimsbury. He tried again to use his magic, but still, nothing happened. "What have you done?" he asked weakly.
 
-Boltac did not answer. He carefully lowered Asarah to the ground. Before he could kneel to untie her, he became aware of a high-pitched whine rising above the sound of coins tearing at incapacitated Orcs.
+Boltac did not answer. He lowered Asarah to the ground. As he knelt to untie her, he became aware of a high-pitched whine growing louder and louder.
 
-Dimsbury stared at the now frozen flame. The flow of magic, yes, he thought, that's what it had to be. The flow of magic had stopped. The pressure was building up behind it. Inside the still illuminated, perfect flames the wand vibrated furiously, emitting the high-pitched, rising whine that dominated the room. If Dimsbury could unblock the flow... He reached out and touched the frozen flame. As his finger brushed the surface, it cracked like impossibly fine glass, shattering into a million fragments, each of which shattered into a million fragments of it's own. 
+Dimsbury stared at the frozen flame. The flow of magic, yes, he thought, that's what it had to be. The flow of magic had stopped. The pressure was building up behind it. Inside the still illuminated, perfect flames the wand vibrated furiously, emitting the high-pitched, rising whine that dominated the room. If Dimsbury could unblock the flow... He reached out and touched the frozen flame. As his finger brushed the surface it cracked like fine glass. It shattering into a million fragments, and each of those fragments shattered again. 
 
-The explosion that followed knocked everyone flat. Asarah, of course was lying on the ground, so she was spared the brunt of the blast. Samga, surprised to have survived a bolt of lightning to his chest, had just risen to his hands and knees. He saw Dimsbury fly over his head into the wall, even as the blast wave knocked him flat. Boltac was flipped upside down and thrown into the wall. He landed in a heap next to what was left of Relan. Even the creeping coins where battered so badly, they retracted into their glittering carapaces and pretended to be currency. 
+The explosion that followed knocked everyone flat. Asarah, of course was lying on the ground, so she was spared the brunt of the blast. Samga, surprised to have survived a bolt of lightning to his chest, had just risen to his hands and knees. He saw Dimsbury fly over his head, even as the blast knocked him flat. Boltac was flipped upside down and thrown into the wall. He landed in a heap next to what was left of Relan. Even the creeping coins were flung about so violently, they retracted into their glittering carapaces and pretended to be currency. 
 
-As Boltac raised his head, he heard a moan from Relan's corpse. Wait! Not a corpse. Somehow he was still alive. "Too stupid to die?" Boltac asked. Even as he searched for it in his pockets. From within the small, lacquered box he produced a tiny flask covered in ornately wrapped gold wire. No bigger than Boltac's thumb, this vial contained scarcely more moisture than could be found in a few tears. 
+As Boltac raised his head, he heard a moan coming from Relan's corpse. Wait! Not a corpse. Somehow he was still alive. "Too stupid to die?" Boltac asked. Then he searched in his tunic for the small lacquered box. He opened it with shaking hands. Within it was a tiny  tiny flask covered in ornately wrapped gold wire. No bigger than Boltac's thumb, this vial looked as if it could only contained the amount of moisture found in a few tears. 
 
-He looked at Relan, in an ungainly pile on the floor. The blood turning brown where it had soaked into his tunic and dried. There was no color left in his face. The boy's lips were blue with cold, yet still a the slightest of breaths fluttered his nostrils. How was it that he lived? Was this not another kind of magic? The magic of will alone?
+Boltac looked at Relan in an ungainly pile on the floor. The blood soaked into his tunic was already turning brown. There was no color left in his face. The boy's lips were blue, but still his chest rose and fell. How was it that he lived? Was this not another kind of magic? The magic of will alone?
 
-"Kid," Boltac said softly. "C'mon, kid." He carefully removed the tiny top from the flask. Very, very carefully, he lifted the flask to Relan's blue and lifeless lips. Only the slightest flutter of air on Boltac's fingers gave him any hope that the lad was still alive. Boltac doubted that there was enough liquid to do more than wet the Relan's tongue. There was scarcely a chance that this would work at all. But there was so little chance that any of this should work, why not? Why not?
+"Kid," Boltac said softly. "C'mon, kid." He carefully removed the tiny top from the flask. With even more care, he lifted the tiny bottle to Relan's blue and lifeless lips. Only the slightest flutter of air on Boltac's fingers gave him any hope that the lad was still alive. Boltac doubted that there was enough liquid to do more than wet the Relan's tongue. There was scarcely a chance that this would work at all. But there was so little chance that any of this should work, so why not? Why not?
 
-He tipped the bottle up and the few drops disappeared into the cave of Relan's mouth. 
+He tipped the bottle up and the few drops disappeared into the cave of Relan's mouth. Boltac reached up and grasped the charm necklace around his neck. Squeezing all of the charms as tight as he could, until they cut into the palm of his hand and drew blood, Boltac prayed. He prayed to everybody. 
 
 
-On the other side of the room, Dimsbury felt the tingle of power dance along his limbs. The magic was back! He sat up and exclaimed, "I will have power again." Then he sneezed twice, not understanding the sharp pain that shot through his skull each time. And why did the room look differently? What was in front of his face? He brought his hand up and bumped something. The pain became excruciating, and he realized that the Merchant's wand was stuck in his eye. He collapsed back to the floor with the shock of it. But lying there, hyperventilating for a moment, he managed to calm himself. 
+On the other side of the room, Dimsbury felt the tingle of power dance along his limbs again. The magic was back! He sat up and exclaimed, "I will have power again." Then he sneezed twice, not understanding the sharp pain that shot through his skull each time. And why did the room look different? What was in front of his face? He brought his hand up and bumped something. The pain became excruciating, and he realized that the Merchant's wand was stuck in his eye. He collapsed back to the floor with the shock of it. But lying there, hyperventilating for a moment, he managed to calm himself. 
 
-On the far side of the room, he could see the flame, the font of all magic, guttering and flickering as if it was to go out. No, thought Dimsbury, this could not be? How could this Merchant? This fat, ignorant, money-grubbing aberration have stopped him? Did he know what a world without magic would be like? Could such a thing even exist. For himself, and for the greater good, Dimsbury realized he must reach the flame and coax it back to a fuller life. 
+On the far side of the room, he could see the flame, the font of all magic, guttering and flickering as if it was to go out. No, thought Dimsbury, this could not be? How could this Merchant -- How could this This fat, ignorant, money-grubbing aberration stop him him? Did he know what a world without magic would be like? Could such a thing even exist? For himself, and for the greater good, Dimsbury realized he must reach the flame and coax it back to a fuller life. 
 
-As he struggled to regain his feet, a shape appeared before him. Holding his chest, Samga said, "Master," because he didn't have another name for the man who lay before him. 
+As he struggled to regain his feet, a shape appeared before him. Dimsbury looked up and saw Samga, holding his chest with one hand. Samga said, "Master," because he didn't have another name for the man who lay before him. 
 
 "Yes, Samga, my faithful servant after all. Thank goodness I did not strike you down. Please, help me," said the Wizard, not entirely aware that he was begging.
 
@@ -3792,28 +3799,27 @@ As he struggled to regain his feet, a shape appeared before him. Holding his che
 
 "Samga, Samga. You are my finest work. All is forgiven, my creation. Move your Father closer to the flame so that I may regain and preserve my power."
 
-Samga bent and picked up Dimsbury. He turned back towards the sputtering flame.
+Samga bent and picked up Dimsbury. 
 
 "Yes, good Samga. Brave Samga," whispered Dimsbury, touching the wand in his eye gingerly.
 
 Samga looked up at the circle of heads mounted in on the wall. The broken and aborted things that had lead to him. The trial and the error, the arrogant misuse of power in an attempt to craft life itself. Not for the first time, Samga wished that he had had never been made.
 
-"Yessss," said Dimsbury. Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury started coughing and as the pain . 
+"Yessss," said Dimsbury. "Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury coughing was interrupted by a fit of coughing. 
 
 As his clacking steps took Samga closer to the flame, he lifted the Wizard high above his head. 
 
-"What? What are you doing Samga. Lower me! The master commands!" 
+"What? What are you doing Samga. Lower me! The Master commands!" 
 
-"The Servant does not obey!" Samga threw the Wizard onto what was left of the magic flame. As Dimsbury landed on the the dais, with a sharp crack. Then there was a terrible tearing noise. The flames leapt up, in perfect focus. Terrible, blindingly white flames and as hungry as any real fire had ever been. Dimsbury screamed and screamed. Power shot through him and raked the top of the top of the chamber. The very Earth around them shook and still he screamed. 
+"The Servant does not obey!"
 
-And then there was a gasp. The flames folded in on themselves. With a crunching of bones and a whimpering, the Wizard folded up with them. Flickering in the magic light, tinier and tinier and tinier, until the the light of it winked out and only the light of a single torch that had not been knocked from the walls remained. 
+Samga threw the Wizard onto what was left of the magic flame.Dimsbury landed on the the dais with the sickening crack of a few ribs letting go. Then there was a terrible tearing noise. The flames leapt up, in perfect focus. Terrible, blindingly white flames, as hungry as any real fire had ever been. Dimsbury screamed and screamed. Power shot through him and raked the top of the top of the chamber. The very Earth around them shook and still the Wizard screamed. 
 
-> Do we need to sharpen the conflict between Samga and Dimsbury -- does Samga deliver the coup de grace of throwing the wizard into the firey rippling gap of spacetime
-
-
+The flames folded in on themselves. With a crunching of bones and a whimpering, the Wizard folded up with them. His form flickering in the magic light, tinier and tinier and tinier until the flame was less than the tongue that dances on the head of a match. Nothing remained of the Wizard.
 
 
-# 42 Aftermath
+
+# 42 -- Aftermath
 
 > do we need to describe the potion healing Relan?
 
@@ -3829,40 +3835,37 @@ And then there was a gasp. The flames folded in on themselves. With a crunching 
 
 > Which is where the mercenaries catch him. 
 
+Boltac emerged from the darkness and stood over the tiny flame. He removed the tattered, burned wool glove from his hand. He considered the struggling flame for a moment. It was smaller than the last gasp of a dying tallow candle. But it was still magic. He beat the flame out with three swipes of his glove. 
 
+"mmmmmMMMMMMMM!" protested Asarah. He rushed to her aid and loosened her gag.
 
-
-On the far side of the vaulted room, the tiny remnant of the magic flame still flickered.  Boltac emerged from the darkness. As he looked at the flame, he removed the tattered wool glove from his hand. He walked closer and considered the struggling flame. It was smaller than the last gasp of a dying tallow candle. But it was still magic. Then he beat the flame out with three swipes of his glove. 
-
-"mmmmmMMMMMMMM!" in the darkness, Asarah yelled at Boltac through her gag. He rushed to her aid. 
-
-"Are you all right?"
+"Are you all right?" asked Boltac
 
 "Untie me!"
 
-"En-henh, you're all right. Thank the gods you're all right. You know, this is a good look for you. Tied up on the ground."
+"En-henh, your all right. Thank the gods you're all right. You know, this is a good look for you. Tied up on the ground."
 
-"Boltac, don't ruin it being cute. Untie me."
+"Boltac, don't ruin this by being cute. Untie me."
 
 "Ruin what?" asked Boltac as he loosened her bonds. "It's already wrecked. I mean seriously, have you looked around you?"
 
-Boltac helped Asarah to her feet and she threw her arms around her and kissed Boltac. It was a kiss no money could buy, and a kiss that Boltac wouldn't have traded for anything in the world. 
+Boltac helped Asarah to her feet and she threw her arms around her and kissed him. It was a kiss no money could buy, and a kiss that Boltac wouldn't have traded for anything in the world. 
 
 "You can say whatever you want, Mr. Boltac, but you came back," she said, kissing him on the nose, "You gave up everything you had to save *me*. That how I *know*. And that's what makes you a hero."
 
 "A what? Hero, don't be silly. I'm not a hero, I'm just a guy trying to... to..." Boltac realized that he wasn't quite sure who he was anymore, and he liked it that way. "Anyway, if you want a hero, you should talk to the kid. That's his department, after all. Oh my Gods, the kid!"
 
-Boltac left Asarah's arms and rushed to where Relan was slumped against the wall. He looked like hell, but his eyes were open. "Did we win?" asked Relan. 
+Boltac tore himself from Asarah's arms and rushed to  Relan was slumped against the wall. The Farm Boy looked like hell, but his eyes were open. "Did we win?" asked Relan. 
 
-"Whattya mean, did we win?" said Boltac, confused by the question. Then he stood up and looked around. The Wizard was gone. Where the Orcs had collapsed to the floor, there were now greasy splotches, each with a pile of gold coins in the center. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. "Henh," said Boltac, letting it really sink in. He walked to where Dimsbury had conjured a magic door to a room full of treasure. There, in the darkness, stood a perfectly ordinary and unremarkable wooden door. 
+"Whattya mean, did we win?" said Boltac, confused by the question. Then he stood up and looked around. The Wizard was gone. All that remained of Orcs were now greasy splotches, each with a pile of gold coins in the center. About a stomachful, Boltac thought, before he could banish the strange and terrible thought from his mind. "Henh," said Boltac, letting it really sink in. He walked to the place where Dimsbury had conjured a magic door to a room full of treasure. There, in the darkness, stood a perfectly ordinary and unremarkable wooden door. 
 
-Boltac pulled the door open. on the other side Dimsbury's hoard gleamed like a dream of avarice at the end of a cold, dark night.
+Boltac pulled the door open. On the other side of it Dimsbury's hoard gleamed like a dream of avarice at the end of a cold, dark night.
 
 "We won! We WON!" said Boltac. 
 
-"We won," said Relan, as if he didn't believe it. He struggled to get up, and the collapsed back to the floor with a gasp of pain. 
+"We won," said Relan, as if he didn't believe it. He struggled to get up, and the fell back on the floor with a gasp of pain. 
 
-Boltac and Asarah rushed to his side. "Easy, kid," said Boltac, "Nobody is more surprised about this than me, but contain your enthusiasm. You're pretty banged up."
+Boltac and Asarah rushed back to his side. "Easy, kid," said Boltac, "Nobody is more surprised about this than me, but contain your enthusiasm. You're pretty banged up."
 
 "I thought I was dead? I was dead. Wasn't I dead? And you said you didn't have any more magic potions."
 
