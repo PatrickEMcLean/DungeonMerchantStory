@@ -333,7 +333,7 @@ Rattick threw the necklace on the oak counter and watched the light dance in it 
 
 Boltac, the merchant on the other side of the counter, picked up the Ruby Necklace and examined it closely. He gave Rattick a hard look. Boltac's eyes were sharp points swathed in a soft round face. As he edged into middle age, it seemed that only his strong jaw saved his countenance from sloughing down his neck into flabbiness.
 
-After careful consideration, Boltac licked his thumb, rubbed the necklace's setting and muttering, "you missed a spot."
+After careful consideration, Boltac licked his thumb, rubbed the necklace's setting and mutting, "you missed a spot."
 
 "Missed a spot?" asked Rattick, as smooth as water over river rock. 
 
@@ -1221,7 +1221,7 @@ From the corner of his eye, he caught the flash of something moving past the win
 
 Boltac walked forward slowly. He had no idea what was going on, but pretty sure that he didn't like it. It was out of the ordinary. And, in Boltac's experience, anything out of the ordinary was bad for business. In the distance he heard someone sound a horn. Then, he thought he could hear a woman scream. Or maybe it was a horse? What was going on? 
 
-He stepped outside into an empty square. To the North, across the river, he saw the red glow of fire. Ah, thought Boltac, Raiders. He knew this game all too well. He had hoped, that the new Duke's garrison was strong enough to keep the raiders out, or that his rule could have lasted a little bit longer. But the tariffs and taxes from a crossroads town like Robrecht were valuable. As long as Boltac had been here, the nobles and empires of the world had passed Robrecht back and forth like a toy. 
+He stepped outside into an empty square. To the North, across the river, he saw the red glow of fire. Ah, thought Boltac, Raiders. He knew this game all too well. He had hoped, that the new Duke's garrison was strong enough to keep the raiders out, or that his rule could have lasted a little bit longer. But the tariffs and taxes from a crossroads town like Robrecht were valuable. As long as Boltac had been here, the nobles and empires of the world had passed Robrect back and forth like a toy. 
 
 Now, they weren't even pretending to install a King anymore. Robrecht had been pillaged so many times it didn't even get to keep the illusion of  being it's own State. It had been reduced to a mere protectorate. "En-henh," Boltac grumbled. There was scant protection to be found in a protectorate. 
 
@@ -4054,55 +4054,99 @@ And with that that. Rattick decided that the gig was up. He stopped off to visit
 
 
 
-# 45 -- Boltac Confronts the Old Duke and Torvalds
 
-Weeveston Prestidigitous RampartLion Toroble the 15th stumbled onto the the stone terrace and flung himself onto a divan. On the other side of a low wall was the slow-moving remnants of the River Swift. Of course, here in the Southron lands, the name and character of the river had changed completely. Weeveston smiled to himself, without knowing why. But he didn't need a reason. He was still pleasantly drunk from a night of revelry that had not yet ended yet.
+> Asarah comes in
 
-On the other side of the river, the pure, clean, hopeful light a new day made it's way through the twisted streets and high Towers of the fabled Scented City of Shatnapur. By the time rays of dawn reached Weeveston on the other side of the river, they had fewer illusions and far less purity. But the miasma of incense and highly cultivated vice rising from the city towers had tinged the light a pleasant red. 
+Boltac smiled at her and asked, "and where have you been?"
 
-There was the pad of a sandaled foot on the flagstones behind him. He turned and smiled at his wife Tryphaenae, who was a vision of beauty in the corrupted light of dawn.
+"Well, my liege," she said with a playful curtsy, "I have been surveying our new home. And I have learned something very important about it. It is very damp."
 
-"I have ordered the servants to bring us breakfast," said Tryphaenae as she sat next to him with flounce of bangles and jewelry.
+"Damp?"
 
-"Ah my darling, you shouldn't strain yourself so, making breakfast for me."
+"Damp. Moisture from the river seems to creep up the stones. I know it's not possible, but this place frightfully clammy. If I didn't know better, I would say that the place is enchanted. Cursed even."
 
-Tryphaenae smiled. "Ordering breakfast is the least I can do for your return, my loving husband."
+"So, it just needs a good airing out, maybe?"
 
-"And what is the most you might do?" Weeveston said lewdly. Tryphaenae looked away from Weeveston as she turned to avoid his grope, so he could not see the look of distaste on her face. 
+Asarah laughed. "Oh no. No, no, no, this place is not homey at all. It will not do. Drafty, damp, strong-looking on the outside, but in no ways impressive or refined. Perhaps it is enough for a second-rate Duke, but for a King..." she tsked. "It will not do. We must build you another castle."
 
-She removed herself to another couch and said, "Save you strength Weeveston."
+Boltac sighed. All of a sudden he felt very tired. It had all happened so fast. Everyone turning to him, asking what should be done. Always more questions, more problems and fewer answers. Was he even doing any of this right? Was this what being a King was all about? Now that he had time to think about it, would he ever get the hang of it?
 
-Then a train of servants emerged with the first course of breakfast. As Weeveston lay back and let himself be waited on, he thought to himself, this is what I was born to be. 
+He walked over to the wooden thrown and sat down on it heavily. "Ennh," he said, listening to the creaking and feeling the sharp edges of the chair bite into his legs. "This chair is not a quality item."
 
-There was a tremendous pounding at the door. Weeveston finished sucking the contents of a poached sparrow egg and said, "My dear are you conducting renovations?"
+"Well commission another one," she took his hand and nodded encouragingly at Boltac, "After all, you are a King now. You get to have things the way you want them."
 
-Tryphaenae shook her head. "No, Weeveston."
+"If we have to build a new castle, I'm not sure I can afford things the way I want them."
 
-The pounding continued, this time even louder.
+She kissed him on the cheek and said, "Don't be cheap. It's unbecoming of your station."
 
-"I say, is that your, I mean *our*, front door?"
 
-"I believe it might be. But why the pounding, it is unlocked." The pounding was stopped and there was a commotion from inside the house. Weeveston saw the glint of highly polished armor before he knew who it was walking out onto the terrace.
-
-"Uncle Torvalds," said Weeveston, "Why you are just in time for breakfast."
-
-"My breakfast was three hours ago," barked Torvalds.
-
-Weeveston continued, "And a good morning to you too, Uncle. Are you sure you wouldn't care for some toast? Or whatever passes for toast here in the South. You do have toast her my darling? You do remember my wife Tryphaenae, Uncle?"
-
-"I arranged the marriage," growled Torvalds. He turned to the nearest servant and commanded, "Have a horse saddled for my nephew." Torvalds tone was such that the servant didn't even look to the mistress of the house before he ran off. 
+---
 
 
 
-Torvalds turned turned his attention to his niece-by-marriage. "Ah, my dear Tryphaenae, you are as lovely as the day you were married."
+Rattick is stopped at the border. He is dragged before the King -- turns out to be Colbac
 
-From her divan, Tryphaenae smiled and said "Torvalds, you old rogue."
+The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
+
+
+## Rattick at the end. 
+
+    At the end he asks the guard why he serves a merchant, oh, well me, when there's no fighting to be done, I serve gold. But when edge meet edge, I follow courage. 
+
+    Courage, but he's a merchant, a particularly cunning and greedy one, who drives a hard bargain. 
+
+    He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
+
+
+
+
+
+
+# 43 Boltac Confronts the Old Duke and Torvalds
+
+> Have Boltac ask why the Battlemages haven't been raining Thunderstorms down on these mountain passes. Rain, hail, all that kind of thing to soften up the resistance. 
+
+"Why isn't it raining. I mean that's the question you gotta ask yourself, right? Certainly the question that Conan and I asked ourselves."
+
+Why would they trust you?
+
+Shows the mark of the legion? 
+
+> give the visual setting. 
+
+Lounging on a divan as dark skiined servants brought him all manner of exotic fruits, Weeveston Prestidigitous
+
+In that brief halo of 
+
+> yes, his wife was looking radiant in the morning sun. And if she wasn't exactly overjoyed to at his return, at least she was smiling at him from time to time. A fact that Weeveston felt that he could build on. 
+
+> Add a reference to the decadence and the incense filled towers of Shatnapur
+
+
+
+
+Weeveston Prestidigitous RampartLion Toroble the 15th rolled over 
+
+
+The blissful peace of Weeveston Prestidigitous RampartLion Toroble the 15th had been all too fleeting. No sooner had he chased off wife's lovers than his Uncle Torvalds was hammering at the front door. Well, not literally of course. Of course, a powerful man Torvalds had a large man to do his hammering for him. A great many of the, in fact. 
+
+> Introduce the Free Companions here -- or the commander, he's the guy pounding on the door? 
+
+Clad in polished armor, Torvalds had clanked onto the terrace and interrupted what had been, up until that point, quite a nice breakfast. Before Torvalds acknowledged his nephew he commanded a servant, "Have a horse saddled for my nephew."
+
+"Good morning Uncle, would you care for some toast?" Weeveston asked. 
+
+His uncle ignored him and turned his attention to his niece-by-marriage.
+
+"Ah, my dear Tryphaenae, you are as lovely as the day you were married."
+
+From her divan, Tryphaenae smiled and said "Torvalds, you old rogue,"
 
 He bowed. "Guilty as charged. I am sorry that I must take him away from you so soon after you have been reunited, but the affairs of state..."
 
-Tryphaenae smiled invitingly and said, "I have always been understanding when it comes to affairs. Do what you must."
+Tryphaenae smiled invitingly and said, "I have always been understanding about all manner of affairs. Do what you must."
 
-Torvalds kissed her hand and said, "Our time together is always so brief my dear." Then the smile dropped away from his face and he turned back to his nephew
+Torvalds kissed her hand and said, "Our time together is always so brief my dear." Then the smile dropped away from his face and he turned to his nephew
 
 "You have lost a kingdom--"
 
@@ -4110,7 +4154,7 @@ Torvalds kissed her hand and said, "Our time together is always so brief my dear
 
 "--and we take our army to win it back."
 
-"Army?" asked Weeveston. "What army, I thought all of our forces were far, far to the North?"
+"Army?" asked Weeveston. "What army, I thought all of our forces were far, far to the North."
 
 "I have hired the Free Companions. All of them. At present they marching North. We ride to join them and retake your throne."
 
@@ -4118,30 +4162,30 @@ Weeveston did not get up.
 
 "Time is of the essence," said Torvalds said through clenched teeth.
 
-"That's it? Hired an army and off we go? No hello, no 'how are you doing'? No 'glad to see you'? No niceties at all Uncle? No concern for your poor nephew, driven from his seat by an army of creatures most foul. Horks, as they are called in the benighted regions of my former kingdom."
+"That's it? Hired and army and off we go? No hello, no how are you doing? No glad to see you. No niceties at all Uncle. Have a concern for your poor nephew, driven from his seat by an army of creatures most foul. Orcs, as they are called in the benighted regions of my former kingdom."
 
 "Dutchy," corrected Torvalds, "Let's go."
 
 Weeveston, with uncharacteristic courage, sat his ground. 
 
-"Nephew, I am not glad to see you. Your debacle has torn me from pressing business in the West. I should think that it is enough that I am here to help you fix your problem and restore you to the function and station which your family has so graciously seen fit to appoint you. However, if you require a reminder of the warm embrace of family which is denied to you due to your own, obvious shortcomings, then I will tell you that your Aunt sends her best."
+"Nephew, I am not glad to see you. You're debacle has torn me from pressing business in the West. I should think that it is enough that I am here to help you fix your problem and restore you to the function and station which your family has so graciously seen fit to appoint you. However, if you require a reminder of the warm embrace of family which is denied to you due to your own, obvious shortcomings, then I will tell you that your Aunt sends her best."
 
 Weeveston jumped and checked behind him for a highly skilled assassin. Finding himself not murdered, he rose and said, "Yes, yes. Posthaste Uncle, as you say."
 
 
-Within two days, they joined the main body of the Free Companions, an army-for-hire 20,000 strong. The men were open and easy with each other and authority. Their laughter and song on the march, provided a fine counterpoint to Uncle Torvalds and the detachment of Mercian BattleMages with him.
+Within two days, they joined the main body of the Free Companions, an army-for-hire 20,000 strong. The men were free and easy with each other and authority. Their laughter and song on the march, provided a fine counterpoint to Weeveston's grim Uncle and a detachment of Mercian BattleMages. Even on a good day, a BattleMage was a odd sort of duck. Weeveston couldn't remember a Wizard who wasn't, in one way or another, but four that his Uncle had brought along had seemed particularly humorless. Still, they did their job. The threat of their sinister magic unleashed managed to keep the Free Companions civil. 
 
-Even on a good day, a BattleMage was a odd sort of duck. Weeveston couldn't remember a Wizard who wasn't, in one way or another, but the four that his Uncle had brought along had seemed particularly humorless. Still, they did their job. The threat of their sinister magic kept the Free Companions civil. Really, thought Weeveston, mercenaries? Not a very good idea. How could one trust a mercenary? How could one trust anyone, for that matter, thought Weeveston. 
+> Brave they might be, but even Weeveston had few illusions about their loyalty. 
 
-As he thought this, the leader of the Free Companions, a swarthy, long-haired man known as Laughlin turned in his saddle and looked at him. Weeveston found it disconcerting and gave the man a nervous little grin. Laughlin smiled broadly revealing several gold teeth. Then he turned forward again and laughed a booming laugh. 
+> Torvalds mutters something about wishing he had another army from the north, so they could pin them in and slaughter them all
 
-Weeveston shivered. 
+> Free companion guy "Sounds wasteful."
 
-They column continued the northward march for a week and a half. When the River Swift was not lost in deep gorges and defiles, they traveled the road beside it. And it it's rapids and falls, Weeveston often though he could hear mocking laughter. 
+> Vengeance is a luxury. 
 
-When he had left Robrect the last time, he had really thought he had gotten out from under. But it seemed that the world did not work that way. No man couldn't change his station just because he wanted to. So Weeveston was being dragged to a reunion with his destiny already in progress. A damn damp destiny in dank castle at the center of a dull town. Weeveston blinked back a few tears as he thought about it.
+They marched for a week and half along the side of the River Swift. And not a day went by that Weeveston didn't think about the pleasant and fast trip he had made down the river, heading in the other direction. He had really thought he had gotten away with something. That he was out from under. But it seemed that the world did not work that way. A man could change his station just because he wanted to. So it was that the horse of metaphorical fate, carried poor Weeveston onward with his reunion with his destiny already in progress in a damn castle in dank town. Or so he thought. 
 
-His self-pity was interrupted by a commotion from further up the road. He heard the criest of "Scout! Scout!" and spurred his horse to reach his Uncle in the vanguard.  his dour Uncle perked up. Weeveston got there the same time as a rider on a lathered horse did. Torvalds demanded, "Have you sighted them? How many are there? How are they armed? What is their disposition?"
+A commotion went up in the ranks before him. At the cries of "Scout! Scout!" his dour Uncle perked up. As a rider on a lathered horse approached, Torvalds demanded, "Have you sighted them? How many are there? How are they armed? What is their disposition?"
 
 "One, my Lord."
 
@@ -4149,7 +4193,7 @@ His self-pity was interrupted by a commotion from further up the road. He heard 
 
 "One carriage approaches my Lord, flying a banner of truce."
 
-"Oh. Oh, well, let them through. This may be easier than I thought." The word went up the ranks, and, with some grumbling, the Free Companions parted so a white carriage could reach them. Torvalds and Weeveston dismounted and prepared to receive the parley. 
+"Oh. Oh, well, let them through. This may be easier than I thought." The word went up the ranks, and, with some grumbling, they parted as a white carriage rumbled past. Torvalds and Weeveston dismounted and prepared to receive the parley. 
 
 "I say," said Weeveston, "I think that's my carriage."
 
@@ -4163,13 +4207,13 @@ The driver sat up straighter and said, "Boltac the Shrewd, King of Robrecht, fir
 
 The door swung out and Boltac waddled out. 
 
-"Hello," said Boltac, "You must be the guy in charge," he said to Torvalds, "'cause, you look pissed."
+"Hello," said Boltac, "You must be the guy in charge," he said to Torvalds, "you look pissed."
 
 "You have stolen our Dutchy," said Torvalds.
 
-"Stolen, I haven't stolen anything. He ran away." Boltac said, pointing at Weeveston.  "Besides," Boltac said with a smile, "It ain't a Dutchy. It's a Kingdom. And I'm the King."
+"Stolen, I haven't stolen anything. He ran away. Besides," Boltac said with a smile, "It ain't a Dutchy. It's a Kingdom. And I'm the King."
 
-"You are no King. You are not even of a royal line,"
+"You are no King. You are not even of a royal line,""
 
 "Whattya mean I'm not the King of Robrecht. I rode here in the King's Carriage.""
 
@@ -4183,29 +4227,29 @@ Boltac said, "It's an eelpout. It's like a fish's ugly cousin. And you see those
 
 Weeveston read as if it was difficult for him, "Everybody pays their way? What kind of motto is that?"
 
-"This foolishness changes nothing," said Torvalds "It is our Dutchy and we have the army with which prove it." With a wave of his hand he indicated Laughlin, who was grinning through his beard at the whole proceedings from his tall horse nearby. Torvalds pointed to a few of the Companions and said, "Seize him!"
+"This foolishness changes nothing," said Torvalds "It is our Dutchy and we have the army with which prove it." With a wave of his hand he indicated the Free Companions who had circled around them and watched this exchange with great interest. "He pointed to a few of the soldiers and said, "Seize him!"
 
-None of the companions moved.
+The soldiers did not move. 
 
 "En-henh, about that," said Boltac. 
 
-"Seize him!" Torvalds said, stamping his foot at the companions impudence.
+"Seize him!" Torvalds said, stamping his foot at their impudence.
 
 "I don't know *why* they call them the *Free* Companions. 'Cause we both know they don't come cheap," said Boltac with a smile. 
 
 "You are using the gold from our own treasury to hire an army to fight us! SUCH IMPUDENCE! I drag your body through the streets from my own horse!"
 
-"En-henh," said Boltac, "So, funny thing about *that*. There was no gold in the treasury. It was all gone. Robrecht was broke. I can't say I was surprised, seeing how your boy here saw fit to loot our fair city six ways from Sunday. So I refilled the treasury on my own."
+"En-henh," said Boltac, "So, funny thing about *that*. There was no gold in the treasury. It was all gone. Robrecht was broke. I can't say I was surprised, seeing how your boy here say fit to loot our fair city six ways from Sunday. So I refilled the treasury on my own."
 
 "What? How?"
 
 "Yeah, that's why the call me the Hero of Robrecht. That's why they made me King. I bought it. Just like I bought your army."
 
-"They would never turn against us. Then they would never be safe against the Feared Battlemages of Mercia." Torvalds gave the phrase all of the omnious gravity he could manage. A low, fearful murmur rippled through the crowd of mercenaries that surrounded them. It was true, they were frightened of magic. Boltac had told Laughlin that he could take care of the BattleMages -- that was part of the deal --  but these hard men could not understand how one fat Merchant could handle the sinister and powerful men that they could not. 
+"They would never turn against us. Then they would never be safe against the Fearsome Battlemages of Mercia." Torvalds gave the phrase all of the omnious gravity he could manage. A low, fearful murmur rippled through the crowd of soldiers that surrounded them. It was true, they were frightened of magic. Boltac had said that he could take care of the BattleMages -- that was part of the deal --  but these hard men could not see how one fat Merchant could handle the sinister and powerful men that they could not. 
 
 Boltac didn't miss a beat. "Okay, so funny thing about *BattleMages*. Well, hang on. You got one of them fancy BattleMages lying around? I'll just show you."
 
-Within moments, the four sinister, tattooed men came to the center of the circle. The tallest of them looked down at Boltac and sneered, "What do you think brothers, should I transmogrify this one into a pig, or is he already pig enough." The Battlemages laughed humorlessly at their leader's joke-like object.
+Within moments, the four sinister, tattooed men came to the center of the circle. The tallest of them looked down at Boltac and sneered, "What do you think brothers, should I transmogrify this one into a pig, or is he already pig enough."
 
 Boltac chuckled along with them and then grew serious, "I don't think you could Mans-Trog-mify you're ass with both hands."
 
@@ -4213,31 +4257,21 @@ Boltac chuckled along with them and then grew serious, "I don't think you could 
 
 "Yeah, I dare plenty. Now strike me down. Or pull a rabbit out of a hat. I don't care. Just work some magic already."
 
-The Mage raised his hands in the air and began a guttural chant that rose in volume and intensity. His eyes rolled back into his head. Even as the crowd parted behind Boltac, the merchant stood his ground. As the Mage reached a full-throated yell, he whipped his entire body and threw his hands at Boltac. 
+The Mage raised his hands in the air and began a gutteral chant that rose in volume and intensity. His eyes rolled back into his head. Even as the crowd parted behind him, Boltac stood his ground. Finally, as the Mage reached a full-throated yell, he whipped his entire body and threw his hands at Boltac. 
 
-The BattleMage held this pose for a moment, but nothing happened. The shook his hands in frustration. Then, he looked at the tip of his fingers. A blush covered his face and overwhelmed the red handprint where Boltac had slapped him.
+The BattleMage held the fearsome pose for a moment, then, when nothing happened. He shook his hands in frustration. Then, he looked at the tip of his fingers. Then a blush covered his face and hit the red handmark that Boltac had just left on his cheek. 
 
-"En-henh. Nuttin." Boltac turned to the crowd and said, "See? They're frauds. FRAUDS! Their magic doesn't work anymore."
+"En-henh. Nuttin." Boltac turned to the crowd and said, "See? They're frauds. FRAUDS! They're magic doesn't work anymore."
 
 Torvalds, with fear in his voice, turned to the Mages and said, "But you told me that it was that the portents were bad. That it was an ill-omened time for the working of great magics!"
 
 With that the crowd burst into laughter. There were hoots and howls of derision. One of the men even threw a clod of earth and hit the BattleMage in the face. 
 
-"All right! All right!" yelled Boltac, waving his arms for quiet. None of the men listened. But their commander, Laughlin, dismounted from his horse and strode to the center of the gathering. He did not even have to speak. He raised his large, gloved hand and the men fell silent. He looked to Boltac and asked, "Are we through?"
+"All right! All right!" yelled Boltac, waving his arms for quiet. Then he turned his attention back to Torvalds and Weeveston. "I didn't hire these exorbitantly priced Companions to fight you." Boltac nodded at the leader of the Free Companions and quickly added, "That's a compliment, you're a hell of a negotiator." He turned back to Torvalds and continued. "I hired them NOT to fight you. Less risk. Cheaper that way. In fact, I made them all citizens. Gave them a nice plot of land, reclaiming an area that had been recently terrorized by an evil Wizard and his creations."
 
-"A few more words," said Boltac. 
+Weeveston asked, "What happened to the Wizard?"
 
-"Traitor," Torvalds hissed at Laughlin. "You have lost any chance you had to become a full citizen of the Mercian empire."
-
-Laughlin smiled stepped out from between Boltac and Torvalds.
-
-"So, Torvalds. There's no reason this has to get ugly. Mostly because I didn't hire these exorbitantly priced Companions to fight you." Boltac nodded at Laughlin who now stood in the circle behind Torvalds. "That's a compliment, you're a hell of a negotiator." 
-
-Boltac continued, "I hired them NOT to fight you. Less risk. Cheaper that way. In fact, I made them all citizens. Gave them each a nice plot of land, reclaiming an area that had been recently terrorized by an evil Wizard and his creations."
-
-Weeveston asked, "What happened to the Wizard? What have you done with Dimsbury."
-
-"Ennnh, magic was a dangerous business while it lasted. But, here's the thing. Just cause I'm not paying these guys, doesn't mean they can't rip you limb from limb for their own enjoyment."
+"Ennnh, magic was a dangerous business while it lasted. But, here's the thing. Just cause I'm not paying them, doesn't mean they can't rip you limb from limb for their own enjoyment."
 
 The men cheered.
 
@@ -4255,13 +4289,13 @@ Deeply affronted, Torvalds exclaimed, "You are stealing our horses?"
 
 "You are a vile little man, your Highness. You forgot to add your Highness. Very bad to do this when addressing a King."
 
-"Enough of this madness!" Torvalds drew his sword. He lifted his sword for a swing that would surely cleave Boltac in two. Boltac just shook his head. Before the sword could start forward, a foot of steel emerged from Torvald's belly. Behind him, Laughlin put his knee on Torvalds shining armor pulled out his dirk back through the gap his armor. Blood sputtered from Torvalds' lips as he collapsed to his knees. He fell to the ground at Boltac's feet. Weeveston looked on in wide-eyed horror. 
+"Enough of this madness!" and he drew his sword. As he rared backwards for a swing that would surely cleave Boltac in two, the merchant just shook his head. Before the sword could start forward, a foot of steel emerged from Torvald's belly. Behind him, the leader of the Free Companions, pulled out his sword. Blood sputtered from Torvalds lips as he collapsed to his knees and fell to the ground at Boltac's feet. Weeveston looked on in wide-eyed horror. 
 
-"What a waste," said Boltac shaking his head. Then he put a sympathetic hand on Weeveston's shoulder and walked him away, "You don't need to look at that, trust me."
+"What a waste," said Boltac as he finished shaking his head. Then put a hand on Weevestons shoulder and walked him away, "You don't need to look at that, trust me."
 
-As they walked South Boltac said, "Look, Weeveston, if that even is your real name, we've got easily defensible mountain passes. We're on the trade road to everywhere. And now, we've got our own kingdom. We'd like to be friends with everybody, you understand. Friends and trading partners. 'Cause it's good for business. Anger, bad blood, ancient feuds all of that garbage is bad for business, right? So, before I let you go, I gotta know. Do you want to be my friend?"
+As they walked South Boltac said, "Look, Weeveston, if that is your real name.  we've got easily defensible mountain passes. We're on the trade road to everywhere. And now, we've got our own kingdom. We'd like to be friends with everybody, you understand. Friends and trading partners. 'Cause it's good for business. Anger, bad blood, ancient feuds all of that garbage is bad for business, right? So, before I let you go, I gotta know. Do you want to be our friend?"
 
-Pale and shaking, Weeveston looked behind him. The Laughlin was wiping Uncle Torvalds blood from his dirk. He smile again. 
+Pale and shaking, Weeveston looked behind him. A few steps behind him, Weeveston saw the leader of the Free Companions was wiping Uncle Torvalds blood from his sword. The man smiled at him as he did it. 
 
 "I do. I do want to be friends," Weeveston said, looking around nervously. 
 
@@ -4279,22 +4313,21 @@ Pale and shaking, Weeveston looked behind him. The Laughlin was wiping Uncle Tor
 
 "Don't be silly, I'm not that kind of King."
 
-Boltac shook Weeveston's soft hand and watched him scurry South as fast as his expensive shoes would allow. From beside him, Boltac heard Laughlin chuckle. The big man made a clicking noise with his tongue as he shook his head. 
+Boltac shook Weeveston's soft hand watched him scurry South as fast as his expensive shoes would allow. From beside him, Boltac heard Gustavo Rifkanza low chuckle. The big man made a clicking noise with his tongue as he shook his head. 
 
-"You know they will come for you," said Laughlin. 
+"You know they will come for you," said Gustavo. 
 
-"En-henh," said Boltac. He looked at Laughlin  and said, "And you know they're gonna to come for you too?" 
+"En-henh," said Boltac. He looked at Gustavo and said, "And you know they're gonna to come for you too?" 
 
-Laughlin smiled again. A smile that had survived a countless fights and endless miles of of contested ground. He shrugged and said, "It will be expensive for them, either way."
+Gustavo shrugged and said, "It will be expensive for them, either way."
 
-"En-henh," said Boltac. 
 
 
 
 # xx Rattick picked up 
 
 
-Two days later Rattick was drunk in Shatnapur, courtesy of a purse he had cut off a wealthy merchant. He smiled at the dancing girls, and made a note to ask about the heavy incense they burned in this decadent establishment of this most decadent Southern city. He liked it. And wanted the chance to invoke the scent-memory of this floating moment whenever he wanted. He took a long drink of his wine and smiled. It was all over, and he had escaped with his life. Reduced to simple cutpurse, perhaps, but, so far, the life was treating him well. He had earned a vacation in the South. 
+Two days later he was drunk in Shatnapur, enjoying the largess of a purse he had cut off a wealthy merchant. He smiled at the dancing girls, and made a note to ask about the heavy incense they burned in this decadent establishment of this most decadent Southern city. He liked it. And want the chance to invoke the scent-memory of this floating time whenever he wanted. He took a long drink of his wine and smiled. It was all over, and he had escaped with his life. Reduced to simple cutpurse, perhaps, but, so far, the life was treating him well. Perhaps he had earned a vacation in the South. 
 
 In his contentment, Rattick let his guard down, so he never saw it coming. He never heard the thock of the heavy wood sap that hit him across the back of his head. Never felt the rough hands lifting him up and depositing him in the back of the wagon. He was unaware of the hard gallop North. But, in the plus column, he hadn't had to pay his bar tab, which had been substantial. 
 
@@ -4306,7 +4339,7 @@ The next time he awoke it was to the sound of horse's hooves ringing on cobblest
 
 The man in the bandanna cuffed him across the mouth and said, "Don't speak ill of your Kingdom. One might get the idea that you were a traitor."
 
-What game was this? Soldiers suggested that the place had been overrun 15 minutes after Rattick had left. But with soldiers would come a sack. Rapine, loot and pillagery of the first order. But, from what Rattick had seen, the town of Robrecht was eerily intact. 
+What game was this? Soldiers suggested that the place had been overrun 15 minutes after Rattick had left. But with soldiers would come a sack. Rapine, loot and pillagery of the first order. But, from what Rattick had seen, the town of Robrect was eerily intact. 
 
 Rattick rubbed his jaw with the cold water in the basin to ease the sting. Then he was hauled into the keep and thrown onto the floor. When he looked up, he saw Boltac standing before the throne. "Ha," is all Rattick said. 
 
@@ -4390,55 +4423,6 @@ My first advice as minister is to be rid of this peasant. This ox is more useful
     "You are right to do so, my liege."
 
     "Just so."
-
-# Asarah Ending
-
-> Asarah comes in
-
-Boltac smiled at her and asked, "and where have you been?"
-
-"Well, my liege," she said with a playful curtsy, "I have been surveying our new home. And I have learned something very important about it. It is very damp."
-
-"Damp?"
-
-"Damp. Moisture from the river seems to creep up the stones. I know it's not possible, but this place frightfully clammy. If I didn't know better, I would say that the place is enchanted. Cursed even."
-
-"So, it just needs a good airing out, maybe?"
-
-Asarah laughed. "Oh no. No, no, no, this place is not homey at all. It will not do. Drafty, damp, strong-looking on the outside, but in no ways impressive or refined. Perhaps it is enough for a second-rate Duke, but for a King..." she tsked. "It will not do. We must build you another castle."
-
-Boltac sighed. All of a sudden he felt very tired. It had all happened so fast. Everyone turning to him, asking what should be done. Always more questions, more problems and fewer answers. Was he even doing any of this right? Was this what being a King was all about? Now that he had time to think about it, would he ever get the hang of it?
-
-He walked over to the wooden thrown and sat down on it heavily. "Ennh," he said, listening to the creaking and feeling the sharp edges of the chair bite into his legs. "This chair is not a quality item."
-
-"Well commission another one," she took his hand and nodded encouragingly at Boltac, "After all, you are a King now. You get to have things the way you want them."
-
-"If we have to build a new castle, I'm not sure I can afford things the way I want them."
-
-She kissed him on the cheek and said, "Don't be cheap. It's unbecoming of your station."
-
-
----
-
-
-
-Rattick is stopped at the border. He is dragged before the King -- turns out to be Colbac
-
-The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
-
-
-## Rattick at the end. 
-
-    At the end he asks the guard why he serves a merchant, oh, well me, when there's no fighting to be done, I serve gold. But when edge meet edge, I follow courage. 
-
-    Courage, but he's a merchant, a particularly cunning and greedy one, who drives a hard bargain. 
-
-    He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
-
-
-
-
-
 
 # 46 End With Relan
 

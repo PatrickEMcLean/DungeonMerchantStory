@@ -3,6 +3,8 @@
 Boltac is part groucho marx, part carl Reiner, maybe part Elliot Gould, Maybe part Zero Mostel
 
 
+Mention Torvalds -- the contracdiction of names. Linus intelligent, and blanket carrying cartoon character and Torvalds, which sounds like some ancient longboat driving rape-and-pillage
+
 # 29 A maze of twisting passages, each alike
 
 

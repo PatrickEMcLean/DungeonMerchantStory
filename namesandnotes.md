@@ -91,6 +91,15 @@ Stealing Liberty -- guy steals the statue of Liberty and deposits it on their en
 
 ## continuation stories ##
 
+
+A story about Weeveston -- boltac helping him be a playboy as he takes over the Mercian empire. Give Weeveston a butler that sees him through the intrigue. A la Jeeves and Wooster.
+
+Boltac uses the river for trade (locks, removes rapids) in Robrecht, so that the difficult overland journeys are made unnecessary. and they can charge a toll on river traffic. 
+
+THis upsets the bandits, who now have nothing to steal. 
+
+They try to become, Hapless river pirates most of them drowning. They try and try throughout the book -- but never quite get there. But Boltac uses the appearance of River pirates to some political/negotating advantage. Maybe to seize more power. 
+
 We need a bard in the next tale. Redeem heroes.
 
 Add Relan's family -- strange, sullen, surly hill people -- in as characters. They are very odd, but very loyal to Boltac. Definitely Rednecks. 
