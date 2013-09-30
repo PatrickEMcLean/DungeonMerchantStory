@@ -2,13 +2,19 @@
 
 # next pass
 
+
+> Add the wand vibrating in Samga's hand
+> Add Samga questioning why he is still alive?
+
+
 > Rattick -- cape of fading black becomes cape of faded black?
 
 
 > Do we need to describe the potion healing Relan? Swelling with moisture?
 
+> Describe the free companions as having no uniforms, but all displaying some prominently red piece of kit. A bandanna, a breastplate painted red. A red helmet One man with his face painted red. 
 
-Boltac's description
+Enhance Boltac's description?
 
 
 Consider adding Battlemages and magic disrupting transport to #2-3
@@ -226,11 +232,37 @@ Bag of Holding.
 Does Relan get killed and brought back?
 
 
+## For Torvalds v Boltac chapter
+
+> Brave they might be, but even Weeveston had few illusions about their loyalty. 
+
+> Torvalds mutters something about wishing he had another army from the north, so they could pin them in and slaughter them all
+
+> Free companion guy "Sounds wasteful."
+
+> Vengeance is a luxury. 
+
+
+##  Have Boltac ask why the Battlemages haven't been raining Thunderstorms down on these mountain passes. Rain, hail, all that kind of thing to soften up the resistance. 
+
+"Why isn't it raining. I mean that's the question you gotta ask yourself, right? Certainly the question that Conan and I asked ourselves."
+
+Why would they trust you?
+
+Shows the mark of the legion? 
+
+
+
 
 Consider adding a meal to the action -- between Relan boltac -- before they fight the Orc
 
 
 Show Relan returning to the old farm to pay off chapter 14?
+
+
+
+
+
 
 # 1 -- In the Company of Heroes
 
@@ -4291,36 +4323,39 @@ Laughlin smiled again. A smile that had survived a countless fights and endless 
 
 
 
-# xx Rattick picked up 
+# 46 -- Rattick picked up 
 
+Rattick leered at the dancing girl who writhed in the smoke from the braziers. He threw a coin and motioned for another bottle of wine. He raised his glass in a silent toast to the wealthy merchant who's stolen purse was funding this party. Then he drained the glass. Fate might have reduced him to a simple cutpurse, but so far, his new station was treating him well. 
 
-Two days later Rattick was drunk in Shatnapur, courtesy of a purse he had cut off a wealthy merchant. He smiled at the dancing girls, and made a note to ask about the heavy incense they burned in this decadent establishment of this most decadent Southern city. He liked it. And wanted the chance to invoke the scent-memory of this floating moment whenever he wanted. He took a long drink of his wine and smiled. It was all over, and he had escaped with his life. Reduced to simple cutpurse, perhaps, but, so far, the life was treating him well. He had earned a vacation in the South. 
+Rattick never saw it coming. He didn't hear the thock of the leather-covered sap that hit him across the back of his head. He never felt the rough hands lifting him up and depositing him in the back of the wagon. He was unaware of the hard gallop North. 
 
-In his contentment, Rattick let his guard down, so he never saw it coming. He never heard the thock of the heavy wood sap that hit him across the back of his head. Never felt the rough hands lifting him up and depositing him in the back of the wagon. He was unaware of the hard gallop North. But, in the plus column, he hadn't had to pay his bar tab, which had been substantial. 
+When he awoke, he was aware of a tremendous headache. He opened his eyes and saw that he was in the back of a canvas covered wagon. Rattick wondered where the dancing girl had gone. Then he wondered where the Inn had gone. When he saw fog blowing through the gaps in the canvas then he wondered where the entire city of Robrecht was gone. A chill came over him. The cold. The fog. Then he knew he was headed back to Robrecht. 
 
-When he awoke, he saw fog blowing through the gaps in the wagon cover and he knew he was back in Robrecht. When he attempted to roll over, he realized he was bound hand and foot. He struggled for a while. Shouted a little, but when nothing came of any of it, he gave up and went back to sleep. 
+He attempted to roll over and discovered that he was bound hand and foot. He struggled and shouted for a while, but nothing came of it, so he gave up and went back to sleep. The next time he awoke it was to the sound of horse hooves ringing on cobblestones. He was lifted from the back of the wagon like a sack of grain and deposited in front of a stable. One of his captors, a swarthy man who flashed gold teeth at Rattick when he smiled, cut him free with a well-used dirk.
 
-The next time he awoke it was to the sound of horse's hooves ringing on cobblestones. He was lifted from the back of the wagon like a sack of grain and deposited in front of a horse trough. One of the men who had taken him, a swarthy man who wore a red bandanna around his head, cut him free with a strangely curved knife and said, "Wash yourself, you are to appear before the King."
+The man said, "Wash yourself, you are to appear before the King."
 
-"King?" said Rattick. This isn't a Kingdom. 
+"King?" said Rattick. He surveyed the courtyard of Robrecht's central keep. "This isn't a Kingdom." 
 
-The man in the bandanna cuffed him across the mouth and said, "Don't speak ill of your Kingdom. One might get the idea that you were a traitor."
+The man in the bandanna cuffed him across the mouth and said, "Don't speak ill of your Kingdom. One might get the idea that you were a traitor." The he laughed, flashing his gold teeth again. Rattick licked the raw place on the inside of his mouth and estimated how much he would sell this man's teeth for after he had killed him. 
 
-What game was this? Soldiers suggested that the place had been overrun 15 minutes after Rattick had left. But with soldiers would come a sack. Rapine, loot and pillagery of the first order. But, from what Rattick had seen, the town of Robrecht was eerily intact. 
+But not yet. First he must figure out what was going on here. Then somehow win his freedom. Then insinuate himself into this soldiers confidence. Then betray him. Slip the knife in when he least expected it. A few sharp jerks with a pair of pliers and then away. 
 
-Rattick rubbed his jaw with the cold water in the basin to ease the sting. Then he was hauled into the keep and thrown onto the floor. When he looked up, he saw Boltac standing before the throne. "Ha," is all Rattick said. 
+But what was going on here? He saw more fighters coming and going in the courtyard. That would suggest that Robrecht had been overrun shortly after Rattick had left. The place should have been raped and pillaged out of existence. But city was strangely intact. 
 
-"You should have more respect when addressing a King," Rattick heard a familiar voice say. He turned his head and there was Relan, dressed in fine clothing and wearing a polished breastplate that featured a rampant eelpout? What was going on here?
+"Clean yourself," the man in the bandanna said again, prodding him towards the water in the horse trough. 
+
+Rattick rubbed his jaw with the cold water in the basin to ease the sting. Then he washed himself as best he could. Before he was done, two soldiers had grabbed him by the arms and hauled him into the keep. Doors, rooms, hallways, all passed into a blur, until finally, Rattick was deposited on the floor of a large room. From behind him he heard a man saying, "Ratttick, a man not to be trusted." On his hands and knees, he looked behind him and saw a man dressed in formal suit, holding himself perfectly erect. The man did not return his gaze, but instead looked unwavering toward the front of the room.
+
+When Rattick looked forward, he saw Boltac standing before the throne, wearing something that looked like a crown. "Ha," Rattick said. 
+
+"You should have more respect when addressing the King," Rattick heard a familiar voice say. He turned his head to the left and there was Relan, dressed in fine clothing and wearing a polished breastplate that featured a rampant eelpout? What in the hell was going on here?
 
 "I thought I killed you. I'm sure I killed you," said Rattick.
 
 "En-henh, maybe you are slipping in your old age Rattick. Maybe it's time you considered a new line of work."
 
-"Corpse is a good job for him," said Rattick, his hand dropping to the sword at his side.
-
-"Are you serious?" asked Boltac. "That would be a tragic waste of truly black-hearted and nefarious talent.""
-
-"While the loss would pain me dearly, how is it that you are not dead? Why has the empire seen fit to let a Merchant play Kinglet with it's property.""
+"While the loss would pain me dearly, how is it that you are not dead? Why has the Empire seen fit to let a Merchant play Kinglet with it's property.""
 
 "Because I'm cunning and I know how to buy things cheap. Any more questions"
 
@@ -4328,72 +4363,91 @@ Rattick rubbed his jaw with the cold water in the basin to ease the sting. Then 
 
 Boltac rolled his head to one side and squinted. "From the look of it, I'd say you're not dead because you've got a very thick skull. And I've got a proposition for you."
 
+"A proposition," Rattick said, getting to his feet.
+
 "Well, Rattick, it's like this," Boltac said. "Turns out, after all of it, I'm a King."
 
 "Ha," said Rattick.
 
 "I know, no one is more surprised than I am. But here we are and the only thing to do is make the best of it. So, I'd like to make you my first Minister."
 
-"What! This snake? He would not be a loyal minister."
+"What! This snake? He would not be a good and loyal minister," protested Relan.
 
 "Exactly. Precisely. Just when I think you are hopeless, kid, you show real glimmers of intelligence."
 
+"You could never trust him," said Relan.
 
+"You could trust your loyal and humble servant," said Rattick, bowing low. 
 
+"See, that's just it. I'm not going to trust him. That's where everybody goes wrong in this King game. They start trusting their advisors and then bango, they are betrayed. And they wind up with their head on a pike looking down on the world with a confused look on their face as the crows peck out their eyeballs.
 
-My first advice as minister is to be rid of this peasant. This ox is more useful to you as a martyr than as a, a, a, what is he? Errand boy? Valet?""
+"I don't want to trust him. I want him to try everything he possibly can. If I'm safe against my 'friends', I will be certainly safe against my enemies."
 
+"My Lord, I am at your service," bowing even lower this time. 
 
+"Get the sarcasm from your voice Rattick. I'm a king now, so it's not Lord. It's Your Highness." 
 
-"And this, this peasant? This son of a poor hillside rock farmer -- what is he in this?"
+"King Boltac?" Rattick asked. 
+
+"What did I just tell you about the sarcasm. See Relan? Do you see what a wonderful, disloyal minister he makes? Now come here Rattick kneel so you can receive your badge of office."
+
+"You mean you are not going to have me killed? You really mean to do this, appoint me as minister to your court?"
+
+"Disloyal Minister. Minister of Disloyalty and Sedition. We can work out the title later, but yes, yeah, you slippery bastard. I want you where I can keep an eye on you."
+
+Rattick knelt and said, "This is going to be a very different sort of kingdom, my liege." There was not the slightest hint of sarcasm in his voice. 
+
+"Yes, it is. There's no magic anymore, Rattick. So who knows where the progress will stop." Then Boltac draped a robe of office around Rattick's shoulders.
+
+ Rattick said, "Progress is magic, my liege."
+
+"Well spoken, Rattick. I distrust your flattery, but well spoken."
+
+"You are right to do so, my liege."
+
+"Now, arise my Disloyal Minister. You have the run of the keep. But if you try to leave and get caught, you'll be killed. So either stick around or be really sneaky."
+
+"Sire, My first advice as minister is to be rid of this peasant. This ox is more useful to you as a martyr than as a, a, a, what is he? Errand boy? Valet?""
 
 "Why just look at him Rattick. He's the hero, anybody can see that."
 
 "Hero? How can he be the hero? He's not even a knight."
 
-"And you're not even wise in the ways of statecraft, yet you are appointed my disloyal minister."
+"Excellent point, Rattick!" Boltac turned to Relan, "See how useful this guy is?"
 
+"He is a bad man," said Relan.
 
-    "No Rattick, I don't want to trust you. I want you to try everything you possibly can. If I'm safe against my friends, I will be safe against my enemies."
+"You think you rule a Kingdom by being Mr. Nice Guy all the time. Now get over here and take a knee, so I can Knight you."
 
-    "My Lord, I am at your service."
+"A knight? How can I be a knight? Don't I have to be a squire first?"
 
-    "And remove the sarcasm from your voice Rattick. I actually am a Lord now." He unfolded four sheets of paper. 
+Boltac smiled at the Farm Boy, still so innocent in the ways of the world, and oblivious to what had happened, "I'm a King, and I didn't have to be a prince first. 
 
-    He had gotten all the kingdoms to recognize him as king in return for a treaty that allied Robrecht 
+"But I don't know anything about being a Knight!"
 
-    "You will go to war with everyone?"
+"I don't know anything about being a King, so we'll both figure it out as we go along."
 
-    "No. We will be neutral."
+"I don't think this is a very good idea. I'm really not comfortable--"
 
-    "Neutral," asked Rattick, "you mean as a ruse?"
+"En-henh," said Boltac, "So you know what the first rule of being a Knight is?"
 
-    "No, I mean we will be neutral."
+"No, see, I don't even know what the first rule is!"
 
+"The first rule is you obey the King."
 
-    And you are Lord Colbac?
+"Right," Relan nodded, "obey the King."
 
-    "No Rattick, I have adopted a new name constituent with my new station in life. I am the first Lord Robrecht. Now kneel before me and accept your knighthood." 
+"Now kneel and hold still so I can knight you without cutting your ear off."
 
-    "Knighthood?"
+"To Knight him you need a sword," said Rattick, "Shall I go get a blade for you?"
 
-    "Yes Rattick. What's the matter? You think Kings shouldn't have a sense of humor."
+"Wrong again, Rattick. You are a natural at this job. No sword. No more disguising a fancy club by calling it a scepter. See how wrong your advice is. You are a natural at this job." Boltac picked up an ornate scale from it's stand beside the throne. As Boltac carefully touched Relan on one shoulder and then the next. Then he said, "Deal fairly with all. Now arise, Sir Relan, first Knight of Robrecht."
 
-    "This is going to be a very different sort of kingdom, my liege," Rattick said without a hint of sarcasm."
+"But…" protested Relan.
 
-    "Yes, Rattick, it is. There's no magic anymore, Rattick. Who knows where the progress will stop."
+"Obey!" said the King. After Relan stood Boltac said, "Congratulations, the both of you. Sir Relan, I expect great things from you. Minister, I expect horrible things from you. The good and the bad. Now get outta here. Both of you. You too Chamberlain. No more visitors. Court's closed."
 
-    "Progress is magic, my liege."
-
-    "Well spoken, Rattick. I distrust your flattery, but well spoken."
-
-    "You are right to do so, my liege."
-
-    "Just so."
-
-# Asarah Ending
-
-> Asarah comes in
+As they left the room Asarah came in. 
 
 Boltac smiled at her and asked, "and where have you been?"
 
@@ -4405,278 +4459,19 @@ Boltac smiled at her and asked, "and where have you been?"
 
 "So, it just needs a good airing out, maybe?"
 
-Asarah laughed. "Oh no. No, no, no, this place is not homey at all. It will not do. Drafty, damp, strong-looking on the outside, but in no ways impressive or refined. Perhaps it is enough for a second-rate Duke, but for a King..." she tsked. "It will not do. We must build you another castle."
+Asarah laughed. "Oh no. No, no, no, this place is not homey at all. It will not do. Drafty, damp, strong-looking on the outside, but in no ways impressive or refined. Perhaps it is enough for a second-rate Duke, but for a King..." she tsked. "It will not do. We must build you a castle my liege."
 
 Boltac sighed. All of a sudden he felt very tired. It had all happened so fast. Everyone turning to him, asking what should be done. Always more questions, more problems and fewer answers. Was he even doing any of this right? Was this what being a King was all about? Now that he had time to think about it, would he ever get the hang of it?
 
-He walked over to the wooden thrown and sat down on it heavily. "Ennh," he said, listening to the creaking and feeling the sharp edges of the chair bite into his legs. "This chair is not a quality item."
+He walked over to the wooden throne and sat down on it heavily. "Ennh," he said, listening to the creaking and feeling the sharp edges of the chair bite into his legs. "This chair is not a quality item."
 
-"Well commission another one," she took his hand and nodded encouragingly at Boltac, "After all, you are a King now. You get to have things the way you want them."
+"Well commission another one." She took his hand and nodded encouragingly at him. "After all, you are a King now. You get to have things the way you want them."
 
 "If we have to build a new castle, I'm not sure I can afford things the way I want them."
 
 She kissed him on the cheek and said, "Don't be cheap. It's unbecoming of your station."
 
 
----
 
 
-
-Rattick is stopped at the border. He is dragged before the King -- turns out to be Colbac
-
-The Merchant Heroic. The Bourgeois Heroic. The Burgher Heroic.
-
-
-## Rattick at the end. 
-
-    At the end he asks the guard why he serves a merchant, oh, well me, when there's no fighting to be done, I serve gold. But when edge meet edge, I follow courage. 
-
-    Courage, but he's a merchant, a particularly cunning and greedy one, who drives a hard bargain. 
-
-    He's the King -- but before that he was a hero -- do you know what he did before he became a merchant -- saved blah blah blah.  
-
-
-
-
-
-
-# 46 End With Relan
-
-
-Boltac makes him a knight.
-
-"A knight? How can I be a knight? Don't I have to be a squire first?""
-
-Boltac smiled at the young man, so innocent in the ways of the world, and oblivious to what had just happened, "I'm a King, and I didn't have to be a prince first. 
-
-"But I don't know anything about being a knight!"
-
-"I don't know anything about being a King, so we'll figure it out as we go along."
-
-"I don't think this is a very good idea. I'm really not comfortable--"
-
-"En-henh," said Boltac, "So you know what the first rule of being a knight is?"
-
-"No, see, I don't even know what the first rule is!"
-
-"The first rule is you obey the King."
-
-"Right," Relan nodded, "obey the King."
-
-"Now kneel and hold still so I can knight you without cutting your ear off."
-
-"But…"
-
-"Obey!" 
-
-
-
-
-----------
-
-
-
-"And the power. The limitless power. It should be I that make this connection with the source. Lest this power fall in to the hands of some EVIL wizard."
-
-
-
-------
-
-# Extra from Relan v. Shirley. 
-
-Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.
-
-Of course, anyone with half a brain could have seen this, but in his state, Relan didn't think of this. 
-
-
-
-
-And then he was torn. Such carnage, such aggression, clearly the work of an *evil* wizard must be avenged. But Sabrellia still needed to be rescued. He stared down at the cobblestones as they passed beneath his magnificent boots and thought about it for a while. 
-
-Then it came to him. He would do both, for both must be done. If he was to be a hero, truly be a hero, then he would have to do the hard things that other people wouldn't. But he didn't see how such a thing would be possible. 
-
-But you broke your vows.
-
-Sabrellia -- Stop, STOP! STOP IT! Hasn't there been enough killing? 
-
-
-"It was a con. It was all a con. I was never kidnapped." 
-
-"Never mind Sab, he's too thick to understand."
-
-"No, he's not"
-
-"But I loved you," Relan said, completely disarmed by this trickery. 
-
-"I know you did"
-
-
-
-
-* Have the kid find the love of his life, but the scoundrels are in on it. -- They let him know it was a con, and they are getting out. 
-
->But you broke your vows for me.
->I was never a real priestess.
-
-That's what he would do. In his arrogance, he decided upon humility. He would not start off being the greatest hero ever. He would work up to it a step at a time. Helping people here and there, as the need arose. Of course, he would sally forth and destroy the Evil Wizard, that's what heroes did, but along the way he would make time to help the little people. The small folk of which he was quickly forgetting that he was one. 
-
-
-
-  And, for the first time in his life, he walked like someone else. He had selected what he thought was the best of everything from Boltac's store. Spare no expense, for their was none!
-
-When Boltac had left the store, Relan 
-
->runs into the girl and one of her accomplices, carrying two bodies in a wheelbarrow. They try to rob him. He hits the girl, then runs away. Outdistancing pursuit. 
-
->Confronts the con. But you told me she was trapped in a tower! 
-
-
-
-
-One of the friends is wounded. 
-Oh Shit! Cried one of the kidnappers!
-
-he backhands her and runs away. Ashamed and embarrassed. 
-
-
-----
-
-
-
-
-
-"No, you are most assuredly that. The stench of the lower classes is upon you, especially your impudence."
-
-"Impudence!" Asarah snapped, knowing it was a dangerous and stupid thing to do, but so angry at this arrogant man that she couldn't bring herself to care. 
-
-"No I am glad you refused because now you have absolved my guilt."
-
-"Guilt? What are you talking about? You should already feel guilty, you kidnapped me!"
-
-"Oh, dear, no. I rescued you from a city under siege. Very sensitive and noble of me."
-
-"You burned down my Inn!"
-
-"Yes, well, there was that. Fit of temper. Besides, I burned up two of my sandwiches. Two sandwiches that I --"
-
-"Didn't even pay for!"
-
-"ENOUGH!" Dimsbury thundered, so loud that bits of rock and dust tumbled down from the vaulted ceiling of the chamber. "You were a pleasant diversion, but no more. "
-
-
-
-* Rattick before the Wizard -- reveal that they are friends. he sets up Boltac. 
-* Boltac and Relan hide from the Orc's -- have a bit of misadventure. 
-* * where's Rattick -- who cares, we're pressing on. Which way? Down
-
->Wizard -- don't you see, your companion has betrayed you. 
->Boltac -- don't you see, that's the nice thing about making deals rather than fighting. He can't really betray me. I wanted to meet you and now I have. 
->Wizard -- And now you will die. 
->Boltac -- That might not be in your best advantage. 
-
-
-
-
-
-# And a bunch of confused wolves
-
-
-And a bunch of confused wolves, wondered why they had been spending so much time underground. So they followed smell of fresh air out of the depths, snarled at each other, divided up into reasonably-sized packs once again and headed out to cause no end of trouble and woe for the deer of the thick, heavily-misted forests of Robrecht. The deer had grown fat and slow and plentiful in the wolves hiatus, but now they were in for a shock. The slow would be eaten. The fast would grow faster and so, everything would return to the way it should be.
-
-
-
-# Asarah gives Boltac confidence to be king
-
->I can't be a king, I'm not noble. 
-
->We'll, if you can't be a king, then we are doomed, simply doomed to have men like him rule over us -- YOu are cheap, I will give you that Mr. Boltac. 
-
-
-"You might not be able to be a King Mr. Boltac, but I could definitely be a Queen."
-
-"But," said Boltac, "It's so much work,"
-
-"Pfahh "
-
-"But I wouldn't want have servants or slaves."
-
-"Who said you have to have servant? And servants and slaves are two very different things."
-
-"I know, dear," said Boltac.
-
-"Aw, you called me dear."
-
-"You don't like it?"
-
-"No, I do. I really do." There was another kiss and then she continued. "But you don't need, servants. You don't have to force anyone to do anything. But can you just hire people to help you."
-
-"Hire, but servants are bound to the families…"
-
-"You know while you are daydreaming, dear, you don't have to stick to the rules of reality. And are all servants bound to "
-
-"Wait, wait, did you say hire," Boltac said, lapsing out of the sweet trance of cuteness for the first time since they had escaped.
-
-He leaned out of the carriage window and shouted to Relan, "Turn this thing around, we're going the wrong way!"
-
-"But Robrecht is south!" said Relan, "If there's anything left of it."
-
-"Yeah, I know, but to save the city we gotta go North before we go South."
-
-"I don't understand?"
-
-"I know. That's not your job. It's my job. And speaking of which, do you want a job? I am hiring?"
-
-"Wait, what? But I'm an adventurer."
-
-"And can you possibly imagine anyone else who could have taken you on a bigger adventure?"
-
-"No," said Relan, "But you had the adventure."
-
-"Whattya mean, you were there? You were there the whole time!"
-
-"But you got the girl at the end. That's the way an adventure works. You get the girl at the end and live happily ever after."
-
-"I have two things to say to that. Eh, but never mind. We don't have time. Just trust me, the adventure ain't over yet."
-
-"But we're out of danger," said Relan.
-
-"Trust me, what I have in mind, kid. Probably get us all killed."
-
-"Oh," said Relan, with a smile, "then I'm in!" And he urged the horse into a gallop. 
-
-"Okay," Boltac shouted over the rushing of the air and the thudding of the horse's hooves. "You're hired. Now don't disturb me until we get there. I've got important business back here."
-
-"Get where?" Relan shouted. 
-
-"Oh, you'll know when we get there. I promise." And Boltac pulled his head back in the carriage.
-
-
-# Mignola Scene
-
-> Mignola-esque shuffling off into the darkness scene so Samga can come back later. And the Orc's
-
-
-
-In the lighter darkness Samga spoke with the elder one in the broken, hissing tongue of Orc's. (between them they try to make the language who)
-
-
-For in the darker darkness he could not speak for the weight of the blackness pressing in on him from all sides. And in the darkest darkness, he feared that the blackness would fill his lungs and he would drown in night. 
-
-
-
-And now we die. 
-
-No, many of the husks will falter, but we will go on?
-
-How can you be sure, I feel the beat of my heart slowing as we speak, the magic is 
-
-The magic of man is draining out of you, but the deeper magic. The magic of life… can you feel that starting?
-
-No. 
-
-You have spent too much time around the human's Samga. Retreat with me into the darkness a while and I will tell you what I have learned from listening deep inside my self. 
-
-Samga followed the older one into the darkest darkness under the ground. 
-
-We have made choices for ourselves, we have our own spirit young one, and the thing of the spirit can never truly die. 
 
