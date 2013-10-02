@@ -1,5 +1,92 @@
 extra 
 
+
+# Punchlist
+
+Can I include Pugh, Xyxxxy or MABADU as magic words?
+
+Boltac formally gives Relan the sword when he knights him. 
+
+
+
+
+
+> Add Rattick pleading with the Wizard to get him to take down his patrols. Tell the Orc's to stand down. 
+
+> "No, no, good sneak-thief. Where would the sport be in that? I will leave them up. If you can get them through, then you shall get your reward and I will know of a weakness in my defense. If you cannot get them through, well, you see, I still get what I want."
+
+> "Then I cannot guaranteed the safety of your minions."
+
+> "Ha ha HA! Break away my evil fellow. I'll just make more. "
+
+
+
+Dow we even need? (perhaps throwing the charm bracelet in the river will serve)
+
+* Boltac struggling to find something in the sack to create suspense. "That's the problem with a bottomless sack, you can put everything in it, but then you can't find a damn thing." 
+
+
+
+## Charm Necklace
+
+
+Necklace at the inn
+
+* Do we need to set up Boltac's necklace of lucky charms -- with the whistle -- one from every creed or culture or god. Just in case. Then he flits through his necklace. 
+
+I thought you hated magic?
+
+I do. It's not magic. It's insurance. 
+
+En-henh, she said, mocking him. 
+
+
+
+> We need to show Boltac not fitting into his element -- being unkingly so we can show him being kingly at the end.
+
+Tie this into supersition. Make Boltac addicted to the charm necklace. Which is not fucking kingly. 
+
+
+Necklace in the dark
+
+He turns to the assorted charms amid his fear -- the king of the UnderDark chides him for it. Tells him that a King
+
+I am not a King. 
+
+Are you not? You are man who goes his own way. Along that road lies only a throne or a coffin. 
+
+"En-henh," Boltac said, but the vast darkness ate his favorite word and rendered it powerless. 
+
+
+
+
+
+* At the end, he throws the charm necklace into the River Swift. 
+
+Are you not afraid anymore?
+
+More afraid than ever! Boltac exclaimed. Now that I'm King, I'm not just afraid for me. I'm afraid for everybody else too. 
+
+Then why did you? 
+
+Because that's my job. Shielding them from the fear. I don't know what kind of King I'm going to be, but if the people see that their King is afraid. They will be afraid. 
+
+Whatever darkness. It is best to face it square on. 
+
+Why Boltac, you're starting to sound like a hero. 
+
+Boltac made a sour face at her, then looked across the river. "En-henh," was all he said. 
+
+
+
+## Rattick v Wizard
+
+
+> When Rattick goes in front of the Wizard he tries to pin the flaying of an orc on them. They're the real sickos. I'm your faithful servant Rattick!
+
+
+
+
 # Extra from Relan v. Shirley. 
 
 Relan shook off the powerless feeling that came with the memories of being unable to rescue Sabriella. That wouldn't happen now, by the Gods. Now, things were different. Now he had a sword. Now he had boots and everything else  he could need. He had even killed an Orc. If clothes didn't make him a hero, didn't that have to? It counted for something, that was for sure. Something good.
