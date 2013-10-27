@@ -1,4 +1,7 @@
+
 Make sure you add the double space code from LeanPub
+
+add <br /> tags
 
 # **The Merchant Adventurer** 
 
@@ -39,7 +42,8 @@ Rattick's jaw dropped. Could they be serious? Was it possible that they were the
 
 "You gotta be kidding," thought Rattick as he lifted his dagger in half-hearted salute.
 
-
+<br />
+<br />
 
 A few hours later, they emerged from the forest into a strange clearing and Rattick announced, "This is it."
 
@@ -57,17 +61,17 @@ A few hours later, they emerged from the forest into a strange clearing and Ratt
 
 "Stop! We must first seek the supplication of Lauranda. Her blessing will keep us safe during our time of trial." The Knight and the Ranger both drew their swords and knelt. Rattick rolled his eyes. Just get it over with. He didn't know how much more amateur hour he could take. But he consoled himself with the knowledge that it would all be over soon. 
 
-The Enchantress completed her babbling, and they ventured into the Wizard's lair. It did not take long before the companions heard rumblings and gnashings of teeth from the darkness ahead.  Rattick smiled. The Troll was still there and he sounded hungry. "Stay here, faithful companions," he said, playing it for all it is worth, "I will use my mastery of stealth and shadow to scout the way."
+The Enchantress completed her babbling, and they ventured into the Wizard's lair. It did not take long before the companions heard rumblings and gnashings of teeth from the darkness ahead.  Rattick smiled. The Troll was still there, and he sounded hungry. "Stay here, faithful companions," he said, playing it for all it is worth, "I will use my mastery of stealth and shadow to scout the way."
 
 He handed his torch to the Ranger. He took two steps forward into the darkness of the cave. With a flourish, he wrapped his cape of faded black around him and disappeared. Rattick heard his boon companions gasp as he disappeared. 
 
 "Oh, he's very good," said the Enchantress.
 
-Rattick was good, but so were his tools. The cape, as mean and worn as it looked, was a powerful magical item. It possessed three properties that Rattick knew of. One, when closed it imposed upon all who saw it a powerful desire to look elsewhere. Two, in anything from darkness to light shadow, it rendered the user invisible. Three, it was an item so enchanted as to be nearly impossible to steal from the rightful owner. Rattick had learned this the hard way, procuring this wonderful item only after killing its previous owner. 
+Rattick was good, but so were his tools. The cape, mean and worn as it looked, was a powerful magical item. It possessed three properties that Rattick knew of. One, when closed it imposed upon all who saw it a powerful desire to look elsewhere. Two, in anything from darkness to light shadow, it rendered the user invisible. Three, it was an item so enchanted as to be nearly impossible to steal from the rightful owner. Rattick had learned this the hard way, procuring this wonderful item only after killing its previous owner. 
 
 "Be thankful he did not charge us more," muttered the Knight.
 
-Again Rattick smiled at the nothingness of the dark. The bill for Rattick's services was about to come due, and the brave-but-stupid Knight would find it held many hidden charges. Rattick took a few steps around the corner and squatted in the passageway. Faithful companions? How could they fall for that? Rattick wasn't sticking his neck out any farther than he had to. He waited for a time and then unwrapped his cloak, and returned to the pool of torchlight in which his brave, faithful and gulliable companions waited.
+Again Rattick smiled at the nothingness of the dark. The bill for Rattick's services was about to come due, and the brave-but-stupid Knight would find it held many hidden charges. Rattick took a few steps around the corner and squatted in the passageway. Faithful companions? How could they fall for that? Rattick wasn't sticking his neck out any farther than he had to. He waited for a time and then unwrapped his cloak, and returned to the pool of torchlight in which his brave, faithful and gullible companions waited.
 
 As he stepped into the light, he donned an expression of fear. With a skill long practiced, trembled as he spoke. "It is a *Troll* my companions. A creature most large and fearsome. I fear it is more than we can defeat. We should turn back."
 
@@ -77,23 +81,23 @@ As he stepped into the light, he donned an expression of fear. With a skill long
 
 Rattick swallowed his disgust and said, "You are so much braver and stronger than I."
 
-The Knight drew his sword and said, "Stay behind me and learn how it is done. Fear not Rattick, for you are in the company of heroes."
+The Knight drew his sword and said, "Stay behind me and learn how it is done. Fear not Rattick, for you, are in the company of heroes."
 
 "I shall not let you steal the glory!" cried the Ranger as he shouldered the Knight aside. 
 
-Rattick couldn't believe it. The idiots charged! A frontal assault on a Troll? They were so stupid it was a wonder they could remembered to breathe.. 
+Rattick couldn't believe it. The idiots charged! A frontal assault on a Troll? They were so stupid it was a wonder they could remember to breathe.. 
 
-The Enchantress edged past him, smelling of exotic perfume. "I will see if I can bind the creature with The Mother's Embrace. Stay behind me and you will be safe."
+The Enchantress edged past him, smelling of exotic perfume. "I will see if I can bind the creature with The Mother's Embrace. Stay behind me, and you will be safe."
 
-He followed her swaying hips through through the corridor, for once, grateful for torchlight There was a roar and the stench of something awful. Rattick knew this to be the Troll's breath. Nothing smells worse than rotting flesh trapped between teeth.
+He followed her swaying hips through the corridor, for once, grateful for torchlight There was a roar and the stench of something awful. Rattick knew this to be the Troll's breath. Nothing smells worse than rotting flesh trapped between teeth.
 
-When she saw the Troll the Enchantress raised her arms and began casting a spell. As her hands wove their intricate the pattern, Rattick slid his knife across her perfect, white throat. She gasped as her life's blood poured down her neck, over the the exquisite Ruby necklace and into the deep valley of her heaving breasts. Before she could make another sound, Rattick covered her and dragged her into the darkness. 
+When she saw the Troll the Enchantress raised her arms and began casting a spell. As her hands wove their intricate the pattern, Rattick slid his knife across her perfect, white throat. She gasped as her life's blood poured down her neck, over the exquisite Ruby necklace and into the deep valley of her heaving breasts. Before she could make another sound, Rattick covered her and dragged her into the darkness. 
 
-She whimpered softly and grew weak. Rattick set her against the wall and removed his hand from her face. When he lifted her chin and she mouthed the word, "Why?" Rattick bent down and kissed the dying woman on the lips. Her eyes fluttered as her life left the husk of her body. 
+She whimpered softly and grew weak. Rattick set her against the wall and removed his hand from her face. When he lifted her chin she mouthed the word, "Why?" Rattick bent down and kissed the dying woman on the lips. Her eyes fluttered as her life left the husk of her body. 
 
 Rattick tore the necklace from her throat. Then he wiped the blood from it with a black silk handkerchief. In the distance, the screams of one the Chosen Ones ended in a terrible, squishy, bone-crunching noise.
 
-Staring into the glittering facets of the Ruby, Rattick answered the dead woman. "Why? Because it was a kindness. Because there are worse things in the depths of this dungeon than you can imagine. Because this is what happens when you choose to play a dangerous game. All of those are close, but if you really want the truth of it". He looked away from his prize and saw that she was dead. "Because I can."
+Staring into the glittering facets of the Ruby, Rattick answered the dead woman. "Why? Because it was a kindness. Because there are worse things in the depths of this dungeon than you can imagine. Because this is what happens when you choose to play a dangerous game. All of those are close, but if you really want the truth of it". He looked up and saw that she was dead. "Because I can."
 
 
 # 2 -- What's an Orc? -- 1339
@@ -142,11 +146,11 @@ Rattick shrugged. "Probably mine. I try to use stealth, but the Orc I took it fr
 
 "Yessssss," purred Rattick, running his finger over the Ruby, "but do you care?"
 
-"Not if you'll take 15 gold for it I don't."
+"Not if you'll take fifteen gold for it I don't."
 
-"15 gold? I risked my neck for this!""
+"Fifteen gold? I risked my neck for this!""
 
-"You? I'm pretty sure *you* risked somebody else's neck for this particular bauble. Fine, 17 for the gem, and 2 gold for the rest of it." Boltac said, indicating the pile of equipment on the floor. 
+"You? I'm pretty sure *you* risked somebody else's neck for this particular bauble. Fine, seventeen for the gem, and two gold for the rest of it." Boltac said, indicating the pile of equipment on the floor. 
 
 "But this sword almost defeated a troll!"
 
@@ -259,7 +263,7 @@ The Farm Boy stood there with a brave, yet stupid look on his face.
 
 Boltac wrangled a stepladder over to the wall and lifted the lamp from its resting place. As soon as he put a hand on its handle the crystal in the center of the lamp flickered to life. "Yeah," Boltac said, rubbing the dust from the letters that were cut into the bottom of the lantern's base. "It says, 'burns with the flame of a true heart. We'll, it's not much of a flame, is it? But at least you don't have to carry oil for it."
 
-He handed the lantern to the Farm Boy. As soon as the boy touched the handle, the lantern blazed with a brilliant light so bright, Boltac realized it had been a long, long time since he had cleaned the store. Then he closed his eyes to stop the pain.
+He handed the lantern to the Farm Boy. As soon as the boy touched the handle, the lantern blazed with a brilliant light, so bright, Boltac realized it had been a long, long time since he had cleaned the store. Then he closed his eyes to stop the pain.
 
 "Wow," said the Farm Boy. 
 
@@ -291,11 +295,11 @@ The Farm Boy pulled a sword from the bucket and then dropped it back in quickly.
 
 "A gold piece?" said the lad, looking concerned. 
 
-"Well," said Boltac, who was starting to get a very bad feeling about the entire transaction, "At Boltac's there's always room to negotiate. But try a few, see how you like the balance, and whatnot."
+"Well," said Boltac, who was starting to get a very bad feeling about the entire transaction, "At Boltac's there's always room to negotiate. But, try a few, see how you like the balance, and whatnot."
  
 "I've been trying to save money to buy a sword, sir. Scrounging for herbs, seeing if anyone needs rats killed. But no one needs rats killed. And the countryside is bare for miles around…" He trailed off.
 
-Boltac nodded understandingly. The only vermin that plagued Robrecht was an infestation of down-on-their luck adventurers. "I understand how it is. And how much did you say you have you been able to save?"
+Boltac nodded knowingly. The only vermin that plagued Robrecht was an infestation of down-on-their luck adventurers. "I understand how it is. And how much did you say you have you been able to save?"
 
 "Not enough, I'm afraid. So I was wondering if I could rent a sword."
 
@@ -307,13 +311,13 @@ Boltac nodded understandingly. The only vermin that plagued Robrecht was an infe
 
 "Please sir, it's so I can rescue the love of my life. She was taken, you see. Abducted by scoundrels."
 
-"Oh well, that changes everything," said Boltac, as his face grew hard. "Tell me more," he asked, as if it was a dare.
+"Oh well, that changes everything," said Boltac, as his face grew hard. "Tell me more," he asked, as if it were a dare.
 
 "Well sir, she is a priestess of Dar. And, well,"
 
 "Aren't they supposed to be virgins? Those priestesses of Dar."
 
-The young man blushed and said, "It's more of a suggestion, than a rule, sir. If you know what I mean," his face grew serious, "but if it helps, I was a virgin, if you catch my drift."
+The young man blushed and said, "It's more of a suggestion than a rule, sir. If you know what I mean," his face grew serious, "but if it helps, I was a virgin, if you catch my drift."
 
 "Help? How would that help?"
 
@@ -327,11 +331,11 @@ The young man blushed and said, "It's more of a suggestion, than a rule, sir. If
 
 "--and she's been placed at the top of the tower and sleeps a deathless sleep under an evil spell."
 
-"En-henh. That's a Sleeping Beauty, kid" Boltac said. He was about to explain that the Sleeping Beauty was the name of con game, popular among some of Robrecht's less-than-upstanding citizens, whereby a young man was seduced, lured into a trap and relieved of any valuable items he might have. Like, for instance, a borrowed sword. But the Farm Boy had bolted from the barn and Boltac could see that there was no catching him. 
+"En-henh. That's a Sleeping Beauty, kid" Boltac said. He was about to explain that the Sleeping Beauty was the name of a con game, popular among some of Robrecht's less-than-upstanding citizens, whereby a young man was seduced, lured into a trap and relieved of any valuable items he might have. Like, for instance, a borrowed sword. But the Farm Boy had bolted from the barn, and Boltac could see that there was no catching him. 
 
-"Yes, she is a *real* beauty, sir. Asleep or awake. I knew you would understand. So, if I had a sword, I could go and rescue her. And there would certainly be treasure after I defeated the the monsters that have been set to protect her from all the but the bravest and most faithful hero. Understand, I have no care for this treasure. Only my lady love. So all the valuables would be yours. All that for loaning me a sword." 
+"Yes, she is a *real* beauty, sir. Asleep or awake. I knew you would understand. So, if I had a sword, I could go and rescue her. And there would certainly be treasure after I defeated the monsters that have been set to protect her from all the but the bravest and most faithful hero. Understand, I have no care for this treasure. Only my lady love. So all the valuables would be yours. All that for loaning me a sword." 
 
-Boltac winced under the onslaught of the boy's sincerity. "But just a sword? I mean, would armor would help too?"
+Boltac winced under the onslaught of the boy's sincerity. "But just a sword? I mean, armor would help too?"
 
 "Yes, it would, but…"
 
@@ -359,7 +363,7 @@ Boltac looked the boy dead in the eyes and said, "I'm not giving you any discoun
 
 "But I'd bring it back. Maybe with a few nicks, but definitely covered in glory."
 
-"Oh Glory is it? Would that enhance the retail value?"
+"Oh, Glory is it? Would that enhance the retail value?"
 
 "Yes, yes," he said eagerly, unaware of the trap he was falling into.
 
@@ -387,22 +391,22 @@ Boltac's face soured. "I was never young.
 
 Boltac lifted the mace up from behind the counter. As he raised the weapon high in the air, the lad's trusting, cow-like eyes followed it, studying every detail of the well-worn wood, the wrapped leather handle, and the business end studded with heavy iron nails. Boltac saw the lad move from disappointment to hope. "Yes," his eyes seemed to say, "a mace. I could do it with a mace."
 
-Boltac hit him right between the eyes, and knocked him out cold.
+Boltac hit him right between the eyes and knocked him out cold.
 
--
+
 # 4 -- A Man Appearing from Nowhere -- 3457
 
 In the center of Robrecht, there was a river. In the center of this river was an island. And at the center of this island was a very damp castle. And in the very damp center of this very damp castle was a Duke on a throne. Both of which were also damp. And one of them was terribly bored.
 
 The Duke started what would have been a mighty yawn, but he quickly worked to stifle it. This resulted in one of his eyes closing and his mouth attempting to wrap itself around his strong nose. When his face was not in spasm, the Duke's came close enough to being noble. He had a fine, drawn face, thick dark hair and a nose well-suited for looking down at people. But if you looked in his eyes, the effect of a cruel Mercian conquerer would have been spoiled. With more force of personality, his eyes might have been piercing. But alas, from the loins of the most powerful empire on earth had sprung another stuffed personage. 
 
-He was yawning because he was holding court. Well, such as court as could be held in the remote and unimpressive Dutchy of Robrecht to which he had been consigned. There were no glittering courtiers here, there were no ladies-in-waiting, there was just the Duke, an uncomfortable wooden chair and a long line of disputes that the Duke was expected to settle before he would be allowed to go to his supper. 
+He was yawning because he was holding court. Well, such as court as could be held in the remote and unimpressive Dutchy of Robrecht to which he had been consigned. There were no glittering courtiers here. There were no ladies-in-waiting. There was just the Duke, an uncomfortable wooden chair and a long line of disputes that the Duke was expected to settle before he would be allowed to go to his supper. 
 
 "Messers Rudolph and Fuad, herders of goats!" the Chamberlain announced. The Duke waved his hand and the men were brought before him.
 
 "He had advantage of my goat, sire. And I desire compensation," said a cross-eyed man as he glared in the general direction of the man standing next to him. The Duke turned his gaze at the accused, a man who was wearing a goat-skin helmet. Was the helmet this man's idea of formal dress, the Duke wondered? The Duke opened his mouth to ask, but then thought better of it. He squinted at the man and tried to figure the matter on his own. 
 
-The pause stretched to a such a length that the Chamberlain gently prompted, "Sire?"
+The pause stretched to such a length that the Chamberlain gently prompted, "Sire?"
 
 "Advantage?" asked the Duke, unable, with his formal, courtly upbringing, to understand how having a goat might be an advantage. It was not that there were no goats in the Mercian Empire. It was that his entire life had been carefully constructed to insulate him from all creatures that were shaggy and uncultured.
 
@@ -410,7 +414,7 @@ The pause stretched to a such a length that the Chamberlain gently prompted, "Si
 
 "Knowledge? I don't understand, of course he has knowledge of your animal," the Duke said, glancing at the dull-eyed, leather-helmeted man who was being accused of bestiality, "He is a fellow-goatherd, is he not?"
 
-"No my lord," said the cross-eyed man, blushing with the weight of what he must now make painfully obvious. "He..." and then he thrust his pelvis forward and backwards in an unmistakable, rhythmic motion. 
+"No, my lord," said the cross-eyed man, blushing with the weight of what he must now make painfully obvious. "He..." and then he thrust his pelvis forward and backwards in an unmistakable, rhythmic motion. 
 
 "Oh. Oh? OH!" said the Duke, as the facts of the case came into disgusting focus for him. "Really? What was it like?" asked the Duke.
 
@@ -420,11 +424,11 @@ The Chamberlain began to cough. This was a prearranged signal between the two of
 
 "WHAT!"
 
-"Yes, yes, my good man, that is justice. He has had one of yours, so," the Duke slapped his knee decisively, "You must have one of his. An eye for an eye and a ewe for a ewe. Yes, that certainly has the ring of justice to it, doesn't it? Symmetry and suchlike." The Duke said, feeling awfully proud of himself. But by the look on the goatherd's face, he could see that his legal acumen was lost on the man. 
+"Yes, yes, my good man, that is justice. He has had one of yours, so," the Duke slapped his knee decisively, "You must have one of his. An eye for an eye and an ewe for an ewe. Yes, that certainly has the ring of justice to it, doesn't it? Symmetry and suchlike." The Duke said, feeling awfully proud of himself. But by the look on the goatherd's face, he could see that his legal acumen was lost on the man. 
 
-The Chamberlain continued to cough. The Duke became worried about how he might talk his way out of his ruling without seeming that he was contradicting himself. The Duke, was aware, vaguely, that he was not the sharpest arrow in the quiver. But he was straight on one point: The only mortal sin a person in power might truly commit was seeming to contradict themselves. 
+The Chamberlain continued to cough. The Duke became worried about how he might talk his way out of his ruling without seeming that he was contradicting himself. The Duke was aware, vaguely, that he was not the sharpest arrow in the quiver. But he was straight on one point: The only mortal sin a person in power might truly commit was seeming to contradict themselves. 
 
-He couldn't understand where he had gone wrong? What taboo had he crossed? It was a perfectly logical verdict. He was a perfectly logical ruler. And why did rulers have to explain themselves to their subjects anyway? Maybe it was just Dukes. He was pretty sure if he was a King he wouldn't have had to explain himself to anyone. 
+He couldn't understand where he had gone wrong? What taboo had he crossed? It was a perfectly logical verdict. He was a perfectly logical ruler. And why did rulers have to explain themselves to their subjects anyway? Maybe it was just Dukes. He was pretty sure if he were a King he wouldn't have had to explain himself to anyone. 
 
 Just as he was thinking that, a Wizard appeared in the great hall. And this is not to say he made an entrance. One minute there was an empty space on the cold stone floor and the next, there he stood. Shaven pate, black robes, a large silver torq worn around his neck, only slightly larger than the dark circles under his eyes, strange stains underneath his fingernails -- yes, unmistakably a Wizard. One moment he wasn't there, and the next, he was. The Wizard Appeared.
 
@@ -432,7 +436,7 @@ There was a gasp as those in the great hall, jumped back from the man who had ap
 
 The Wizard looked at the Chamberlain sharply and hissed, "My name is Alston Dimsbury."
 
-"Dimsbury, A wizard of considerable evil," the Chamberlain said. But the wizard's look darkened and more imaginative people in the crowd believed that they saw flames forming in the Wizard's eyes. 
+"Dimsbury, A wizard of considerable evil," the Chamberlain said. But the wizard's look darkened, and more imaginative people in the crowd believed that they saw flames forming in the Wizard's eyes. 
 
 "…who's reputation is much maligned," the Chamberlain added diplomatically. 
 
@@ -444,7 +448,7 @@ Fuad, the Goatherd in the leather helmet, smiled at the newly-minted goat with a
 
 Dimsbury said, "As I was saying, don't let me interrupt."
 
-No one spoke. The only sound was the clacks of the goat's hooves as she/he wisely made for the exit as fast as her/his terribly confused legs would carry him/her.
+No one spoke. The only sound was the clacking of the goat's hooves as she/he wisely made for the exit as fast as her/his terribly confused legs would carry him/her.
 
 Exasperated that the crowd still wasn't getting the point, Dimsbury said, "What does it take? Must I strike all of you down with a pillar of flame? Gah. Let me outline it for you. I am a *horrible* man. Dimsbury the terrible. Master of the arcane arts and elder mysteries, summoner of demons, so on and so forth. Now, go. Flee."
 
@@ -466,7 +470,7 @@ And flee they did. When the oaken door had slammed behind them, Dimsbury and the
 
 "Uh? Pardon me?"
 
-"I said, get out. Abdicate. Leave this place. And take everyone with you."
+"I said, get out. Abdicate. Leave this place, and take everyone with you."
 
 "I wish that I could," said the Duke, "I never wanted to come to this damp, grey place to begin with."
 
@@ -476,15 +480,15 @@ And flee they did. When the oaken door had slammed behind them, Dimsbury and the
 
 "Sadly? I thought you said there was wine?"
 
-"Oh wine? We've got it by the barrelful. And by the bottleful in cabinet over there. Since you've run off all my servants, subjects and goat herders, you will have help yourself. All told this tower and keep contains more wine than I could drink in three lifetimes. Although the prospect of staying here for three lifetimes," the Duke chuckled as he made a slicing motion across his throat.
+"Oh, wine? We've got it by the barrelful. And by the bottleful in cabinet over there. Since you've run off all my servants, subjects and goat herders, you will have help yourself. All told this tower and keep contains more wine than I could drink in three lifetimes. Although the prospect of staying here for three lifetimes," the Duke chuckled as he made a slicing motion across his throat.
 
 "I don't think you understand," said Dimsbury, trying to be reasonable, "this is a courtesy call. What I mean to say is that this request is for your benefit, not mine."
 
 "Steady on, old boy," said the Duke. "I'm on your side. I'm ready to do as you command. You want this kingdom -- well this dismal little duchy -- I say you can have it. Good riddance to fickle mountain weather, thick-ankled peasant girls and goat-violators of every shape and stripe. But, here's the thing, I can't. The minute I leave my post, my family will know of it. In particular my Uncle Torvald, do you know my Uncle Torvald?"
 
-"Can't say I have had the pleasure," said Dimsbury, fighting back an urge to engulf the Duke in flames with a clap of his hands. 
+"Can't say I have had the pleasure," said Dimsbury, fighting back the urge to engulf the Duke in flames with a clap of his hands. 
 
-"I have the burden of carrying a great name. Weeveston Prestidigitous RampartLion Toroble the 15th, in fact. And this name means that I am not free do what I would like. I am not free to marry who I like. I am not free to live where I like. I have been sent here. And if I abdicate, Torvald Toroble will have me killed. Either by assassin or generalship of an army on its way to a glorious lost cause or perhaps just with a good old-fashioned hunting accident."
+"I have the burden of carrying a great name. Weeveston Prestidigitous RampartLion Toroble the 15th, in fact. And this name means that I am not free do what I would like. I am not free to marry whom I like. I am not free to live where I like. I have been sent here. And if I abdicate, Torvald Toroble will have me killed. Either by assassin or generalship of an army on its way to a glorious lost cause or perhaps just with a good old-fashioned hunting accident."
 
 "How do you know?" asked Dimsbury, still trying to reason with him. 
 
@@ -542,7 +546,7 @@ And flee they did. When the oaken door had slammed behind them, Dimsbury and the
 
 "My fault?"
 
-"Yes, the endless stream of mendicants, adventurers and ne'er do wells who seek to kill me and deprive me of property. To become rich heroes by defeating the Evil Wizard, that's what they want!" Here Dimsbury grew less sure of himself, "I'm not an *evil* wizard, am I Weeeveston? I try not to be, but some days, God I just don't know."
+"Yes, the endless stream of mendicants, adventurers and ne'er do wells who seek to kill me and deprive me of property. To become rich heroes by defeating the Evil Wizard, that's what they want!" Here Dimsbury grew less sure of himself, "I'm not an *evil* wizard, am I Weeveston? I try not to be, but some days, God I just don't know."
 
 "No, of course you are not an Evil Wizard. I've known you since grammar school. A touch mischievous, perhaps. But Evil? No."
 
@@ -554,13 +558,13 @@ The Duke fixed the Wizard with a look and said, "I know what force shapes our wo
 
 But the Wizard was on a roll. "And the power! The limitless power. It should be *I* that make this connection with the source. Lest this power fall into the hands of some truly EVIL wizard. So I'm afraid you simply must go. There's no other way I can see it."
 
-The Duke smiled with regret, "I would like nothing better than to comply with your wishes, old friend. But my Uncle would have me killed. Even if I did leave, it would do you no good, he would come in force and just take the Kingdom back. And it's not like it would solve your problem. I mean I can't very well take the sheep with me. Or stop members of the herd from seeking you out and troubling your in your research."
+The Duke smiled with regret, "I would like nothing better than to comply with your wishes, old friend. But my Uncle would have me killed. Even if I did leave, it would do you no good. He would come in force and just take the Kingdom back. And it's not like it would solve your problem. I mean I can't very well take the sheep with me. Or stop members of the herd from seeking you out and troubling you in your research."
 
  "Yes, Weeveston, I suppose your right. I just -- you know, the long hours of study, the feeling of limitless power at one's finger tips. I just thought there must be some way to solve this problem."
 
-"Of course, old boy. Perfectly understandable. Perhaps I could lend you some of my guards, to help ease the burden. But heavens knows my Uncle leaves me precious little enough to staff an army. Really more of a garrison. A bunch of drunks in helmets, honestly."
+"Of course, old boy. Perfectly understandable. Perhaps I could lend you some of my guards, to help ease the burden. But heaven knows my Uncle leaves me precious little enough to staff an army. Really more of a garrison. A bunch of drunks in helmets, honestly."
 
-"Yes, I know, we all have our problems. I'm sorry Weeveston, I've been an ass. I've barged in unannounced, I've hit your man with Tilhphad's spell of Transformation. Threatened you with ultimatums. I swear Weeveston, on my mother's grave, the soil of which is indispensable for the making of certain potions, I never wanted to be an *Evil* Wizard. A screeching, fire-throwing caricature of myself. But the world... the world will simply drive a man to it."
+"Yes, I know, we all have our problems. I'm sorry, Weeveston. I've been an ass. I've barged in unannounced. I've hit your man with Tilhphad's spell of Transformation. Threatened you with ultimatums. I swear Weeveston, on my mother's grave, the soil of which is indispensable for the making of certain potions, I never wanted to be an *Evil* Wizard. A screeching, fire-throwing caricature of myself. But the world... the world will simply drive a man to it."
 
 "Ah, hmm, yes." said the Duke. "You should meet my Aunt Etheline."
 
@@ -582,7 +586,7 @@ The Duke smiled with regret, "I would like nothing better than to comply with yo
 
 Dimsbury frowned. "Oh and I should mention, I've dispatched a raiding party."
 
-"Raiding party, well that doesn't sound so bad. I mean, it's understandable in a fit of temper and all. "
+"Raiding party, well that doesn't sound so bad. I mean, it's understandable. Fit of temper and all. "
 
 "Of Orcs," said Dimsbury
 
@@ -644,40 +648,41 @@ Dimsbury frowned. "Oh and I should mention, I've dispatched a raiding party."
 
 "Yes, I thought it a nice touch."
 
-"The only thing old boy," the Duke said, the smile dropping from his face, "Is my Uncle. He will take it hard. He will come for revenge."
+"The only thing old boy," the Duke said, the smile dropping from his face, "is my Uncle. He will take it hard. He will come for revenge."
 
 "No worries, Weeveston. I can handle your Uncle Torvalds."
 
 "I wish you would."
 
-"As a favor to you, I am happy to do it," said the Wizard. Then he said, "Bon Voyage!" gave a half-bow, and, in the way of Wizards, disappeared in puff of smoke. 
+"As a favor to you, I am happy to do it," said the Wizard. Then he said, "Bon Voyage!" gave a half-bow, and, in the way of Wizards, disappeared in a puff of smoke. 
 
+<br />
+<br />
 
-He appeared, quietly, with no smoke or fanfare, in the shadows of a warehouse building along the River Swift. That had gone surprisingly well, thought Dimsbury. It would have pained him to have killed his old grammar school mate Weeveston. Not much, but it is worth something to avoid even a momentary pang. To attack the city without resistance, well, that would mean his magnificent Orcs would not have their numbers greatly reduced by tonight's adventure. Pleased with himself, Dimsbury thought of turning his sights on the wider world. 
+He appeared, quietly, with no smoke or fanfare, in the shadows of a warehouse building along the River Swift. That had gone surprisingly well, thought Dimsbury. It would have pained him to have killed his old grammar school mate Weeveston. Not much, but it is worth something to avoid even a momentary pang. To attack the city without resistance, would mean his magnificent Orcs would not have their numbers greatly reduced by tonight's adventure. That pleased Dimsbury and for a moment, he  thought of conquering a bit more of the world. 
 
 Ah, but ambition would wait until he had isolated the very source of magic. And this attack would grant him the peace and quiet in which he needed to work. One good long push at the end, and he felt confident he would have it within his grasp. Everything, really. For who could resist a man with limitless power?
 
 But tonight. A respite from his labors. His feet carried him south. He knew of a place -- not the finest establishment, or even reputable by the standards of a privileged Mercian upbringing, it is true --- but as he had been living on things grown in a cave, it would do. 
 
-Yes, a fine roast leg of lamb. Then a pleasant walk to a hilltop from which to watch the city burn. The only thing he regretted was that je would not have good company to enjoy such a delightful evening with. The sacrifices he made for his work were many. 
+Yes, a fine roast leg of lamb. Then a pleasant walk to a hilltop from which to watch the city burn. The only thing he regretted was that he would not have good company to enjoy such a delightful evening with. The sacrifices he made for his work were many. 
 
 
 # 5 -- The Bent Eelpout -- 2127
 
-Boltac dragged the unconscious Farm Boy out of his shop. He looked around for a place to ditch the kid. Across the street he saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. He'll be just another drunk on a bench, sleeping it off.
+Boltac dragged the unconscious Farm Boy out of his shop. He looked around for a place to ditch the kid. Across the street, he saw an empty bench in front of the Bent Eelpout Tavern. Perfect, thought Boltac. He'll be just another drunk on a bench, sleeping it off.
 
 As he dragged the lad across the street, Boltac muttered to himself, "What were you thinking? Loan you a sword? Are you crazy? Well, of course you're crazy. Forget I asked." With much grunting, Boltac propped the lad up on the bench. He looked up at the hideous, twisted fish on the Tavern's faded sign and a longing for ale filled him. 
 
-"Look kid," he said to the gently snoring Farm Boy on the bench, "It's for your own good. I mean, if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Adventures are tricky." Boltac sighed heavily. "Believe me, go back to the farm."
+"Look kid," he said to the gently snoring Farm Boy on the bench, "It's for your own good. I mean if you didn't see that coming, you're not going to see anything else coming. And that wasn't even tricky. You know what's tricky? Adventures are tricky." Boltac sighed heavily. "Believe me, go back to the farm."
 
 Boltac watched the sleeping boy for a moment. Unconscious he seemed even younger. "Okay, no charge for the concussion. And you're welcome," Boltac said. Then he went inside.
 
-
 "Asarah, my love!" Boltac bellowed before the door had even had a chance to close behind him, "I have come to rescue from all of this."
 
-The hurried, hard-working, yet beautiful mistress of the Inn, turned away from a table she was clearing. She flung a lock of dark hair out of her face and saw that it was Boltac. Her professional smile fell from her face and she asked, "And who's going to rescue you?"
+The hurried, hard-working, yet beautiful mistress of the Inn, turned away from the table she was clearing. She flung a lock of dark hair out of her face and saw that it was Boltac. Her professional smile fell from her face, and she asked, "And who's going to rescue you?"
 
-Boltac climbed up on a bar stool and said, "No, no. I mean it this time. I have come to sweep you away from all this pointless drudgery. We shall journey to a far kingdom where I am Lord and Master and you will be my Queen."
+Boltac climbed up on a bar stool and said, "No, no. I mean it this time. I have come to sweep you away from all this pointless drudgery. We shall journey to a far kingdom where I am Lord and Master, and you will be my Queen."
 
 Asarah walked behind the bar and set her hands on the well-worn wooden top. "Whattya want Boltac?"
 
@@ -711,13 +716,13 @@ Eying the beautiful, dark-haired woman before him, Boltac had the courage to tel
 
 "No," snapped Boltac, beer flying from his lips as his blissful first sip was interrupted by the memory of the recent inanity. "I hit him over the head with a club, dragged him across the street and left him unconscious on the bench out front."
 
-Asarahs eyes grew dark with anger. "How *could* you?" 
+Asarah's eyes grew dark with anger. "How *could* you?" 
 
 "It was easy, actually, I just took my... Look, woman, When you pick up a sword you pick up a lot of other things with it. And if the lad wasn't ready to deal with the ambush of a shopkeeper with a trick knee, then he certainly wasn't ready to deal with whatever dangerous and vile thing he meant to bash in the head of to preserve the honor of his wench."
 
 "That word again. Wench. I thought you said she was a priestess?"
 
-"Oh come on, it was a Sleeping Beauty. They were roping him."
+"Oh, come on, it was a Sleeping Beauty. They were roping him."
 
 "You don't know that. It could have been true love. True romantic love. The kind that you only hear about in songs."
 
@@ -725,7 +730,7 @@ Asarahs eyes grew dark with anger. "How *could* you?"
 
 "You're heart is only filled with money," said Asarah. "Money and mistrust."
 
-"No," said Boltac, "It's not full. There's room for more money." Asarah rolled her eyes. "Besides, that's not the point. It's not about my heart. My head is filled  with common sense. Say he's not being conned -- Which is unlikely, but what the hell -- so I give him the sword and he goes and gets himself killed. Enh, then that's on me and for what?"
+"No," said Boltac, "It's not full. There's room for more money." Asarah rolled her eyes. "Besides, that's not the point. It's not about my heart. My head is filled  with common sense. Say he's not being conned -- Which is unlikely, but what the hell -- so I give him the sword, and he goes and gets himself killed. Enh, then that's on me and for what?"
 
 "But that's how she will know. The only way she can know!"
 
@@ -753,13 +758,13 @@ Asarahs eyes grew dark with anger. "How *could* you?"
 
 "Keep your voice down," hissed Asarah. "You're disturbing the other patrons!"
 
-"Patron," quipped Boltac as he gesturing at the nearly empty common room with his empty tankard.
+"Patron," quipped Boltac as he gestured toward the nearly empty common room with his empty tankard.
 
 Asarah slammed another ale down in front of him and said. "There's no romance in your life. No passion. No wonder you are alone. I feel sorry for you Boltac." And then she stormed off into the back. 
 
 "Safer that way," Boltac muttered into his beer. 
 
-Behind Boltac the door opened and a unseasonably cool wind filled the inn. A man in a black robe who wore a simple silver torc around his neck, seemed to float across the common room as the door shut behind him. He took in the room with a raised eyebrow of disapproval then made his way to the bar. He sat and asked Boltac, "Do they have lamb tonight?"
+Behind Boltac, the door opened and an unseasonably cool wind filled the inn. A man in a black robe wearing a silver torc around his neck seemed to float across the common room as the door shut behind him. He took in the room with a raised eyebrow of disapproval then made his way to the bar. He sat and asked Boltac, "Do they have lamb tonight?"
 
 "They usually do."
 
@@ -767,7 +772,7 @@ Behind Boltac the door opened and a unseasonably cool wind filled the inn. A man
 
 "So stranger, what business brings you to our fair city?" asked Boltac.
 
-"Hmm, city?" asked the man, with shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish-drying village with delusions of grandeur."
+"Hmm, city?" asked the man, with a shake of his head, "Ashtantis, that's a city. Squalipoor, Yorn, those are cities. This is a fish-drying village with delusions of grandeur."
 
 "More like delusions of glory," said Boltac as he raised his ale, not sure he liked the other man's tone. "You have traveled then, a trader?" asked Boltac, sniffing around for a profit. 
 
@@ -837,7 +842,7 @@ Boltac's eyebrows lifted and only his mouth moved as he asked, "In the gentle wo
 
 "Oh, I meant no offense. It is what you are *used* to after all."
 
-"Eh, her husband owned this inn. He died and that's her hand of cards."
+"Eh, her husband owned this inn. He died, and that's her hand of cards."
 
 "Hmm," the stranger grunted, as he tucked into his dinner in earnest.
 
@@ -859,7 +864,7 @@ Boltac's eyebrows lifted and only his mouth moved as he asked, "In the gentle wo
 
 "Yeah, that too. But nice clothes don't hurt, I'm just saying. My name is Boltac, by the way."
 
-"Dimsbury," the man said, in way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on mutton at the Duke's table? "Forgive me if I don't shake hands," Dimsbury concluded, sealing Boltac's judgment of him. 
+"Dimsbury," the man said, in a way that irritated Boltac. A way that implied a title lurking somewhere in the wings. Who was he to put on airs? Here they were, both in The Bent Eelpout, one as good as another. If he was so high and mighty why wasn't he gnawing on mutton at the Duke's table? "Forgive me if I don't shake hands," Dimsbury concluded, sealing Boltac's judgment of him. 
 
 Dimsbury finished the last bite of lamb and threw a gold piece (more than 10 times enough for the bill) on the bar. He said, "See that she gets that, my good man. And ask her to bring me another ale over by the fire. Nothing personal," he said, with a thin-lipped smile, "I have a chill."
 
@@ -877,7 +882,7 @@ Boltac held her gaze without flinching, "I'll get outta your hair."
 
 # 6 -- A Sword, Given -- 982
 
-Boltac slammed the door of the inn behind him. He was angry at Asarah for reasons he didn't fully comprehend. He looked up at the stars. He looked down at the muddy cobbles at his feet. Then he looked across the square to his store. For a time he stood in the middle of square, trapped between Inn and Store. He paced in a circle, not knowing which way to go. But he did not look at the bench where the Farm Boy slept. 
+Boltac slammed the door of the inn behind him. He was angry at Asarah for reasons he didn't fully comprehend. He looked up at the stars. He looked down at the muddy cobbles at his feet. Then he looked across the square to his store. For a time he stood in the middle of square, trapped between Inn and Store. He paced in a circle, not knowing which way to go. But he avoided looking at the bench where the Farm Boy slept. 
 
 Damn what that woman thought! Her fool ideas of romance and heroism. Damn the world, for that matter. The boy was an idiot and searching for death. No good to no anyone and a great deal of trouble to whomever he meant to poke with whatever sword he could beg, borrow or steal. That was the thing that all the would-be heroes forgot. The people they meant to stab to death in the name of glory thought that they were heroes too. 
 
@@ -885,7 +890,7 @@ In the end, observed Boltac, it wasn't even the heroes that got the worst of it.
 
 This dark line of thinking steeled Boltac's nerve so he could get across the square. But, when the shop door closed behind him, his resolve faltered. He peered through the window at the boy he had knocked unconscious. For a moment, Boltac was worried that he had killed the lad. But then the boy stirred a little in his sleep. 
 
-Boltac remembered when he had been the Farm Boy's age. Young and strong and chained to a store. His father had been fond of saying, "Keep a shop and it will keep you." And so it did, keeping a young boy from doing anything that he might want to do in this world. Keeping him at endless, boring work that served as torture for a young man who craved adventure. 
+Boltac remembered when he had been the Farm Boy's age. Young and strong and chained to a store. His father had been fond of saying, "Keep a shop, and it will keep you." And so it did, keeping a young boy from doing anything that he might want to do in this world. Keeping him at endless, boring work that served as torture for a young man who craved adventure. 
 
 He did not feel guilty for braining the lad. If it was Adventure the boy was after, he would have to withstand far worse. And if his younger self had appeared by magic before him in his own store Boltac would have done far, far  worse. He would have worn his arm out trying to beat some sense into his former self. 
 
@@ -895,48 +900,48 @@ There was no way to tell a young man of the hazards that awaited him -- of the c
 
 But there was no way to frame the words, no order to put them in that could make it through a testosterone-addled brain and overcome the lust for glory. If not this priestess con, the lad would find some other cause, or scrape or trouble. At least he wasn't off in search of that terrible Wizard that all of the other 'Adventurers' were always harassing. None of them ever seemed to come back. Who knew, maybe that meant the Wizard was real and terrible after all. 
 
-No, Boltac realized, there was no stopping him. So why had he tried? Because he saw himself in the lad and would have given anything and risked everything to take back the poor choices of his own youth. He spit and cursed the Bards. It was all their fault. Putting all these ideas in young men's heads. Sending them off to war or in search of gold. 
+No, Boltac realized, there was no stopping him. So why had he tried? Because he saw himself in the lad. Because he would have given much  to take back the poor choices of his own youth. He spit and cursed the Bards. It was all their fault. Putting all these ideas in young men's heads. Sending them off to war or in search of gold. 
 
-Damn it all. He stomped to the sword barrel, He drew one of the blades and tested its balance. Awful. He sighted the edge. It was as curved as an old whore's back. What an awful piece of workmanship. It was the kind of item he would willingly sell to a fool, but not the kind of weapon he would wish on his worst enemy. A man needed a sword he could trust. Boltac saw the shape of a terrible memory rising from the dark waters of his mind. Before the thought could fully take hold, he slammed the sword back in the barrel. 
+Damn it all. He stomped to the sword barrel, drew a blade and tested its balance. Awful. He sighted the edge. It was as curved as an old whore's back. What an awful piece of workmanship. It was the kind of item he would willingly sell to a fool, but not the kind of weapon he would wish on his worst enemy. A man needed a sword he could trust. Boltac saw the shape of a terrible memory rising from the dark waters of his mind. Before the thought could fully take hold, he slammed the sword back in the barrel. 
 
 He walked to the rack of weapons. He removed the blade on the bottom. It was the one he would have chosen, if he were spending his own money. It was a stout, Mercian sword. At one end, its straight blade came to a broad triangular point and at the other the hilt was heavy round pommel that, in the hands of someone who knew what they were doing, qualified as a weapon on its own. The blade sang softly as he unsheathed it and begged to dance in his hand. He sighted this weapon and its hard edge was as crisp, final and unforgiving as the border between life and death.
 
-There wasn't a soul on the streets as Boltac crossed the square. The stars seemed impossibly high and uncaring. When he got to the Farm Boy he hung the sword around the lad's neck very carefully, so as not to wake him. Underneath the thick head of straw-blond hair, Boltac could see a freshly-risen lump. Ouch. He reached out to touch it. His fingers almost made contact. Then Boltac became self-conscious. He looked around as if he was afraid of being caught doing something wrong. But there was no one watching. 
+There wasn't a soul on the streets as Boltac crossed the square. The stars seemed impossibly high and uncaring. When he got to the Farm Boy he hung the sword around the lad's neck very carefully, so as not to wake him. Underneath the thick head of straw-blond hair, Boltac could see a freshly-risen lump. Ouch. He reached out to touch it. His fingers almost made contact. Then Boltac became self-conscious. He looked around as if he were afraid of being caught doing something wrong. But there was no one watching. 
 He scuttled back across the square. 
 
 # 7 -- The Measure of Money -- 1347
 
-Back in his shop, Boltac barred the door and retrieved the heavy lockbox from beneath the counter. It hadn't been a busy day, but in dribs and drabs the coins had piled up. He had sold a bit of lace here, a poultice there, it added up to a living. 
+Back in his shop, Boltac barred the door and retrieved the heavy lockbox from beneath the counter. It hadn't been a busy day, but in dribs and drabs the coins had piled up. He had sold a bit of lace here, a poultice there. It added up to a living. 
 
 He poured the coins out on the counter. Then looked out the window and across the square. The boy was there and still unconscious. For an instant, Boltac thought about retrieving the blade. If the kid didn't wake up, surely someone would come along a steal it. But, if Asarah came out and saw the kid with the sword, it would go half-way to getting Boltac back in her good graces. But if she came out and caught Boltac taking the sword back... ergh, she'd never forgive him for that. Anyway, she was probably too busy fawning over that slumming aristocrat to tear herself away. That fop, throwing a gold coin away like it was nothing. Who did he think he was? Coins were for being careful with. For counting, for hoarding, for saving for a rainy day. 
 
-Boltac divided the coins for the day's sales into three piles on his counter; gold, silver and copper. He quickly counted the copper coins and made a note of them in his ledger. With the silver coins he took more time. He used a set of weights and measures to make sure that not only the count was accurate, but also the total weight. 
+Boltac divided the coins for the day's sales into three piles on his counter; gold, silver and copper. He quickly counted the copper coins and made a note of them in his ledger. With the silver coins, he took more time. He used a set of weights and measures to make sure that not only the count was accurate, but also the total weight. 
 
 Boltac was very careful not to take any coins that had been clipped, or were too light to be pure. With copper, clipping was rarely a problem. The coins just weren't worth enough to be worth the trouble. With silver clipping became a problem, but that was spotted easily enough. It was the gold coins that presented the greatest difficulty for Boltac. 
 
 Gold coins were worth enough that instead of merely clipping them, it was worth the time and trouble it took to dip lead into molten gold to create a coin that seemed like gold, but was worth less than silver. This presented a conundrum for a shrewd merchant who did not want to be taken advantage of. It was insulting to test a customer's coin on the spot, yet painful to take a loss. 
 
-Boltac grabbed a small glass dish and bottle labeled Aqua Fortis from a shelf beneath the counter. He carefully poured liquid from the bottle into the dish. Then he picked up one of the gold coins, dipped it in the liquid, then examined it carefully. If it had turned green, it would have been a sign that the coin was some alloy, or plated lead. But this coin remained its reassuring yellow color. With a satisfied grunt, he placed the sound coin on the other side of the dish. 
+Boltac grabbed a small glass dish and bottle labeled Aqua Fortis from a shelf beneath the counter. He carefully poured the liquid from the bottle into the dish. Then he picked up one of the gold coins, dipped it in the liquid, then examined it carefully. If it had turned green, it would have been a sign that the coin was some alloy, or plated lead. But this coin remained its reassuring yellow color. With a satisfied grunt, he placed the sound coin on the other side of the dish. 
 
-He tested coin after coin, pleased to find that all of them were real. Finally only two coins remained. When he tested the the second to the last gold coin of the day it did not turn green. It did not smoke. It did not sizzle or emit a smell like rotten onions. Instead, it hissed, came to life and bit his hand. 
+He tested coin after coin, pleased to find that all of them were real. Finally, only two coins remained. When he tested the second to the last gold coin of the day it did not turn green. It did not smoke. It did not sizzle or emit a smell like rotten onions. Instead, it hissed, came to life and bit his hand. 
 
 Boltac cursed and threw the evil little thing across the room. Then he immediately regretted it. With surprising speed for a fat man, he scrabbled out from behind the counter and pursued it. In the middle of the floor, the gold coin sprouted thin, insect-like legs and scrabbled for purchase against the boards. Boltac tried to stomp it and missed. He stomped again and again, hopping through his store, knocking over items in a strange sort of destructive dance. The coin scrambled under a rack of rope and strips of leather. With a roar, Boltac kicked the rack over and brought his booted foot squarely down upon the creature. 
 
 "HA!" he cried in triumph. He shambled to the other side of the room, dragging his foot as he went, grinding the creature across the floor, until he was able to reach a set of pliers hanging on the wall. Then he bent down and, ever-so-carefully, clamped the edge of the angry, savage coin in the teeth of the pliers. It let out another metallic shriek, but Boltac was unmoved by its pain. 
 
-He carried the coin into the back, past the foul-smelling bundle of gear he had purchase from Rattick and to a set of iron-bound chests that were sealed with fearsome-looking locks and bolted to the floor. The one on the right had a hole in the top of it, sealed with a piece of cork. He removed the cork, crammed the coin into the hole -- having to hit it several times with the hammer to convince it to go in -- and then replaced the cork. He put his ear to the chest and listened to the evil thing clawing in vain against the wood. Only when he heard the "clink" of the coin-creature settling down, did he lift his ear from the chest. 
+He carried the coin into the back, past the foul-smelling bundle of gear he had purchase from Rattick and to a set of iron-bound chests that were sealed with fearsome-looking locks and bolted to the floor. The one on the right had a hole in the top of it, sealed with a piece of cork. He removed the cork, crammed the coin into the hole -- having to hit it several times with a hammer to convince it to go in -- and then replaced the cork. He put his ear to the chest and listened to the evil thing clawing in vain against the wood. Only when he heard the "clink" of the coin-creature settling down, did he lift his ear from the chest. 
 
-Boltac looked to his hand. A fingernail-sized disc of flesh was missing from his palm and blood leaked down his forearm. Damned coin. He kicked the chest and immediately regretted it. The chest didn't move and all he got for his trouble was a hurt foot. A bad trade. 
+Boltac looked to his hand. A fingernail-sized disc of flesh was missing from his palm and blood leaked down his forearm. Damned coin. He kicked the chest and immediately regretted it. The chest didn't move, and all he got for his trouble was a hurt foot. A bad trade. 
 
 Boltac smiled and pulled the thong from around his neck. There, amid the countless tokens and charms around his neck was a small silver whistle. He grabbed it with his uninjured hand and blew on it for all he was worth. Such a furious, shrieking commotion erupted from inside the chest that Boltac worried that the chest might burst. He imagined the hundreds, maybe thousands, of coins in the cramped, dark space -- all angered -- all clawing at each other in fury. He smiled. 
 
-Boltac had named these treacherous pieces of currency the Creeping Coins. At one time, he had thought to train them to perform, as he had seen traveling mummers train fleas, snakes, monkeys and even bears. But they were either untrainable or Boltac had lacked the knack of it. For all his time and experiments he had only earned a number of bite scars and knowledge of a certain, high-pitched frequency drove these Creeping Coins mad. 
+Boltac had named these treacherous pieces of currency the Creeping Coins. At one time, he had thought to train them to perform, as he had seen traveling mummers train fleas, snakes, monkeys and even bears. But they were either untrainable, or Boltac had lacked the knack of it. For all his time and experiments he had only earned a number of bite scars and knowledge of a certain, high-pitched frequency drove these Creeping Coins mad. 
 
-Who had created these creatures, and why? Boltac had been unable to find out. What he had learned was that they were a species of magical animal that preferred to stay unseen. They had a most sinister method of reproduction. If you placed one of these magic coins in a pile of regular coins, they would slowly but surely convert all of the real money to animated hunks of metal with sharp little teeth. One at time, they were an annoyance. But in the depths of a dungeon, amid a chest full of gold that might not be opened for years? These creature could turn a payday into a nightmare. Boltac hated to even imagine what that would be like. 
+Who had created these creatures, and why? Boltac had been unable to find out. What he had learned was that they were a species of magical animal that preferred to stay unseen. They had a most sinister method of reproduction. If you placed one of these magic coins in a pile of regular coins, they would slowly but surely convert all of the real money to animated hunks of metal with sharp little teeth. One at time, they were an annoyance. But in the depths of a dungeon, amid a chest full of gold that might not be opened for years? These creature could turn a payday into a nightmare. Boltac hated to  imagine what that would be like. 
 
-He rubbed a healing ointment into the fingernail-sized bite in his hand. It stopped the bleeding, but did nothing for the pain. What could a school of these things do? Or just a few of them under a suit of armor? He shuddered. At least death by Dragon would be quicker and cleaner. 
+He rubbed a healing ointment into the fingernail-sized bite in his hand. It stopped the bleeding but did nothing for the pain. What could a school of these things do? Or just a few of them under a suit of armor? He shuddered. At least death by Dragon would be quicker and cleaner. 
 
-But that's the way it was with any enterprise. People feared the big things, but it was always the little things that did you in. The demons were in the details, as they said. All the work you spent polishing your shield in preparation for a Basilisk, could go wrong if you forgot to bring oil to protect it from the rust. 
+But that's the way it was with any enterprise. People feared the big things, but it was always the little things that did you in. The demons were in the details, as they said. All the work you spent polishing your shield in preparation for a Basilisk could go wrong if you forgot to bring oil to protect it from the rust. 
 
 It was a terrible business, adventuring. Another reason Boltac was glad he had grown up, settled down and learned to enjoy a warm fire and a crisp profit. Again, he reassured himself that he had done that lad a favor by knocking him on the head.
 
@@ -944,9 +949,9 @@ It was a terrible business, adventuring. Another reason Boltac was glad he had g
 
 As Dimsbury sat with his feet by the fire, it took him a good hour to give a name to what he was feeling. Contentment didn't quite do it. Comfort was part of it, but there was something else. A warmish feeling in the stomach that he was quite unaccustomed to. There was something about a good meal after a good day's work. His plans all in order, everything tilting and tending the way it should. Sated, yes, that was the word he was looking for. He was sated. 
 
-For a moment he considered ordering another whole dinner. But there was no time. He had completed his errand and should really leave the city before the carnage started. But perhaps he should take a leg of mutton to go. Or -- did they have such a thing -- some mutton sandwiches?
+For a moment, he considered ordering another whole dinner. But there was no time. He had completed his errand and should really leave the city before the carnage started. But perhaps he should take a leg of mutton to go. Or -- did they have such a thing -- some mutton sandwiches?
 
-It was so hard to get good food at the bottom of a dungeon. Yes, he had servants, but they were creations. Not flesh and blood. They viewed roasting as an information-gathering technique, or at best a method of discipline, not as essential part of cuisine. And spices? Well, the creatures that needed to eat ate raw flesh. It was a practice guaranteed to keep a palate in an unrefined state. 
+It was so hard to get good food at the bottom of a dungeon. Yes, he had servants, but they were creations. Not flesh and blood. They viewed roasting as an information-gathering technique, or at best a method of discipline, not as an essential part of cuisine. And spices? Well, the creatures that needed to eat ate raw flesh. It was a practice guaranteed to keep the palate in an unrefined state. 
 
 None of this even touched on the horrid nature of his decor and living conditions. Of course, the Wizard could have taken some pains on his own behalf, but there was his work to think of. All else paled in comparison to that. But here, even in this relatively homely inn, the Wizard felt a longing for the comfort he had almost forgotten he could have. A woman's touch, yes, that was the phrase. 
 
@@ -956,7 +961,7 @@ When the wench came around again, he asked, "Do you make sandwiches? You know, t
 
 Outside, a wolf howled.
 
-"What was that?" Asarah asked, her smile not falling away, but becoming tainted with concern. 
+"What was that?" Asarah asked, her smile becoming tainted with concern. 
 
 She had a nice smile, and the Wizard thought it was all the sweeter for being mixed with fear. Oh yes, thought the Wizard, he would definitely be taking something to go. "It sounded like a wolf," he said with exaggerated innocence, "I'd like two mutton sandwiches," he said with a smile.
 
@@ -974,17 +979,17 @@ The Wizard smiled again. "But what assurance do I have that it will still be her
 
 # 9 -- Something Worth Fighting for -- 2195
 
-When Boltac heard the howl, he looked up and out the front window. Across the square the boy still slept in the moonlight. Boltac stood motionless, watching, with the last gold coin clamped in his pliers. After getting bitten, he was taking no more chances. All coins were now guilty until proven innocent. 
+When Boltac heard the howl, he looked up and out the front window. Across the square, the boy still slept in the moonlight. Boltac stood motionless, watching, with the last gold coin clamped in his pliers. After getting bitten, he was taking no more chances. All coins were now guilty until proven innocent. 
 
 The peaceful scene outside his window did not change, so Boltac  shrugged and touched the coin to the acid. It did not come to life and attack him, so he dropped it in the pile with the others. 
 
 He carefully poured the acid back into the bottle and wiped down the counter. Then he gathered up the coins and carried them into the back. He placed them in the other chest, the one that held the normal coins. Then he turned his attention to the pile of soiled goods he had purchased from Rattick. 
 
-From the corner of his eye, he caught the flash of something moving past the window. He looked up and out the front of the store. There was a flash of gray by the window. And then again. 
+From the corner of his eye, he caught a flash of something moving past the window. He looked up and out the front of the store. There was a flash of gray by the window. And then again. 
 
-Boltac walked forward slowly. He had no idea what was going on, but pretty sure that he didn't like it. It was out of the ordinary. And, in Boltac's experience, anything out of the ordinary was bad for business. In the distance he heard someone sound a horn. Then, he thought he could hear a woman scream. Or maybe it was a horse? What was going on? 
+Boltac walked forward slowly. He had no idea what was going on, but pretty sure that he didn't like it. It was out of the ordinary. And, in Boltac's experience, anything out of the ordinary was bad for business. In the distance, he heard someone sound a horn. Then, he thought he could hear a woman scream. Or maybe it was a horse? What was going on? 
 
-He stepped outside into an empty square. To the North, across the river, he saw the red glow of fire. Ah, thought Boltac, Raiders. He knew this game all too well. He had hoped, that the new Duke's garrison was strong enough to keep the raiders out. The tariffs and taxes from a crossroads town like Robrecht were valuable. As long as Boltac had been here, the nobles and empires of the world had passed Robrecht back and forth like a toy. 
+He stepped outside into an empty square. To the North, across the river, he saw the red glow of fire. Ah, thought Boltac, Raiders. He knew this game all too well. He had hoped that the new Duke's garrison was strong enough to keep the raiders out. The tariffs and taxes from a crossroads town like Robrecht were valuable. As long as Boltac had been here, the nobles and empires of the world had passed Robrecht back and forth like a toy. 
 
 Now, they weren't even pretending to install a King anymore. Robrecht had been pillaged so many times it didn't even get to keep the illusion of  being its own State. It had been reduced to a mere protectorate. "En-henh," Boltac grumbled. There was scant protection to be found in a protectorate. 
 
@@ -1008,31 +1013,31 @@ Boltac shrank back from the window, as one of the wolves sniffed at it and fogge
 
 "Ah," thought Boltac, "These would be Orcs." There was no way Rattick had fought one of these things. He realized that there was no way they wore jewelry. Perhaps a necklace made of ears, but not expensive rubies. 
 
-The Orcs converged on the Man in Black. For a moment Boltac thought the wolves would tear the man's face off. But then the Man in Black said something and the growls and snarls changed to frightened whimpers. Two of the Orcs dismounted and their wolves ran away.
+The Orcs converged on the Man in Black. For a moment, Boltac thought the wolves would tear the man's face off. But then the Man in Black said something and the growls and snarls changed to frightened whimpers. Two of the Orcs dismounted, and their wolves ran away.
 
-The Orcs turned as if to chase after their steeds, but a sharp bark from the the Man in Black stopped them. Who was this person who commanded monsters, Boltac wondered?
+The Orcs turned as if to chase after their steeds, but a sharp bark from the Man in Black stopped them. Who was this person who commanded monsters, Boltac wondered?
 
-Boltac sighted his crossbow on the Man in Black, and then thought better of it. After all, he wasn't involved in this transaction. He should stay calm, keep his head down and hope they passed his store by. That was the surest way to avoid a loss in this situation. At least that's what his head told him. But his heart offered a different commentary as he watched the two Orcs kick in the door of the Bent Eelpout. 
+Boltac sighted his crossbow on the man in black, and then thought better of it. After all, he wasn't involved in this transaction. He should stay calm, keep his head down and hope they passed his store by. That was the surest way to avoid a loss in this situation. At least that's what his head told him. But his heart offered a different commentary as he watched the two Orcs kick in the door of the Bent Eelpout. 
 
 Asarah!
 
-She'd be fine, Boltac told himself. A strong woman, used to dealing with unruly customers. She had come through raids before. She'd be fine. The Man in Black dismissed the remaining, still mounted Orcs. The, whattya call a bunch of Orcs anyway? thought Boltac. A troupe, a band, a herd, a gaggle. Anyway, the rest of them rode South. 
+She'd be fine, Boltac told himself. She was a strong woman and used to dealing with unruly customers. She had come through raids before. She'd be fine. The Man in Black dismissed the remaining, still mounted Orcs. The, whattya call a bunch of Orcs anyway? thought Boltac. A troupe, a band, a herd, a gaggle. Anyway, the rest of them rode South. 
 
-With a crossbow in the crook of his right arm, not taking his eyes from the square, he eased back to the weapons rack and grabbed a double-headed axe without looking at it. He asked himself, "What are you doing?" The voice in his head answered, "You're not gonna do anything stupid. You're a merchant, not a hero. She'll be fine. You're no help to anybody dead." Then placed the axe, head down, beneath the windowsill, beside to the other crossbow. 
+With a crossbow in the crook of his right arm, not taking his eyes from the square, he eased back to the weapons rack and grabbed a double-headed axe without looking at it. He asked himself, "What are you doing?" The voice in his head answered, "You're not gonna do anything stupid. You're a merchant, not a hero. She'll be fine. You're no help to anybody dead." Then he placed the axe, head down, beneath the windowsill, beside the other crossbow. 
 
-Across the square, he saw the two Orcs emerge from the Inn holding Asarah between them. She struggled against them and cursed. "Think she is still going to be okay?" he asked the voice in his head. It didn't answer. The Man in Black turned to look at her and she spit on him. Then the Man in Black struck her across the face. Knocked sideways from the blow, Asarah struggled to bring her head upright again and roll her hair out of her face. The Man in Black stood with his back to Boltac's store, so that Boltac could not see his face. Whatever expression the unpleasant man wore, when Asarah saw it she screamed.
+Across the square, he saw the two Orcs emerge from the Inn holding Asarah between them. She struggled against them and cursed. "Think she is still going to be okay?" he asked the voice in his head. It didn't answer. The Man in Black turned to look at her, and she spit on him. Then the Man in Black struck her across the face. Knocked sideways from the blow, Asarah struggled to bring her head upright again and roll her hair out of her face. The Man in Black stood with his back to Boltac's store, so that Boltac could not see his face. Whatever expression the unpleasant man wore, when Asarah saw it she screamed.
 
 Something broke inside of Boltac. Before he knew what he was doing, he had fired both crossbows and was charging out the door with the axe in hand. The first crossbow bolt took the Orc on the Asarah's left in the throat. The second hit the other Orc in the shoulder. 
 
 Asarah screamed a plea and a question, "Boltac?"
 
-But the Boltac she knew was no longer there. The rational, calculating, cunning merchant who stuck his neck out for nobody was not the same creature who lungs burned and heart pumped as his feet pounded across the cobbles. That Boltac was lifting the axe and imagining it cleaving the Man in Black from neck to breastbone. That Boltac didn't hear it coming until it was too late. 
+But the Boltac she knew was no longer there. The rational, calculating, cunning merchant who stuck his neck out for nobody was not the same creature who's lungs burned, and heart pumped as his feet pounded across the cobbles. That Boltac was lifting the axe and imagining cleaving the Man in Black from neck to breastbone. That Boltac didn't hear it coming until it was too late. 
 
 If it had been a man on a horse riding him down, he would have heard him coming from a week away. But the pads of a wolf on the cobblestones? He realized his mistake when it was too late. The wolf's fangs sank into his shoulder and lifted him from the ground at a dead run. 
 
 "HORRRRRRRRRRRRRRK!" cried the triumphant orc. 
 
-In pain and with animal rage, Boltac slashed blindly with the axe. He felt the edge sink deep into the wolf's neck. He heard it grunt in pain. The pressure in his shoulder went away as the wolf let go. Wolf, Orc and Shopkeeper tumbled across the cobblestones and landed in heap. Somehow, Boltac kept his grip on the axe. 
+In pain and with animal rage, Boltac slashed blindly with the axe. He felt the edge sink deep into the wolf's neck. He heard it grunt in pain. The pressure in his shoulder went away as the wolf let go. Wolf, Orc and Shopkeeper tumbled across the cobblestones and landed in a heap. Somehow, Boltac kept his grip on the axe. 
 
 In a haze, he watched Asarah struggling with the Man in Black. She was shouting, but the only thing Boltac could hear was the pounding of his own heart. He pulled himself from beneath the wolf, tried to stand and failed. His knee folded sideways underneath him. The pain from the second fall was worse than the first. Clutching the axe, he started to crawl.
 
@@ -1042,13 +1047,13 @@ Behind him, the Orc got to his feet and recovered his pike. He cocked his head s
 
 "My, my, my, but you are determined," said the Man in Black with an air of amusement that made Boltac hate him even more. "You are something more than a merchant, I think," said the Wizard. Boltac said, "en-henh" and kept crawling. 
 
-"Boltac, what are you doing?" asked Asarah. Boltac could not answer because he was fighting off a wave of pain. But still he crawled. He was oblivious to the pike above his head, and only aware of the Man in Black's expensive boots in front of him. He was going to cut the bastard's feet off and then see where it went from there. 
+"Boltac, what are you doing?" asked Asarah. Boltac could not answer because he was fighting off a wave of pain. But still he crawled. He was oblivious to the pike above his head and only aware of the Man in Black's expensive boots in front of him. He was going to cut the bastard's feet off and then see where it went from there. 
 
 Dimsbury shook his head at the poor spectacle beneath him. A fat merchant, crawling to his death as the hot stuff of life trailed on the cobbles behind him. How was it that the poor merchant's arm had not been completely severed? He turned to his prize, "Come my dear, let me take you away from all of this."
 
-"Let me go!" she cried, "I must to tend my Inn."
+"Let me go!" she cried, "I must tend my Inn."
 
-"Ah, yes," said Dimsbury. He waved his hand without taking his eyes from her and the front of the Bent Eelpout was engulfed in flame. 
+"Ah, yes," said Dimsbury. He waved his hand without taking his eyes from her, and the front of the Bent Eelpout was engulfed in flame. 
 
 Asarah screamed again. 
 
@@ -1062,9 +1067,9 @@ This was it. The Orc spun the pike and touched him gently on the nose with the p
 
 In that final moment, Boltac discovered that he wasn't afraid. He wasn't even angry. His last thought was of Asarah, and he was sad. Sad that he would never get to see her again. Sad that he would never again get to play the game of cheating her out of a drink, or drive her mad with his haggling, or marvel at the way her hair would bounce and turn like a living thing as she worked her way through the common room of her inn.
 
-At times like these, ordinary men try negotiating with death. They offer every promise, pledge and advantage they can think of in exchange for life. But Boltac was not an ordinary man. And certainly not an ordinary negotiator. At that moment he realized that his life alone was not worth negotiating for. If was to haggle with fate, it would not be for his life -- it would not be for his store or his fortune. Boltac was surprised to discover that, in the final accounting, those things were worth nothing to him. The only thing worth negotiating for was life with *her*. Without her, he couldn't come up with a reason to bother. 
+At times like these, ordinary men try negotiating with death. They offer every promise, pledge and advantage they can think of in exchange for life. But Boltac was not an ordinary man. And certainly not an ordinary negotiator. At that moment, he realized that his life alone was not worth negotiating for. If was to haggle with fate, it would not be for his life -- it would not be for his store or his fortune. Boltac was surprised to discover that, in the final accounting, those things were worth nothing to him. The only thing worth negotiating for was life with *her*. Without her, he couldn't come up with a reason to bother. 
 
-As if in a dream, he watched two feet of steel emerge from the Orc's belly. The pike fell, not on Boltac's head, but next to him on the cobbled street. As the Orc's body fell away to one side, Boltac saw the Farm Boy standing there, trying to hold the Orc up with the sword Boltac had given him. No scream of victory echoed from the boy's throat. Instead he looked at the blood and the blade and the corpse that was dragging his hand towards the ground as if he couldn't quite understand what had just happened. "That blade is a quality item," Boltac said. Then he passed out. 
+As if in a dream, he watched two feet of steel emerge from the Orc's belly. The pike fell, not on Boltac's head, but next to him on the cobbled street. As the Orc's body fell away to one side, Boltac saw the Farm Boy standing there, trying to hold the Orc up with the sword Boltac had given him. No scream of victory echoed from the boy's throat. Instead, he looked at the blood and the blade and the corpse that was dragging his hand towards the ground as if he couldn't quite understand what had just happened. "That blade is a quality item," Boltac said. Then he passed out. 
 
 
 # 10 -- of Magic and Potions --826
@@ -1083,7 +1088,7 @@ The Farm Boy was so terrified, he left the sword in the Orc.
 
 "Don't apologize. Just draAAAAAAAAAHag!" Boltac screamed, then passed out from the pain .
 
-When the Farm Boy got Boltac into the store he propped him up against the counter. Boltac came around enough to say, "Take the keys. In the back, the chest on the left. Very important, only open the chest on the LEFT. Bring me the bottle."
+When the Farm Boy got Boltac into the store, he propped him up against the counter. Boltac came around enough to say, "Take the keys. In the back, the chest on the left. Very important, only open the chest on the LEFT. Bring me the bottle."
 
 "Which bottle?"
 
@@ -1091,25 +1096,25 @@ When the Farm Boy got Boltac into the store he propped him up against the counte
 
 "The only bottle. Right."
 
-The Farm Boy hurried to the back. Fear caused him to fumble with the lock. And drop the keys. He had never seen that much blood come from a person before. And that thing he had stabbed out there. What was that? He'd never really thought about it. He woke up and saw it about to kill the merchant. There was sword in his lap. There had been no time, he had just done what needed doing. 
+The Farm Boy hurried to the back. Fear caused him to fumble with the lock. And drop the keys. He had never seen that much blood come from a person before. And that thing he had stabbed out there. What was that? He'd never really thought about it. He woke up and saw it about to kill the merchant. There was sword in his lap. There had been no time. He had just done what needed doing. 
 
 He dropped the keys again. He never thought it would be anything like this. They sure didn't sing about this part. What if more of them came? What if they could smell blood? What if they were coming to the shop right now? Had he shut the door? And if he had shut the door, did he remember to bar it? He was confused and his head really, really hurt. 
 
-He opened the chest. Inside were many leather bags filled with coins. Ye gods, how many coins were in here? Tucked in a corner was a cut-glass bottle with the stopper wired shut. It seemed very old and the edges of the bottle were painted with gold leaf. The Farm Boy picked it up very carefully. Drop the keys all you want, he told himself, but don't drop this bottle. 
+He opened the chest. Inside were many leather bags filled with coins. Ye gods, how many coins were in here? Tucked in a corner was a cut-glass bottle with the stopper wired shut. It seemed very old, and the edges of the bottle were painted with gold leaf. The Farm Boy picked it up very carefully. Drop the keys all you want, he told himself, but don't drop this bottle. 
 
-He carried it out to where Boltac sat propped up in a pool of his own blood. As he handed it to him, he heard a buzzing as if an angry hive of bees was close by and with it, the smell of burning wood. "Gods," the Farm Boy exclaimed, "Flaming bees!"
+He carried it out to where Boltac sat propped up in a pool of his own blood. As he handed it to him, he heard a buzzing as if an angry hive of bees were close by and with it, the smell of burning wood. "Gods," the Farm Boy exclaimed, "Flaming bees!"
 
 "Shut up, kid," Boltac said weakly, knowing that it was only the magic-detecting wand under the counter reacting to the potency of what was in the bottle. "It's magic. Now, undo the wire."
 
 The Farm Boy did as he was asked. Boltac held the bottle in his left hand and took the cork out with his teeth. He spit it across the room. Then raised the bottle in a toast and said, "Listen, kid, if I don't make it. All this…" he indicated the store he had worked so hard to build, "You don't take a single friggin' thing you understand? I wanna be buried with *all* of it."
 
-Up until that point, the Farm Boy hadn't thought of stealing. It wasn't what heroes did, so it wasn't what the Farm Boy would do. But now he couldn't help himself. As Boltac drank the bottle he looked around. But when Boltac screamed in pain, the Farm Boy's attention snapped back to the shopkeeper. 
+Up until that point, the Farm Boy hadn't thought of stealing. It wasn't what heroes did, so it wasn't what the Farm Boy would do. But now he couldn't help himself. As Boltac drank the bottle, the lad looked around. But when Boltac screamed in pain, the Farm Boy's attention snapped back to the shopkeeper. 
 
 Boltac writhed and his back arched at a frightful angle. There was a snapping and popping noise as his knee twisted back into place on its own. Sweat poured from Boltac's face as he spiked a fever and broke it in less than a minute. A wave of nausea came, and then a sense of calm. The ragged wound in his shoulder spit out a wickedly curved tooth and closed. 
 
 "Wh-wh-wh-what was that?" the Farm Boy asked in amazement. 
 
-"That," Boltac said, the snap returning to his voice, "was a *magic* potion. The genuine article. Most of what I sell is herbs and healing tonics, and a couple of smelly poultices made by this old crone out in one of the villages. I won't say they're garbage, but, uh, you slap a poultice on serious wound. Ya gonna die."
+"That," Boltac said, the snap returning to his voice, "was a *magic* potion. The genuine article. Most of what I sell is herbs and healing tonics, and a couple of smelly poultices made by this old crone out in one of the villages. I won't say they're garbage, but uh, you slap a poultice on a serious wound. Ya gonna die."
 
 "Do you have any more?" The Farm Boy asked with wide eyes. Thinking that carrying a few of those potions with him would be an antidote to the fear that was still causing his limbs to shake. 
 
@@ -1128,17 +1133,17 @@ Boltac tried his recently mangled leg. It felt good. In fact, it felt better tha
 
 # 11 -- Why Would Anybody Want to be a Merchant? -- 589
 
-When Boltac awoke, he found himself in his bed. Bright light streamed in through the window and he was, inexplicably, alive. He returned to consciousness slowly and from a great distance. At first he couldn't remember how he had gotten here, or what had happened. Then, as the memory of it flooded back, he became fearful. Unable, at first, to separate fantastic dream from terrible reality, he flung back the covers. His leg was straight. His shirt was ripped, but the skin underneath was perfect and unscarred. That really had been a *magic* potion. Hell of a way to find out. 
+When Boltac awoke, he found himself in his bed. Bright light streamed in through the window, and he was, inexplicably, alive. He returned to consciousness slowly and from a great distance. At first he couldn't remember how he had gotten here, or what had happened. Then, as the memory of it flooded back, he became fearful. Unable, at first, to separate fantastic dream from terrible reality, he flung back the covers. His leg was straight. His shirt was ripped, but the skin underneath was perfect and unscarred. That really had been a *magic* potion. Hell of a way to find out. 
 
 He got out of bed and stretched. Then he went downstairs. 
 
-At the foot of the narrow stairs, he found the Farm Boy asleep in a pile of cloaks. Even in his sleep he clutched the sword Boltac had given him. When Boltac nudged him with his boot the lad jumped back.
+At the foot of the narrow stairs, he found the Farm Boy asleep in a pile of cloaks. Even in his sleep he clutched the sword Boltac had given him. When Boltac nudged him with his boot, the lad jumped back.
 
-"Ahh!" screamed the Farm Boy, awaking with a start. When he saw that it was Boltac he said, "I was standing guard. In case those things came back."
+"Ahh!" screamed the Farm Boy, awaking with a start. When he saw that it was Boltac he said, "I was standing guard. In case, those things came back."
 
 "No kid, that's sleeping guard." Boltac softened a little, "But, uh, I appreciate it." Boltac stepped over the boy and brought out a loaf of thick black bread and some butter. "C'mon, breakfast."
 
-They ate in silence for a time. Finally Boltac asked, "Do you have a name?"
+They ate in silence for a time. Finally, Boltac asked, "Do you have a name?"
 
 "In my village, they call me Relan."
 
@@ -1190,7 +1195,7 @@ Relan asked, "What were those things?"
 
 "Well why would anybody want to be that?" asked Relan, "If the whole world was merchants, nobody would have saved your life."
 
-"If the whole world was merchants, everybody would buy and sell instead of stab and hack," snapped Boltac "Look, I'm grateful for you're help. It's not like I'm not grateful. So, uh, as a reward. Take what you like from the store -- as much as you can carry without horse or wagon -- and then go to your death. Have fun. Me, I'm going to see the Duke and see what he's gonna do about all this. See if he can get my Innkeeper lady friend back."
+"If the whole world were merchants, everybody would buy and sell instead of stab and hack," snapped Boltac "Look, I'm grateful for you're help. It's not like I'm not grateful. So, uh, as a reward. Take what you like from the store -- as much as you can carry without horse or wagon -- and then go to your death. Have fun. Me, I'm going to see the Duke and see what he's gonna do about all this. See if he can get my Innkeeper lady friend back."
 
 Relan shook his head and took another bite of bread.
 
@@ -1201,21 +1206,21 @@ When Boltac stepped outside, he was greeted by smoke hanging thick in the air. E
 
 He turned and headed North. On his walk, he passed several bodies lying in the street. One was a young girl, maybe nine. Her pretty dress was torn and soaked with blood. Boltac looked away from her corpse and muttered, "Bad for business."
 
-As he crossed the bridge to the keep, he expected to see a line of petitioners. But there was no one. Not even a guard at the gate. The court should be full with angry citizens demanding redress and protection. The walls should have been decorated with Orc's heads on pikes. By now he should have been able to hear wounded members of the Ducal guard drinking by the stables. Their laughter and the exaggerated stories of their bravery should have carried over the wall. There should have been smoke from the blacksmith, and the sound of weapons being sharpened. 
+As he crossed the bridge to the keep, he expected to see a line of petitioners. But there was no one. Not even a guard at the gate. The court should be full of angry citizens demanding redress and protection. The walls should have been decorated with Orc's heads on pikes. By now he should have been able to hear wounded members of the Ducal guard drinking by the stables. Their laughter and the exaggerated stories of their bravery should have carried over the wall. There should have been smoke from the blacksmith, and the sound of weapons being sharpened. 
 
 But there was nothing. 
 
-In the courtyard he passed the royal carriage standing all alone. It looked like someone had abandoned it in haste. From the stable he heard the whinny of a horse. 
+In the courtyard, he passed the royal carriage standing all alone. It looked like someone had abandoned it in haste. From the stable, he heard the whinny of a horse. 
 
 Boltac pushed his way through the half-opened door and into the keep. There was no one in the antechamber. There was no one anywhere. Every room he checked was empty. It was as if all the people had simply vanished. He cried out, but only the echo of his own hello answered. 
 
-When he reached the empty throne room. The penny dropped. Mostly, it was the tapestry flapping in a wind that shouldn't be there. Behind the heavy, musty, overly stylized scene of a heroic battle that had never happened, Boltac found a secret door. Behind the door was a staircase.
+When he reached the empty throne room the penny dropped. Mostly, it was the tapestry flapping in a wind that shouldn't be there. Behind the heavy, musty, overly stylized scene of a heroic battle that had never happened, Boltac found a secret door. Behind the door was a staircase.
 
 He followed it down and down again through narrow stone passageways until he emerged at a set of docks in hidden in  high walled cove on the north side of the island. From this island in the middle of the River Swift, he could see that  all the boats were gone. Discarded items were strewn everywhere. Over there was a guard's helmet and at his feet was chest of silks. He could almost see the scene as it had happened. 
 
 A woman, shrieking, clamoring to her handmaiden or guard to bring the chest of rich silks onto the boats. But, of course, there was no room for such. Someone knocking the chest to the docks. Throwing the woman into a boat. Jumping in after her and pushing the craft out into the current. 
 
-The water would have taken them South quickly. If they survived an uncomfortable ride through the rapids, they would already be out of the gray, misted-covered mountains of Robrecht and enjoying a leisurely ride to Shatnapur, the Northernmost city in the Southern Kingdoms. Odds are they were free and clear, floating down a river with the sun in their faces. 
+The water would have taken them South quickly. If they had survived the uncomfortable ride through the rapids, they would already be out of the gray, misted-covered mountains of Robrecht and enjoying a leisurely ride to Shatnapur, the Northernmost city in the Southern Kingdoms. Odds are they were free and clear, floating down a river with the sun in their faces. 
 
 The guards would know how close they came, but the nobles -- the soft and careless ones that claimed privilege to rule -- would be thinking only of what Southron delicacies they might feast upon in a few days times. Rare, tropical fruits. The brains of monkeys. Anything delectable and procured at great suffering to the peasantry. What they weren't thinking about, Boltac knew, was the body of a young girl, dead in a gutter. 
 
@@ -1227,7 +1232,7 @@ This wasn't the chair for him. He was a merchant. Everyone knew you couldn't buy
 
 The health of Kingdoms, thought Boltac, did not depend on war, but commerce. The opportunity for everyone to be able to conduct their little business in peace is what kept people happy and productive. But, for some reason, the only people deemed fit to rule were warriors and their inbred descendants. Something was wrong with this logic. But it was not for him to fix. 
 
-Boltac heaved himself off the fancy chair and left the room. From the wall of the castle he saw heavy columns of smoke rising from the north end of the town. In two's and three's people he could see people fleeing from the Northern gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving. Was this the way it was to be? Was this how his town died? 
+Boltac heaved himself off the fancy chair and left the room. From the wall of the castle, he saw heavy columns of smoke rising from the north end of the town. In two's and three's people fled from the North gate. To the south, the damage was less, but there was a larger stream of traffic. People were leaving. Was this the way it was to be? Was this how his town died? 
 
 # 13 -- Things More Valuable Than Money -- 1149
 
@@ -1245,17 +1250,17 @@ He walked through his well-stocked store and placed items he might need for his 
 
 But that wasn't all. He flitted here and there between the shelves, adding this and that and the other -- oddments and ointments -- anything Boltac thought he might need in the depths of some foul, unknowable place. Because, if there was one thing that Boltac knew about adventure, it was that you never knew, or could know, what was going to happen. 
 
-The second to last thing to go in was the magic lantern of Lamptopolis. And very last of all, were his thick wool gloves of magic negation. Didn't want to be reaching around in a bag like that with bare hands, that was for sure. 
+The second-to-last thing to go in was the magic lantern of Lamptopolis. And very last of all, were his thick wool gloves of magic negation. Didn't want to be reaching around in a bag like that with bare hands that was for sure. 
 
-Through all of this, the bag never bulged, or grew heavier than the 17 or 20 pounds that a sack that size, filled with potatoes, could be expected to weigh. The more Boltac had stuffed into the sack the wider he had smiled. For an instant, he considered trying to fit EVERYTHING in to the sack, just to see if it would take it. But then he thought better of it. Even a magic sack had to have its limits. And if it didn't, that wasn't the kind of thing Boltac wanted to know. 
+Through all of this, the bag never bulged, or grew heavier than the 17 or 20 pounds that a sack that size, filled with potatoes, could be expected to weigh. The more Boltac had stuffed into the sack, the wider he had smiled. For an instant, he considered trying to fit EVERYTHING in to the sack, just to see if he could. But then he thought better of it. Even a magic sack had to have its limits. And if it didn't? That wasn't the kind of thing Boltac wanted to know. 
 
 Boltac hated magic, but he loved this bag. It was Themistres Bag of Holding. One of only a very few known to exist. It was said that it would contain anything the owner could place into it. It never got heavier or bigger. It was, in effect, a bottomless bag. 
 
-Themistres, as the story went, made the bag for his wife. She was a large woman who liked to travel heavy. The Wizard had not made many of them and no Wizard seemed to have been able to duplicate his feat. Wizards seldom married, and the ones who did, generally wound up turning their wives into something that wouldn't bother them. The Bag of Holding was generally believed to be a myth, a pleasant fiction of overloaded husbands and servants everywhere. But Boltac had found one. And what a wondrous thing it was. Priceless, really. 
+Themistres, as the story went, made the bag for his wife. She was a large woman who liked to travel heavy. The Wizard had not made many of them, and no Wizard seemed to have been able to duplicate his feat. Wizards seldom married, and the ones who did, generally wound up turning their wives into something that wouldn't bother them. The Bag of Holding was generally believed to be a myth, a pleasant fiction of overloaded husbands and servants everywhere. But Boltac had found one. And what a wondrous thing it was. Priceless, really. 
 
-With this thought of pricing, he remembered the coins left out in the back. He took out his gloves. Put them on. Removed the magic lantern, which now did not light as he touched it. Then, he added some gold to the sack. As he did, Boltac wondered, what was the point of holding any in reserve? It wasn't like he expected to be coming back. And that's when Boltac realized -- told the truth of it to himself -- he probably wasn't going to make it out of this adventure alive. 
+With this thought of pricing, he remembered the coins he left out in the back. He took out his gloves and put them on. He removed the magic lantern from the sack. It did not light as he touched it. Then, he added some gold to the sack. As he did, Boltac wondered, what was the point of holding any in reserve? It wasn't like he expected to be coming back. And that's when Boltac realized -- told the truth of it to himself -- he probably wasn't going to make it out of this adventure alive. 
 
-He stopped, and stood up in the back room of his store. He had worked so hard to build this store into a thriving business. Now, standing among the money he had worked so hard to accumulate, all of it seemed so worthless. The heavy weight of the mittens of magic negation dragged his hands towards the floor and his shoulders stooped. For a moment, tears ran down his round, weathered face. He let out one sob. Then sniffed, and bent back to the task at hand. 
+He stopped and stood up in the back room of his store. He had worked so hard to build this store into a thriving business. Now, standing among the money he had worked so hard to accumulate, all of it seemed worthless. The heavy weight of the mittens of magic negation dragged his hands towards the floor, and his shoulders stooped. For a moment, tears ran down his round, weathered face. He let out one sob. Then sniffed and bent back to the task at hand. 
 
 He piled *all* the gold into the sack. Who knew, perhaps he could buy his way out of this trouble? That was what a shrewd merchant would do. 
 
@@ -1269,23 +1274,23 @@ Relan was wearing a new pair of boots. In fact, this was his first ever pair of 
 
 But if they could see him now?
 
-Over a linen tunic, he wore a shirt of shining chain mail. It wasn't the best mail that Boltac had, but it was the best-looking. Around his neck a cloak made of hammered felt was clasped with a chain of silver. On his hip, the sword Boltac had given him swung from a wide leather sword belt. On his opposite hip was a dirk with its handle worked into the shape of a screaming eagle. Pants of the finest, softest deer skin he had ever encountered were tucked into the black boots with high cuffs and silver buckles. This is how a hero should look, he thought. 
+Over a linen tunic, he wore a shirt of shining chain mail. It wasn't the best mail that Boltac had, but it was the best-looking. Around his neck, a cloak made of hammered felt was clasped with a chain of silver. On his hip, the sword Boltac had given him swung from a wide leather sword belt. On his opposite hip was a dirk with its handle worked into the shape of a screaming eagle. Pants of the finest, softest deer skin he had ever encountered were tucked into the black boots with high cuffs and silver buckles. This is how a hero should look, he thought. 
 
-Oh they had laughed at him on the farm -- well, his older brothers and sisters had, Ma and Pa had been too tired. They took the news of his departure as they took all news, good or bad, with the tired stare of someone who has seen the worst that the seasons and the ways of man has had to offer. From long habit, they tried not to get excited one way or another. 
+Oh, they had laughed at him on the farm -- well, his older brothers and sisters had, Ma and Pa had been too tired. They took the news of his departure as they took all news, good or bad, with the tired stare of someone who has seen the worst that the seasons and the ways of man have had to offer. From long habit, they tried not to get excited one way or another. 
 
-"You'll be back," his eldest brother had said, in imitation of the  hard, bitter speech of his father. But then his stern face softened and he added, "And you'll be welcome. If you conquer the world, littlest brother, be sure to save us a piece." A last smile and a wink and Relan had been on his way. He knew that none of his family ever expected to see him again. One way or another, when someone left the high valley, they never seemed to come back. 
+"You'll be back," his eldest brother had said, in imitation of the  hard, bitter speech of his father. But then his stern face softened, and he added, "And you'll be welcome. If you conquer the world, littlest brother, be sure to save us a piece." A last smile and a wink and Relan had been on his way. He knew that none of his family ever expected to see him again. One way or another, when someone left the high valley, they never seemed to come back. 
 
 But if they could see him now! Mail glinting in the sunlight, hair blowing in the wind and the heels of these magnificent boots ringing off the cobbles. Announcing to all the world that he who walked in these boots was not a man to be trifled with. 
 
 Yes, he would go back. Just as soon as he was finished, he would go back home and show them. All of them. His sullen family, the joyless villagers. He would come back like something out of the sagas that the strange wandering minstrels sang of in a vain attempt to cheer the flat, simple people of the land. But he would wait until he had something more than a new suit of clothes to show for his adventures. 
 
-The farther Relan walked through the city, the more troubled his mood became. Everywhere he looked, he saw the signs of the last night's carnage. Blood spilled on the cobblestones, bodies lying in the streets. Loved ones gathering corpses. families fleeing for the gates with possessions hastily piled in wagons. And fear on every face. 
+The farther Relan walked through the city, the more troubled his mood became. Everywhere he looked, he saw the signs of the last night's carnage. Blood spilled on the cobblestones, bodies lying in the streets. Loved ones gathering corpses. Families fleeing for the gates with possessions hastily piled in wagons. And fear on every face. 
 
-His music of his strides against the stones took on a sour note and he wondered if he shouldn't have done more last night? But the memory of what he had done, the creature and the killing of it, send a shiver of fear up his spine. He hadn't had time to think. Hadn't had time to be afraid. But now that he had time, he was afraid, and worse. He was honest enough with himself to remember shaking afterwards. And the thought of going out into the night again, to face more of those snarling, tusked creatures on wolves -- it turned his blood to water once again. 
+His music of his strides against the stones took on a sour note. He wondered if he should have done more last night? But the memory of what he had done, the creature and the killing of it, send a shiver of fear up his spine. He hadn't had time to think. Hadn't had time to be afraid. But now that he had time, he was afraid, and worse. He was honest enough with himself to remember shaking afterwards. And the thought of going out into the night again, to face more of those snarling, tusked creatures on wolves -- it turned his blood to water once again. 
 
 He should have done more to help. A real hero would have fought all night. Would have fought until the enemy was driven from the city. But Relan had not. Why? 
 
-Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hadn't been a pleasant week. Sleeping in a makeshift tent in muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
+Perhaps because it wasn't his city? At least not yet. He had only been in Robrecht a week. And it hadn't been a pleasant week. Sleeping in a makeshift tent in a muddy ditch underneath the shadow of the south wall had been rugged enough. But the people were worse. Unfriendly, mean, shrewd, hard-dealers one and all. None had the time to make a penniless farm boy feel welcome. For all the wonderful things he had heard about the cities, he couldn't understand why everyone was so excited about them. 
 
 He had almost given up. Then he had had met Sabrellia. She had appeared to him in the muck and the mire of Robrecht's agricultural market. Relan was on the verge of giving up. He had come to the farmer's stalls to look for work. He was a strong lad and knew how to work hard. But as he stood there, hungry, exhausted, covered in filth, somehow he couldn't bring himself to speak the words. 
 
@@ -1301,7 +1306,7 @@ Relan turned and gasped. "What are you?" He was taken aback by the vision of ful
 
 "You are a traveller!" she exclaimed, saving him from his awkward stammering. "A wanderer, a seeker of adventure!"
 
-"Yes," he said, because he would have said yes to anything this perfumed, breathless woman said. She smiled and Relan felt himself go a weak in the knees. There was a gap between her front teeth that her tongue darted into and away from. She was the most beautiful thing he had ever seen. 
+"Yes," he said, because he would have said yes to anything this perfumed, breathless woman said. She smiled, and Relan felt himself go a weak in the knees. There was a gap between her front teeth that her tongue darted into and away from. She was the most beautiful thing he had ever seen. 
 
 "Dar commands us to serve all travelers and seekers," she said. "Tell me your name."
 
@@ -1315,33 +1320,33 @@ She laughed brightly, in a way that was as far from mocking as the bright sunshi
 
 "My, you are very strong," she exclaimed, accidentally telling the truth. 
 
-She guided him along Robrecht's streets until they were walking beside the nicest part of the river. The great keep loomed off to their right and almost managed, in the afternoon light, to look regal. Sabriella, talked with him gently and gave him the gift of listening well and laughing often at his awkward stories. In no time at all, Relan was completely at ease with the radiant creature on his arm. 
+She guided him along Robrecht's streets until they were walking beside the nicest part of the river. The great keep loomed off to their right and almost managed, in the afternoon light, to look regal. Sabriella talked with him gently and gave him the gift of listening well and laughing often at his awkward stories. In no time at all, Relan was completely at ease with the radiant creature on his arm. 
 
-"Oh, but you must be famished!" she said, and dragged him into a small pot shop. The owner greeted her warmly and they were soon seated. To her great delight he had three bowls of stew. Best of all, the owner wouldn't take payment. Which was good, because Relan was completely broke. 
+"Oh, but you must be famished!" she said and dragged him into a small pot shop. The owner greeted her warmly, and they were soon seated. To her great delight he had three bowls of stew. Best of all, the owner wouldn't take payment. Which was good, because Relan was completely broke. 
 
 They went back out in the street and walked for a time that felt to Relan like both and instant and an eternity. The sun cast longer and longer shadows through the narrow streets and alleys, until finally they heard the tolling of the temple bell. 
 
-"But I must return," Sabrellia exclaimed, "I had not noticed the hours passing so quickly in you presence. I have only been granted parole for the day and the streets are not safe for such as I after dark."
+"But I must return," Sabrellia exclaimed, "I had not noticed the hours passing so quickly in you presence. I have only been granted parole for the day, and the streets are not safe for such as I after dark."
 
 "I will walk you to the temple and keep you safe," Relan said with all the sincerity there was in the world. 
 
-"You must not! I cannot be seen with you. And you cannot be seen with me. I know to one so experienced in *adventure* the hardship of a dungeon and the Temple's Questioner means nothing, but I am a much frailer creature."
+"You must not! I cannot be seen with you. And you cannot be seen with me. I know to one so experienced in *adventure* the hardship of a dungeon, and the Temple's Questioner means nothing, but I am a much frailer creature."
 
 "But, I don't think,"
 
-She placed a finger on his lips. "You are so strong, so handsome, so brave. The temple cares not for one so humble as I... but I know that if  I was in trouble... in danger I mean, that you would come for me. That you would save me. Just like a hero. My hero."
+She placed a finger on his lips. "You are so strong, so handsome, so brave... The temple cares not for one so humble as I... but I know that if  I were in trouble -- in danger I mean -- that you would come for me. That you would save me. Just like a hero. My hero."
 
 He nodded like the idiot he was. And was going to follow her anyway, but then she paralyzed him with a kiss. 
 
-Of course, he had been kissed before. But the the simple, sullen, load-bearing creatures of his village hardly seemed the same species as the delightful girl that pressed her painted lips to his. Such a kiss! He felt his feet break into a sweat. He closed his eyes and saw colors that he never imagined existed. It was the kind of a kiss that would make a more experienced man ask some pretty hard questions about the supposed purity of the Virgin Priestesses of Dar. 
+Of course, he had been kissed before. But the simple, sullen, load-bearing creatures of his village hardly seemed the same species as the delightful girl that pressed her painted lips to his. Such a kiss! He felt his feet break into a sweat. He closed his eyes and saw colors that he never imagined existed. It was the kind of kiss that would make a more experienced man ask some pretty hard questions about the purity of the Virgin Priestesses of Dar. 
 
-"Promise me you will meet me here tomorrow. Dar has inflamed me with love for you and you cannot deny the Goddess her divine purpose. Say it! Say you will meet me."
+"Promise me you will meet me here tomorrow. Dar has inflamed me with love for you, and you cannot deny the Goddess her divine purpose. Say it! Say you will meet me."
 
 He swallowed hard and said, "I will."
 
-And then she ran off around the corner, her sandaled feel slapping the cobblestones as Relan caught flashes of her milk white thighs from beneath her flapping robe. 
+And then she ran off around the corner. Her sandaled feet slapped the cobblestones as Relan caught flashes of her milk white thighs from beneath her flapping robe. 
 
-When she was out of sight he rubbed his lips and smiled to himself. This was the start of it then. The grand adventure of his life that he left the village to find. 
+When she was out of sight, he rubbed his lips and smiled to himself. This was the start of it then. The grand adventure of his life that he left the village to find. 
 
 Then the screaming started. 
 
@@ -1352,17 +1357,17 @@ Relan rounded the corner so fast that he lost his footing and slipped on the cob
 
 He saw two men in black running away with Sabriella, one holding her over his shoulder, the other glaring back at him and brandishing a wickedly curved knife. He was pretty sure *they* weren't priests of the infinitely kind and forgiving, Dar, the first Goddess of Mercy
 
-On the street in front of him a third man lay on the cobbles.  He lifted a hand weakly and called after the kidnappers. "Please! Don't hurt her," he sobbed. Sobbed, thought Relan? What weak, unmanly, unheroic behavior was this? Had this man not heard the sagas? The full-throated minstrels singing of heroes rescuing beautiful ladies in distress through acts of physical valor? This was not how it was done. 
+On the street in front of him, a third man lay on the cobbles.  He lifted a hand weakly and called after the kidnappers. "Please! Don't hurt her," he sobbed. Sobbed, thought Relan? What weak, unmanly, unheroic behavior was this? Had this man not heard the sagas? The full-throated minstrels singing of heroes rescuing beautiful ladies in distress through acts of physical valor? This was not how it was done. 
 
 Clearly, this man would be no help. Relan dashed passed him and turned the corner. In front of him was a long alley. Sabriella was nowhere to be seen. What sorcery was this? Relan ran faster, trusting that if the hero was pure of heart, he would prevail in the end. 
 
-In defense of this naiveté, Relan had spend many of his formative years listening to wandering minstrels trying to coax a meal out of flint-hearted farmers with song at the village longhouse. He knew them all by heart. And in not a single one of them had the hero ever stopped to check the doors he ran past. 
+In defense of this naivete, Relan had spend many of his formative years listening to wandering minstrels trying to coax a meal out of flint-hearted farmers with song at the village longhouse. He knew them all by heart. And in not a single one of them had the hero ever stopped to check the doors he ran past. 
 
-Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, glaring at the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact -- they had gotten away with with love of his young life.
+Relan ran on and on, running out of patience before he ran out of breath. He trotted to a halt and spun around, glaring at the blameless buildings of old Robrecht town as if they had personally wronged him. But, in the end, he was left with the ugly fact -- they had gotten away with love of his young life.
 
 Cursing his luck and the perfidious sorcery with which Sabriella had been snatched away from him, he returned to where he had lost her. The wretched man was still sobbing in the middle of the street. 
 
-When he heard Relan's sandals, the man looked up and said, "She is my sister. Oh cruel gods, it is all my fault." He dropped his head and his long, stringy hair fell across his face. Sobs shook his shoulders. 
+When he heard Relan's sandals, the man looked up and said, "She is my sister. Oh, cruel gods, it is all my fault." He dropped his head, and his long, stringy hair fell across his face. Sobs shook his shoulders. 
 
 Relan picked the man up and set him on his feet. The wretch weighed almost nothing. "Who?" he asked. "Where?" 
 
@@ -1374,7 +1379,7 @@ Relan said, "I can rescue her!"
 
 "No. I have no money, but I have courage."
 
-"Courage?" he said, as he looked off into a hopeless middle distance. "They won't take courage. I owe them money. Do you have money? Can you get money? I meant to get money at dice. But..." and here the pitful sobbing took over once again. 
+"Courage?" he said, as he looked off into a hopeless middle distance. "They won't take courage. I owe them money. Do you have money? Can you get money? I meant to get money at dice. But..." and here the pitiful sobbing took over once again. 
 
 "I can rescue her! If you would but tell me where they have taken her."
 
@@ -1389,7 +1394,7 @@ The man's pitiful wails seemed to follow Relan through the streets as he went in
 
 # 16 -- Relan Learns a Lesson -- 1393
 
-Of course, a sword was hard to find. Relan had tried to beg or borrow one for two days before he worked up the nerve to go and talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavro lived in a shack built against the outside of the Southron wall. Every time he saw Relan he had wailed and cried. He told and retold his sad tale, claiming that it was all his fault, but he would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
+Of course, a sword was hard to find. Relan had tried to beg or borrow one for two days before he worked up the nerve to go and talk to Boltac. He had gone to the market, looking for work as a laborer. He had begged for change from rich passerbys. But nothing had worked. Sabriella's brother, a poor wretch named Stavro, lived in a shack built against the outside of the Southron wall. Every time he saw Relan he had wailed and cried. He told and retold his sad tale, claiming that it was all his fault, but he would not *do* anything about it. He lacked the courage, he said. He lacked the strength, he said. All he had was love for his sister and hatred for himself. 
 
 He was worthless, except for the information that Relan had managed to extract from him. The men who had taken Sabriella worked for a man named Hogarth, a thug who controlled gambling in Robrecht. They had taken her to a hold in the South, a pile of dark stones on the River Swift known as the Tower of Forgetting. There they would keep her for a week. Then the rapes would start. The week after that, they would cut fingers off. Relan did not think to ask how this creature, Stavro, could describe such tortures in detail without breaking down into tears. 
 
@@ -1397,7 +1402,7 @@ Relan, of course, vowed that he would rescue his lady (with all faithfulness and
 
 But, on the other hand, he had unfinished business. His lady had been kidnapped and wanted rescuing. He could think of no saga, song or lay in which the hero had left his lady in peril to embark on a larger, more important quest. But, in a moment of unusually clear thinking, it seemed that the needs of the city should come before the needs of one heartbroken hero. Shouldn't they?
 
-So it was, lost deep in the shallows of his limited philosophy, that Relan bumped into a wheelbarrow with a corpse in it. He muttered half an apology before he recognized the man pushing the barrow. "Stavo! You have survived the assault. I am so glad." Relan heard a sharp intake of breath. A decidedly *feminine* intake of breath. He looked up to see a teary-eyed Sabriella on the other side of the wheelbarrow. 
+So it was, lost deep in the shallows of his limited philosophy, that Relan bumped into a wheelbarrow with a corpse in it. He muttered half an apology before he recognized the man pushing the barrow. "Stavro! You have survived the assault. I am so glad." Relan heard a sharp intake of breath. A decidedly *feminine* intake of breath. He looked up to see a teary-eyed Sabriella on the other side of the wheelbarrow. 
 
 "Sabriella, you have been rescued!"
 
@@ -1447,7 +1452,7 @@ Stavro said, "Ah, well there you go. You can take the bumpkin out of the country
 
 "But I see it is not the only evil that plagues Robrecht Town. Treacherous woman. I... I... loved you."
 
-"I know you did," said Shirley, not without kindness. "That's my gift. As for the rest," she shrugged, "Don't blame me. It's the world that's treacherous, I'm just a girl who's trying to keep up. Besides, a girl's gotta make a living, doesn't she? And I don't have a big, strong man like you to protect me." As she said this, she edged closer to Relan, unafraid of the naked blade in his hand. She pushed the flat of it gently out of the way with her fingertips. 
+"I know you did," said Shirley, not without kindness. "That's my gift. As for the rest," she shrugged, "Don't blame me. It's the world that's treacherous. I'm just a girl who's trying to keep up. Besides, a girl's gotta make a living, doesn't she? And I don't have a big, strong man like you to protect me." As she said this, she edged closer to Relan, unafraid of the naked blade in his hand. She pushed the flat of it gently out of the way with her fingertips. 
 
 "You know, we were trying take whatever money you could scrape together. I'm not proud of that." She ducked her head bashfully, then threw her hair back to reveal an expanse of perfect, pale throat that drew Relan downward into her dangerously plunging neckline. "But the feeling was real, you know." Then, like the sun breaking through the clouds after a storm, her pouty frown was replaced with a dazzling smile.
 
@@ -1455,7 +1460,7 @@ Stavro said, "Ah, well there you go. You can take the bumpkin out of the country
 
 "Right here," said Stavro, grunting as he struggled to push the unconscious Thorvin on top of the corpse already in the wheelbarrow. 
 
-Relan almost believed it. Shirley almost got away with it. But whether the Gods were looking out for Relan, or whether Shirley's luck had run out didn't matter. Relan caught a flash of morning sunlight as it glinted off the thin-bladed dagger, Shirley was concealing along her wrist. It wasn't stout enough to chop off a limb, but it was enough to slip between chain mail rings, just enough to tickle his heart and kill him. 
+Relan almost believed it. Shirley almost got away with it. But whether the Gods were looking out for Relan, or whether Shirley's luck had run out didn't matter. Relan caught a flash of morning sunlight as it glinted off the thin-bladed dagger Shirley was concealing along her wrist. It wasn't stout enough to chop off a limb, but it was enough to slip between chain mail rings, just enough to tickle his heart and kill him. 
 
 "What are you going to do with that?" Relan asked. And then he did it right. He didn't give her time to explain. He didn't give her time to stab him. He hit the beautiful creature in her beautiful face with his fist. Then he looked down in horror at what he had done. A hero never, ever hit a lady.
 
@@ -1467,14 +1472,16 @@ As Relan ran north, he thought he might have just learned some kind of lesson. T
    
 # 17 -- Why Walk When You Can Ride? -- 1755
 
-After Relan left the city, he followed wolf tracks North for the better part of the day. He ran to the point of exhaustion, trying to put the shame of hitting Sabriella, Shirley -- hatever such a woman should be called. -- behind him. At the time, he had been certain that she was going to stab him. But now, he had doubts. Maybe she had just been scared. Relan knew he was scared, deep down, in that part of him that wasn't fit to be a hero. But even if she had tried to kill him, a real hero would have found a way to deal with it without hitting her. 
+After Relan left the city, he followed wolf tracks North for the better part of the day. He ran to the point of exhaustion, trying to put the shame of hitting Sabriella, Shirley -- whatever such a woman should be called. -- behind him. At the time, he had been certain that she was going to stab him. But now, he had doubts. Maybe she had just been scared. Relan knew he was scared, deep down, in that part of him that wasn't fit to be a hero. But even if she had tried to kill him, a real hero would have found a way to deal with it without hitting her. 
 
 All in all, Adventure wasn't turning out like he had expected, that was for sure. It wasn't excitement or glory. More than anything, it was sore feet. The fine new boots that had looked so good in Boltac's store had started to gnaw at him as soon as he made it into the woods. 
 
+<br />
+<br />
 
-As the day wore on, his self-criticism grew sharper and his pace grew slower. Now he was spending more time resting than limping. Finally, he gave up on the boots, pulled them off and tossed them in the heavy sack he alternately carried and dragged behind him. Even with feet blistered raw, it hurt less to walk barefoot. 
+As the day wore on, his self-criticism grew sharper, and his pace grew slower. Now he was spending more time resting than limping. Finally, he gave up on the boots, pulled them off and tossed them in the heavy sack he alternately carried and dragged behind him. Even with feet blistered raw, it hurt less to walk barefoot. 
 
-And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had ever known were animal hides wrapped around his legs with leather strips to protect him from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned-out husks and buildings, the common folk nursing their hurt and wrapping their dead in shrouds, but the memory of how that thing had felt dying on the other end of his sword was worse. 
+And why not? He had gone barefoot in warm weather ever since he was a boy. The only boots he had ever known were animal hides wrapped around his legs with leather strips to protect him from the deep mountain snow. And today was good weather. A fine day, except for the memory of the sack of Robrecht haunting him. It was bad enough to see the burned-out husks and buildings; the common folk nursing their wounded and wrapping their dead in shrouds. But the memory of how that thing had felt dying on the other end of his sword was worse. 
 
 He had wanted a sword so badly. But now that he had one, it hung heavy on his hip, pulling him around to the left. After the day's walking, he could feel a pain in his left knee and hip. Every time his hand brushed the cold steel of the hilt he shuddered.
 
@@ -1518,15 +1525,15 @@ Relan let the question sink in.
 
 Relan still didn't climb onto the carriage. "What changed your mind? Isn't this what you pay taxes for?"
 
-The smile dropped from Boltac's face and he said, "The Duke ran away. Took his guards with him."
+The smile dropped from Boltac's face, and he said, "The Duke ran away. Took his guards with him."
 
 Relan's mouth dropped open. "Can he do that?"
 
-"Age and treachery kid. That's his play and it's a good one. For him at least. So it's just us. Ain't nobody else. Which is good, because what we are going to do is *very* dangerous and *very* stupid."
+"Age and treachery kid. That's his play, and it's a good one. For him at least. So it's just us. Ain't nobody else. Which is good, because what we are going to do is *very* dangerous and *very* stupid."
 
 "It's not stupid. You're going to rescue the lady, the love of your life!" said Relan. 
 
-"En-henh, something like that. Anyway, I eeeeeeeh, like having her around and I'm going to get her back. Rescue is too strong of a word to, uh."
+"En-henh, something like that. Anyway, I eeeeeeeh, like having her around, and I'm going to get her back. Rescue is too strong of a word to, uh."
 
 "Stout merchant, from down here it looks like you are blushing."
 
@@ -1536,7 +1543,7 @@ As Boltac covered his emotion, Relan climbed aboard the coach and sat beside Bol
 
 "You mean, you're gonna lend me my own sword!"
 
-"It's just a figure of speech," Relan muttered. Boltac hitched the reins and the heavy draft horses lurched the carriage into motion. 
+"It's just a figure of speech," Relan muttered. Boltac hitched the reins, and the heavy draft horses lurched the carriage into motion. 
 
 "Ahh, I know kid," said Boltac. "You got a good heart, but you're kind of an idiot. No offense. I mean, think about this. What is in this for you?"
 
@@ -1570,7 +1577,7 @@ Relan smiled. "Not if you brought any more of those healing potions. I mean that
 
 "Yes, there's not going to be anything to buy."
 
-"Are you kidding there's gonna be all kind of things to buy. Not the least of which is the woman I want to get back."
+"Are you kidding? There's gonna be all kind of things to buy. Not the least of which is the woman I want to get back."
 
 "Wait, I thought this was a daring rescue?"
 
@@ -1602,7 +1609,7 @@ Relan smiled. "Not if you brought any more of those healing potions. I mean that
 
 "That's not true. That can't be true! Why there's got to be heroes. Who else would look out for the poor and the unfortunate?"
 
-"The poor and the unfortunate either look out for themselves, or, well, then they're really poor and unfortunate."
+"The poor and the unfortunate either look out for themselves, or well, then they're really poor and unfortunate."
 
 "That's terrible. That's the most awful thing I've ever heard."
 
@@ -1643,23 +1650,23 @@ They rode on in silence for a long time. Finally, Boltac grew so bored, he decid
 
 # 18 -- Do I Have a Deal for You! -- 944
 
-Rattick was no hero. Like all true survivors, he always seemed to find ways to profit from misfortune of others. So, at the first sign of trouble, he slunk into the alleys of Robrecht. While Orcs marauded through the town and fire ravaged the buildings, he kept to the shadows, looting corpses where he could, burgling a store here or there, until finally he reached the North gate. He found a horse in the Guard's stable and was gone into the night without a second thought. 
+Rattick was no hero. Like all true survivors, he always seemed to find ways to profit from the misfortune of others. So, at the first sign of trouble, he slunk into the alleys of Robrecht. While Orcs marauded through the town and fire ravaged the buildings, he kept to the shadows, looting corpses where he could, burgling a store here or there, until finally he reached the North gate. He found a horse in the Guard's stable and was gone into the night without a second thought. 
 
 When Rattick reached the forest, he abandoned the horse and left the road. He worked his way along the road twenty yards into the woods. When he grew tired, he climbed a tree, wrapped himself in his cloak and tried to nap. His sleep did not last long, for he was awakened by the sounds of the raiding party returning from Robrecht. Horrible things on wolves crying "Hork, Hork, Hork!" as they rode the unlit roads. Rattick wondered what treasure they had taken from the town. Probably just people for food. But, just in case, he followed their tracks, looking for dropped baubles by the light of a waning moon. 
 
-The raid was was bad news for Robrecht, of course, but good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? But the problem with taking a partner in the grift was, how could you trust a grifter? 
+The raid was bad news for Robrecht, of course, but good news for Rattick. When word got out about the sack, adventurers would come from all parts of the Four Kingdoms. They would see glory and loot. And with such a school of fish to draw from, Rattick's grift was about to go big time. Maybe he needed a partner to handle the additional volume? But the problem with taking a partner in the grift was, how could you trust a grifter? 
 
 With his careful traveling habits, it took Rattick three days to return to the entrance of the Wizard's lair. And by the time he got there, it wasn't there anymore. The once grassy hill and innocuous-looking wooden door had been blown apart to create a smoking hole in the earth. 
 
 Wolf tracks led directly over the edge and into the maw of the pit. Evidently the Wizard had had enough. It was not hard for Rattick to imagine the scene in his mind. Often enough he had heard the howls of frustration echoing through lower dark of the dungeon. Of course, Rattick had been amazed and frightened by the mighty magics he seen the man work. But that's what made it funny now. That one so wise in the ways of power could be so ignorant of patience. That was amusing. And worth remembering. 
 
-Did someone make it past the Troll and steal something of true value from the Wizard? Yes, that would do it. And Rattick wouldn't be surprised. His grift had been keeping the Troll so well-fed, that half the time he brought adventurer's to him, he had to wake the beast up to get him to eat his marks. 
+Did someone make it past the Troll and steal something of true value from the Wizard? Yes, that would do it. And Rattick wouldn't be surprised. His grift had been keeping the Troll so well-fed that half the time he brought adventurer's to him, he had to wake the beast up to get him to eat his marks. 
 
 A theft certainly would have pushed the Wizard over the edge. His temper lost, raging against insults real and imagined, his foul creations scurrying for cover, yes that must have been the way it happened. The Wizard throws up his hands into the air, says a word of power and the entire hillside blows outward into the night. With a hue and cry, he let slip the Orcs of War. 
 
-Yes, that's how it would have happened. Dimsbury had enough power to do it, that was sure. He was a Wizard sure enough, with more power than any Battlemage Rattick had ever heard of. 
+Yes, that's how it would have happened. Dimsbury had enough power to do it that was sure. He was a Wizard sure enough, with more power than any Battlemage Rattick had ever heard of. 
 
-It was the kind of scene that one would place in a mighty saga to give the Hero time to rally an army and save the town. Except that there was no hero. And there was no army. Just a wound in the earth and an unsuspecting town that had been sacked. And would be sacked again and again, now that it was defenseless. 
+It was the kind of scene that one would place in a mighty saga in order to give the Hero time to rally an army and save the town. Except that, there was no hero. And there was no army. Just a wound in the earth and an unsuspecting town that had been sacked. And would be sacked again and again, now that it was defenseless. 
 
 So now he would wait for the next party of adventurers. When they came, he would spin his sad tale of love and life lost in the fall of Robrecht. He would summon tears to his false eyes and tell how he had come for vengeance, but realized to attempt the depths of the fiendish dungeon alone would be surest suicide. Then he would promise to serve his new friends faithfully. 
 
@@ -1667,7 +1674,7 @@ After a while, he grew tired of standing around waiting for the next flock of he
 
 He peered down through the leaves and spied a coach fit for a king. A King, or a party of adventurers so rich that Rattick would only have to run his bloody con one last time before he retired to the warmth and debauchery of the Southern Kingdoms. 
 
-He jumped down from the tree so quickly, he nearly broke his leg. As he rushed to greet the adventurers, he saw that the strong-jawed blond lad who drove the carriage was wearing a very, very high grade of armor. A good sign, thought Rattick, expensive armor, even on the servants.
+He jumped down from the tree so quickly he nearly broke his leg. As he rushed to greet the adventurers, he saw that the strong-jawed blond lad who drove the carriage was wearing a very, very high grade of armor. A good sign, thought Rattick, expensive armor, even on the servants.
 
 "Hello, hail and welcome, proud adventurers. Be on your guard, for you have come to the lair of a Wizard most foul and dangerous. Humble as I am, I place at your service, my unworthy person, Rattick." He said, finishing with a low bow. 
 
@@ -1700,7 +1707,7 @@ Rattick made a face. "I think that you are a long way from your store, shrewd me
 
 "Rattick, I want to hire you. Now before you protest, here's 10 gold pieces. Now there's more where that came from. Plenty more. I seek an audience with the Wizard at the bottom of this smoking hole, and I want you to get me there."
 
-"I… I…" Rattick stammered to a halt. Between trying to twist circumstances to his advantage and trying to figure out what in the hell circumstance was up to, he locked up. Finally, he asked "Have you lost your mind, fat merchant?"
+"I… I…" Rattick stammered to a halt. Between trying to twist circumstances to his advantage and trying to figure out what in the hell circumstance was up to, he locked up. Finally, he asked, "Have you lost your mind, fat merchant?"
 
 "What? You mean because I'm here? Yeah, probably. But I haven't lost my cunning, you understand. Half you reward is with me, half when you get me back to town."
 
@@ -1722,7 +1729,7 @@ Rattick made a face. "I think that you are a long way from your store, shrewd me
 
 "Yadda, yadda, yadda. See kid, what he did there? Ahh, nevermind, what he did was despicable. But the important thing is that we're not going to fall for are we?"
 
-"No we're not," said Relan, not knowing what he wasn't going to fall for. "Because I'm here to protect you."
+"No, we're not," said Relan, not knowing what he wasn't going to fall for. "Because I'm here to protect you."
 
 "Protect me! Ha. Kid, you're here to carry the lantern." Boltac reached into his bag and handed Relan him the sacred, magic lantern of Lamptopolis. As soon as Relan touched it, it blazed forth with a brilliant light. 
 
@@ -1742,7 +1749,7 @@ Rattick handed the darkened lamp back to Boltac and asked, "What do you want wit
 
 "He has a friend of mine. And I'd like her back."
 
-"Ho, ho ho. Is this love? Love from the man who is all business?"
+"Ho, ho, ho. Is this love? Love from the man who is all business?"
 
 "Yeah, I'm all business Rattick, so how much you want?"
 
@@ -1764,7 +1771,7 @@ Boltac frowned. "Y'know Rattick, if I'm gonna be your boss, you might want to sh
 
 "Even with my help, you don't stand a chance," said Rattick. 
 
-"Don't forget about me," said Relan drawing his sword. The conversation came to a complete halt as both men stared at the Farm Boy. They stared so long, that Relan became uncomfortable and asked, "What?"
+"Don't forget about me," said Relan drawing his sword. The conversation came to a complete halt as both men stared at the Farm Boy. They stared so long that Relan became uncomfortable and asked, "What?"
 
 "But that away before you hurt yourself," said Boltac. "Now where were we?"
 
@@ -1827,11 +1834,11 @@ Rattick asked the obvious question. "Have you ever seen a troll?"
 
 # 21 --- Troll's Perspective -- 628
 
-The Troll was asleep next to a mound of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, but the presence of this sleight illumination allowed the Troll to see the terror on his meals faces' more clearly. There is an old troll proverb that says *food better frightened*, or *scared is good eatin'* or *terror is the best sauce.* It loses pretty much everything in the translation. But just in case you had any question about the matter, Trolls aren't nice. 
+The Troll was asleep next to a mound of phosphorescent lichen. Strictly speaking, the creature didn't need light to see, but the presence of this slight illumination allowed the Troll to see the terror on his meals faces' more clearly. There is an old troll proverb that says *food better frightened*, or *scared is good eatin'* or *terror is the best sauce.* It loses pretty much everything in the translation. But just in case you had any question about the matter, Trolls aren't nice. 
 
 Something kicked the Troll in the foot. This was a new sensation for the Troll. There really isn't anything in nature in the habit of kicking Trolls. The Troll opened his large, yellow eyes. In the dim light of the lichen, he could clearly see see food, holding a small sack and looking up at him. 
 
-"Yoo hoo, Mister Troooooooll. Have I got a deal for you!" said the food. 
+"Yoo Hoo, Mister Troooooooll. Have I got a deal for you!" said the food. 
 
 Wait, food was talking? This was confusing. Food never talked. Sometimes food screamed. Sometimes food tried to poke the Troll with sharp things. Most of the time food ran away. But it never stood its ground and talked. And certainly never kicked. Since the Troll couldn't understand what any of the funny, squeaky little sounds coming out of food's mouth meant, it tried to understand *why* food wasn't doing any of the things that it usually did. 
 
@@ -1880,7 +1887,7 @@ Pinned to the floor, the Troll seemed much less fierce. His eyes were wide, and 
 
 "But what about Wizards? They use magic," countered Rattick. 
 
-"They always manage to do themselves in in the end. Just 'cause you get away with something for a while doesn't make it safe."
+"They always manage to do themselves in the end. Just 'cause you get away with something for a while doesn't make it safe."
 
 Rattick said, "Marveled as I am by your cunning, good merchant, one question remains: How did you learn about the mace?"
 
@@ -1906,13 +1913,13 @@ All the way to the bottom, thought Rattick.
 
 # 23 -- An Unsatisfying Lunch -- 851
 
-The faint light from torches and braziers flickered throughout the round room as if it was afraid of being caught there. The space had been carved from the living rock, but, in a concession to the occupant, mortar lines had been chiseled into the stone to create the illusion that this room had been constructed by masons. If one ignored the lack of windows, one might well imagine that this was a room in a tower, keep or castle, instead of hundreds of feet below ground. 
+The faint light from torches and braziers flickered throughout the round room as if it were afraid of being caught there. The space had been carved from the living rock, but, in a concession to the occupant, mortar lines had been chiseled into the stone to create the illusion that this room had been constructed by masons. If one ignored the lack of windows, one might well imagine that this was a room in a tower, keep or castle, instead of hundreds of feet below ground. 
 
 The room had a high, arching ceiling, with a hole in the top. The smoke from the burning coal and torches sent streams of greasy smoke into this upper darkness. Below, thick rugs, the fine work from Southron craftsmen, divided the room into several areas. 
 
-In the very center of the room there was round hole, six feet across, that was capped by a wooden cover. On the left was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. 
+In the very center of the room, there was a round hole, six feet across, that was capped by a wooden cover. On the left was a collection of shelves filled with scrolls, codexes, potions and ingredients under glass. 
 
-On the far side of the room there was a raised dais, and on it a kind of altar. On the altar there was a large glass jar, perhaps half the height of man. In the jar a flame danced, but it seemed to be just out of focus. Its weak light light threw strange shadows and shapes on the wall behind it, but its light did not penetrate any farther into the chamber. 
+On the far side of the room, there was a raised dais. On it was a kind of altar. On the altar, there was a large glass jar, perhaps half the height of a man. In the jar, a flame danced, but it seemed to be just out of focus. Its weak light threw strange shadows and shapes on the wall behind it, but its light did not penetrate any farther into the chamber. 
 
 And on the right, sitting at a desk covered with papers and oddment, sat the Wizard Dimsbury, slumped in frustration. The heels of his hands pressed into his forehead, he scowled from underneath his troubled brow at the mountain of paperwork before him. 
 
@@ -1940,9 +1947,9 @@ When the Wizard lifted the cover, he found a bloody, unappetizing mess. He strug
 
 The Wizard replaced the cover on the vile lunch-like creation that sat before him. "And the leg of Man is, I am to understand, uncooked?"
 
-"Oh of course, my -- oh, I see what you're getting at. It's just that Orc's don't, you know, cook meat, so the cooks don't, uh" Samga seemed genuinely hurt and flustered. "Really more of butchers, then, aren't they?"
+"Oh of course, my -- oh, I see what you're getting at. It's just that Orcs don't, you know, cook meat, so the cooks don't, uh" Samga seemed genuinely hurt and flustered. "Really more of butchers, then, aren't they?"
  
-"There, there Samga. You kind was not bred for cuisine, I understand. Simply take it away and bring me the female prisoner."
+"There, there Samga. You kind was not bred for cuisine. I understand. Simply take it away and bring me the female prisoner."
 
 "OH, you want us to cook her?"
 
@@ -1962,17 +1969,17 @@ The Wizard replaced the cover on the vile lunch-like creation that sat before hi
 
 After the wizard had flown off with her, Asarah had managed to scream for all of twenty seconds before she passed out. When she awoke, she found herself unharmed in a cell of damp grey rock. There was no window and no furniture. 
 
-Next to the pile of straw she was lying on there was a candle burning in defiance of the oppressive dark of the cell. By its feeble light she could see that the only way in or out of the room was a heavy wooden door with a small window. 
+Next to the pile of straw she was lying on there was a candle burning in defiance of the oppressive dark of the cell. By its feeble light, she could see that the only way in or out of the room was a heavy wooden door with a small window. 
 
-Through the window she could see that the hallway beyond seemed to be carved out of the same rock as the cell. She listened carefully, but heard nothing. When she moved the candle away from the window, she thought she could see the merest hint of a flicker of light from the other end of the passage. 
+Through the window, she could see that the hallway beyond seemed to be carved out of the same rock as the cell. She listened carefully but heard nothing. When she moved the candle away from the window, she thought she could see the merest hint of a flicker of light from the other end of the passage. 
 
 "Hey!" she yelled. There was no response.
 
 "You out there! I know you're out there. You can't have a jail without a jailer!" She heard the scraping of a chair against the stone floor. "Come here! I need to see you. I demand to see you!"
 
-The unknown Jailer made a shuffling, snuffling noise as he drew nearer. She could hear him, but couldn't see him. What manner of man didn't use a light? She held the candle out of the window to get a better look. 
+The unknown Jailer made a shuffling, snuffling noise as he drew nearer. She could hear him but couldn't see him. What manner of man didn't use a light? She held the candle out of the window to get a better look. 
 
-A face of grey-green, leathery skin, punctuated by tusks and beady black eyes came at her from out of the darkness. It snarled and Asarah jumped backwards and dropped her candle. It sputtered and went out before she could pick it up again. 
+A face of grey-green, leathery skin, punctuated by tusks and beady black eyes came at her from out of the darkness. It snarled, and Asarah jumped backwards and dropped her candle. It sputtered and went out before she could pick it up again. 
 
 There, in the terrible darkness, she heard herself sob and realized how afraid she truly was. She could hear the thing breathing on the other side of the door. She prayed she wouldn't hear the sound of the door opening. 
 
@@ -1998,7 +2005,7 @@ Another of those strange, monstrous faces thrust itself into the window, but ins
 
 "I know not. None of us do. We are made not born, in the bowels of the Earth, to serve the Master."
 
-Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. The door to the cell creaked open and Samga entered. As she saw him in the full light of the lantern, he was less terrifying than she thought. It helped that he wasn't riding a wolf or sacking the town in which she lived. "So what does your master want with me?" Asarah asked with a false pout. 
+Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. The door to the cell creaked open, and Samga entered. As she saw him in the full light of the lantern, he was less terrifying than she thought. It helped that he wasn't riding a wolf or sacking the town in which she lived. "So what does your master want with me?" Asarah asked with a false pout. 
 
 "It's not wise for me to ask, my Lady. We must go."
 
@@ -2006,9 +2013,9 @@ Gah, what an existence, though Asarah. And she simply *hated* the word Bowels. T
 
 "Master is usually unhappy," Samga said with a sad look that seemed out of place on a monster.
 
-Asarah knew what the flying man wanted with her. She wasn't about to let him get the upper hand without a fight. And there were many ways to fight. Where a man had desire, a woman had the opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly, out-of-control mess. That was okay, some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
+Asarah knew what the flying man wanted with her. She wasn't about to let him get the upper hand without a fight. And there were many ways to fight. Where a man had desire, a woman had the opportunity to torture. She took stock of her appearance as best she could without a mirror. Her hair, unruly at the best of times, was now an utterly, out-of-control mess. That was okay. Some men preferred her that way. Unless she missed her mark, this Wizard was one of them. But her dress? ugh. It simply wouldn't do. She smiled an evil smile and started ripping. 
 
-After her first few tears, her left sleeve and blouse was in tatters, revealing the hollow of her clavicle, most of her left breast and all of her left arm. Then she grabbed a hold of the skirt below the knees. A few sharp jerks and she was showing a lot more leg. Then she rolled her lips inward and bit down on them hard to bring a bright redness to them. 
+After her first few tears, her left sleeve and blouse were in tatters, revealing the hollow of her clavicle, most of her left breast and all of her left arm. Then she grabbed hold of the skirt below the knees. A few sharp jerks and she was showing a lot more leg. Then she rolled her lips inward and bit down on them hard to bring a bright redness to them. 
 
 There, she thought, that ought to put him in a twist. Not all men are wizards, but all wizards are men. Asarah, girl, we're going to see how much we can lead this one around.
 
@@ -2019,9 +2026,10 @@ Then she turned and tried it out on the creature. A toss of the hair, a full smi
 Hunh, she thought, Orcs must be gay. 
 
 
+
 # 25 -- Boltac and Relan and Rattick -- 1475
 
-Rattick led Boltac and Relan deeper into the dungeon. Sometimes they moved through natural caverns with stalactites and stalagmites. Sometimes they walked through abandoned mine works. But as they descended deeper and deeper, the quality of the workmanship changed. When they plunged into the bedrock the tunnels seemed more organic. More gnawed than carved. It was in one of these these strange, unsettling passages that they came to a fork in the passage. Rattick stopped and said nothing. 
+Rattick led Boltac and Relan deeper into the dungeon. Sometimes they moved through natural caverns with stalactites and stalagmites. Sometimes they walked through abandoned mine works. But as they descended deeper and deeper, the quality of the workmanship changed. When they plunged into the bedrock, the tunnels seemed more organic. More gnawed than carved. It was in one of these strange, unsettling passages that they came to a fork in the passage. Rattick stopped and said nothing. 
 
 "Which way do we go?" asked Boltac.
 
@@ -2041,11 +2049,11 @@ Rattick said, "Orcs my merchant friend. They infest the depths. And they hunger 
 
 Boltac said, "Enh-henh, let's keep moving. Quietly." Then he turned to Relan, "And if it's possible, don't do anything too stupid." He slapped his kid's hand away from his sword. 
 
-"To the right then, because we are for good," said Relan, nodding as if the matter was settled. 
+"To the right then, because we are for good," said Relan, nodding as if the matter were settled. 
 
 "For good," snorted Rattick, "We are sneaking into a powerful Wizard's dungeon to steal from him, what is good about that? You'll be no kind of thief at all if you try to be polite about it," Rattick said.
 
-As the young boy's face grew red with anger, Boltac stepped between the two of them and asked, "Why do you want to go left?"
+As the young lad's face grew red with anger, Boltac stepped between the two of them and asked, "Why do you want to go left?"
 
 Rattick smiled, "I just like the left."
 
@@ -2064,19 +2072,19 @@ Relan rushed after the merchant, "But you can't trust him."
 
 "The bag is more precious than the contents, hey, wait a minute? Where is that weasely son-of-a-bitch?" Before they could turn back, they heard the sounds of a scuffle behind them. 
 
-"Ah, Gah, ah-Hah!" they heard Rattick say from around the corner. On the wall, grotesque statues cast by torches revealed two shadows with strange pointed ears grabbing at the cowled shadow of Rattick. Boltac and Relan froze at the spectacle before them. There were hisses and grunts, muffled curses and the sound of thudding blows. Rattick cried, "Save yourselves, I will hold them as long as I can!"
+"Ah, Gah, ah-Hah!" they heard Rattick say from around the corner. On the wall, grotesque statues cast by torches revealed two shadows with strange pointed ears grabbing at the cowled shadow of Rattick. Boltac and Relan froze at the spectacle before them. There were hisses and grunts, muffled curses and the sound of thudding blows. Rattick cried, "Save yourselves! I will hold them as long as I can!"
 
 "We should help him," said Relan.
 
-"En-henh. You think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment he was trapped there. Torn between the desire to do the right thing, and his certain knowledge that Rattick was an evil man. He watched the shadows tear at each other. Then he turn and ran. 
+"En-henh. You think he would help you?" Boltac said, already turning to run. Relan gripped his sword. For a moment, he was trapped there. Torn between the desire to do the right thing, and his certain knowledge that Rattick was an evil man. He watched the shadows tear at each other. Then he turned and ran. 
 
-When he caught up with the wheezing, slow-moving Boltac. the merchant was already struggling under the weight of his brown sack. Boltac looked at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
+When he caught up with the wheezing, slow-moving Boltac, the merchant was already struggling under the weight of his brown sack. Boltac looked at Relan and struggled to say, "If you feel raw about it kid, you can try and rescue him later." 
 
 Relan ran ahead. Thinking that he was being drawn into danger as the moth is drawn to the candle flame. Yes, maybe this was it. Maybe this was his chance to be heroic.
 
 The corridor came to a right angle bend. Relan skidded to a stop. The stone work was more finished in this part of the cave system. The rough edges had been broken off, and here and there, there was evidence of polishing and brickwork in places. It gave Relan the impression that they were getting somewhere.
 
-He held up a hand so Boltac wouldn't run past him. But when he looked back he realized how silly the gesture was. Boltac was limping down the corridor, panting heavily and dragging his sack behind him. When he saw that Relan was looking at him he nodded weakly and raised a hand. 
+He held up a hand so Boltac wouldn't run past him. But when he looked back he realized how silly the gesture was. Boltac was limping down the corridor, panting heavily and dragging his sack behind him. When he saw that Relan was looking at him, he nodded weakly and raised a hand. 
 
 Relan drew his blade carefully, not making a sound. Then he peeked around the corner very slowly. His jaw dropped. He retreated back into the passage. 
 
@@ -2088,15 +2096,15 @@ Relan drew his blade carefully, not making a sound. Then he peeked around the co
 
 "Kid. I... ain't... made... for running," said Boltac between gasps. 
 
-"Look!" Relan commanded. Boltac raised his weary head and they both peered around the corner. This time it was Boltac's turn to drop his jaw. 
+"Look!" Relan commanded. Boltac raised his weary head, and they both peered around the corner. This time it was Boltac's turn to drop his jaw. 
 
 He had thought they were in a large corridor before, but when he saw the massive passageway around the corner, Boltac realized how wrong he was. Here, underground, was a massive corridor, wider than any street in Robrecht. It looked to have been hewn from the living rock itself. Large, interlocking arches graced the ceiling and descended in a series of gigantic columns that punctuated the center of the corridor.  Scores of Orcs walked up and down through the long hallway. 
 
 Through this gigantic passage, Orcs climbed and descended, leading wagons as they traveled. On the far side of the passage, Boltac could see that the tiny hallway they were in continued on. But between them and the other side was a space five wagons wide, filled with Orcs. But these were not the snarling, ravening, bloodthirsty creatures that had descended on Robrecht. These Orcs looked positively, industrious?
 
-"What are they doing," Boltac wondered aloud. 
+"What are they doing," Boltac wondered aloud? 
 
-On one side, a steady stream of Orcs descended in well-gruntled, torch-carrying groups of two or three. And closest to them, a crack of a whip and the straining grunts announced the approach of a heavily ladened wagon. They retreated into the shadows of the passage. From the corridor below, a team of four orcs, yoked like oxen, came into view pulling a crude wagon up the slope behind them. 
+On one side, a steady stream of Orcs descended in well-gruntled, torch-carrying groups of two or three. And closest to them, the crack of a whip and the straining grunts announced the approach of a heavily ladened wagon. They retreated into the shadows of the passage. From the corridor below, a team of four orcs, yoked like oxen, came into view pulling a crude wagon up the slope behind them. 
 
 The wagon was filled with raw ore of some kind and by the light of the foul, pitch-smouldering torches on the front of the wagon, they could see that a fifth Orc sat on the cargo with a whip. 
 
@@ -2126,13 +2134,13 @@ As the back of the wagon disappeared up the passage, Relan said, "If only..."
 
 "Well, there's a lot more of them out there then there are behind us."
 
-Relan's swallowed and his face went pale. 
+Relan's swallowed, and his face went pale. 
 
-"C'mon, cheer up. You're gonna get another chance to be a hero. Most likely, more chances than you want." Boltac turned back. He threw his torch down and stompted it out against the floor. From his sack he produced the "Magic Lamp of Lamptopolis" As the lamp touched his hand it began to glow. Relan thought it seemed brighter than before. Boltac drew the shutter on the lamp until only the barest bit of light was spilling out. "Quietly now," he said. 
+"C'mon, cheer up. You're gonna get another chance to be a hero. Most likely, more chances than you want." Boltac turned back. He threw his torch down and stomped it out against the floor. From his sack, he produced the "Magic Lamp of Lamptopolis" As the lamp touched his hand it began to glow. Relan thought it seemed brighter than before. Boltac drew the shutter on the lamp until only the barest bit of light was spilling out. "Quietly now," he said. 
 
-As they made their way back through the hallway, Boltac spotted a small side passage, that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
+As they made their way back through the hallway, Boltac spotted a small side passage that had not been visible when they came from the other direction. It was cut into the rock, leading away from the main tunnel, at a 45 degree angle. 
 
-When he heard the shuffling, hissing noise coming from in front of them, Boltac didn't have to think twice. He turned back for the small passage saying, "C'mon, this way."
+When he heard the shuffling, hissing noise coming from in front of them, Boltac didn't have to think twice. He turned back towards the small passage saying, "C'mon, this way."
 
 Relan didn't argue. 
 
@@ -2143,11 +2151,11 @@ Asarah followed Samga out of the dark cell. The passageway outside was just tall
 
 She was soon distracted from underground geography by the large number of Orcs moving through the passage. Some carried picks and shovels, the others crates and barrels, and one pair of the creatures carried a third that had obviously been hurt. As they crossed to the center of the passage she could see a steady stream of wagons, pulled by teams of Orcs. Full ones headed up. Empty ones headed down. What were they mining?
 
-Even though all of the Orcs gave her the same unnatural, unpleasant stare, after a while, they seemed, perfectly normal to Asarah. Like brutish snowflakes, no two were alike. Their snarls, barks and grunts did not become comfortable, but she was shocked that she became accustomed to them. How strange it was that a whole species creatures had a life below the ground that no one -- or no human, rather -- knew of?
+Even though all of the Orcs gave her the same unnatural, unpleasant stare, after a while, they seemed, perfectly normal to Asarah. Like brutish snowflakes, no two were alike. Their snarls, barks and grunts did not become comfortable, but she was shocked that she became accustomed to them. How strange it was that a whole species of creatures could have a life below the ground that no one knew of?
 
 A small knot of Orcs walked past holding a log, lashings and quite a lot of firewood. Other than the wagons, this was the only wood Asarah had seen down here. How deep was she, she wondered? She had so many questions and so few answers.  She tried one of them on Samga, "What's going on?" she asked, meaning the wood. 
 
-For a few steps, Samga didn't answer. The more grey than green of his back hunched a little as he shuffled his way through the tunnels. She noticed, that all the Orcs had slightly different colorations. Samga spoke, but he didn't slow or turn back. She hurried alongside him so she could hear his words. 
+For a few steps, Samga didn't answer. The more grey than green of his back hunched a little as he shuffled his way through the tunnels. She noticed that all the Orcs had slightly different colorations. Samga spoke, but he didn't slow or turn back. She hurried alongside him so she could hear his words. 
 
 "Adventurers. Trespassers. They killed the Master's favorite Troll. Master doesn't know about it, but when he finds out, he will insist that they be roasted on spits. I do not want to be roasted on a spit, so I have ordered the spits prepared for roasting early.?
 
@@ -2163,12 +2171,11 @@ For a few steps, Samga didn't answer. The more grey than green of his back hunch
 
 "No, Master is a *good* Master. He gives the people to us. 'Course, we like them raw, but the Master must have his fun."
 
-Asarah didn't ask anymore questions. They came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and held it, waiting for Asarah to walk through. 
-
+Asarah didn't ask any more questions. They came to a large arch in a formation of granite. In the arch was a huge door flanked by gigantic torches. Samga did not knock, but opened the door and held it, waiting for Asarah to walk through. 
 
 When she did, Samga said, "Master, I have brought the girl." 
 
-From behind his desk, Dimsbury shot a foul look across the room. Banishing her tattered appearance from her mind, Asarah smiled. She had come a long way since her her girlish days. The endless toil of keeping an Inn had cut lines into her face, more from laugher than from frowns, but they betrayed her age. Even so, she was still very attractive. In some ways, more attractive than she had been as a girl. She hoped that his would be enough. 
+From behind his desk, Dimsbury shot a foul look across the room. Banishing her tattered appearance from her mind, Asarah smiled. She had come a long way since her girlish days. The endless toil of keeping an Inn had cut lines into her face, more from laughter than from frowns, but they betrayed her age. Even so, she was still very attractive. In some ways, more attractive than she had been as a girl. She hoped that his would be enough. 
 
 "Do you like my accommodations?" Dimsbury asked, still looking at her intently. 
 
@@ -2184,13 +2191,11 @@ Asarah forced herself to keep looking at the eerie flame. She asked, "What is it
 
 "In the wrong hands, power is always dangerous."
 
-
 "There is a more powerful magic than this," she said. 
-
 
 "And what is that?" the Wizard asked.
 
-"The force which draws Man to Woman," said Asarah, turning to face him and leaning her ample busom towards him as if it was an offering or a weapon. "You are a," she paused and bit her bottom lip, "*powerful* man. You take what you want. And you have taken me. Because you need a beautiful woman to bring comfort and pleasure to your life."
+"The force which draws Man to Woman," said Asarah, turning to face him and lean her ample bosom towards him as if it were an offering or a weapon. "You are a," she paused and bit her bottom lip, "*powerful* man. You take what you want. And you have taken me. Because you need a beautiful woman to bring comfort and pleasure to your life."
 
 "Is that right?" Dimsbury asked, not pulling away. 
 
@@ -2200,7 +2205,7 @@ Dimsbury snorted in disgust. Asarah moved closer and continued, "...afraid that 
 
 "You don't fear me?" Dimsbury asked with an air of bemusement.
 
-"No. The force which draws a Woman to a Man is stronger than Fear." She leaned in to kiss him. Her full red lips moving in an approximation of hunger. Closer. Closer. Until, in the last millimeter, Dimsbury erupted in laughter, pouring the torrent of his foul breath into her face as if he was a sewer.
+"No. The force which draws a Woman to a Man is stronger than Fear." She leaned in to kiss him. Her full red lips moving in an approximation of hunger. Closer. Closer. Until, in the last millimeter, Dimsbury erupted in laughter. The torrent of his foul breath poured into her face as if he were a sewer.
 
 Asarah recoiled in shock. Was everything in this dungeon gay? 
 
@@ -2208,7 +2213,7 @@ Asarah recoiled in shock. Was everything in this dungeon gay?
 
 "I am as serious as I am beautiful," Asarah said, almost choking on her own disgust for her words. But she had turned it over and over in her mind. Seducing this man was her only chance of getting out of this alive. 
 
-"I mean, the thought of it! Really it is too much."
+"I mean the thought of it! Really it is too much."
 
 "Isn't it?" she said, flashing a great deal of leg through her torn dress and hating herself for it. 
 
@@ -2221,7 +2226,6 @@ Confused and not a little offended, Asarah asked, "Well, if you don't want to *r
 Asarah stood with her mouth hanging open so long that the Wizard felt that he must clarify things for the simpler mind in the room. "Sandwiches, dear lady, I have brought you here to make me  sandwiches."
 
 "Supper? You think I'm making you dinner. I am NOT!" said Asarah with the fury of a woman who thought she had wanted to be scorned, but had just changed her mind. "I AM NOT A SERVANT!"
-
 
 The Wizard looked at her for a moment. Then he gave her a smile that was anything but reassuring. 
 
@@ -2237,11 +2241,11 @@ The Wizard looked at her for a moment. Then he gave her a smile that was anythin
 
 Asarah looked at him skeptically but said, "Ooookay. Try me."
 
-"You call me a Wizard. And so I am," he indicated his surroundings. "As you can see I am a master of arcane and powerful forces the workings of which you cannot possibly hope to understand, but, you are a clever girl," Asarah winced. He said 'clever girl' in the tone of voice one might use to praise a prize horse or a well-trained dog. If this jackass was trying the smooth-talk it wasn't working. 
+"You call me a Wizard. And so I am," he indicated his surroundings. "As you can see I am a master of arcane and powerful forces the workings of which you cannot possibly hope to understand, but, you are a clever girl," Asarah winced. He said 'clever girl' in the tone of voice one might use to praise a prize horse or a well-trained dog. If this jackass was trying the smooth-talk, it wasn't working. 
 
 Dimsbury charged on heedless of the effect he was having. "So, I believe you can understand the importance of my work here. Work that, if you chose to join the team, you would be supporting in a vital, culinary role." 
 
-"You see, I am not merely the cliché of some maladjusted character living in the bowels of the Earth, twisted and bent on revenge. Nor am a I a mere conjuror," and here he threw up a burst of flame into the center of the room, "though revenge and conjuring are well-within my capabilities.
+"You see, I am not merely the cliché of some maladjusted character living in the bowels of the Earth, twisted and bent on revenge. Nor am an I a mere conjuror," and here he threw up a burst of flame into the center of the room, "though revenge and conjuring are well-within my capabilities.
 
 "I am a creator, a researcher, a man who delves deeply into the very fabric that binds our realities together."
 
@@ -2267,7 +2271,7 @@ Asarah looked at Samga. This revelation didn't seem to bother him in the slighte
 
 "Really? How strange, we look nothing alike. You are a curious creature. Now, that you have some sense of the importance of my work let us talk about the terms of your employ."
 
-Asarah drew in breath and was just about to give the Wizard a furious piece of her mind when there was a pounding at the door. 
+Asarah drew in a breath and was just about to give the Wizard a furious piece of her mind when there was a pounding at the door. 
 
 "Come!" said Dimsbury. 
 
@@ -2290,7 +2294,7 @@ The Orc gave the Orcish version of a shrug and said, "Down. No get up."
 
 Dimsbury rolled his eyes and said to Asarah, "I am sorry about this interruption. There's always more administrative tasks wasting my time. Details, meddling adventurers. And Samga is the only one of them who has any intelligence..."
 
-Samga had more than intelligence, he had cunning. He had been very careful not to be the one to deliver the bad news about the Troll to the Master. He knew Dimsbury for the violent and tempestuous man he was. Especially when he was not pleased. And this news would not please him. 
+Samga had more than intelligence. He had cunning. He had been very careful not to be the one to deliver the bad news about the Troll to the Master. He knew Dimsbury for the violent and tempestuous man he was. Especially when he was not pleased. And this news would not please him. 
 
 All Orcs could talk after a fashion, but Samga was the only one who could talk that Master had not vented his fury upon. This was because Samga was very, very careful about what he said. 
 
@@ -2302,11 +2306,11 @@ Dimsbury turned to Asarah and lowered his voice. "Do you," he began again, "Have
 
 He pointed at the Orc and hooked his fingers so that his hand formed a ragged, palsied, fist-like object. The Orc writhed in pain as inside its body its bones were ground together by the unspeakable, sinister forces of the Wizard's evil magic.
 
-When the Orc whimpered, Dimsbury smiled. Then the corners of his mouth dropped and he sucked air in between his teeth. As he did this, the Orc's skin tightened, causing the creatures eyes to bulge out as if they were about to explode. 
+When the Orc whimpered, Dimsbury smiled. Then the corners of his mouth dropped, and he sucked air in between his teeth. As he did this, the Orc's skin tightened, causing the creatures eyes to bulge out as if they were about to explode. 
 
 Asarah recoiled in terror from the Wizard's unspeakable cruelty. 
 
-"Oh no, my dear, you mustn't worry. They don't feel pain. Not really. Not any more than a machine or an animal does." There was a terrible juicy crunching noise. Asarah looked away and screamed. She her a wet slap as what was left of the Orc hit the stone floor. She couldn't help herself, shaking, she turned to look at remnants of that poor creature. A low, weezing moan rose from the fleshy pile on the floor. 
+"Oh no, my dear, you mustn't worry. They don't feel pain. Not really. Not any more than a machine or animal does." There was a terrible juicy crunching noise. Asarah looked away and screamed. She heard a wet slap as what was left of the Orc hit the stone floor. She couldn't help herself, shaking, she turned to look at remnants of that poor creature. A low, wheezing moan rose from the fleshy pile on the floor. 
 
 "Dispose of this one, Samga. It is defective," said Dimsbury.
 
@@ -2314,7 +2318,7 @@ Samga nodded. With one arm, he reached down and removed the heavy wooden cover f
 
 Dimsbury said, "Creation is a messy business. One makes a great deal of mistakes you see. But thankfully, I have a very deep pit in which to bury my failures."
 
-In the silence that filled the space that followed the word failures, Asarah could hear the the crushed corpse of the poor orc still bouncing off the sides of the pit far below. Each time, the report of it was fainter and fainter.
+In the silence that filled the space that followed the word failures, Asarah could hear the crushed corpse of the poor orc still bouncing off the sides of the pit far below. Each time, the report of it was fainter and fainter.
 
 Dimsbury answered the unspoken question, "Bottomless." 
 
@@ -2328,7 +2332,7 @@ Samga dragged the heavy cover back into place.
 
 "They might get a bit killed during the catching my Lord," cautioned Samga.
 
-"Whatever is left, you bring it to me. And them we will have them roasted on spits in the main hall."
+"Whatever is left, you bring it to me. And them? We will have them roasted on spits in the main hall."
 
 "The Orc's won't like that, my Lord. Spoils the flavor of the meat."
 
@@ -2348,7 +2352,7 @@ Asarah shook while she shook her head no.
 
 Again, Asarah trembled. Dimsbury's eyes darkened, and in her heart she knew that she was going to be crushed and tossed in the pit like the butcher's scraps. 
 
-Dimsbury wave a hand in dismissal. "Oh, very well. Samga, chain her to that table over there. Perhaps boredom will change her mind. And give her some rags so she can clean up the blood on the floor. Excuse me, you stubborn woman, I must return to my work. Be quiet, and I won't have to waste my time killing you."
+Dimsbury waved a hand in dismissal. "Oh, very well. Samga, chain her to that table over there. Perhaps boredom will change her mind. And give her some rags so she can clean up the blood on the floor. Excuse me, you stubborn woman, I must return to my work. Be quiet, and I won't have to waste my time killing you."
 
 
 
@@ -2366,9 +2370,9 @@ When they came to a split in the tunnel Boltac went to the left. "You're going l
 
 "Nevermind the melodrama, let's keep moving," said Boltac.
 
-"But what if they is following us?"
+"But what if they are following us?"
 
-"Then we shouldn't make ourselves easy to catch," said Boltac, quickening his pace. But no sonner had he turned the corner than he came to another forking passageway. This time a passage lead off to the right and just a few steps further, they could see that it split again!
+"Then we shouldn't make ourselves easy to catch," said Boltac, quickening his pace. But no sooner had he turned the corner than he came to another forking passageway. This time a passage lead off to the right and just a few steps further, they could see that it split again!
 
 Boltac didn't break stride as he went to the left again, just to piss Relan off. This tunnel rose steeply and twisted to the right, above the original passage, then dropped into another junction that looked suspiciously like that the one that they had just come from, but that couldn't be possible. 
 
@@ -2376,7 +2380,7 @@ Boltac didn't break stride as he went to the left again, just to piss Relan off.
 
 "We're in a maze," said Relan. 
 
-"No we're not, we're just fine, I know right where we are," said Boltac, not managing to convince himself or his young companion. The Merchant turned around and led them back they way they had come, but after three turns, they found themselves back in the exact same room. Or one that looked exactly like it. 
+"No, we're not, we're just fine, I know right where we are," said Boltac, not managing to convince himself or his young companion. The Merchant turned around and led them back they way they had come, but after three turns, they found themselves back in the exact same room. Or one that looked exactly like it. 
 
 "We're in a maze of twisty passages..." said Relan.
 
@@ -2402,7 +2406,7 @@ Boltac didn't break stride as he went to the left again, just to piss Relan off.
 
 "Let's try always taking the right-most passage." Relan agreed to this and they set off. They walked for what seemed an eternity, but every junction they came to looked the same as the one they had come from. After an unknowable number of intersections, Boltac muttered, "Twisting maze of little passages." He said it like the curse that it was. 
 
-Relan sat down roughly and half said, half sobbed, "It's no use, we're lost."
+Relan sat down roughly and half said, half sobbed, "It's no use. We're lost."
 
 "Easy kid," said Boltac, "It's an adventure. It never goes according to plan."
 
@@ -2412,7 +2416,7 @@ Relan sat down roughly and half said, half sobbed, "It's no use, we're lost."
 
 He reached into his Bag of Holding and produced a skin of water and some dried meat. He drank some water and passed it to Relan. Relan swallowed greedily and wiped his chin off with his tunic. 
 
-For a while, they sat chewing the dried meat. Finally Boltac said, "Okay, kid, I get that I'm an idiot for doing this, but not for nothing, what are you doing here?"
+For a while, they sat chewing the dried meat. Finally, Boltac said, "Okay, kid, I get that I'm an idiot for doing this, but not for nothing, what are you doing here?"
 
 "I want to be a hero."
 
@@ -2424,7 +2428,7 @@ For a while, they sat chewing the dried meat. Finally Boltac said, "Okay, kid, I
 
 "You mean like my feet and those boots?" Relan said, wiggling his bruised and battered toes.
 
-"Ah, that's nothing. Once, we got enveloped in a dust storm coming out of Shatnapur. The winds blew for three days. We had no idea where we were going. Even the damned camels got lost. We were out of water for three days before we found the oasis. Hell, oasis, that's being generous, it was a puddle of muddy water. Some of the camels wouldn't even drink from it. But I drank. Felt fine for about an hour. Then I shit myself all the way to the next well. Eh, it was awful. My camel went from sand colored, to Boltac's Bowels Brown. Terrible."
+"Ah, that's nothing. Once, we got enveloped in a dust storm coming out of Shatnapur. The winds blew for three days. We had no idea where we were going. Even the damned camels got lost. We were out of water for three days before we found an oasis. Hell, oasis, that's being generous, it was a puddle of muddy water. Some of the camels wouldn't even drink from it. But I drank. Felt fine for about an hour. Then I shit myself all the way to the next well. Eh, it was awful. My camel went from sand colored to Boltac's Bowels Brown. Terrible."
 
 "That's awful."
 
@@ -2444,19 +2448,19 @@ Boltac stretched his legs out in front of him, and lowered the shutter on the la
 
 "My father thought I was an idiot. And it too me years to realize he was right. The day I mustered out for that long march South, he said, 'Boltac, you're a trader, a merchant, it is in your blood. Someday, remember it and learn to be happy.' 
 
-"I told him I was going to be soldier and make him proud. His eyes filled with tears when he told me that killing would never make him proud. That I should be a merchant, keep a store, raise a family, know something of life before I died. Add something to the ledger of the world, rather than take, take, take.
+"I told him I was going to be a soldier and make him proud. His eyes filled with tears when he told me that killing would never make him proud. That I should be a merchant, keep a store, raise a family, know something of life before I died. Add something to the ledger of the world, rather than take, take, take.
 
 "I don't remember exactly, but I suppose I said something much like you did. Called him old and fat, probably called him a coward… ehhh. He was a lotta things my old man, but not a coward." Boltac shook his head and looked away for a long time. "Anyway, I never saw my father again. I came South. I think I imagined we would conquer the Southern Kingdoms single-handedly. There were four of us in the 7th Repreitors. We were thick as thieves and twice as greedy."
 
-"Athos, he was a scout. And far south of here, just coming out of the mountains, he was scouting wide on the left flank of the army. And he came across an ancient city, crumbling on the edge of the jungle. Of course, there was no one there. But there was promise of riches. The untold riches of an ancient civilization. You don't have to be a merchant's son to do the math on that one.
+"Athos, he was a scout. And far south of here, just coming out of the mountains, he was scouting wide on the left flank of the army. And he came across an ancient city, crumbling on the edge of the jungle. Of course, there was no one there. But there was the promise of riches. The untold riches of an ancient civilization. You don't have to be a merchant's son to do the math on that one.
 
 "We bribed the lieutenant. I was a supply sergeant, so I got us what we needed. And off we rode, bold as heroes."
 
-"Did you find riches, powerful weapons, jewels?" asked Relan his eyes wide with greed and glory.
+"Did you find riches, powerful weapons, jewels?" asked Relan, his eyes wide with greed and glory.
 
-"What we found was jewel-encrusted death. I was the only one who made it out alive. I lifted a terrible sword from funeral bier, and as soon as I drew it, the sword attacked. Not me though. The cursed thing welded itself to my hand and went after my companions. Within minutes they were all dead, and I was alive."
+"What we found was jewel-encrusted death. I was the only one who made it out alive. I lifted a terrible sword from funeral bier, and as soon as I drew it, the sword attacked. Not me though. The cursed thing welded itself to my hand and went after my companions. Within minutes, they were all dead, and I was alive."
 
-"It wasn't my fault, but I never forgave myself. Of course, I couldn't go back, not with all of them dead. So I deserted. Six months later I heard that army had been destroyed, broken against the White Walls of Yorn. So I came to Robrecht, which wasn't under the Mercian empire at that point and, well, the rest, as they say... "
+"It wasn't my fault, but I never forgave myself. Of course, I couldn't go back, not with all of them dead. So I deserted. Six months later I heard that the army had been destroyed, broken against the White Walls of Yorn. So I came to Robrecht, which wasn't under the Mercian empire at that point and, well, the rest, as they say... "
 
 Even as he said this, Boltac recognized that it wasn't the whole truth, but it was as much of the truth as he was willing to tell.
 
@@ -2492,21 +2496,21 @@ Boltac whispered, "Draw your sword. This is where you get to be a hero."
 
 # 29 -- Orc's POV -- 676
 
-Hissglarg smelled human. And orders were very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They was to be saved for identification, of course. But all the rest was free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
+Hissglarg smelled human. And orders were very clear about humans. They were to be eaten. Not the crunchy face-parts, no, no. They were to be saved for identification, of course. But all the rest was free game. Like all Orc's, Hissglarg loved human meat. Of course, he had been bred to. 
 
-It was a silly trait, one that evolution would never would have put up with. All Orcs really needed to survive was a constant diet of the deep minerals they had been grown from. But when Alston Dimsbury set out to do a job of *evil* wizarding, he didn't leave it half done. No matter what they needed to live, Alston had decided that his Orcs would have a proper lust for the flesh of mankind. What did he care for the delicate processes that formed the natural world?
+It was a silly trait, one that evolution would never  have put up with. All Orcs really needed to survive was a constant diet of the deep minerals they had been grown from. But when Alston Dimsbury set out to do a job of *evil* wizarding, he didn't leave it half done. No matter what they needed to live, Alston had decided that his Orcs would have a proper lust for the flesh of mankind. What did he care for the delicate processes that formed the natural world?
 
 This was all well and good (especially for Dimsbury's vanity) but human meat played all hell on an Orc's digestion. In fact, nothing about an Orc's digestion was very good. A single Orc, left to its own devices, could eat rock and soil all day, yet fail to extract enough nutrition to survive. So as an odd, created species, they dug and quarried and filtered and smelted and refined. They excavated vast underground complexes, not for pretty jewels or shiny metals, but for dinner. 
 
 Hissglarg held the barely sputtering torch close the ceiling and sniffed the air. Yes, this time to the left. He sucked the air and scuttled forward. Strictly speaking, Hissglarg didn't need light. Born and raised underground, the feeling of the rock under his claws and the scent of minerals, warren-mates and intruders were all he needed to navigate his way through the most tortuous of underground passages. He could never get lost. He would just follow his own smell back the way he had come.
 
-Orcs carried the torches because of something the-one-who-spoke-the-human-tongue had told them. Hissglarg couldn't remember the exact words right now, especially with the intoxicating smell of meat so close, but it was something about Humans liking light. And if they were lost in the dark that they would come right towards a source of light. It was close enough, what Samga had told his fellow Orcs was, "Keep the light in their eyes, they are easier to catch that way." 
+Orcs carried the torches because of something the-one-who-spoke-the-human-tongue had told them. Hissglarg couldn't remember the exact words right now, especially with the intoxicating smell of meat so close, but it was something about Humans liking light. And if they were lost in the dark that they would come right towards a source of light. It was close enough, what Samga had told his fellow Orcs was, "Keep the light in their eyes. They are easier to catch that way." 
 
-As he stepped out into a junction, he though he saw something move to his left. But he when he turned to look at it, a brilliant light flooded the passageway. It was so brilliant, he thought it was that most abhorred of things, the Sun. But what would the Sun being doing underground? Hissglarg covered his eyes and cried out in pain. Then he threw the sputtering torch at the source of light. The light faded and in the returning darkness, he could see a fat sack of human meat, scrambling along the ground after a lantern. Ah, dinner, thought Hissglarg.
+As he stepped out into the junction, he thought he saw something move to his left. But he when he turned to look at it,brilliant light flooded the passageway. It was so brilliant, he thought it was that most abhorred of things, the Sun. But what would the Sun being doing underground? Hissglarg covered his eyes and cried out in pain. Then he threw the sputtering torch at the source of light. The light faded. In the returning darkness, he saw a fat sack of human meat, scrambling along the ground after a lantern. Ah, dinner, thought Hissglarg.
 
 The entree on the ground turned and looked behind Hissglarg. Its eyes went wide and it shouted something in the meat-tongue. Hissglarg did not understand what it said, but he looked behind him anyway. And there, to his surprise, was more meat. This one held a sword in its shaking hand. It was younger and thinner than the one on the ground. In fact, it looked kind of stringy. But Hissglarg would eat the sword too. Metal was tasty and good for you. The Orc grabbed the shaking metal blade in one of his taloned hands. Tears streamed down the boy's face, but he did not run.
 
-Then there was was a thudclink and blackness closed in from around the edges of Hissglarg's vision. The orc collapsed to the floor unconscious. 
+Then there was a thudclink and blackness closed in from around the edges of Hissglarg's vision. The orc collapsed to the floor unconscious. 
 
 Relan blinked the tears back from his eyes and saw Boltac standing over the collapsed Orc with a heavy coin purse in his right hand. 
 
@@ -2518,19 +2522,19 @@ Relan blinked the tears back from his eyes and saw Boltac standing over the coll
 
 # 30 -- Rattick Betrays Him -- 475
 
-After the shackle was closed around her ankle, Asarah crawled under the large table she was chained to and lay down. She did not cry. She did not give up. But, when the rage and the adrenaline shivered out of her, she grew tired. 
+After she was shackled, Asarah crawled under the table and lay down. She did not cry. She did not give up. But, when the rage and the adrenaline shivered out of her, she grew tired. 
 
-She struggled to stay awake, to observe her surroundings and her captor carefully, to find a weak link in her chain, a soft spot in the wood of the table or any flicker of distraction that she could use against the Wizard. But there was none. After Samga left, Dimsbury turned his back on her and devoted his full attention to the out-of-focus flame on the other side of the chamber. 
+She struggled to stay awake, to observe her surroundings and her captor carefully, to find a weak link in her chain, a soft spot in the wood of the table or any flicker of distraction that she could use against the Wizard. But there was none. After Samga had left, Dimsbury turned his back on her and devoted his full attention to the out-of-focus flame on the other side of the chamber. 
 
 She had watched him for about 15 minutes before the chanting started. It was low and guttural, and sounded like the Wizard was speaking with more than one voice. The sound of it seemed to come from behind her. But when she whirled, there was only the rounded, stone wall of the spherical chamber, catching the echoes and playing tricks on her. 
 
-The effect of the strange, humming/singing noise coming from the the Wizard's throat, the stench of a smoldering brazier in the corner, and the hypnotic, flickering of the in focus/out-of-focus, flame/non-flame trapped under a ball of blown glass all conspired to put her to sleep. 
+The effect of the strange, humming/singing noise coming from the Wizard's throat, the stench of a smoldering brazier in the corner, and the hypnotic, flickering of the in focus/out-of-focus, flame/non-flame trapped under a cylinder of blown glass all conspired to put her to sleep. 
 
-When awoke, she could not have said if minutes had passed, or days. She heard voices. When she opened her eyes she saw that the strange, flame under glass was brighter now, and in better focus. The fingers of eerie light it cast throughout the room were more substantial and cast deeper shadows. On the far side of the room, two of the shadows were talking. 
+When awoke, she could not have said if minutes had passed, or days. She heard voices. When she opened her eyes, she saw that the strange, flame under glass was brighter now, and in better focus. The fingers of eerie light it cast throughout the room were more substantial and cast deeper shadows. On the far side of the room, two of the shadows were talking. 
 
 The figure of Dimsbury towered over a cowled figure who stood in the deepest shadows. The two of them were spoke in whispers. She couldn't make out any of what they said, until the Wizard stood up straight, and exclaimed, "What? Come to rescue? For the cook? You must be joking."
 
-The smaller figure shook his head and murmured more intently. When he paused, the Wizard said, "Ho, ho, ho, no. Really? That is rich. Yes, yes. No wait, bring them here. Making an example of them will be a pleasant diversion."
+The smaller figure shook his head and murmured more intently. When he paused, the Wizard said, "Ho, ho, ho, no. Really? That is rich. Yes, yes. No wait bring them here. Making an example of them will be a pleasant diversion."
 
 "Yes," continued the Wizard, after another pause, "of course there will be a reward. I never presume someone like you does something out of the goodness of their heart."
 
@@ -2538,7 +2542,7 @@ The shadow turned and left the room. Try as she might, Asarah could not see the 
 
 "Who was that?"
 
-"What, oh? I forgot you were there. I find your question tiresome, so you should sleep," said the Wizard. With a wave of his hand rendered Asarah unconscious again.
+"What, oh? I forgot you were there. I find your question tiresome, so you should sleep," said the Wizard. With a wave of his hand, he rendered Asarah unconscious again.
 
 
 # 31 -- Rattick's Plan -- 939
@@ -2551,7 +2555,7 @@ Relan looked at the unconscious Orc and said, "I am a failure as hero."
 
 "Me or you, Mr. Hero?" 
 
-Relan flinched a little at this. Boltac's expression softened and he scratched the side of his round face. "Well, figure they already know we're here. And one more Orc, won't make much of a difference."
+Relan flinched a little at this. Boltac's expression softened, and he scratched the side of his round face. "Well, figure they already know we're here. And one more Orc, won't make much of a difference."
 
 "But, you must kill him, Boltac, you must!" said Relan with great sincerity. 
 
@@ -2593,7 +2597,7 @@ To Boltac's credit, he didn't jump... much. "En-henh, so now what?"
 
 "En-henh, I didn't come this far to return home empty-handed."
 
-"You wish to go on?" Ratick asked, his thick eyebrows expressing surprise. 
+"You wish to go on?" Rattick asked, his thick eyebrows expressing surprise. 
 
 "En-henh."
 
@@ -2609,9 +2613,9 @@ Rattick unwrapped his cape of faded black. He stood toe-to-toe with Relan and lo
 
 "What'cha plan, Rattick?"
 
-Rattick bent down and lifted the Orc's tunic. He plunged his dagger into the soft part of the Orc's thigh and held the creature's garment away from the spurt of greenish/black blood. In its sleep, the Orc let out a soft, sinking moan, as if it was deflating into death. The blood pulsed slower and slower until finally Rattick said, "There, now you can untie it. Bring me its clothes."
+Rattick bent down and lifted the Orc's tunic. He plunged his dagger into the soft part of the Orc's thigh and held the creature's garment away from the spurt of greenish/black blood. The Orc let out a soft, sinking moan, as if it was deflating into death. The blood pulsed slower and slower until finally Rattick said, "There, now you can untie it. Bring me its clothes."
 
-Relan was wide-eyed and pale. He looked to Boltac. Boltac just observed everything with a look of professional disgust. As if the whole thing was going to cost him money no matter what he did. Relan bent to the task. 
+Relan was wide-eyed and pale. He looked to Boltac. Boltac just observed everything with a look of professional disgust. As if the whole thing were going to cost him money no matter what he did. Relan bent to the task. 
 
 "I know these passages far better than I have let on, Stout Merchant." Rattick said, as he wiped his dagger clean with a black rag. 
 
@@ -2654,7 +2658,7 @@ Boltac shook his head and turned away while Rattick worked with his sharp knife 
 
 "With a pinch of disgust thrown in for good measure, no doubt," added Boltac.
 
-"Ah, there it is." Rattick held up the skin and scalp of the dead Orc, complete with ears. He had fitted the creature's faceleather to his hand and held up the dismal beast's countenance, as if it was a puppet. "Looks like you," Rattick said to Relan. Then he darted his hand towards Relan's face and made him jump. The ragged cackle that followed was the first time Relan had heard the evil little man laugh. 
+"Ah, there it is." Rattick held up the skin and scalp of the dead Orc, complete with ears. He had fitted the creature's faceleather to his hand and held up the dismal beast's countenance, as if it were a puppet. "Looks like you," Rattick said to Relan. Then he darted his hand towards Relan's face and made him jump. The ragged cackle that followed was the first time Relan had heard the evil little man laugh. 
 
 "I don't trust him," Relan said to Boltac.
 
@@ -2662,7 +2666,7 @@ Boltac shook his head and turned away while Rattick worked with his sharp knife 
 
 Rattick donned the Orcs crude harness and then slipped the creatures face and ears over his own.
 
-"Wait a minute? Where did Rattick go. He was here just a minute ago," said Boltac. "Seriously, that's a disguise?"
+"Wait a minute? Where did Rattick go? He was here just a minute ago," said Boltac. "Seriously, that's a disguise?"
 
 "This is a distraction."
 
@@ -2680,14 +2684,16 @@ Rattick donned the Orcs crude harness and then slipped the creatures face and ea
 
 Rattick bowed low, "Your humble employee, lives to be of service."
 
+<br />
+<br />
 
-They retraced their steps to the main tunnel. If anything, there were more Orcs than before. Now, instead of milling about aimlessly, one side of the tunnel was packed with a torchlit processions of Orcs hauling raw ore and rock up from the depths. 
+They retraced their steps to the main tunnel. If anything, there were more Orcs than before. 
 
 "Horrrrrrrrrrrrrrr, horrrrrrrrr," the Orcs wheezed as their powerful legs pushed against the crudely paved surface of the tunnel. Slowly, slowly the wagons climbed from the depths. 
 
 "Merchant," asked Rattick, "do you have any oil in that remarkable sack of yours?"
 
-"En-henh, just a minute." Botlac rummaged through his bottomless sack. 
+"En-henh, just a minute." Boltac rummaged through his bottomless sack. 
 
 "There's so many of them," said Relan.
 
@@ -2703,7 +2709,7 @@ Rattick took the flagon and said to Relan, "Heroes aren't the only ones who perf
 
 Rattick wrapped himself in the Orc's skin, and donned his cloak of darkness, seeming to disappear before their very eyes. A shadow moving through shadows, he stepped into the flow of traffic. He was a blackness with pointed ears, nothing more. For a moment, he was in step with the wagons going up, and then next, he stepped into the lee of one of the great pillars that kept the ceiling from collapsing. 
 
-If Relan hadn't known better, he would have thought this was just another Orc resting on the long climb to the surface. And if he hadn't known better he would have thought that this ordinary Orc was reliving himself on the pillar? Rattick held the oil flagon at his crotch and poured it out onto the passage floor. 
+If Relan hadn't known better, he would have thought this was just another Orc resting on the long climb to the surface. And if he hadn't known better he would have thought that this ordinary Orc was relieving himself on the pillar? Rattick held the oil flagon at his crotch and poured it out onto the passage floor. 
 
 "Uh, is he?"
 
@@ -2737,7 +2743,7 @@ Relan was nearly overpowered by their oppressive, musky scent. He wondered if th
 
 
 
-# 33 -- Botlac v Asarah, boltac into the Well -- 3218
+# 33 -- Boltac v Asarah, boltac into the Well -- 3218
 
 Asarah was awakened by someone shaking her shoulder. She shrieked, and scrambled back underneath the table. 
 
@@ -2795,7 +2801,7 @@ Asarah was awakened by someone shaking her shoulder. She shrieked, and scrambled
 
 Boltac clapped a hand across his face and shook his head. "Look, Asarah. Please be quiet."
 
-"Quiet!" she shouted. "Why should I be quiet? So you and some other fool can get himself killed, in a rescue attempt that is pointless, because I going save munh..."
+"Quiet!" she shouted. "Why should I be quiet? So you and some other fool can get himself killed, in a rescue attempt that is pointless, because I was going save munh..."
 
 Boltac smothered her mouth with a kiss. It was so unexpected that when it was over, neither of them knew what to say. 
 
@@ -2817,9 +2823,9 @@ Boltac ignored this and plowed on. "And here's something else you know. You shou
 
 "BUY ME!" screamed Asarah, creating a racket that might have been louder than any racket that this dungeon had yet heard. "THAT'S EVEN WORSE!"
 
-From the darkness, there was laughter. In keeping with tradition, laughter from darkness would be sardonic. Or sinister. Or, at the very least, mocking. This laughter was not. This laughter was simply amused. "Ho, ho, ho, ho, ho, that. Ho ho ho ho, that is... whoo! I can't take it anymore." There were two short claps in the darkness and then the room was flooded with light. 
+From the darkness, there was laughter. In keeping with tradition, laughter from darkness would be sardonic. Or sinister. Or, at the very least, mocking. This laughter was not. This laughter was simply amused. "Ho, ho, ho, ho, ho, that. Ho ho ho ho, that is... whoo! I can't take it anymore." There were two short claps in the darkness, and then the room was flooded with light. 
 
-Dimsbury was visible as a darker area near the now blinding light being emitted from within the glass jar. After a moment the intensity of the light faded, and it became possible to see again. Dimsbury said, "Oh, that is rich. Without a doubt, that is the finest entertainment I have seen since the comedies of the Imperial Opera. Or were they tragedies? I don't know. It's so hard to tell until the end. Do either of you sing?"
+Dimsbury was visible as a darker area near the now blinding light being emitted from within the glass jar. After a moment, the intensity of the light faded, and it became possible to see again. Dimsbury said, "Oh, that is rich. Without a doubt, that is the finest entertainment I have seen since the comedies of the Imperial Opera. Or were they tragedies? I don't know. It's so hard to tell until the end. Do either of you sing?"
 
 Boltac turned to face the Wizard. The powerful light that still suffused the chamber was too bright for anyone to notice, but the lamp in his hand now glowed a little brighter than before. 
 
@@ -2833,7 +2839,7 @@ Relan knew who it was before he heard his rasping voice.
 
 "Come now, boy, the question isn't how could I. It was how couldn't I?"
 
-"For money, Rattick? For money you help the man who sacked Robrecht? Your home."
+"For money, Rattick? For money, you help the man who sacked Robrecht? Your home."
 
 From across the room, Boltac said, "Aw c'mon kid, you didn't see that one coming? How could you not see he was working for the Wizard all along?"
 
@@ -2843,13 +2849,13 @@ Relan protested, "But we have-- I mean Boltac has money. Plenty of it."
 
 "Yes, but there is one important thing he doesn't have. A future. Dead men don't pay their bills."
 
-"The good guys always win Rattick. In the end, they always do," said Relan, as if it was some kind of sacred prayer.
+"The good guys always win Rattick. In the end, they always do," said Relan, as if it were some kind of sacred prayer.
 
-"Only in the the songs," said Rattick. A shiver danced Relan's spine. Because, for the first time, the prayer wasn't enough. He didn't believe the sagas anymore. He believed the thief. Tears welled in his eyes. He wasn't the hero he set out to be. Boltac was right. They probably weren't getting out of this alive. No one would sing songs of him. But in that darkest moment, he resolved that,  *he* would meet his end like a hero. 
+"Only in the songs," said Rattick. A shiver danced Relan's spine. Because, for the first time, the prayer wasn't enough. He didn't believe the sagas anymore. He believed the thief. Tears welled in his eyes. He wasn't the hero he set out to be. Boltac was right. They probably weren't getting out of this alive. No one would sing songs of him. But in that darkest moment, he resolved that,  *he* would meet his end like a hero. 
 
-Ten Orcs pushed into the room and formed a cordon around the door. Samga came with them. In comparision to these Orcs, Samga was more refined. It was as if he was a slightly different animal all together. Recognizable as part of the same genus, but not the same species. The ones guarding the door were more animal. They snorted and scuffled their claws against the tile. They paid careful attention to Asarah. And one of them, who stared at her with unblinking, hollow, black eyes, drooled a little. 
+Ten Orcs pushed into the room and formed a cordon around the door. Samga came with them. In comparison to these Orcs, Samga was more refined. It was as if he were a slightly different animal all together. Recognizable as part of the same genus, but not the same species. The ones guarding the door were more animal. They snorted and scuffled their claws against the tile. They paid careful attention to Asarah. And one of them, who stared at her with unblinking, hollow, black eyes, drooled a little. 
 
-Dimsbury waved a hand and his creatures were silenced. 
+Dimsbury waved a hand, and his creatures were silenced. 
 
 "So," he said to Boltac, "What brings such and unlikely and unprepared hero to the depths of my lair?"
 
@@ -2859,7 +2865,7 @@ Dimsbury waved a hand and his creatures were silenced.
 
 Boltac could see no percentage in lying. He jerked his other thumb at Asarah and said, "Her."
 
-"Oh really, is it true love?" asked Dimsbury in mocking tone. He rubbed his hands together with great relish. When Asarah and Boltac both blushed, he laughed. "Oh my, it *is* true love. And I thought it was rarer than unicorns. But wait, no it can't be true love, because you told me you had no interest in her. And I took you to be the sophisticated man of commerce you represented yourself as."
+"Oh really, is it true love?" asked Dimsbury in a mocking tone. He rubbed his hands together with great relish. When Asarah and Boltac both blushed, he laughed. "Oh my, it *is* true love. And I thought it was rarer than unicorns. But wait, no it can't be true love, because you told me you had no interest in her. And I took you to be the sophisticated man of commerce you represented yourself as."
 
 "I said she wasn't my wife. And that doesn't give you license to steal her."
 
@@ -2871,7 +2877,7 @@ Boltac could see no percentage in lying. He jerked his other thumb at Asarah and
 
 "No? What do you mean no? You have come here as an *adventurer* -- as the Hero -- to rescue the damsel in distress. You must fight. That's how these things are done."
 
-"I'm not here for a fight. You stole her, fine. She is your property, but I thought perhaps we could make a a deal."
+"I'm not here for a fight. You stole her, fine. She is your property, but I thought perhaps we could make a deal."
 
 "BUY ME!" protested Asarah, "is that your idea of chivalry? Buying the woman you love back from..."
 
@@ -2927,7 +2933,7 @@ Boltac nodded his head deeply in recognition. "I understand Great Wizard. I unde
 
 "Ah, dear Samga, with a thousand such men as you, I would still have a horde of Orcs. But a far, far better horde. At any rate, my dear Merchant, do you know what this is?" Dimsbury indicated the in-focus, out of focus flame that flickered on the dais next to him. 
 
-"Eh," Boltac began, intent on making some kind of crack that would take the wind out of Dimsbury's over-stuffed sails. But the Wizard would have none of it. 
+"Eh," Boltac began intent on making some kind of crack that would take the wind out of Dimsbury's over-stuffed sails. But the Wizard would have none of it. 
 
 "SILENCE! I will have none of your mockery and crude calculation!" With a nimbleness that Boltac did not expect from looking at him, the Wizard leapt up on the dais. He caressed the heavy glass vessel within which the flame danced. "This is beyond money. Beyond your crude buying and selling. This is the essence of the source, the headwaters of magic itself. See how it flickers imperfectly, blurred, too pure to be fully realized on this flawed plane of existence."
 
@@ -2935,7 +2941,7 @@ Boltac rolled his eyes.
 
 "NO!" Thundered the Wizard. "This is not to be mocked. Not even slightly. This is power. POWER do you understand! With power you can get money. But no Merchant," he spat the title like a curse, "can ever buy power." 
 
-"Have you ever put that to the test?" Boltac asked, with a scrappiness he was faking for the purposes of negotiation. Of course the Wizard was right but Boltac would be damned if he'd give this twisted nobleman the satisfaction of telling him that. 
+"Have you ever put that to the test?" Boltac asked, with a scrappiness he was faking for the purposes of negotiation. Of course, the Wizard was right but Boltac would be damned if he'd give this twisted nobleman the satisfaction of telling him that. 
 
 To Boltac's surprise, the Wizard laughed. "Very good. Skepticism. The basis of all knowledge. Are you a seeker too, friend Boltac? Then let me show you something." Dimsbury stepped down from the dais and crossed to a small door on the far side of the room. 
 
@@ -2943,19 +2949,19 @@ To Boltac's surprise, the Wizard laughed. "Very good. Skepticism. The basis of a
 
 Rattick took the knife off Relan's neck and stepped forward so he could see
 
-In the room beyond the door there were chests and sacks overflowing with gold and jewels. Golden candelabras, salvers and goblets all encrusted by the jeweler's art until it was a wonder they could still stand up under their own weight. It was the most impressive treasure room Boltac had ever seen. 
+In the room beyond the door, there were chests and sacks overflowing with gold and jewels. Golden candelabras, salvers and goblets all encrusted by the jeweler's art until it was a wonder they could still stand up under their own weight. It was the most impressive treasure room Boltac had ever seen. 
 
-The Merchant blew a long, a low whistle, "That is a lot of jingle-jangle you got there."
+The Merchant blew a long, low whistle, "That is a lot of jingle-jangle you got there."
 
 "So you see, your offer of gold, for the girl... Here, may I?" Dimsbury reached for the purse of a hundred and two coins. Boltac handed it to him.
 
-"Hmm, yes. Watch this." Dimsbury threw it at the feet of the Orcs. The purse broke opem and gold coins scattered across the floor. Instantly the Orcs broke rank and fought for the gold pieces. Boltac jumped back. Rattick disappeared into the shadows. Only Samga remained standing, though he seemed to be under a great strain. 
+"Hmm, yes. Watch this." Dimsbury threw it at the feet of the Orcs. The purse broke open and gold coins scattered across the floor. Instantly the Orcs broke rank and fought for the gold pieces. Boltac jumped back. Rattick disappeared into the shadows. Only Samga remained standing, though he seemed to be under great strain. 
 
-At first it seemed like simple greed, but when an Orc got a hold of a few coins, it thrust them between its tusks and gobbled them up greedily. The pecuniary gluttony went on until there were but a few coins left, then the Orcs began to fight over them.
+At first it seemed like simple greed, but when an Orc got a hold of a few coins, it thrust them between its tusks and gobbled them up greedily. The pecuniary gluttony went on until there were but a few coins left. Then the Orcs began to fight over them.
 
-"Enough!" cried Dimsbury. He clapped his hands together and made a sound less like a clap and more like thunder. The Orcs froze. "You see, my orcs are hungry for gold. Not greedy, you understand, but literally *hungry* for gold. They eat it. A flaw in the design, I'm afraid. They require heavy minerals and metals of all sorts in vast quantities. It's the only thing they crave more than human flesh. I am afraid I have created an armory that marches on the treasury. Upkeep is murderous, but then, so are they. But, as you see, I have quite a lot of gold. And as they mine more for supper, your paltry hundred gold pieces is worth nothing to me. Merchant, you cannot negotiate. You have nothing I want."
+"Enough!" cried Dimsbury. He clapped his hands together and there was a sound like thunder. The Orcs froze. "You see, my orcs are hungry for gold. Not greedy, you understand, but literally *hungry* for gold. They eat it. A flaw in the design, I'm afraid. They require heavy minerals and metals of all sorts in vast quantities. It's the only thing they crave more than human flesh. I am afraid I have created an armory that marches on the treasury. Upkeep is murderous, but then, so are they. But, as you see, I have quite a lot of gold. And as they mine more for supper, your paltry hundred gold pieces are worth nothing to me. Merchant, you cannot negotiate. You have nothing I want."
 
-"Wait, wait," Boltac said, opening his sack, "I've got more. I've got a lot of of gold. I mean I don't even know how much it is. Not as much as in your magic room there, but it's a lot. A fortune. And this sack, it's a magic sack. A sack of holding. Themistres'. Take it, I mean please, you're welcome to it."
+"Wait, wait," Boltac said, opening his sack, "I've got more. I've got a lot of gold. I mean I don't even know how much it is. Not as much as in your magic room there, but it's a lot. A fortune. And this sack, it's a magic sack. A sack of holding. Themistres'. Take it. I mean, please, you're welcome to it."
 
 "Really," said Dimsbury, "One of old Themistres' sacks. I met him once you know?"
 
@@ -2973,7 +2979,7 @@ Boltac made a little bow, "Thank you."
 
 "I am not raiding you. I am a customer," he said taking pride in the title.
 
-"Yes, here for trade. Trade is vile, but I must admit, it is more civilized than treachery, deception and thievery."
+"Yes, here for trade. Trade is vile. But, I must admit, it is more civilized than treachery, deception and thievery."
 
 "Deception has it's uses for the mighty," whispered Rattick from the corner of a round room. How did he do that?
 
@@ -3007,13 +3013,13 @@ Boltac made a little bow, "Thank you."
 
 "Johnny Hubris?" asked Boltac, "He's a guy I usedta know. Nevermind."
 
-Dimsbury clapped his hands together and lightning bolts ricocheted around the stone chamber. Everything human in the room hid its face against the terrible noise and rush of superheated air. "I command the forces of nature. I can harness the elemental power that turns the world. And I am supposed to be afraid of your sack of goodies?"
+Dimsbury clapped his hands together, and lightning bolts ricocheted around the stone chamber. Everything human in the room hid its face against the terrible noise and rush of superheated air. "I command the forces of nature. I can harness the elemental power that turns the world. And I am supposed to be afraid of your sack of goodies?"
 
 "Only if you're not a jackass," Boltac said out of the side of his mouth. 
 
 Dimsbury crooked his fingers into a claw. Boltac was ripped from the grip of the Orcs and lifted into the air. 
 
-"Offering me a trade," Dimsbury sneered. "I have no need of your *trade*. I will take the AND. I will take your gold AND I will take your sack AND I will take your woman AND I will take your life. Did I forget anything?" He waved his other hand and the wooden cover at the center of the chamber crashed into the ceiling and shattered into toothpicks. Dimsbury turned and dangled Boltac over the bottomless pit.
+"Offering me a trade," Dimsbury sneered. "I have no need of your *trade*. I will take the AND. I will take your gold, AND I will take your sack AND I will take your woman AND I will take your life. Did I forget anything?" He waved his other hand, and the wooden cover at the center of the chamber crashed into the ceiling and shattered into toothpicks. Dimsbury turned and dangled Boltac over the bottomless pit.
 
 As Dimsbury turned, he exposed his back to Relan. Strictly speaking, it wasn't the most heroic of opportunities, but Relan saw it and seized it. His legs drove him forward. He could almost feel the Wizard's neck in his hands. He could imagine what it would feel like to bash the man's skull against the ground. He made it one step, two steps, three steps. It was going to work! He raised his hands, then he felt the knife slide into his belly.
 
@@ -3025,7 +3031,7 @@ Relan  managed staggered forward another step dragging Rattick with him.
 
 Asarah pleaded, "No. Don't crush him!"
 
-"Oh I say," Dimsbury said with a smile, "That *is* a good idea. That way it will hurt more on the way down. Goodbye Merchant." Dimsbury opened his hand.
+"Oh, I say," Dimsbury said with a smile, "That *is* a good idea. That way it will hurt more on the way down. Goodbye Merchant." Dimsbury opened his hand.
 
 Boltac dropped into the bottomless pit. 
 
@@ -3052,7 +3058,7 @@ Asarah screamed until her lungs were out of air. When she paused to take a breat
 
 "Geh," said Relan, as the last of his life leaked out across the stone floor. 
 
-"Oh good Lord man, just die already and get it over with." Dimsbury looked at Asarah, collapsed in a heap on the ground. "You'll clean this up! I swear to the Nether Gods you will. They're your rescuers. This is your mess. Now, where was I? Oh yes, Rattick. I know not what to do with you."
+"Oh, good Lord man, just die already and get it over with." Dimsbury looked at Asarah, collapsed in a heap on the ground. "You'll clean this up! I swear to the Nether Gods you will. They're your rescuers. This is your mess. Now, where was I? Oh yes, Rattick. I know not what to do with you."
 
 "I just saved your life, Master."
 
@@ -3086,7 +3092,6 @@ Dimsbury dismissed them with an annoyed wave.
 
 "What shall I do about this one, Lord?" asked Samga, nodding at Relan.
 
-
 "Leave him to die slowly. Kill him not. But when he is done, you may feed him to whatever Orcs you deem worthy of reward. Or keep him for yourself Samga. You deserve it for keeping this rabble in line."
 
 "They will be so pleased Master," said Samga.
@@ -3102,13 +3107,13 @@ Samga nodded. Dimsbury left. Samga remained for a moment, considering the horrib
 
 # 35 -- The Bottom of a Bottom-less Pit -- 1033
 
-Boltac awoke to more pain than he realized the world could hold. It was a universe of pain, a cosmos of pain and he was at the center of it. In the darkness there was only pain. He tried to open his eyes and there was pain. He tried to close his half-opened eyes and there was pain. His body made the mistake of trying to cough. Then the darkness took him again. He didn't even have time to ask how it might be that he was still alive. 
+Boltac awoke to more pain than he realized the world could hold. It was a universe of pain, a cosmos of pain, and he was at the center of it. In the darkness there was only pain. He tried to open his eyes and there was pain. He tried to close his half-opened eyes and there was pain. His body made the mistake of trying to cough. Then the darkness took him again. He didn't even have time to ask how it might be that he was still alive. 
 
-An age, a time, or a moment later, he awoke again. There was a soft rustling in the darkness beside him and he felt the touch of many creatures he could not see. It was not comforting. 
+An age, a time, or a moment later, he awoke again. There was a soft rustling in the darkness beside him, and he felt the touch of many creatures he could not see. It was not comforting. 
 
-"Wha--" he tried to ask, but too many ribs were broken for him to speak. He wheezed in pain. The soft touches -- were they hands, or something else -- migrated to his side. Under their strange caresses, the pain eased. As he controlled his loud and labored breathing, he became aware of a low, whispered song all around him. It disappeared into the blackness with no echo, as if he was in a room so vast as to have no walls. 
+"Wha--" he tried to ask, but too many ribs were broken for him to speak. He wheezed in pain. The soft touches -- were they hands, or something else -- migrated to his side. Under their strange caresses, the pain eased. As he controlled his loud and labored breathing, he became aware of a low, whispered song all around him. It disappeared into the blackness with no echo, as if he were in a room so vast as to have no walls. 
 
-After a time, the pain in his side was soothed and his breathing came easier. Unexpectedly, his body was wracked with sobs. In that place of dry darkness, tears streamed down his face and infinite softness blotted them away. "I should be dead," Boltac said at last.
+After a time, the pain in his side was soothed. His breathing came easier. Unexpectedly, his body was wracked with sobs. In that place of dry darkness, tears streamed down his face and infinite softness blotted them away. "I should be dead," Boltac said at last.
 
 "Someday, you will be," said the voice in the darkness. 
 
@@ -3136,7 +3141,7 @@ The voice said nothing else. The silence made Boltac nervous, so he joked, "I gu
 
 "The Wizard's forgotten sons. The ones he made and thought to unmake, by discarding us in this place."
 
-"So, uh, forgive me if this is a rude question, but, why aren't ya dead? For that matter, how come I'm still here?"
+"So, uh, forgive me if this is a rude question, but why aren't ya dead? For that matter, how come I'm still here?"
 
 "When he made us, he did not weave a full spell. He did not allow for the possibility of death. So we must go on for eternity."
 
@@ -3146,7 +3151,7 @@ The voice said nothing else. The silence made Boltac nervous, so he joked, "I gu
 
 The singing stopped. 
 
-"Unless what? What's the catch. There's always a catch," said Boltac.
+"Unless what? What's the catch? There's always a catch," said Boltac.
 
 "We have done all we can for you."
 
@@ -3194,11 +3199,11 @@ The singing stopped.
 
 Silence. 
 
-"Look, I'm not your guy. I'm sorry. The guy you wanted, your *hero*, is lying up there in a pool of his own blood and entrails. He was an idiot, but he was the better man. No thought for himself at all. What a Jackass. I wish I could be like him, but I'm not. I'm not your hero, so."
+"Look, I'm not your guy. I'm sorry. The guy you wanted, your *hero*, is lying up there in a pool of his own blood and entrails. He was an idiot, but he was the better man. No thought for himself at all. What a Jackass! I wish I could be like him, but I'm not. I'm not your hero, so."
 
 "What of the girl?" the UnderKing asked.
 
-"What, Asarah? Okay, look, I love her. I do. And I figured it out too late.  I blew it. So now I'm here, where ever the hell *here* is, I got the kid killed and there's nuttin' I can do about any of it. It sucks, but, that's business. I can't save her. I... can't..."
+"What, Asarah? Okay, look, I love her. I do. And I figured it out too late.  I blew it. So now I'm here, where ever the hell *here* is. I got the kid killed and there's nuttin' I can do about any of it. It sucks, but that's business. I can't save her. I... can't..."
 
 Wise in the ways of patience, the UnderKing said nothing.
 
@@ -3224,14 +3229,15 @@ Boltac took a step towards the less dark darkness. It was unnerving to walk blin
 
 Even moving at a snail's pace, Boltac broke out a cold sweat. But inch by inch, he moved forward. After a time he could not measure, he realized that the unseeable floor beneath his feet was sloping upward. But to where? How far had he fallen? There might have been no such thing as a bottomless pit, but there were surely deep, deep holes in the earth.
 
-He came to a wall and felt his way along it in the dark. His hands clung to every fissure and rough place with greed and desperation, as if he could fall off into the darkness and be lost for ever. As he walked, he was overcome with the hopelessness of his position. He was miles underground, and could wander forever -- or at least until dehydration killed him -- without ever finding his way out. 
+He came to a wall and felt his way along it in the dark. His hands clung to every fissure and rough place with greed and desperation, as if he could fall off into the darkness and be lost for ever. As he walked, he was overcome with the hopelessness of his position. He was miles underground and could wander forever -- or at least until dehydration killed him -- without ever finding his way out. 
 
 "Follow the light?" Boltac called out. "Hey! I'm talking to you. I know there's something out there... in here... whatever..." he said, assured at first, but his voice trailing off at the end. He thought for a while about all the somethings that could be out there in the darkness. Maybe yelling was a bad idea. Maybe breathing was a bad idea. Maybe everything was a bad idea. 
 
-Boltac lay his head against the wall and fought back tears. As silent sobs wracked his body, his necklace of charms made infinitesimal jingling noises against the stone. Did he have a ward against being trapped underground? He'd have to get one of those. When he got out of here, that would be the first thing he would do. Surely those barbarous, tanned, Southroners had a God of the UnderDark or some such. Who did the UnderKing worship, Boltac wondered? *Some*where, *some*body a charm against this kind of thing, and Boltac would find it. 
+Boltac lay his head against the wall and fought back tears. As silent sobs wracked his body, his necklace of charms made infinitesimal jingling noises against the stone. Did he have a ward against being trapped underground? He'd have to get one of those. When he got out of here that would be the first thing he would do. Surely those barbarous, tanned, Southroners had a God of the UnderDark or some such. Who did the UnderKing worship, Boltac wondered? *Somewhere, *somebody* a charm against this kind of thing, and Boltac would find it. 
 
-Wiping his tears away with what remained of his sleeve, Boltac pressed on. A few steps later, he found an opening in the wall, and in it, stairs. As he climbed, he realized that the steps were cut for a creature with a smaller stride than a human. It made climbing them even harder than climbing regular stairs. But even though his legs cramped and his lungs burned, he climbed. Not quickly. Not as a young man like Relan might, but slowly and without stopping. 
-
+Wiping his tears away with what remained of his sleeve, Boltac pressed on. A few steps later, he found an opening in the wall and in it, stairs. As he climbed, he realized that the steps were cut for a creature with a smaller stride than a human. It made climbing them even harder than climbing regular stairs. But even though his legs cramped and his lungs burned, he climbed. Not quickly. Not as a young man like Relan might, but slowly and without stopping. 
+<br />
+<br />
 
 When the sound of Boltac's footsteps rising from the UnderDark had faded, Samga spoke to the UnderKing. "I told you he was not the one."
 
@@ -3258,11 +3264,11 @@ Samga followed his own scent-trail back to the secret fissure he would climb bac
 
 # 37 -- Boltac Turns back. -- 1659
 
-Boltac had stumbled through darkness for what felt like days. The stairs he had climbed ended in another darkened level. Again, he felt his way towards the lighter darkness. He stumbled into walls. Once he almost fell into a pit. His nerves became numb to the constant strain, even as his hands cramped with the effort of extending outward as far as his fingers could reach. Eventually the ache reached all the way to his shoulders. 
+Boltac had stumbled through darkness for what felt like days. The stairs he had climbed ended in another darkened level. Again, he felt his way towards the lighter darkness. He stumbled into walls. Once he almost fell into a pit. His nerves became numb to the constant strain, even as his hands cramped with the effort of extending outward as far as his fingers could reach. Eventually, the ache reached all the way to his shoulders. 
 
 He was on the verge of giving up, when he felt a faint stirring of air. It was not the heavy, hopeless stale of the depths. It was light and sweet, like a cool drink of water on a hot summer day. His lungs drank it in greedily. And with his face and nose he followed the movement of that impossible breeze.
 
-He rounded a corner and then he saw it. Light. Not the brightness of a new day dawning. Not even the faint light of a candle guttering its last spark in a pool of melted tallow. It was, perhaps, the faintest light which a man can see. But in comparison from the darkened places of the earth from which he had traveled it was a beacon to light his way. He hurried and fell. Got up and fell again. Climbed stairs using his hands and feet. Then a passage to the left, then more stairs and then, there it was, a chink in the wall. A pure beam of sunlight in this darkened place. 
+He rounded a corner and then he saw it. Light. Not the brightness of a new day dawning. Not even the faint light of a candle guttering its last spark in a pool of melted tallow. It was, perhaps, the faintest light which a man can see. But in comparison from the darkened places of the earth from which he had traveled it was a beacon to light his way. He hurried and fell. Got up and fell again. Climbed stairs using his hands and feet. Then a passage to the left, then more stairs and then, there it was a chink in the wall. A pure beam of sunlight in this darkened place. 
 
 He followed the beam to a crack in the wall. It was a hole in an ancient stone door, choked with vines on the other side. After a struggle with the stone, he was able to pull it open. Grass and vine fell in, and he pushed his way out, through sod, into the sunlight and open air.
 
@@ -3274,27 +3280,27 @@ And then what? Sell what was left in his store. Buy a boat and head South? A lei
 
 And then what? A shop or trading stall in Yorn or in the swamp-ringed Squalipoor? Surely he would not stop in Shatnapur? That would be too close to Robrecht. Too close to memories. Too close to...
 
-And then what? To build a business again. Make back something of the fortune he lost. He could do it. Wasn't he a lucky man? As he thought this he jangled the necklace of charms and wards. A lucky man. Luck earned with hard work and the money it had brought. 
+And then what? To build a business again. Make back something of the fortune he lost. He could do it. Wasn't he a lucky man? As he thought this, he jangled the necklace of charms and wards. A lucky man. Luck earned with hard work and the money it had brought. 
 
-And then what? His ease in old age, perhaps a place to put his feet up? He wasn't too old to dream of a family. A vineyard, something productive, not too far out of a city, but away from the bustle. And then, as an old man, the busy-ness of his life complete, he would put his feet on the hearth, sip the wine that was too good to sell and he would have time to think.
+And then what? His ease in old age, perhaps a place to put his feet up? He wasn't too old to dream of a family. A vineyard, something productive, not too far out of a city, but away from the bustle. And then, as an old man, the busy-ness of his life complete, he would put his feet on the hearth, sip the wine that was too good to sell, and he would have time to think.
 
-To think of Relan falling to the stone floor. The look of confusion on his face that said, "But this can't happen. I am the hero!" Asarah, lost to him. As lost to him as if she was dead. But her scream, her wails, crying for him. Would he not hear that screaming echo for the rest of his life. 
+To think of Relan falling to the stone floor. The look of confusion on his face that said, "But this can't happen. I am the hero!" Asarah lost to him. As lost to him as if she were dead. But her scream, her wails, crying for him. Would he not hear that screaming echo for the rest of his life. 
 
-He turned back to the door. "Who am I kidding?" he asked the bright new day. "I'm just gonna get myself killed. I'm not the chosen one. Who chose me? Who would chose me? I'm not a hero. I don't have broad shoulders or a strong chin? I'm not even young anymore."
+He turned back to the door. "Who am I kidding?" he asked the bright new day. "I'm just gonna get myself killed. I'm not the chosen one. Who chose me? Who would choose me? I'm not a hero. I don't have broad shoulders or a strong chin? I'm not even young anymore."
 
 He turned away from the door. "It was a bad deal from the beginning. But you got away with your skin. It's a sunk cost, Boltac. Take the hit and walk away." He nodded to himself as if that that ended the argument. Good. Sensible. Mercantile. Just a bad deal. But when he went to walk away, his feet moved in the wrong direction. 
 
 He fingered the necklace thick with charms and had a thought. It was a bad idea. It had all been bad ideas. "You make your own luck," said Boltac. 
 
-He took a whiff of fresh air. He said goodbye to the trees and the green grass and the water pure and dancing through rocks. The clouds parted and the sun was suddenly too bright. He squinted and made a silent, last goodbye the world. Then headed back into the darkness. It was a bad deal all right, thought Boltac. But he had made it, and he wasn't going to break it. 
+He took a whiff of fresh air. He said goodbye to the trees and the green grass and the water pure and dancing through rocks. The clouds parted and the sun was too bright. He squinted and made a silent, last goodbye the world. Then headed back into the darkness. It was a bad deal all right, thought Boltac. But he had made it, and he wasn't going to break it. 
 
 His life at risk? Sure, thought Boltac. But that was nothing. It wasn't just the sum of all his yesterdays he had put up to finance this ill-advised expedition. It was the promise of all his tomorrows. Unless he saw this thing through, there would be no ease by the fire. There would be no pleasure in shrewd trading and crisp profits. There would be no living with himself. 
 
-Fine, thought Boltac. She loves me not. But I love her still. Gods help me, I cannot do anything else. A thought surfaced in his mind: I guess that makes me some kind of hero. As he closed the door behind him, he answered his mind's foolishness with a skeptical, "En-henh."
+Fine, thought Boltac. She loves me not. But I love her still. Gods help me. I cannot do anything else. A thought surfaced in his mind: I guess that makes me some kind of hero. As he closed the door behind him, he answered his mind's foolishness with a skeptical, "En-henh."
 
-It was harder to go back. Now he could appreciate how stagnant the air really was down here. Each step still came wiht fear, but now they were robbed of hope and anticipation. He imagined he knew what waited for him at the bottom of the pit. So he followed the darkness, sinking in the blackness; this time following the compass of stale fear and dry death that welled up within him.
+It was harder to go back. Now he could appreciate how stagnant the air really was down here. Each step still came with fear, but now they were robbed of hope and anticipation. He imagined he knew what waited for him at the bottom of the pit. So he followed the darkness, sinking in the blackness; this time following the compass of stale fear and dry death that welled up within him.
 
-When at last he came to the gigantic, silent room, he stood listening for a time. He heard nothing, but took a chance anyway. "I know you're there," he said.
+When at last he came to the gigantic, silent room, he stood listening for a time. He heard nothing but took a chance anyway. "I know you're there," he said.
 
 "You have returned," said the UnderKing "Why?"
 
@@ -3308,7 +3314,7 @@ When at last he came to the gigantic, silent room, he stood listening for a time
 
 "Yeah, yeah, that's one hell of pitch for tourism, but if you want to me to take on this crazy Wizard at the height of his power, I better get moving."
 
-In the darkness a light appeared. It was a torch, and though it was  soaked in oil and burning well, the darkness did not give up easily. It pressed in on all sides. As the torch was lifted, Boltac saw that it was Samga who held it. And to his left, stood a simpler, cruder version of an Orc that wore a crown of bent and twisted metal. The UnderKing closed his eyes and still shielded them from the light with his claw. The UnderKing's features seemed like they were drawn in crayon, simple and plain. A moon face, mere holes for ears and a scribble for mouth. His simple symmetry was interrupted by a leg bent underneath him. It was twisted as if it had shattered in a fall and never properly reset. 
+In the darkness, a light appeared. It was a torch, and though it was  soaked in oil and burning well, the darkness did not give up easily. It pressed in on all sides. As the torch was lifted, Boltac saw that it was Samga who held it. And to his left, stood a simpler, cruder version of an Orc that wore a crown of bent and twisted metal. The UnderKing closed his eyes and still shielded them from the light with his claw. The UnderKing's features seemed like they were drawn in crayon, simple and plain. A moon face, mere holes for ears and a scribble for mouth. His simple symmetry was interrupted by a leg bent underneath him. It was twisted as if it had shattered in a fall and never properly reset. 
 
 "Uh," began Boltac, but then he realized that the emptiness of the pit was anything but empty. At the very edges of the feeble light cast by the torch, were creatures keeping to the dark. Some walked, some crawled, some shambled.
 
@@ -3340,7 +3346,7 @@ Samga's expression did not change when he said, "He has bled the boy dry to lure
 
 "En-henh. Okay, no offense to your hospitality here, King, but we need to get a move on. I'm late for an appointment to do something stupid."
 
-Not opening his eyes, the UnderKing said "Blessings be upon you, One who has Chosen."
+Not opening his eyes, the UnderKing said, "Blessings be upon you, One who has Chosen."
 
 "En-henh. I see what you did there."
 
@@ -3351,12 +3357,11 @@ As Samga walked away, the broken ones skittered out of the range of light. Bolta
 
 When the Wizard had returned to his sanctum, Asarah crept as far under the table as her chain would allow. She sat wide-eyed and frozen like a rabbit who hopes the fox does not see her. 
 
-But, at that moment, Dimsbury had no attention to spare for her. As soon as he entered the room he was drawn to the flame. He muttered to himself, "Brighter. More resolved. But how can this be?" Dimsbury looked around the chamber. He waved a hand at the wall sconces and they burst into flame, dispelling the uncertain illumination of the magic light and filling the room with an honest, if sooty, light. 
+But, at that moment, Dimsbury had no attention to spare for her. As soon as he entered the room he was drawn to the flame. He muttered to himself, "Brighter. More resolved. But how can this be?" Dimsbury looked around the chamber. He waved a hand at the wall sconces, and they burst into flame. They overpowered the uncertain light of the magic flame and filled the room with an honest, if sooty, light. 
 
-A glance at the floor revealed the cause. From Relan's body, a rivulet of blood stretched across the floor to the dias on which the flame sat. "Could it be?" Dimsbury asked. He removed the glass cover from the flame. Although there was no wind, the flames curved over the side of the dias. Dimsbury bent and dipped his fingers into blood. He held them above the flame, and as blood dripped downward into the confluence of magic, it was transformed through a brilliant range of hues, and seemed more substantial at the end of it.
+A glance at the floor revealed the cause. From Relan's body, a rivulet of blood stretched across the floor to the dais on which the flame sat. "Could it be?" Dimsbury asked. He removed the glass cover from the flame. Although there was no wind, the flames curved over the side of the dais. Dimsbury bent and dipped his fingers into the blood. He held them above the flame, and as blood dripped downward into the confluence of magic, it was transformed through a brilliant range of hues, and seemed more substantial at the end of it.
 
 Dimsbury turned to what was left of Relan and said, "You're not completely useless after all, what a surprise."
-
 
 The Wizard wasted no time in having Relan strung up by his ankles over the flame. What little blood remained in the poor boy dripped into the cool, hypnotic light. The unflames licked greedily at the blood and became a little more focused and defined with each drop. 
 
@@ -3374,7 +3379,7 @@ She did not answer. She did not even move.
 
 "The good news is that I no longer require you to be my cook."
 
-All thought left Asarah and she started to scream. 
+All thought left Asarah. She s. 
 
 "Seize her," Dimsbury commanded. The screaming was perfect, thought Dimsbury. It was all according to form. The way such things were to be done But the Orcs did not move towards her. This wasn't right at all. It made her scream seem pointless and silly. 
 
@@ -3389,23 +3394,23 @@ Rattick had not pushed his luck. After killing the boy, he had left the Wizard's
 
 The Great Hall was ambitiously named yet modestly furnished. A large cavern off the main passage, it was a darker analog of a refectory at a traditional boy's school. Large wooden tables with benches had once been lined up here. Now half of them were pushed into a jumble at the far end of the room. A mock fireplace and mantle piece carved into the living rock, was full to overflowing with bits of discarded bone and gristle. Here and there a wolf nosed through the scraps. Even to Rattick, this jumbled room looked like the end of a civilization. 
 
-Concealed by his cloak, he climbed the wall, and shimmied down a thick iron chain to a long unused chandelier. There he took up his perch and watched and waited. 
+Concealed by his cloak, he climbed the wall and shimmied down a thick iron chain to a long unused chandelier. There he took up his perch and watched and waited. 
 
 The Orcs cleared a space in the center of the room where they fought over the bag. Claws darted in here and there, trying to snatch the contents. The room quickly filled to capacity with the brutish creatures. The noise of their disputations was deafening. The smell of so many of them, packed so close was debilitating. Rattick began to wonder if the chandelier had been a terrible idea. But he remained still and silent. There was nothing else to do. 
 
-Soon the bag was upended and the contents spilled all over the floor. For such a tiny, plain bag, it was shocking to see how much it contained. Among the miscellany -- the occasional weapon, rations of food, bits of apparel --  was sack after sack of coin. They poured from the opening, landing on the floor with solid, seductive clinks of loot. What would they do with gold, Rattick wondered. He decided to wait until they were tired of fighting amongst themselves. Then he would swoop down and collect as many of those sacks as he could.
+Soon the bag was upended, and the contents spilled all over the floor. For such a tiny, plain bag, it was shocking to see how much it contained. Among the miscellany -- the occasional weapon, rations of food, bits of apparel --  was sack after sack of coin. They poured from the opening, landing on the floor with solid, seductive clinks of loot. What would they do with gold, Rattick wondered. He decided to wait until they were tired of fighting amongst themselves. Then he would swoop down and collect as many of those sacks as he could.
 
 Rattick's dreams of avarice were shattered as he watched Orcs claw the leather bags apart and cram the gold pieces in their mouths. They clawed and fought and ate until all of Boltac's gold -- of which there was a substantial fortune -- had disappeared into their monstrous gullets. Rattick sighed and felt an emotion that was very much like grief. Ah well, the dungeon had been good while it lasted, he thought. He'd wait for the creatures to disband then he would sneak out like the thief he was. 
 
-But the Orcs did not leave. Their squabbles gradually died down, until, bloated on coin, they fell asleep under, on and around the tables. Rattick cursed his luck and he shifted his cramping legs. How much longer would he be stuck up here? He waited until the strange snores of the Orcs below wafted up to his ears. Then he uncoiled himself from his perch and climbed back down.
+But the Orcs did not leave. Their squabbles gradually died down, until, bloated on coin, they fell asleep under, on and around the tables. Rattick cursed his luck and shifted his cramping legs. How much longer would he be stuck up here? He waited until the strange snores of the Orcs below wafted up to his ears. Then he uncoiled himself from his perch and climbed back down.
 
-He snuck through the sated and sedate creatures as quietly as he could. When one near the door snorted heavily and rolled over, Rattick swore he could hear coins rattling in his belly. A plan suggested itself to Rattick. And, with Rattick, where there was a plan, there was almost always a sharp knife involved. He drew his cruel blade from the sheath on his thigh and considered how he might do this quietly. With an ordinary person, he would just cram a hand over the mouth and slide the dagger down into the neck. This would severe an artery deep inside the torso so that the person would bleed to death internally in a matter of seconds. It was very clean and very professional. Rattick prided himself on this knowledge of this secret assassin's skill. 
+He snuck through the sated and sedate creatures as quietly as he could. When one near the door snorted heavily and rolled over, Rattick swore he could hear coins rattling in his belly. A plan suggested itself to Rattick. And, with Rattick, where there was a plan, there was almost always a sharp knife involved. He drew his cruel blade from the sheath on his thigh and considered how he might do this quietly. With an ordinary person, he would just cram a hand over the mouth and slide the dagger down into the neck. This would sever an artery deep inside the torso so that the person would bleed to death internally in a matter of seconds. It was very clean and very professional. Rattick prided himself on this knowledge of this secret assassin's skill. 
 
-But with an Orc, this presented a number of problems. Not the least of which, how do you cover a mouth that has tusks? And he had seen how brutishly powerful these things were. He doubted that they would die quietly. And how could he hope to hold this one down? He hunkered in a nearby shadow and considered his prey. As he did, out of habit, he drew a whetstone from a pouch on his belt, spit on it, and began to sharpen the already razor-sharp knife. There was gold enough here, he just needed to figure out how to cut off a piece for himself. 
+But with an Orc, this presented a number of problems. Not the least of which, how do you cover a mouth that has tusks? And he had seen how brutishly powerful these things were. He doubted that they would die quietly. And how could he hope to hold this one down? He hunkered in a nearby shadow and considered his prey. As he did, out of habit, he drew a whetstone from a pouch on his belt, spit on it, and began to sharpen the already razor-sharp knife. There was gold enough here. He just needed to figure out how to cut off a piece for himself. 
 
 When he heard a noise from outside, he replaced the knife and sharpening stone and then hid his hands under his robe. As clawsteps drew closer, he closed his eyes so that the whites of them might not give him away when whoever it was entered. This was an old and important trick of Rattick's. Hiding was a fine art, relying as much upon psychology as camouflage. The only time a person looked carefully at room was when they first walked in. Once they believed they knew who and what was in a room, it became very difficult for them to see anything new. It wasn't so much hiding in plain sight, as it was hiding in someone else's self-enforced blind spot. 
 
-He heard another Orc enter the room. There was a shuffling and a scraping of claws here and there as the took in the scene, but there was no sharp intake of breath. No sudden movements. Rattick remained concealed. Then the Orc spoke, but in the Human tongue. 
+He heard another Orc enter the room. There was a shuffling and a scraping of claws. But there was no sharp intake of breath. No sudden movements. Rattick remained unseen. Then the Orc spoke, but in the Human tongue. 
 
 "It is safe, they are all asleep," said a voice both alien and familiar to Rattick. He opened his eyes and saw Samga, the Wizard's clever Orc. And entering the room behind him... BOLTAC! In spite of himself and his skills of general and considerable sneaklitude, Rattick jumped at the sight of Boltac and struggled to stifle a curse. 
 
@@ -3417,9 +3422,9 @@ He heard another Orc enter the room. There was a shuffling and a scraping of cla
 
 Samga held up a shredded mass of fabric that had once been a magic sack. "You mean this?"
 
-"Ah crap," said Boltac. He took the burlap from Samga and examined it carefully. The torn shred contained nothing. Boltac turned it over and then over again. As he folded and unfolded it something fell out onto  the floor. It was a small, lacquered box. "Enh. Well, it's better than nuttin'," said Boltac as he tucked the box inside his tunic. Well, if that's all we got, it looks like we'll be doing this the hard way, unless..." Boltac looked around the room at the sleeping Orcs and their bloated bellies. "You know Samga, there was a lot of gold in that sack of mine. An awful lot. Did they eat all of it?"
+"Ah crap," said Boltac. He took the burlap from Samga and examined it carefully. The torn shred contained nothing. Boltac turned it over and then over again. As he folded and unfolded it, something fell out onto  the floor. It was a small, lacquered box. "Enh. Well, it's better than nuttin'," said Boltac as he tucked the box inside his tunic. Well, if that's all we got, it looks like we'll be doing this the hard way, unless..." Boltac looked around the room at the sleeping Orcs and their bloated bellies. "You know Samga, there was a lot of gold in that sack of mine. An awful lot. Did they eat all of it?"
 
-"They kept eating until there was nothing left to eat," Samga said with a shug. 
+"They kept eating until there was nothing left to eat," Samga said with a shrug. 
 
 "En-henh. Not sophisticated and restrained like you."
 
@@ -3445,9 +3450,9 @@ Samga gave him a flat Orcish look that admitted of no humor.
 
 Then Boltac noticed his wand, trapped underneath a sleeping Orc's leg. "Hey, uh, Samga, could you..." he said, pointing at the wand. "Probably better if you wake this thing up rather than me."
 
-Samga retrieved the magic detecting wand. It too had been gnawed on, but had fared better than the bag and gloves. Boltac used what remained of his tunic to wipe the saliva from it.
+Samga retrieved the magic detecting wand. It too had been gnawed on but had fared better than the bag and gloves. Boltac used what remained of his tunic to wipe the saliva from it.
 
-"Okay, this will do, now let's get outta here." They returned to the door and Rattick could swear that Boltac looked right through him -- right into his eyes -- but saw him not. If the glance had lasted longer, Rattick might have been given away, but Boltac's eye was drawn to something on the right side of the door. 
+"Okay, this will do, now let's get outta here." They returned to the door. Rattick thought that Boltac looked right through him -- right into his eyes -- but Boltac's eye was drawn to something on the right side of the door. 
 
 "Hey," Boltac said, "The sacred lamp of Lamptopolis."
 
@@ -3511,7 +3516,7 @@ The Orcs looked at Boltac. Samga looked at Boltac. Hanging upside down, Asarah c
 
 "Yes," said Dimsbury, "if you are quite through?" Boltac looked down and away. "TEAR HIM LIMB FROM LIMB!"
 
-There was nowhere to run. There was nothing to do. As the first Orc advanced, Boltac turned to Samga and said, "Sorry, I thought that would work."
+There was nowhere to run. There was nothing to do. As the first Orc advanced, Boltac turned to Samga, "Sorry, I thought that would work."
 
 Snarling, the front line of Orcs reached for Boltac. Their claws and tusks searched through savage arcs for the soft, fat flesh of the Merchant. But before Boltac was torn open, the biggest Orc of all let out a long howl of pain. The other Orcs stopped to watch as the largest of them grasped its stomach and collapsed to the floor. Then another fell, and then another, until all of them were lying on the floor, writhing in pain. 
 
@@ -3519,31 +3524,31 @@ Snarling, the front line of Orcs reached for Boltac. Their claws and tusks searc
 
 Boltac resumed blowing his whistle for all he was worth. As the Orcs writhed in agony on the floor, the largest of them made the connection. He lifted his taloned hand off the ground then plunged it deeply into his own stomach. The whistle dropped from Boltac's lips has his face contorted in disgust. Coins exploded outward from the unfortunate creature's stomach. They clicked and clinked as they ripped tiny slices of flesh from the now dying creature. 
 
-A bolt of lightning exploded into the room and lept toward the Orc
+A bolt of lightning exploded into the room and leapt toward the Orc
 
-Boltac held up his gloved hand and it slurped up Dimsbury's lightning bolt like a hungry child devouring a spaghetti noodle. "Hey! That worked!" Boltac said, laughing giddily. 
+Boltac held up his gloved hand It absorbed Dimsbury's lightning bolt. "Hey! That worked!" Boltac said, laughing giddily. 
 
 Dimsbury furrowed his brow and said, "Very well. The fat man wants to play."
 
-The next bolt of lightning was so powerful, Boltac thought that his eyeballs had been seared from his head. But, when his eyes adjusted, he realized that the bolt had been so bright that he had been momentarily blinded. Still, the glove on his left hand remained intact. As Dimsbury extended his arm again, Boltac closed his eyes. He felt an impact on his arm. And again, and again. The palm of the glove grew hot and fought off the urge to shake his hand. On his belt the magic detecting wand vibrated wildly. "Okay," said Boltac, "this isn't funny anymore."
+The next bolt of lightning was so powerful, Boltac thought that his eyeballs had been seared from his head. But, when his eyes adjusted, he realized that the bolt had been so bright that he had been momentarily blinded. Still, the glove on his left hand remained intact. As Dimsbury extended his arm again, Boltac closed his eyes. He felt an impact on his arm. And again, and again. The palm of the glove grew hot and fought off the urge to shake his hand. On his belt, the magic detecting wand vibrated wildly. "Okay," said Boltac, "this isn't funny anymore."
 
 "Do it now!" Samga cried over the crackle of the lightning and the rush of superheated air.
 
 "I can't see!" protested Boltac. And the bolts kept coming and coming. Pounding into his left arm. He could feel the glove burning his flesh. And now, tiny shocks, the leftover current that this glove could not absorb, forced the muscles of his arm to contract and twitch violently. He turned his face away from the Wizard, still holding his hand up. Eyes closed in a painful wince, he felt around on his belt for where the magic detecting wand vibrated frantically. 
 
-Samga pushed the heavy shelves over. They toppled over into Dimsbury and knocked him back a step. The Wizard lashed out blindly and a bolt of electricity caught Samga in the chest. Samga staggered towards the Wizard then collapsed. As Dimsbury turned back, he saw Boltac throw the wand across the room into the flame of magic. 
+Samga pushed the heavy shelves over. They toppled over into Dimsbury and knocked him back a step. The Wizard lashed out blindly, and a bolt of electricity caught Samga in the chest. Samga staggered towards the Wizard then collapsed. As Dimsbury turned back, he saw Boltac throw the wand across the room into the flame of magic. 
 
 "Ha!" cried Boltac as the wand spun through the air. Dimsbury sneered and raised his hand to launch another blast at the now distracted Merchant. But as the wand entered the flame, there was a wuffing sound, and the flame of magic snapped into sharp focus. The wand reached the heart of the flame and stopped moving. Everything stopped moving.
 
-"What have you done?" asked Dimsbury. Then he realized he didn't care. He threw his hands forward in a gesture of power that was certain to obliterate Boltac from this plane of existence. But nothing happened. Dimsbury looked at his hands, confused. Boltac ran to the dias and swung Asarah off to the side. 
+"What have you done?" asked Dimsbury. Then he realized he didn't care. He threw his hands forward in a gesture of power that was certain to obliterate Boltac from this plane of existence. But nothing happened. Dimsbury looked at his hands, confused. Boltac ran to the dais and swung Asarah off to the side. 
 
 "Stop," commanded Dimsbury. He tried again to use his magic, but still, nothing happened. "What have you done?" he asked weakly.
 
 Boltac did not answer. He lowered Asarah to the ground. As he knelt to untie her, he became aware of a high-pitched whine growing louder and louder.
 
-Dimsbury stared at the frozen flame. The flow of magic, yes, he thought, that's what it had to be. The flow of magic had stopped. The pressure was building up behind it. Inside the still illuminated, perfect flames the wand vibrated furiously, emitting the high-pitched, rising whine that dominated the room. If Dimsbury could unblock the flow... He reached out and touched the frozen flame. As his finger brushed the surface it cracked like fine glass. It shattering into a million fragments, and each of those fragments shattered again. 
+Dimsbury stared at the frozen flame. The flow of magic, yes, he thought, that's what it had to be. The flow of magic had stopped. The pressure was building up behind it. Inside the still illuminated, perfect flames the wand vibrated furiously, emitting the high-pitched, rising whine that dominated the room. If Dimsbury could unblock the flow... He reached out and touched the frozen flame. When his finger brushed the surface, it cracked like fine glass. It shattered into a million fragments, and each of those fragments shattered again. 
 
-The explosion that followed knocked everyone flat. Asarah, of course was lying on the ground, so she was spared the brunt of the blast. Samga, surprised to have survived a bolt of lightning to his chest, had just risen to his hands and knees. He saw Dimsbury fly over his head, even as the blast knocked him flat. Boltac was flipped upside down and thrown into the wall. He landed in a heap next to what was left of Relan. Even the creeping coins were flung about so violently, they retracted into their glittering carapaces and pretended to be currency. 
+The explosion knocked everyone flat. Asarah, of course was lying on the ground, so she was spared the brunt of the blast. Samga, surprised to have survived a bolt of lightning to his chest, had just risen to his hands and knees. He saw Dimsbury fly over his head, even as the blast knocked him flat. Boltac was flipped upside down and thrown into the wall. He landed in a heap next to what was left of Relan. Even the creeping coins were flung about so violently, they retracted into their glittering carapaces and pretended to be currency. 
 
 As Boltac raised his head, he heard a moan coming from Relan's corpse. Wait! Not a corpse. Somehow he was still alive. "Too stupid to die?" Boltac asked. Then he searched in his tunic for the small lacquered box. He opened it with shaking hands. Within it was a tiny flask covered in ornately wrapped gold wire. No bigger than Boltac's thumb, this vial looked as if it could only contain the amount of moisture found in a few tears. 
 
@@ -3551,12 +3556,11 @@ Boltac looked at the heap of Relan. The blood soaked into his tunic was already 
 
 "Kid," Boltac said softly. "C'mon, kid." He carefully removed the tiny top from the flask. With even more care, he lifted the tiny bottle to Relan's blue and lifeless lips. Only the slightest flutter of air on Boltac's fingers gave him any hope that the lad was still alive. Boltac doubted that there was enough liquid to do more than wet Relan's tongue. There was scarcely a chance that this would work at all. But there was so little chance that any of this should work, so why not? Why not?
 
-He tipped the bottle up and the few drops disappeared into the cave of Relan's mouth. Boltac reached up and grasped his charm necklace. He squeezed all of the charms so hard, they cut into the palm of his hand and drew blood, Boltac prayed. He prayed to everybody. 
-
+He tipped the bottle up and the few drops it contained disappeared into the cave of Relan's mouth. Boltac reached up and grasped his charm necklace. He squeezed all of the charms so hard, they cut into the palm of his hand and drew blood, Boltac prayed. He prayed to everybody. 
 
 On the other side of the room, Dimsbury felt the tingle of power dance along his limbs again. The magic was back! He sat up and exclaimed, "I will have power again." Then he sneezed twice, not understanding the sharp pain that shot through his skull each time. And why did the room look different? What was in front of his face? He brought his hand up and bumped something. The pain became excruciating, and he realized that the Merchant's wand was stuck in his eye. He collapsed back to the floor with the shock of it. But lying there, hyperventilating for a moment, he managed to calm himself. 
 
-On the far side of the room, he could see the flame, the font of all magic, guttering and flickering as if it was to go out. No, thought Dimsbury, this could not be? How could this Merchant -- How could this fat, ignorant, money-grubbing aberration stop a mighty Wizard? Did he know what a world without magic would be like? Could such a thing even exist? For himself, and for the greater good, Dimsbury realized he must reach the flame and coax it back to a fuller life. 
+On the far side of the room, he could see the flame, the font of all magic, guttering and flickering as if it was about to go out. No, thought Dimsbury, this could not be? How could this Merchant -- How could this fat, ignorant, money-grubbing aberration stop a mighty Wizard? Did he know what a world without magic would be like? Could such a thing even exist? For himself, and for the greater good, Dimsbury realized he must reach the flame and coax it back to a fuller life. 
 
 As he struggled to regain his feet, a shape appeared before him. Dimsbury looked up and saw Samga, holding his chest with one hand. Samga said, "Master," because he didn't have another name for the man who lay before him. 
 
@@ -3572,18 +3576,17 @@ Samga bent and picked up Dimsbury.
 
 Samga looked up at the circle of heads mounted on the wall. The broken and aborted things that had lead to him. The trial and the error, the arrogant misuse of power in an attempt to craft life itself. Not for the first time, Samga wished that he had never been made.
 
-"Yessss," said Dimsbury. "Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury coughing was interrupted by a fit of coughing. 
+"Yessss," said Dimsbury. "Just a little closer. Let me dip my fingers in the torrent of magic and then, and THEN!" Dimsbury was overcome by a fit of coughing. 
 
 As his clacking steps took Samga closer to the flame, he lifted the Wizard high above his head. 
 
-"What? What are you doing Samga. Lower me! The Master commands!" 
+"What? What are you doing Samga? Lower me! The Master commands!" 
 
 "The Servant does not obey!"
 
-Samga threw the Wizard onto what was left of the magic flame.Dimsbury landed on the the dais with the sickening crack of a few ribs letting go. Then there was a terrible, tearing noise. The flames leapt up, in perfect focus. Terrible, blindingly white flames, as hungry as any real fire had ever been. Dimsbury screamed and screamed. Power shot through him and raked the top of the top of the chamber. The very Earth around them trembled and still the Wizard screamed. 
+Samga threw the Wizard onto what was left of the magic flame.Dimsbury landed on the dais with the sickening crack of a few ribs letting go. Then there was a terrible, tearing noise. The flames leapt up, in perfect focus. Terrible, blindingly white flames, as hungry as any real fire had ever been. Dimsbury screamed and screamed. Power shot through him and raked the top of the top of the chamber. The very Earth around them trembled and still the Wizard screamed. 
 
 The flames folded in on themselves. With a crunching of bones and a whimpering, the Wizard folded up with them. His form flickering in the magic light, tinier and tinier and tinier until the flame was less than the tongue that dances on the head of a match. Nothing remained of the Wizard.
-
 
 
 # 41 -- Aftermath -- 1280
@@ -3602,11 +3605,11 @@ Boltac emerged from the darkness and stood over the tiny flame. He removed the t
 
 "Ruin what?" asked Boltac as he loosened her bonds. "It's already wrecked. I mean seriously, have you looked around you?"
 
-Boltac helped Asarah to her feet and she threw her arms around him and kissed him. It was a kiss no money could buy, and a kiss that Boltac wouldn't have traded for anything in the world. 
+Boltac helped Asarah to her feet, and she threw her arms around him and kissed him. It was a kiss no money could buy, and a kiss that Boltac wouldn't have traded for anything in the world. 
 
 "You can say whatever you want, Mr. Boltac, but you came back," she said, kissing him on the nose, "You gave up everything you had to save *me*. That how I *know*. And that's what makes you a hero."
 
-"A what? Hero, don't be silly. I'm not a hero, I'm just a guy trying to... to..." Boltac realized that he wasn't quite sure who he was anymore, and he liked it that way. "Anyway, if you want a hero, you should talk to the kid. That's his department, after all. Oh my Gods, the kid!"
+"A what? Hero? Don't be silly. I'm not a hero. I'm just a guy trying to... to..." Boltac realized that he wasn't quite sure who he was anymore, and he liked it that way. "Anyway, if you want a hero, you should talk to the kid. That's his department, after all. Oh, my Gods, the kid!"
 
 Boltac tore himself from Asarah's arms and rushed to where  Relan was slumped against the wall. The Farm Boy still looked like hell, but now his eyes were open. "Did we win?" asked Relan. 
 
@@ -3633,6 +3636,7 @@ Boltac and Asarah rushed back to his side. "Easy, kid," said Boltac, "Nobody is 
 Relan grunted and cried out in pain, but eventually he made it to his feet. 
 
 "Gah, you're a lug," said Boltac as Relan settled his weight onto their shoulders. The three of them wheeled for the door. But before they could exit the room a dark shape blocked their way. Backlit by the last torch, it was a terrible shape in the darkness. It seemed to reach for them, brandishing something in its hand. Asarah shrieked. All three of them flinched. But when the second torch blazed to life they could see that it was a trick of the shadows. Samga stood before them, offering a fresh torch. 
+
 "You will need light for your journey"
 
 Boltac looked at greasy remains of the other Orcs on the floor and then back to the Orc that stood before him. "Samga, how did you survive?"
@@ -3653,6 +3657,8 @@ Boltac took the torch from Samga and they watched as he climbed down into the pi
 
 They found the main passage and ascended. They stopped to rest several times, but they saw and heard nothing in the great expanse of the Wizard's lair. A great, underground emptiness surrounded them. The Wizard and his creations were gone. 
 
+<br />
+<br />
 
 Near the exit they came to a room that was at once familiar and strange. The ceiling had cracked open and now sunlight filled the once-dark room. Here and there around the edge of the room were bones. But the sunlight, the sight of leaves and sky through the ceiling and distant birdsong gave the place a feeling more peaceful than terrible. 
 
@@ -3672,11 +3678,11 @@ Boltac hefted the mace and turned to Relan. No sinister forces crushed him to th
 
 "I dunno," said Boltac, "but I like it."
 
-Boltac lifted Relan and the three made their awkward way from the dungeon. As they walked into the sunlight of a new day, Boltac thought about all that gold, buried far, far beneath them. "So, uh, kid, you're from a village not far here, right?"
+Boltac lifted Relan, and the three made their awkward way from the dungeon. As they walked into the sunlight of a new day, Boltac thought about all that gold, buried far, far beneath them. "So, uh, kid, you're from a village not far here, right?"
 
 Relan pointed West with a dejected air, "That way, half a day's walk. Do you know how hard it was for me to get away from there. You're not going to leave me there, are you?"
 
-"No. No?" said Boltac. He looked to Asarah and she shook her head no. "No. You're with us now. But these villagers, are they uh, big and strong and stupid-- I'm sorry, I mean *honest* like you?"
+"No. No?" said Boltac. He looked to Asarah, and she shook her head no. "No. You're with us now. But these villagers, are they uh, big and strong and stupid-- I'm sorry. I mean *honest* like you?"
 
 "Everyone there is the same," Relan sighed, "It is very dull. Why do you want to know?"
 
@@ -3684,7 +3690,7 @@ Relan pointed West with a dejected air, "That way, half a day's walk. Do you kno
 
 "They don't like outsiders very much."
 
-"Do they like gold? 'Cause if they do, I've got a some work for them."
+"Do they like gold? 'Cause if they do, I've got some work for them."
 
 "I really don't want to go back there."
 
@@ -3708,17 +3714,17 @@ By the time the Wizard had started throwing lightning bolts around like they wer
 
 Rattick couldn't imagine that the Merchant stood a chance against the Wizard, but he couldn't see a percentage in sticking around either way. Rattick had seen Dimsbury loose his temper too often. At the very least, Rattick was certain the guy would unleash his considerable powers to see Robrecht burned to the ground. No, that wouldn't be enough for Dimsbury. He would want to see Robrecht burned to the ground and then its ashes shoveled into the river.
 
-Where there was chaos, thought Rattick, there was opportunity. So, when he had escaped the depths Rattick hid himself away in his favorite tree, to see what happened next. But what happened next was nothing. Clouds drifted across the sky and a gentle breeze blew caused the tree to sway so gently that Rattick fell asleep. As he drifted off, he thought to himself, "There's no worry, you'll never sleep through the sound of a howling mass of Orcs unleashed on the countryside." 
+Where there was chaos, thought Rattick, there was opportunity. So, when he had escaped the depths, Rattick hid himself away in his favorite tree, to see what happened next. But what happened next was nothing. Clouds drifted across the sky, and a gentle breeze caused the tree to sway so gently that Rattick fell asleep. As he drifted off, he thought to himself, "There's no worry, you'll never sleep through the sound of a howling mass of Orcs unleashed on the countryside." 
 
-But Rattick awoke to something very, very different. It was the sound of a horse being harnessed. The jingle of metal on metal, the clop of hooves, and the slap of leather. He opened his eyes and realized it was night. The clouds had cleared and a bright, waxing moon hung in the sky. By its light he saw Boltac and Asarah, help Relan into the Duke's carriage. They had survived? But how? 
+But Rattick awoke to something very, very different. It was the sound of a horse being harnessed. The jingle of metal on metal, the clop of hooves, and the slap of leather. He opened his eyes and realized it was night. The clouds had cleared, and a bright, waxing moon hung in the sky. By its light, he saw Boltac and Asarah help Relan into the Duke's carriage. They had survived? But how? 
 
-He watched Boltac and Asarah climb onto the front of carriage and then drive away. Rattick waited many minutes, expecting to hear the howl of bloodthirsty Orcs hurrying in pursuit, or to see fireballs raining down from the heavens upon them. But there was nothing. Nothing at all. Was he dreaming? What was going on?
+He watched Boltac and Asarah climb onto the front of the carriage and then drive away. Rattick waited many minutes, expecting to hear the howl of bloodthirsty Orcs hurrying in pursuit, or to see fireballs raining down from the heavens upon them. But there was nothing. Nothing at all. Was he dreaming? What was going on?
 
-He descended from the tree and followed them. Of course, he couldn't keep up with a horse-drawn carriage, but the track it left was distinctive enough, and, it led back to Robrecht. 
+He descended from the tree and followed them. Of course, he couldn't keep up with a horse-drawn carriage, but the track it left was distinctive enough, and it led back to Robrecht. 
 
-He walked through the night, recognizing darkness for the old friend that it was. And he had the small hours of the night to wonder why the cries of Orc's weren't burning up the road behind him. 
+He walked through the night, recognizing darkness for the old friend that it was. And he had the small hours of the night to wonder why the cries of Orcs weren't burning up the road behind him. 
 
-In the morning he came upon a small cottage in a clearing. There was smoke rising from the fieldstone chimney. And behind the cottage, in space that was hard-won from the thick, primeval forest, was a garden and a pen with three pigs. Hungry, Rattick made for the garden. As he was rooting around the leafy plants, he heard the door to the cottage open behind him. 
+In the morning, he came upon a small cottage in a clearing. There was smoke rising from the fieldstone chimney. And behind the cottage, in space that was hard-won from the thick, primeval forest, was a garden and a pen with three pigs. Hungry, Rattick made for the garden. As he was rooting around the leafy plants, he heard the door to the cottage open behind him. 
 
 In one motion, he swirled his cape of concealment around him and stood stock still in the middle of the garden. He would fool the peasant, he thought, and then resume his free breakfast. What a fine thing to be thief and free at the start of a new day. 
 
@@ -3734,6 +3740,8 @@ Rattick stammered. How had the farmer seen him? How had a master sneak-thief lik
 
 "If yer simple," the Farmer continued, very slowly, "Follow the road down to Robrecht. There's them that can look after you there." Then the Farmer had a thought, "Or you can stay here and I can hire you as a scarecrow." The Farmer cackled at his own joke as if it was the funniest thing that had ever been said. Rattick hurried away to escape the mocking noise of it. 
 
+<br />
+<br />
 
 When Rattick reached Robrecht, it was strangely empty. He entered through the North gate, and the noise of many people gathered drifted to him from the south. At any other time, Rattick would have used a major gathering as a chance to burgle few houses. 
 
@@ -3744,11 +3752,11 @@ But now, he just had to know what was going on.
 
 Rattick slipped into the back of the crowd that was gathered in the courtyard of the old keep. At the center of all of them Boltac stood on a low table, waving his hands for quiet. "C'mon. C'mon, shut up already," he cried.
 
-"Why do you get to be King?" someone demanded. A good question thought Rattick. Boltac, King!?! How rediculous would that be? But still, he had defeated the Wizard somehow. Rattick had lived so long for two reasons. One, he had no compunctions about killing, and two, he was cautious, cautious, cautious. If he didn't understand it, he avoided it. And as he stood there watching a greedy fat man make his appeal, he realized that there was something here he just didn't understand.
+"Why do you get to be King?" someone demanded. A good question thought Rattick. Boltac, King!?! How ridiculous would that be? But still, he had defeated the Wizard somehow. Rattick had lived so long for two reasons. One, he had no compunctions about killing, and two, he was cautious, cautious, cautious. If he didn't understand it, he avoided it. And as he stood there watching a greedy fat man make his appeal, he realized that there was something here he just didn't understand.
 
 It was not a feeling he was comfortable with, by any stretch of his dark and twisted imagination. 
 
-Boltac smiled at the man who had questioned his divine right to Kinghood, "I'm glad you asked that question. And, there are three reasons. One - 'Cause the treasury is bare. That sneaky bastard Weeveston either spent it all or took it with him when he left like a thief in the night." Of course, Boltac meant this as an insult, but Rattick found himself hoping that the former Duke had been shrewd enough to hiest his own Kingdom. That would have been well-played and Rattick would have to remember that trick, if ever he found himself in a similar position. 
+Boltac smiled at the man who had questioned his divine right to Kinghood, "I'm glad you asked that question. And, there are three reasons. One - 'Cause the treasury is bare. That sneaky bastard Weeveston either spent it all or took it with him when he left like a thief in the night." Of course, Boltac meant this as an insult, but Rattick found himself hoping that the former Duke had been shrewd enough to heist his own Kingdom. That would have been well-played and Rattick would have to remember that trick, if ever he found himself in a similar position. 
 
 "But if he took the money, why do you get to be King?" asked another anonymous person in the crowd. Rattick didn't like to see what should be a typically surly crowd treating Boltac with anything resembling deference. It disturbed his sense of things. But still, that tingle of fear said, you never know who could wind up being a King in these strange days in which we lived. Always best to error on the side of caution. 
 
@@ -3782,7 +3790,7 @@ There was a grumbling in the crowd. Rattick thought Boltac was going to falter. 
 
 Boltac turned back and smiled at the crowd, armed with new confidence. "So, here's the deal. If I'm you're King, I have a plan. If any of *you  have a plan, well then, you can put your own money in the treasury, face not only the wrath of the most powerful empire in the Four Kingdoms, but also the ire of your fellow-citizens... you know, come to think of it. I don't think I want this after all." In a display of master showmanship, Boltac jumped off the table, saying, "Nah, I'm taking my plan and going home."
 
-"No, no, no!" rose the cries around him. The negotiation successfully concluded, Boltac climbed back onto the table and smiled. 
+"No, no, no!" rose the cries around him. The negotiation successfully concluded; Boltac climbed back onto the table and smiled. 
 
 "Okay, here's what we are going to do..." And Boltac told them the plan. 
 
@@ -3802,7 +3810,7 @@ Later, as he drifted down the River Swift in a stolen boat, he was also certain 
 
 # 44 -- Boltac Parley -- 2952
 
-Weeveston Prestidigitous RampartLion Toroble the 15th stumbled out onto the the stone terrace and flung himself down on a divan. Down the terraced hill was the slow-moving remnants of the River Swift. Here in the Southron lands, the name and character of the river had changed completely. Weeveston smiled to himself, without knowing why. But he didn't need a reason. He was still pleasantly drunk from a night of revelry that had not yet ended yet.
+Weeveston Prestidigitous RampartLion Toroble the 15th stumbled out onto the stone terrace and flung himself down on a divan. Down the terraced hill, he could see the slow-moving remnants of the River Swift. Here in the Southron lands, the name and character of the river had changed completely. Weeveston smiled to himself, without knowing why. But he didn't need a reason. He was still pleasantly drunk from a night of revelry that had not yet ended yet.
 
 On the other side of the river, the pure, clean, hopeful light of a new day made its way through the twisted streets and high Towers of the fabled Scented City of Shatnapur. By the time these rays of dawn reached Weeveston on the other side of the river, they had fewer illusions and far less purity. But the miasma of incense and highly cultivated vice rising from the city towers had tinged the light a pleasant shade of red. 
 
@@ -3810,11 +3818,11 @@ There was the pad of a sandaled foot on the flagstones behind him. He turned and
 
 "I have ordered the servants to bring us breakfast," said Tryphaenae as she sat next to him with flounce of bangles and jewelry.
 
-"Ah my darling, you shouldn't strain yourself so, making breakfast for me."
+"Ah, my darling, you shouldn't strain yourself so, making breakfast for me."
 
 Tryphaenae smiled. "Ordering breakfast is the least I can do for your return, my loving husband."
 
-"And what is the most you might do?" Weeveston said lewdly. Tryphaenae looked away from Weeveston as she turned to avoid his grope, so he could not see the look of distaste on her face. 
+"And what is the most you might do?" Weeveston said lewdly. Tryphaenae turned to avoid his grope, so he could not see the look of distaste on her face. 
 
 She removed herself to another couch and said, "Save you strength Weeveston."
 
@@ -3871,6 +3879,9 @@ Weeveston, with uncharacteristic courage, sat his ground.
 "Nephew, I am not glad to see you. Your debacle has torn me from pressing business in the West. I should think that it is enough that I am here to help you fix your problem and restore you to the function and station which your family has so graciously seen fit to appoint you. However, if you require a reminder of the warm embrace of family which is denied to you due to your own, obvious shortcomings, then I will tell you that your Aunt sends her best."
 
 Weeveston jumped and checked behind him for a highly skilled assassin. Finding himself not murdered, he rose and said, "Yes, yes. Posthaste Uncle, as you say."
+
+<br />
+<br />
 
 
 Within two days, they joined the main body of the Free Companions, an army-for-hire 20,000 strong. The men were open and easy with each other and authority. Their laughter and song on the march, provided a fine counterpoint to Uncle Torvalds and the detachment of Mercian BattleMages with him.
@@ -4073,7 +4084,7 @@ When Rattick followed the Chamberlain's gaze, he saw Boltac standing before the 
 
 "And how is I am not dead?"
 
-Boltac rolled his head to one side and squinted. "From the look of it, I'd say you're not dead because you've got a very thick skull. That, and I've got a proposition for you."
+Boltac rolled his head to one side and squinted. "From the look of it, I'd say you're not dead because you've got a very thick skull. That and I've got a proposition for you."
 
 "A proposition," Rattick said, getting to his feet.
 
@@ -4101,7 +4112,7 @@ Boltac rolled his head to one side and squinted. "From the look of it, I'd say y
 
 "King Boltac?" Rattick asked. 
 
-"What did I just tell you about the sarcasm. See Relan? Do you see what a wonderful, disloyal minister he makes? Now come here Rattick kneel so you can receive your badge of office."
+"What did I just tell you about the sarcasm? See Relan? Do you see what a wonderful, disloyal minister he makes? Now come here Rattick kneel so you can receive your badge of office."
 
 "You mean you are not going to have me killed? You really mean to do this? Appoint me as minister to your court?"
 
@@ -4182,8 +4193,4 @@ He walked over to the wooden throne and sat down on it heavily. "Ennh," he said,
 "If we have to build a new castle, I'm not sure I can afford things the way I want them."
 
 She kissed him on the cheek and said, "Don't be cheap. It's unbecoming of your station."
-
-
-
-
 
