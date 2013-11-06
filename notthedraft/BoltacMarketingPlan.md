@@ -1,4 +1,11 @@
+http://nerdquery.com/?
 
+Use time-based promotion on Amazon
+
+
+Use Alexa to search for blogs to pimp to
+
+Map to Princess Bride, Pratchett, Douglas Adams, Redshirts
 
 Consider Redshirts/Scalzi keyword tag strategy on goodreads
 
