@@ -1,3 +1,13 @@
+
+# Make it easy to share
+
+* Tweetable quotes from the book
+* Buttons to like and share
+
+
+http://boingboing.net/2013/11/05/a-conversation-with-terry-prat.html
+
+
 http://nerdquery.com/?
 
 Use time-based promotion on Amazon
