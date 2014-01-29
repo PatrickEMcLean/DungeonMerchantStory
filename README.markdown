@@ -1,4 +1,14 @@
-#The Merchant Adventurer (working title)
+# The Merchant Adventurer 
+
+THIS BOOK IS NOW COMPLETE.
+
+It is available in e-book, dead tree and audiobook format. 
+
+You can find out more at [http://patrickemclean.com/2014/merchantadventurer](http://patrickemclean.com/2014/merchantadventurer) And, for an explanation of how a manuscript wound up in a public github repo, read on.
+
+
+## Introduction 
+
 
 Instead of Powerful Barbarian vs. Evil Wizard, this is story Cunning Merchant vs. Evil Wizard. 
 
