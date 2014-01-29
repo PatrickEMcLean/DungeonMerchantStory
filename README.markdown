@@ -1,5 +1,7 @@
 # The Merchant Adventurer 
 
+![](http://www.patrickemclean.com/images/boltaccover.jpg)
+
 THIS BOOK IS NOW COMPLETE.
 
 It is available in e-book, dead tree and audiobook format. 
