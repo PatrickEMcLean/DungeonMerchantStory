@@ -5,7 +5,7 @@
 
 "I am the Chosen One. Only I can bring peace and restore balance to the land," said the blonde Knight in Shining™ Armor.
 
-"You still don't understand," said the Ranger, clad in mail. He hiked up his sleeve and showed the mark that was burned into his arm. "This symbol of the Cruel God Azaz signifies--"
+"You still don't understand," said the Ranger, Clad-In-Mail. He hiked up his sleeve and showed the mark that was burned into his arm. "This symbol of the Cruel God Azaz signifies--"
 
 "Azaz my Az-ass! That signifies your whore of a mother spilled bacon fat on you when you were a child."
 
